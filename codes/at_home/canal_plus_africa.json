@@ -1,0 +1,177 @@
+{
+    "name": "CANAL+ Africa",
+    "display_name": "CANAL+",
+    "manufacturer": "CANAL+",
+    "model": "",
+    "target": "TVSAT",
+    "ir": {
+        "device_address": "45A",
+        "protocol": "NEC",
+        "commands": [
+            {
+                "key": "Power",
+                "code": "12"
+            },
+            {
+                "key": "Account",
+                "code": "10"
+            },
+            {
+                "key": "Previous",
+                "code": "51"
+            },
+            {
+                "key": "Backward",
+                "code": "48"
+            },
+            {
+                "key": "Forward",
+                "code": "1C"
+            },
+            {
+                "key": "Next",
+                "code": "18"
+            },
+            {
+                "key": "Stop",
+                "code": "5D"
+            },
+            {
+                "key": "Pause",
+                "code": "54"
+            },
+            {
+                "key": "Unknown",
+                "code": "D"
+            },
+            {
+                "key": "Record",
+                "code": "19"
+            },
+            {
+                "key": "Red",
+                "code": "46"
+            },
+            {
+                "key": "Green",
+                "code": "42"
+            },
+            {
+                "key": "Yellow",
+                "code": "56"
+            },
+            {
+                "key": "Blue",
+                "code": "5A"
+            },
+            {
+                "key": "List",
+                "code": "16"
+            },
+            {
+                "key": "Up",
+                "code": "1B"
+            },
+            {
+                "key": "Info",
+                "code": "15"
+            },
+            {
+                "key": "Left",
+                "code": "1E"
+            },
+            {
+                "key": "OK",
+                "code": "5B"
+            },
+            {
+                "key": "Right",
+                "code": "1A"
+            },
+            {
+                "key": "Back",
+                "code": "11"
+            },
+            {
+                "key": "Down",
+                "code": "1F"
+            },
+            {
+                "key": "Exit",
+                "code": "40"
+            },
+            {
+                "key": "V+",
+                "code": "13"
+            },
+            {
+                "key": "Menu",
+                "code": "49"
+            },
+            {
+                "key": "P+",
+                "code": "4B"
+            },
+            {
+                "key": "V-",
+                "code": "14"
+            },
+            {
+                "key": "Mute",
+                "code": "47"
+            },
+            {
+                "key": "P-",
+                "code": "4A"
+            },
+            {
+                "key": "1",
+                "code": "1"
+            },
+            {
+                "key": "2",
+                "code": "2"
+            },
+            {
+                "key": "3",
+                "code": "3"
+            },
+            {
+                "key": "4",
+                "code": "4"
+            },
+            {
+                "key": "5",
+                "code": "5"
+            },
+            {
+                "key": "6",
+                "code": "6"
+            },
+            {
+                "key": "7",
+                "code": "7"
+            },
+            {
+                "key": "8",
+                "code": "8"
+            },
+            {
+                "key": "9",
+                "code": "9"
+            },
+            {
+                "key": "Favourite",
+                "code": "41"
+            },
+            {
+                "key": "0",
+                "code": "0"
+            },
+            {
+                "key": "Lock",
+                "code": "17"
+            }
+        ]
+    }
+}
