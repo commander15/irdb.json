@@ -1,0 +1,53 @@
+{
+    "display_name": "Kenwood Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DOLBY PRO LOGIC"
+            },
+            {
+                "address": "4",
+                "name": "PRESENCE LEVEL V"
+            },
+            {
+                "address": "5",
+                "name": "PRESENCE LEVEL ^"
+            },
+            {
+                "address": "e",
+                "name": "DOLBY 3 STEREO"
+            },
+            {
+                "address": "85",
+                "name": "DSP LOGIC"
+            },
+            {
+                "address": "8f",
+                "name": "VISUAL FIX"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL LEVEL V"
+            },
+            {
+                "address": "9f",
+                "name": "CHANNEL LEVEL ^"
+            },
+            {
+                "address": "c2",
+                "name": "THX CINEMA"
+            },
+            {
+                "address": "c3",
+                "name": "MONO"
+            }
+        ],
+        "device_address": "170",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

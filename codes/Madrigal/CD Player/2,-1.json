@@ -1,0 +1,73 @@
+{
+    "display_name": "Madrigal CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "27",
+                "name": "DIGITAL MODE"
+            },
+            {
+                "address": "28",
+                "name": "ANALOG MODE"
+            },
+            {
+                "address": "29",
+                "name": "CLOSE LID"
+            },
+            {
+                "address": "2a",
+                "name": "OPEN LID"
+            },
+            {
+                "address": "2e",
+                "name": "INDEX OFF"
+            },
+            {
+                "address": "2f",
+                "name": "INDEX ON"
+            },
+            {
+                "address": "30",
+                "name": "REPEAT OFF"
+            },
+            {
+                "address": "31",
+                "name": "PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "UNPAUSE"
+            },
+            {
+                "address": "33",
+                "name": "DISPLAY MEDIUM"
+            },
+            {
+                "address": "34",
+                "name": "DISPLAY OFF"
+            },
+            {
+                "address": "35",
+                "name": "STOP; NO LID"
+            },
+            {
+                "address": "36",
+                "name": "STANDBY"
+            },
+            {
+                "address": "37",
+                "name": "OPERATE"
+            },
+            {
+                "address": "38",
+                "name": "RANDOM PLAY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Madrigal",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

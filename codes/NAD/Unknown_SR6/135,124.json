@@ -1,0 +1,257 @@
+{
+    "display_name": "NAD Unknown_SR6",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "cd-play"
+            },
+            {
+                "address": "2",
+                "name": "cd-stop"
+            },
+            {
+                "address": "4",
+                "name": "cd-scan-rev"
+            },
+            {
+                "address": "5",
+                "name": "cd-prev"
+            },
+            {
+                "address": "6",
+                "name": "cd-next"
+            },
+            {
+                "address": "7",
+                "name": "cd-scan-fwd"
+            },
+            {
+                "address": "8",
+                "name": "disp-info"
+            },
+            {
+                "address": "8",
+                "name": "cd-disp-info"
+            },
+            {
+                "address": "a",
+                "name": "rpt"
+            },
+            {
+                "address": "a",
+                "name": "cd-rpt"
+            },
+            {
+                "address": "c",
+                "name": "cd-1"
+            },
+            {
+                "address": "d",
+                "name": "cd-2"
+            },
+            {
+                "address": "e",
+                "name": "cd-3"
+            },
+            {
+                "address": "f",
+                "name": "cd-4"
+            },
+            {
+                "address": "10",
+                "name": "cd-5"
+            },
+            {
+                "address": "11",
+                "name": "cd-6"
+            },
+            {
+                "address": "12",
+                "name": "cd-7"
+            },
+            {
+                "address": "13",
+                "name": "cd-8"
+            },
+            {
+                "address": "15",
+                "name": "cd-9"
+            },
+            {
+                "address": "16",
+                "name": "cd-0"
+            },
+            {
+                "address": "25",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "26",
+                "name": "tuner-disp-info"
+            },
+            {
+                "address": "35",
+                "name": "tuner-blend"
+            },
+            {
+                "address": "37",
+                "name": "tuner-fm-mute"
+            },
+            {
+                "address": "48",
+                "name": "cd-eject"
+            },
+            {
+                "address": "4a",
+                "name": "cd-pause"
+            },
+            {
+                "address": "4c",
+                "name": "cd-10"
+            },
+            {
+                "address": "4d",
+                "name": "cd-+10"
+            },
+            {
+                "address": "85",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "88",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "89",
+                "name": "disc"
+            },
+            {
+                "address": "8a",
+                "name": "tuner-1"
+            },
+            {
+                "address": "8b",
+                "name": "tuner-5"
+            },
+            {
+                "address": "8c",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "8d",
+                "name": "tape-mon"
+            },
+            {
+                "address": "8e",
+                "name": "tuner-2"
+            },
+            {
+                "address": "8f",
+                "name": "tuner-6"
+            },
+            {
+                "address": "91",
+                "name": "tape2"
+            },
+            {
+                "address": "92",
+                "name": "tuner-3"
+            },
+            {
+                "address": "93",
+                "name": "tuner-7"
+            },
+            {
+                "address": "94",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "96",
+                "name": "tuner-4"
+            },
+            {
+                "address": "97",
+                "name": "tuner-8"
+            },
+            {
+                "address": "98",
+                "name": "tuner-9"
+            },
+            {
+                "address": "9b",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "c0",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "c1",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "c2",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "c5",
+                "name": "tuner-enter"
+            },
+            {
+                "address": "c7",
+                "name": "tuner-0"
+            },
+            {
+                "address": "c8",
+                "name": "off"
+            },
+            {
+                "address": "ce",
+                "name": "spk-a"
+            },
+            {
+                "address": "cf",
+                "name": "spk-b"
+            },
+            {
+                "address": "d1",
+                "name": "tuner-preset-down"
+            },
+            {
+                "address": "d2",
+                "name": "tuner-preset-up"
+            },
+            {
+                "address": "d3",
+                "name": "tuner-tune-left"
+            },
+            {
+                "address": "d4",
+                "name": "tuner-tune-right"
+            },
+            {
+                "address": "dd",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "dd",
+                "name": "tuner-am-fm-dab"
+            },
+            {
+                "address": "f2",
+                "name": "tuner-10"
+            },
+            {
+                "address": "f3",
+                "name": "tuner-+10"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Unknown_SR6"
+}

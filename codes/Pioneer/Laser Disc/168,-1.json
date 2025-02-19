@@ -1,0 +1,701 @@
+{
+    "display_name": "Pioneer Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "7",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "DIGITAL/ANALOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "AUTO DIGITAL/ANALOGU",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "D/A/CX",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "CX",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "SCAN >>",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "FRAME >>",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "SCAN >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SCAN <<",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "FRAME <<",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SCAN <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "CHAPTER/TIME",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "CHAPTER FRAME/TIME",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "CHP/FR-TM",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "CHP/TM",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "STOP",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "OPEN/CLOSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "EJECT",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "PAUSE",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "PAUSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "LAST MEMORY",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "OPEN/CLOSE",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "PICTURE CONTROL",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "V-DNR",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "EDIT",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "AUDIO D/A",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "AUDIO MODE",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "AUDIO MODE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "AUDIO MONITOR",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "+10",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "10+",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "10+",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "28",
+                "device_address": "0",
+                "name": "FORWARD",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "29",
+                "device_address": "0",
+                "name": "",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "2b",
+                "device_address": "0",
+                "name": "",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "2c",
+                "device_address": "0",
+                "name": "REVERSE",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "2d",
+                "device_address": "0",
+                "name": "",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "2f",
+                "device_address": "0",
+                "name": "",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "31",
+                "device_address": "0",
+                "name": "DISC 1",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "32",
+                "device_address": "0",
+                "name": "DISC 2",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "33",
+                "device_address": "0",
+                "name": "DISC 3",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "DISC 4",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "35",
+                "device_address": "0",
+                "name": "DISC 5",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "37",
+                "device_address": "0",
+                "name": "LEVEL CONTROL",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "SEARCH",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "43",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "43",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "REPEAT",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "REPEAT B",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "CLEAR",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "CLEAR",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "C",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "STROBE MOTION <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "MULTI SPEED -",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "STROBE MOTION >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "MULTI SPEED +",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "REPEAT A-B",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "REPEAT A",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "4c",
+                "device_address": "0",
+                "name": "PROGRAM",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "4c",
+                "device_address": "0",
+                "name": "PROGRAM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4c",
+                "device_address": "0",
+                "name": "PGM",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "4d",
+                "device_address": "0",
+                "name": "SIDE A",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4d",
+                "device_address": "0",
+                "name": "SIDE A",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "4e",
+                "device_address": "0",
+                "name": "SIDE B",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4e",
+                "device_address": "0",
+                "name": "SIDE B",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "STEP <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "FRAME <<",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "FRAME <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "STEP <<",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "51",
+                "device_address": "0",
+                "name": "INDEX SKIP >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "52",
+                "device_address": "0",
+                "name": "SKIP >>",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "52",
+                "device_address": "0",
+                "name": "SKIP >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "53",
+                "device_address": "0",
+                "name": "SKIP <<",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "53",
+                "device_address": "0",
+                "name": "SKIP <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "54",
+                "device_address": "0",
+                "name": "STEP >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "54",
+                "device_address": "0",
+                "name": "FRAME >>",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "54",
+                "device_address": "0",
+                "name": "FRAME >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "54",
+                "device_address": "0",
+                "name": "STEP >>",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "MULTI-SPEED <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "SLOW MOTION -",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "MULTI SPEED <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "MULTISPEED <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "56",
+                "device_address": "0",
+                "name": "LAST MEMORY",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "MULTI-SPEED >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "SLOW MOTION +",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "MULTI SPEED >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "MULTISPEED >",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "59",
+                "device_address": "0",
+                "name": "INDEX SKIP <",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5a",
+                "device_address": "0",
+                "name": "HILITE/INTRO",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5b",
+                "device_address": "0",
+                "name": "STILL WTIH SOUND",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5d",
+                "device_address": "0",
+                "name": "ONE-SHOT MEMORY",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5e",
+                "device_address": "0",
+                "name": "RANDOM",
+                "protocol": "Pioneer"
+            },
+            {
+                "address": "5e",
+                "device_address": "0",
+                "name": "PANDOM",
+                "protocol": "Pioneer"
+            }
+        ]
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

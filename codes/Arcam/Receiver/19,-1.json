@@ -1,0 +1,69 @@
+{
+    "display_name": "Arcam Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SAT"
+            },
+            {
+                "address": "2",
+                "name": "AV"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "4",
+                "name": "DVD"
+            },
+            {
+                "address": "5",
+                "name": "TAPE"
+            },
+            {
+                "address": "6",
+                "name": "VCR"
+            },
+            {
+                "address": "7",
+                "name": "CD"
+            },
+            {
+                "address": "8",
+                "name": "PVR/AUX"
+            },
+            {
+                "address": "9",
+                "name": "DVD-A"
+            },
+            {
+                "address": "d",
+                "name": "MUTE-TOGGLE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2f",
+                "name": "ZONE 2 ON"
+            },
+            {
+                "address": "30",
+                "name": "ZONE 2 OFF"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

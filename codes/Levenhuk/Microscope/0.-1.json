@@ -1,0 +1,97 @@
+{
+    "display_name": "Levenhuk Microscope",
+    "ir": {
+        "commands": [
+            {
+                "address": "45",
+                "name": "Capture"
+            },
+            {
+                "address": "46",
+                "name": "Menu"
+            },
+            {
+                "address": "7",
+                "name": "Freeze"
+            },
+            {
+                "address": "47",
+                "name": "Mode"
+            },
+            {
+                "address": "9",
+                "name": "Zoom in"
+            },
+            {
+                "address": "40",
+                "name": "Brightness down"
+            },
+            {
+                "address": "43",
+                "name": "Brightness up"
+            },
+            {
+                "address": "44",
+                "name": "Ok"
+            },
+            {
+                "address": "15",
+                "name": "Zoom out"
+            },
+            {
+                "address": "19",
+                "name": "50/60Hz"
+            },
+            {
+                "address": "d",
+                "name": "Crosshair"
+            },
+            {
+                "address": "c",
+                "name": "Sharpness Down"
+            },
+            {
+                "address": "8",
+                "name": "Contrast Down"
+            },
+            {
+                "address": "42",
+                "name": "Inverse"
+            },
+            {
+                "address": "18",
+                "name": "Sharpness Up"
+            },
+            {
+                "address": "1c",
+                "name": "Contrast Up"
+            },
+            {
+                "address": "52",
+                "name": "Black and White"
+            },
+            {
+                "address": "5e",
+                "name": "(Un)Lock File"
+            },
+            {
+                "address": "5a",
+                "name": "NTL/PAL"
+            },
+            {
+                "address": "4a",
+                "name": "Defaults"
+            },
+            {
+                "address": "16",
+                "name": "Rotate Image"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Levenhuk",
+    "model": "",
+    "name": "",
+    "target": "Microscope"
+}

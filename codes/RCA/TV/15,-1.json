@@ -1,0 +1,437 @@
+{
+    "display_name": "RCA TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "device_address": "-80000000",
+                "name": "ANTENNA",
+                "protocol": "RCA"
+            },
+            {
+                "address": "5",
+                "device_address": "-80000000",
+                "name": "ANTENNA",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "CLEAR",
+                "protocol": "RCA"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "CLEAR",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "8",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "RCA"
+            },
+            {
+                "address": "8",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PIP FREEZE",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "12",
+                "device_address": "-80000000",
+                "name": "RESET",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "PIP MOVE",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "REC*VCR+",
+                "protocol": "RCA"
+            },
+            {
+                "address": "1a",
+                "device_address": "-80000000",
+                "name": "GUIDE",
+                "protocol": "RCA"
+            },
+            {
+                "address": "1b",
+                "device_address": "-80000000",
+                "name": "PIP ON/OFF",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "1b",
+                "device_address": "-80000000",
+                "name": "PIP ON / OFF",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "CHANNEL - PREVIOUS",
+                "protocol": "RCA"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "PREVIOUS CHANNEL",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2a",
+                "device_address": "-80000000",
+                "name": "POWER",
+                "protocol": "RCA"
+            },
+            {
+                "address": "2a",
+                "device_address": "-80000000",
+                "name": "POWER",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2c",
+                "device_address": "-80000000",
+                "name": "CHANNEL - DOWN",
+                "protocol": "RCA"
+            },
+            {
+                "address": "2c",
+                "device_address": "-80000000",
+                "name": "CHANNEL -",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2d",
+                "device_address": "-80000000",
+                "name": "CHANNEL - UP",
+                "protocol": "RCA"
+            },
+            {
+                "address": "2d",
+                "device_address": "-80000000",
+                "name": "CHANNEL +",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "VOLUME - DOWN",
+                "protocol": "RCA"
+            },
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2f",
+                "device_address": "-80000000",
+                "name": "VOLUME - UP",
+                "protocol": "RCA"
+            },
+            {
+                "address": "2f",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "30",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "RCA"
+            },
+            {
+                "address": "30",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "RCA"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "32",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "RCA"
+            },
+            {
+                "address": "32",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "RCA"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "34",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "RCA"
+            },
+            {
+                "address": "34",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "RCA"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "RCA"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "RCA"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "RCA"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "39",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "RCA"
+            },
+            {
+                "address": "39",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "3a",
+                "device_address": "-80000000",
+                "name": "POWER ON",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "3a",
+                "device_address": "-80000000",
+                "name": "POWER ON",
+                "protocol": "RCA"
+            },
+            {
+                "address": "3b",
+                "device_address": "-80000000",
+                "name": "POWER OFF",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "3b",
+                "device_address": "-80000000",
+                "name": "POWER OFF",
+                "protocol": "RCA"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "INFO",
+                "protocol": "RCA"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "DISPLAY",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "VOLUME - MUTE",
+                "protocol": "RCA"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "53",
+                "device_address": "-80000000",
+                "name": "SKIP",
+                "protocol": "RCA"
+            },
+            {
+                "address": "53",
+                "device_address": "-80000000",
+                "name": "SKIP",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "53",
+                "device_address": "-80000000",
+                "name": "COMMERCIAL SKIP",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "56",
+                "device_address": "-80000000",
+                "name": "CURSOR - LEFT",
+                "protocol": "RCA"
+            },
+            {
+                "address": "57",
+                "device_address": "-80000000",
+                "name": "CURSOR - RIGHT",
+                "protocol": "RCA"
+            },
+            {
+                "address": "58",
+                "device_address": "-80000000",
+                "name": "CURSOR - DOWN",
+                "protocol": "RCA"
+            },
+            {
+                "address": "59",
+                "device_address": "-80000000",
+                "name": "CURSOR - UP",
+                "protocol": "RCA"
+            },
+            {
+                "address": "5a",
+                "device_address": "-80000000",
+                "name": "SOUND",
+                "protocol": "RCA"
+            },
+            {
+                "address": "5a",
+                "device_address": "-80000000",
+                "name": "SRS",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "64",
+                "device_address": "-80000000",
+                "name": "-",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "65",
+                "device_address": "-80000000",
+                "name": "+",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "a3",
+                "device_address": "-80000000",
+                "name": "INPUT SOURCE",
+                "protocol": "RCA"
+            },
+            {
+                "address": "a3",
+                "device_address": "-80000000",
+                "name": "INPUT",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "c3",
+                "device_address": "-80000000",
+                "name": "SWAP",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "c3",
+                "device_address": "-80000000",
+                "name": "PIP SWAP",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "e5",
+                "device_address": "-80000000",
+                "name": "CHANNEL CONTROL",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "f4",
+                "device_address": "-80000000",
+                "name": "CURSOR - ENTER",
+                "protocol": "RCA"
+            }
+        ]
+    },
+    "manufacturer": "RCA",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

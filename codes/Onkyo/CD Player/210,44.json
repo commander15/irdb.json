@@ -1,0 +1,389 @@
+{
+    "display_name": "Onkyo CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "d2000",
+                "name": "CD FAST FWD >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "0",
+                "device_address": "d2000",
+                "name": "CD SCAN >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "0",
+                "device_address": "d2000",
+                "name": "CD SEARCH >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "d2000",
+                "name": "CD FAST REV <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "d2000",
+                "name": "CD SCAN <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "d2000",
+                "name": "CD SEARCH <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "d2000",
+                "name": "CD VOL +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "d2000",
+                "name": "CD VOLUME ^",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "d2000",
+                "name": "CD VOL -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "d2000",
+                "name": "CD VOLUME V",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "d2000",
+                "name": "CD REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "d2000",
+                "name": "CD A-B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "d2000",
+                "name": "CD CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "d2000",
+                "name": "CD MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "d2000",
+                "name": "CD DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "d2000",
+                "name": "CD LAP/MEM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "d2000",
+                "name": "CD OPEN/CLOSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "d2000",
+                "name": "CD EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "d2000",
+                "name": "CD 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "d2000",
+                "name": "CD 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "d2000",
+                "name": "CD 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "d2000",
+                "name": "CD +10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "d2000",
+                "name": "CD 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "d2000",
+                "name": "CD 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "d2000",
+                "name": "CD 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "d2000",
+                "name": "CD 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "d2000",
+                "name": "CD 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "d2000",
+                "name": "CD 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "d2000",
+                "name": "CD 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "d2000",
+                "name": "CD PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "d2000",
+                "name": "CD STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "d2000",
+                "name": "CD SKIP >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "d2000",
+                "name": "CD SKIP FF >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "d2000",
+                "name": "CD SKIP FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "d2000",
+                "name": "CD SKIP <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "d2000",
+                "name": "CD SKIP REV <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "d2000",
+                "name": "CD PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "d2000",
+                "name": "CD EDIT >",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "42",
+                "device_address": "d2000",
+                "name": "CD EDIT ->",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "43",
+                "device_address": "d2000",
+                "name": "CD EDIT <",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "43",
+                "device_address": "d2000",
+                "name": "CD EDIT <-",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "44",
+                "device_address": "d2000",
+                "name": "CD INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "d2000",
+                "name": "CD INTRO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "d2000",
+                "name": "CD SHUFFLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "d2000",
+                "name": "CD RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "d2000",
+                "name": "CD AUTO SPACE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "d2000",
+                "name": "CD TIME EDIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "d2000",
+                "name": "CD MEMORY SHIFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "d2000",
+                "name": "CD 10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "d2000",
+                "name": "CD 11",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "d2000",
+                "name": "CD 12",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "d2000",
+                "name": "CD 13",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "d2000",
+                "name": "CD 14",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "d2000",
+                "name": "CD 15",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "d2000",
+                "name": "CD 16",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "d2000",
+                "name": "CD 17",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "d2000",
+                "name": "CD 18",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "d2000",
+                "name": "CD 19",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "d2000",
+                "name": "CD DISC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5b",
+                "device_address": "d2000",
+                "name": "CD TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "d2000",
+                "name": "CD DISC SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "d2000",
+                "name": "CD PEAK SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "d2000",
+                "name": "CD DISC SKIP -",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Onkyo",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

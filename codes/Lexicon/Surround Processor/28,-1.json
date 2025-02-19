@@ -1,0 +1,317 @@
+{
+    "display_name": "Lexicon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "BALANCE FRONT"
+            },
+            {
+                "address": "42",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "43",
+                "name": "REAR DELAY +"
+            },
+            {
+                "address": "44",
+                "name": "PARAM +"
+            },
+            {
+                "address": "45",
+                "name": "BALANCE REAR"
+            },
+            {
+                "address": "46",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "47",
+                "name": "REAR DELAY -"
+            },
+            {
+                "address": "48",
+                "name": "PARAM -"
+            },
+            {
+                "address": "4c",
+                "name": "MONO LOGIC"
+            },
+            {
+                "address": "50",
+                "name": "MUSIC LOGIC"
+            },
+            {
+                "address": "54",
+                "name": "DOLBY PRO-LOGIC"
+            },
+            {
+                "address": "55",
+                "name": "MUTE MAIN"
+            },
+            {
+                "address": "56",
+                "name": "MUTE SURROUND"
+            },
+            {
+                "address": "57",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "58",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "83",
+                "name": "SETUP"
+            },
+            {
+                "address": "84",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "87",
+                "name": "STORE"
+            },
+            {
+                "address": "88",
+                "name": "ON/OFF-SIMPLE REMOTE"
+            },
+            {
+                "address": "89",
+                "name": "PANORAMA NORMAL 1"
+            },
+            {
+                "address": "8a",
+                "name": "PANORAMA WIDE 2"
+            },
+            {
+                "address": "8b",
+                "name": "PANORAMA BINAURAL 3"
+            },
+            {
+                "address": "8c",
+                "name": "BANK"
+            },
+            {
+                "address": "8d",
+                "name": "AMBIENCE SMALL 4"
+            },
+            {
+                "address": "8e",
+                "name": "AMBIENCE MEDIUM 5"
+            },
+            {
+                "address": "8f",
+                "name": "AMBIENCE LARGE 6"
+            },
+            {
+                "address": "90",
+                "name": "PARAM"
+            },
+            {
+                "address": "91",
+                "name": "REVERB SMALL 7"
+            },
+            {
+                "address": "92",
+                "name": "REVERB MEDIUM 8"
+            },
+            {
+                "address": "93",
+                "name": "REVERB LARGE 9"
+            },
+            {
+                "address": "94",
+                "name": "PARAM +"
+            },
+            {
+                "address": "95",
+                "name": "SURROUND TV 10"
+            },
+            {
+                "address": "96",
+                "name": "SURROUND MUSIC 11"
+            },
+            {
+                "address": "97",
+                "name": "SURROUND FULL 12"
+            },
+            {
+                "address": "98",
+                "name": "PARAM -"
+            },
+            {
+                "address": "99",
+                "name": "SURROUND MONO 13"
+            },
+            {
+                "address": "9a",
+                "name": "SURROUND DOLBY 14"
+            },
+            {
+                "address": "9b",
+                "name": "SURROUND THX 15"
+            },
+            {
+                "address": "9e",
+                "name": "BALANCE FRONT"
+            },
+            {
+                "address": "a1",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "a3",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "a6",
+                "name": "BALANCE REAR"
+            },
+            {
+                "address": "a9",
+                "name": "EFFECT -"
+            },
+            {
+                "address": "aa",
+                "name": "EFFECT +"
+            },
+            {
+                "address": "ab",
+                "name": "MUTE EFFECT"
+            },
+            {
+                "address": "ac",
+                "name": "MUTE MAIN"
+            },
+            {
+                "address": "ad",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "ae",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "af",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "b0",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "c2",
+                "name": "PANORAMA NORMAL 1"
+            },
+            {
+                "address": "c3",
+                "name": "PANORAMA WIDE 2"
+            },
+            {
+                "address": "c4",
+                "name": "PANORAMA BINAURAL 3"
+            },
+            {
+                "address": "c5",
+                "name": "BANK"
+            },
+            {
+                "address": "c6",
+                "name": "AMBIENCE SMALL 4"
+            },
+            {
+                "address": "c7",
+                "name": "AMBIENCE MEDIUM 5"
+            },
+            {
+                "address": "c8",
+                "name": "AMBIENCE LARGE 6"
+            },
+            {
+                "address": "c9",
+                "name": "PARAM"
+            },
+            {
+                "address": "ca",
+                "name": "REVERB SMALL 7"
+            },
+            {
+                "address": "cb",
+                "name": "REVERB MEDIUM 8"
+            },
+            {
+                "address": "cc",
+                "name": "REVERB LARGE 9"
+            },
+            {
+                "address": "cd",
+                "name": "PARAM +"
+            },
+            {
+                "address": "d0",
+                "name": "MUTE EFFECT"
+            },
+            {
+                "address": "d2",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "d3",
+                "name": "EFFECT -"
+            },
+            {
+                "address": "d4",
+                "name": "BALANCE REAR"
+            },
+            {
+                "address": "d5",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "d7",
+                "name": "PARAM -"
+            },
+            {
+                "address": "d8",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d9",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "da",
+                "name": "BALANCE FRONT"
+            },
+            {
+                "address": "db",
+                "name": "EFFECT +"
+            },
+            {
+                "address": "dc",
+                "name": "SURROUND MONO 10"
+            },
+            {
+                "address": "dd",
+                "name": "SURROUND STEREO 11"
+            },
+            {
+                "address": "de",
+                "name": "SURROUND DOLBY 12"
+            },
+            {
+                "address": "e1",
+                "name": "MUTE SYTEM"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Lexicon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

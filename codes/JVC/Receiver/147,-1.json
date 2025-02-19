@@ -1,0 +1,169 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "53",
+                "name": "DAT STOP []"
+            },
+            {
+                "address": "56",
+                "name": "DAT FF >>"
+            },
+            {
+                "address": "56",
+                "name": "DAT FFWD >>"
+            },
+            {
+                "address": "57",
+                "name": "DAT REW <<"
+            },
+            {
+                "address": "5c",
+                "name": "DAT PLAY >"
+            },
+            {
+                "address": "5d",
+                "name": "DAT PAUSE/STILL "
+            },
+            {
+                "address": "5d",
+                "name": "DAT PAUSE "
+            },
+            {
+                "address": "68",
+                "name": "DAT AUTO SEARCH <<"
+            },
+            {
+                "address": "68",
+                "name": "DAT SEARCH <<"
+            },
+            {
+                "address": "69",
+                "name": "DAT AUTO SEARCH >>"
+            },
+            {
+                "address": "69",
+                "name": "DAT SEARCH >>"
+            },
+            {
+                "address": "70",
+                "name": "DAT 10KEY 0"
+            },
+            {
+                "address": "70",
+                "name": "DAT 0"
+            },
+            {
+                "address": "71",
+                "name": "DAT 10KEY 1"
+            },
+            {
+                "address": "71",
+                "name": "DAT 1"
+            },
+            {
+                "address": "72",
+                "name": "DAT 10KEY 2"
+            },
+            {
+                "address": "72",
+                "name": "DAT 2"
+            },
+            {
+                "address": "73",
+                "name": "DAT 10KEY 3"
+            },
+            {
+                "address": "73",
+                "name": "DAT 3"
+            },
+            {
+                "address": "74",
+                "name": "DAT 10KEY 4"
+            },
+            {
+                "address": "74",
+                "name": "DAT 4"
+            },
+            {
+                "address": "75",
+                "name": "DAT 10KEY 5"
+            },
+            {
+                "address": "75",
+                "name": "DAT 5"
+            },
+            {
+                "address": "76",
+                "name": "DAT 10KEY 6"
+            },
+            {
+                "address": "76",
+                "name": "DAT 6"
+            },
+            {
+                "address": "77",
+                "name": "DAT 10KEY 7/P"
+            },
+            {
+                "address": "77",
+                "name": "DAT 7/P"
+            },
+            {
+                "address": "77",
+                "name": "DAT 7"
+            },
+            {
+                "address": "78",
+                "name": "DAT 10KEY 8"
+            },
+            {
+                "address": "78",
+                "name": "DAT 8"
+            },
+            {
+                "address": "79",
+                "name": "DAT 10KEY 9"
+            },
+            {
+                "address": "79",
+                "name": "DAT 9"
+            },
+            {
+                "address": "7e",
+                "name": "DAT 10KEY 10"
+            },
+            {
+                "address": "7e",
+                "name": "DAT 10 CONTINUE"
+            },
+            {
+                "address": "7e",
+                "name": "DAT 10"
+            },
+            {
+                "address": "7f",
+                "name": "DAT 10KEY +10"
+            },
+            {
+                "address": "7f",
+                "name": "DAT +10"
+            },
+            {
+                "address": "8c",
+                "name": "DAT REC/PLAY"
+            },
+            {
+                "address": "8d",
+                "name": "DAT REC/PAUSE/STILL"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

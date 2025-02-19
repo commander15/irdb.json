@@ -1,0 +1,233 @@
+{
+    "display_name": "Yamaha DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "85",
+                "name": "STOP"
+            },
+            {
+                "address": "86",
+                "name": "<<"
+            },
+            {
+                "address": "86",
+                "name": "REWIND"
+            },
+            {
+                "address": "87",
+                "name": ">>"
+            },
+            {
+                "address": "87",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "93",
+                "name": "0"
+            },
+            {
+                "address": "93",
+                "name": "REC 0"
+            },
+            {
+                "address": "94",
+                "name": "1"
+            },
+            {
+                "address": "94",
+                "name": "REC 1"
+            },
+            {
+                "address": "95",
+                "name": "2"
+            },
+            {
+                "address": "95",
+                "name": "AUDIO"
+            },
+            {
+                "address": "95",
+                "name": "REC 2"
+            },
+            {
+                "address": "96",
+                "name": "3"
+            },
+            {
+                "address": "96",
+                "name": "ANGLE"
+            },
+            {
+                "address": "96",
+                "name": "REC 3"
+            },
+            {
+                "address": "97",
+                "name": "4"
+            },
+            {
+                "address": "97",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "97",
+                "name": "REC 4"
+            },
+            {
+                "address": "98",
+                "name": "5"
+            },
+            {
+                "address": "98",
+                "name": "REC 5"
+            },
+            {
+                "address": "99",
+                "name": "6"
+            },
+            {
+                "address": "99",
+                "name": "REC 6"
+            },
+            {
+                "address": "9a",
+                "name": "7"
+            },
+            {
+                "address": "9a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "9a",
+                "name": "REC 7"
+            },
+            {
+                "address": "9b",
+                "name": "8"
+            },
+            {
+                "address": "9b",
+                "name": "A-B"
+            },
+            {
+                "address": "9b",
+                "name": "REC 8"
+            },
+            {
+                "address": "9c",
+                "name": "9"
+            },
+            {
+                "address": "9c",
+                "name": "REC 9"
+            },
+            {
+                "address": "a3",
+                "name": "REPEAT"
+            },
+            {
+                "address": "a6",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "a7",
+                "name": "STATUS"
+            },
+            {
+                "address": "aa",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "ad",
+                "name": "AUDIO"
+            },
+            {
+                "address": "ae",
+                "name": "ANGLE"
+            },
+            {
+                "address": "b2",
+                "name": "MENU"
+            },
+            {
+                "address": "b3",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "b4",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "b4",
+                "name": "MENU UP"
+            },
+            {
+                "address": "b5",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "b5",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "b6",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "b6",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "b7",
+                "name": "RETURN"
+            },
+            {
+                "address": "b8",
+                "name": "ENTER"
+            },
+            {
+                "address": "b9",
+                "name": "<<"
+            },
+            {
+                "address": "b9",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "ba",
+                "name": ">>"
+            },
+            {
+                "address": "ba",
+                "name": "NEXT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVR"
+}

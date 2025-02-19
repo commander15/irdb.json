@@ -1,0 +1,57 @@
+{
+    "display_name": "Panasonic VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "2",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "3",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "RECORD"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "c",
+                "name": "STILL ADVANCE"
+            },
+            {
+                "address": "f",
+                "name": "SLOW"
+            },
+            {
+                "address": "20",
+                "name": "POWER"
+            },
+            {
+                "address": "2e",
+                "name": "SLOW +"
+            },
+            {
+                "address": "2f",
+                "name": "SLOW -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Panasonic_Old"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,173 @@
+{
+    "display_name": "Uniden Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "SKEW"
+            },
+            {
+                "address": "a",
+                "name": "VIDEO"
+            },
+            {
+                "address": "b",
+                "name": "AUDIO"
+            },
+            {
+                "address": "c",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "3-F"
+            },
+            {
+                "address": "e",
+                "name": "2-T"
+            },
+            {
+                "address": "f",
+                "name": "1-G"
+            },
+            {
+                "address": "10",
+                "name": "POLARITY"
+            },
+            {
+                "address": "11",
+                "name": "SET UP"
+            },
+            {
+                "address": "12",
+                "name": "TEXT"
+            },
+            {
+                "address": "13",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "15",
+                "name": "WEST"
+            },
+            {
+                "address": "16",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "17",
+                "name": "EAST"
+            },
+            {
+                "address": "18",
+                "name": "HELP"
+            },
+            {
+                "address": "1a",
+                "name": "NEXT"
+            },
+            {
+                "address": "1c",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "20",
+                "name": "MESSAGE"
+            },
+            {
+                "address": "25",
+                "name": "MENU"
+            },
+            {
+                "address": "26",
+                "name": "0-B"
+            },
+            {
+                "address": "27",
+                "name": "CALL"
+            },
+            {
+                "address": "28",
+                "name": "POWER"
+            },
+            {
+                "address": "29",
+                "name": "FREEZE"
+            },
+            {
+                "address": "2a",
+                "name": "SCAN"
+            },
+            {
+                "address": "2b",
+                "name": "PIP"
+            },
+            {
+                "address": "2c",
+                "name": "VIEW"
+            },
+            {
+                "address": "2d",
+                "name": "9-K"
+            },
+            {
+                "address": "2e",
+                "name": "8-R"
+            },
+            {
+                "address": "2f",
+                "name": "7-S"
+            },
+            {
+                "address": "30",
+                "name": "REVIEW"
+            },
+            {
+                "address": "31",
+                "name": "TI/BW"
+            },
+            {
+                "address": "32",
+                "name": "C/KU"
+            },
+            {
+                "address": "33",
+                "name": "AUX"
+            },
+            {
+                "address": "34",
+                "name": "ENTER"
+            },
+            {
+                "address": "35",
+                "name": "6-C"
+            },
+            {
+                "address": "36",
+                "name": "5-W"
+            },
+            {
+                "address": "37",
+                "name": "4-D"
+            },
+            {
+                "address": "38",
+                "name": "SAT/TV"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Uniden",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

@@ -1,0 +1,169 @@
+{
+    "display_name": "Yamaha Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "STOP"
+            },
+            {
+                "address": "2",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "3",
+                "name": "SEARCH/SKIP >>"
+            },
+            {
+                "address": "4",
+                "name": "SEARCH/SKIP <<"
+            },
+            {
+                "address": "5",
+                "name": "DUBBING MODE"
+            },
+            {
+                "address": "6",
+                "name": "DUBBING START"
+            },
+            {
+                "address": "7",
+                "name": "RANDOM/B"
+            },
+            {
+                "address": "8",
+                "name": "DISC SKIP/E"
+            },
+            {
+                "address": "9",
+                "name": "MODE/D"
+            },
+            {
+                "address": "a",
+                "name": "TEXT/TIME"
+            },
+            {
+                "address": "b",
+                "name": "PROG/C"
+            },
+            {
+                "address": "c",
+                "name": "REP/A"
+            },
+            {
+                "address": "f",
+                "name": "POWER"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "+10"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET +"
+            },
+            {
+                "address": "1c",
+                "name": "PRESET -"
+            },
+            {
+                "address": "1d",
+                "name": "+100"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "41",
+                "name": "TAPE"
+            },
+            {
+                "address": "43",
+                "name": "TAPE DIRECTION"
+            },
+            {
+                "address": "46",
+                "name": "TAPE REC/PAUSE"
+            },
+            {
+                "address": "49",
+                "name": "AUX"
+            },
+            {
+                "address": "4a",
+                "name": "CD"
+            },
+            {
+                "address": "4b",
+                "name": "TUNER"
+            },
+            {
+                "address": "4e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "4f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "57",
+                "name": "MD"
+            },
+            {
+                "address": "58",
+                "name": "MD REC/PAUSE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

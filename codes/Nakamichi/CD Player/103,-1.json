@@ -1,0 +1,481 @@
+{
+    "display_name": "Nakamichi CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "F.FWD >>"
+            },
+            {
+                "address": "15",
+                "name": "REV <<"
+            },
+            {
+                "address": "16",
+                "name": "PAUSE "
+            },
+            {
+                "address": "17",
+                "name": "PLAY >"
+            },
+            {
+                "address": "18",
+                "name": "F.SKIP >"
+            },
+            {
+                "address": "19",
+                "name": "R.SKIP <"
+            },
+            {
+                "address": "1a",
+                "name": "STOP []"
+            },
+            {
+                "address": "80",
+                "name": "1 DISC NO."
+            },
+            {
+                "address": "80",
+                "name": "DISC NO 1"
+            },
+            {
+                "address": "80",
+                "name": "DISC 1"
+            },
+            {
+                "address": "81",
+                "name": "2 DISC NO."
+            },
+            {
+                "address": "81",
+                "name": "DISC NO 2"
+            },
+            {
+                "address": "81",
+                "name": "DISC 2"
+            },
+            {
+                "address": "82",
+                "name": "3 DISC NO."
+            },
+            {
+                "address": "82",
+                "name": "DISC NO 3"
+            },
+            {
+                "address": "82",
+                "name": "DISC 3"
+            },
+            {
+                "address": "83",
+                "name": "4 DISC NO."
+            },
+            {
+                "address": "83",
+                "name": "DISC NO 4"
+            },
+            {
+                "address": "83",
+                "name": "DISC 4"
+            },
+            {
+                "address": "84",
+                "name": "5 DISC NO."
+            },
+            {
+                "address": "84",
+                "name": "DISC NO 5"
+            },
+            {
+                "address": "84",
+                "name": "DISC 5"
+            },
+            {
+                "address": "85",
+                "name": "6 DISC NO."
+            },
+            {
+                "address": "85",
+                "name": "DISC NO 6"
+            },
+            {
+                "address": "86",
+                "name": "DISC NO 7"
+            },
+            {
+                "address": "8e",
+                "name": "T. DATA"
+            },
+            {
+                "address": "8e",
+                "name": "T.DATA"
+            },
+            {
+                "address": "8f",
+                "name": "DISC ^"
+            },
+            {
+                "address": "8f",
+                "name": "Z - DISC SKIP ( + )"
+            },
+            {
+                "address": "8f",
+                "name": "DISC"
+            },
+            {
+                "address": "90",
+                "name": "DISC V"
+            },
+            {
+                "address": "90",
+                "name": "Z - DISC SKIP ( - )"
+            },
+            {
+                "address": "93",
+                "name": "DISC SCAN"
+            },
+            {
+                "address": "93",
+                "name": "DISCSCAN"
+            },
+            {
+                "address": "9a",
+                "name": "SINGLE"
+            },
+            {
+                "address": "9b",
+                "name": "DELETE"
+            },
+            {
+                "address": "c0",
+                "name": "TIME"
+            },
+            {
+                "address": "c0",
+                "name": "TIME/T.EDIT"
+            },
+            {
+                "address": "c1",
+                "name": "REVERSE <<"
+            },
+            {
+                "address": "c1",
+                "name": "REW <<"
+            },
+            {
+                "address": "c1",
+                "name": "SEARCH REV <<"
+            },
+            {
+                "address": "c1",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "c1",
+                "name": "Z - FAST REWIND"
+            },
+            {
+                "address": "c2",
+                "name": "REVERSE SKIP <"
+            },
+            {
+                "address": "c2",
+                "name": "SKIP REV <"
+            },
+            {
+                "address": "c2",
+                "name": "SKIP REV <<"
+            },
+            {
+                "address": "c2",
+                "name": "SKIP << <"
+            },
+            {
+                "address": "c2",
+                "name": "SKIP <"
+            },
+            {
+                "address": "c2",
+                "name": "Z - TRACK ( - )"
+            },
+            {
+                "address": "c3",
+                "name": "MEMORY CLEAR"
+            },
+            {
+                "address": "c3",
+                "name": "MEM./DEL. CLEAR"
+            },
+            {
+                "address": "c3",
+                "name": "M. CLEAR"
+            },
+            {
+                "address": "c4",
+                "name": "REPEAT"
+            },
+            {
+                "address": "c5",
+                "name": "STOP []"
+            },
+            {
+                "address": "c5",
+                "name": "Z - STOP"
+            },
+            {
+                "address": "c6",
+                "name": "PLAY >"
+            },
+            {
+                "address": "c6",
+                "name": "Z - PLAY"
+            },
+            {
+                "address": "c7",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "c7",
+                "name": "FF >>"
+            },
+            {
+                "address": "c7",
+                "name": "SEARCH FWD >>"
+            },
+            {
+                "address": "c7",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "c7",
+                "name": "Z - FAST FORWARD"
+            },
+            {
+                "address": "c8",
+                "name": "FORWARD SKIP >"
+            },
+            {
+                "address": "c8",
+                "name": "SKIP FF >"
+            },
+            {
+                "address": "c8",
+                "name": "SKIP FWD >>"
+            },
+            {
+                "address": "c8",
+                "name": "SKIP > >>"
+            },
+            {
+                "address": "c8",
+                "name": "SKIP >"
+            },
+            {
+                "address": "c8",
+                "name": "Z - TRACK ( + )"
+            },
+            {
+                "address": "c9",
+                "name": "MEMORY"
+            },
+            {
+                "address": "ca",
+                "name": "CALL"
+            },
+            {
+                "address": "ca",
+                "name": "M. CALL"
+            },
+            {
+                "address": "cb",
+                "name": "PAUSE "
+            },
+            {
+                "address": "cb",
+                "name": "Z - PAUSE"
+            },
+            {
+                "address": "cc",
+                "name": "EJECT/LOAD"
+            },
+            {
+                "address": "cd",
+                "name": "CLEAR"
+            },
+            {
+                "address": "cd",
+                "name": "TRACK NO CLEAR"
+            },
+            {
+                "address": "cd",
+                "name": "CLEAR TRACK NO."
+            },
+            {
+                "address": "ce",
+                "name": "0"
+            },
+            {
+                "address": "ce",
+                "name": "0 TRACK NO."
+            },
+            {
+                "address": "ce",
+                "name": "TRACK NO 0"
+            },
+            {
+                "address": "cf",
+                "name": "1"
+            },
+            {
+                "address": "cf",
+                "name": "1 TRACK NO."
+            },
+            {
+                "address": "cf",
+                "name": "TRACK NO 1"
+            },
+            {
+                "address": "d0",
+                "name": "2"
+            },
+            {
+                "address": "d0",
+                "name": "2 TRACK NO."
+            },
+            {
+                "address": "d0",
+                "name": "TRACK NO 2"
+            },
+            {
+                "address": "d1",
+                "name": "3"
+            },
+            {
+                "address": "d1",
+                "name": "3 TRACK NO."
+            },
+            {
+                "address": "d1",
+                "name": "TRACK NO 3"
+            },
+            {
+                "address": "d2",
+                "name": "4"
+            },
+            {
+                "address": "d2",
+                "name": "4 TRACK NO."
+            },
+            {
+                "address": "d2",
+                "name": "TRACK NO 4"
+            },
+            {
+                "address": "d3",
+                "name": "5"
+            },
+            {
+                "address": "d3",
+                "name": "5 TRACK NO."
+            },
+            {
+                "address": "d3",
+                "name": "TRACK NO 5"
+            },
+            {
+                "address": "d4",
+                "name": "6"
+            },
+            {
+                "address": "d4",
+                "name": "6 TRACK NO."
+            },
+            {
+                "address": "d4",
+                "name": "TRACK NO 6"
+            },
+            {
+                "address": "d5",
+                "name": "7"
+            },
+            {
+                "address": "d5",
+                "name": "7 TRACK NO."
+            },
+            {
+                "address": "d5",
+                "name": "TRACK NO 7"
+            },
+            {
+                "address": "d6",
+                "name": "8"
+            },
+            {
+                "address": "d6",
+                "name": "8 TRACK NO."
+            },
+            {
+                "address": "d6",
+                "name": "TRACK NO 8"
+            },
+            {
+                "address": "d7",
+                "name": "9"
+            },
+            {
+                "address": "d7",
+                "name": "9 TRACK NO."
+            },
+            {
+                "address": "d7",
+                "name": "TRACK NO 9"
+            },
+            {
+                "address": "d8",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "d9",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "db",
+                "name": "RANDOM PLAY"
+            },
+            {
+                "address": "db",
+                "name": "RANDOM"
+            },
+            {
+                "address": "dc",
+                "name": "A.S.R."
+            },
+            {
+                "address": "dd",
+                "name": "SR/TE T.EDIT"
+            },
+            {
+                "address": "dd",
+                "name": "T.EDIT"
+            },
+            {
+                "address": "de",
+                "name": "SR/TE TEDIT/FADE"
+            },
+            {
+                "address": "df",
+                "name": "SR/TE RESET"
+            },
+            {
+                "address": "df",
+                "name": "RESET"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

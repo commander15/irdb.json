@@ -1,0 +1,25 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

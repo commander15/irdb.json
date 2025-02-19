@@ -1,0 +1,241 @@
+{
+    "display_name": "Yamaha DAT",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "POWER ON"
+            },
+            {
+                "address": "21",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "22",
+                "name": "PLAY"
+            },
+            {
+                "address": "23",
+                "name": "PAUSE"
+            },
+            {
+                "address": "25",
+                "name": "STOP"
+            },
+            {
+                "address": "31",
+                "name": "BROADCAST"
+            },
+            {
+                "address": "32",
+                "name": "RANDOM"
+            },
+            {
+                "address": "33",
+                "name": "REPEAT"
+            },
+            {
+                "address": "40",
+                "name": "ARTISTS"
+            },
+            {
+                "address": "41",
+                "name": "ALBUMS"
+            },
+            {
+                "address": "42",
+                "name": "GENRES"
+            },
+            {
+                "address": "43",
+                "name": "ALL SONGS"
+            },
+            {
+                "address": "44",
+                "name": "PLAYLIST"
+            },
+            {
+                "address": "45",
+                "name": "SONG STATISTICS"
+            },
+            {
+                "address": "46",
+                "name": "BOOKMARKS"
+            },
+            {
+                "address": "47",
+                "name": "CD"
+            },
+            {
+                "address": "48",
+                "name": "RECORDING"
+            },
+            {
+                "address": "49",
+                "name": "CLIENT PLAYBACK"
+            },
+            {
+                "address": "4b",
+                "name": "EXT INPUTS"
+            },
+            {
+                "address": "4e",
+                "name": "PLAY INFO"
+            },
+            {
+                "address": "50",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "54",
+                "name": "CURSOE LEFT"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "ENTER"
+            },
+            {
+                "address": "57",
+                "name": "BACK"
+            },
+            {
+                "address": "58",
+                "name": "SUB MENU"
+            },
+            {
+                "address": "59",
+                "name": "PAGE +"
+            },
+            {
+                "address": "5a",
+                "name": "PAGE -"
+            },
+            {
+                "address": "5f",
+                "name": "TIME"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "85",
+                "name": "STOP"
+            },
+            {
+                "address": "8a",
+                "name": "GROUP -"
+            },
+            {
+                "address": "8b",
+                "name": "GROUP +"
+            },
+            {
+                "address": "8c",
+                "name": "FAVORITES 1"
+            },
+            {
+                "address": "8d",
+                "name": "FAVORITES 2"
+            },
+            {
+                "address": "8e",
+                "name": "FAVORITES 3"
+            },
+            {
+                "address": "8f",
+                "name": "FAVORITES 4"
+            },
+            {
+                "address": "91",
+                "name": "BOOKMARK"
+            },
+            {
+                "address": "92",
+                "name": "RANDOM"
+            },
+            {
+                "address": "93",
+                "name": "REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "INPUT"
+            },
+            {
+                "address": "9d",
+                "name": "MUTE"
+            },
+            {
+                "address": "9e",
+                "name": "VOL -"
+            },
+            {
+                "address": "9f",
+                "name": "VOL +"
+            },
+            {
+                "address": "ae",
+                "name": "PLAY INFO"
+            },
+            {
+                "address": "b2",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b4",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "ENTER"
+            },
+            {
+                "address": "bd",
+                "name": "LIBRARY"
+            },
+            {
+                "address": "be",
+                "name": "OFF TIMER"
+            },
+            {
+                "address": "bf",
+                "name": "ON TIMER"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DAT"
+}

@@ -1,0 +1,125 @@
+{
+    "display_name": "RCA VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "6",
+                "name": "CLEAR"
+            },
+            {
+                "address": "8",
+                "name": "MENU"
+            },
+            {
+                "address": "a",
+                "name": "TRACKING -"
+            },
+            {
+                "address": "b",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "15",
+                "name": "PLAY"
+            },
+            {
+                "address": "17",
+                "name": "RECORD"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "1d",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "1f",
+                "name": "STOP"
+            },
+            {
+                "address": "20",
+                "name": "F. ADV"
+            },
+            {
+                "address": "30",
+                "name": "0"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "34",
+                "name": "4"
+            },
+            {
+                "address": "35",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": "6"
+            },
+            {
+                "address": "37",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "39",
+                "name": "9"
+            },
+            {
+                "address": "3a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3b",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3c",
+                "name": "INFO"
+            },
+            {
+                "address": "46",
+                "name": "SPEED"
+            },
+            {
+                "address": "47",
+                "name": "INPUT"
+            },
+            {
+                "address": "53",
+                "name": "SEARCH"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RCA"
+    },
+    "manufacturer": "RCA",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

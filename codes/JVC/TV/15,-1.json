@@ -1,0 +1,33 @@
+{
+    "display_name": "JVC TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "SELECT"
+            },
+            {
+                "address": "11",
+                "name": "MULTISCREEN SELECT"
+            },
+            {
+                "address": "17",
+                "name": "DIGITAL 2"
+            },
+            {
+                "address": "1b",
+                "name": "VIDEO 5"
+            },
+            {
+                "address": "7d",
+                "name": "GUIDE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

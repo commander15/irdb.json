@@ -1,0 +1,125 @@
+{
+    "display_name": "Magnavox DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "3"
+            },
+            {
+                "address": "d",
+                "name": "2"
+            },
+            {
+                "address": "e",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "THEME"
+            },
+            {
+                "address": "12",
+                "name": "ENTER"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "15",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "16",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "18",
+                "name": "PAGE"
+            },
+            {
+                "address": "1d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1e",
+                "name": "JUMP"
+            },
+            {
+                "address": "40",
+                "name": "TV/DSS"
+            },
+            {
+                "address": "41",
+                "name": "ALTERNATE AUDIO"
+            },
+            {
+                "address": "42",
+                "name": "GUIDE"
+            },
+            {
+                "address": "43",
+                "name": "FAVORITE"
+            },
+            {
+                "address": "44",
+                "name": "MENU"
+            },
+            {
+                "address": "45",
+                "name": "0"
+            },
+            {
+                "address": "47",
+                "name": "POWER"
+            },
+            {
+                "address": "49",
+                "name": "EXIT"
+            },
+            {
+                "address": "4c",
+                "name": "9"
+            },
+            {
+                "address": "4d",
+                "name": "8"
+            },
+            {
+                "address": "4e",
+                "name": "7"
+            },
+            {
+                "address": "53",
+                "name": "INFO"
+            },
+            {
+                "address": "54",
+                "name": "6"
+            },
+            {
+                "address": "55",
+                "name": "5"
+            },
+            {
+                "address": "56",
+                "name": "4"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Magnavox",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

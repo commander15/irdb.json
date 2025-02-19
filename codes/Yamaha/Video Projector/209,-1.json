@@ -1,0 +1,117 @@
+{
+    "display_name": "Yamaha Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "c2",
+                "name": "POWER"
+            },
+            {
+                "address": "c3",
+                "name": "AUTO"
+            },
+            {
+                "address": "c6",
+                "name": "HIDE"
+            },
+            {
+                "address": "c9",
+                "name": "PATTERN"
+            },
+            {
+                "address": "cc",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "cd",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "ce",
+                "name": "-"
+            },
+            {
+                "address": "cf",
+                "name": "+"
+            },
+            {
+                "address": "d0",
+                "name": "RETURN <--"
+            },
+            {
+                "address": "d3",
+                "name": "MENU"
+            },
+            {
+                "address": "d5",
+                "name": "ESCAPE"
+            },
+            {
+                "address": "d7",
+                "name": "PICTURE"
+            },
+            {
+                "address": "d8",
+                "name": "INPUT: S-VIDEO"
+            },
+            {
+                "address": "d9",
+                "name": "INPUT: VIDEO"
+            },
+            {
+                "address": "da",
+                "name": "INPUT: A (COMPNENT)"
+            },
+            {
+                "address": "db",
+                "name": "INPUT: B (DB-15)"
+            },
+            {
+                "address": "dc",
+                "name": "INPUT: DVI"
+            },
+            {
+                "address": "dd",
+                "name": "INPUT: D4"
+            },
+            {
+                "address": "df",
+                "name": "STILL"
+            },
+            {
+                "address": "e1",
+                "name": "MEMORY 1"
+            },
+            {
+                "address": "e2",
+                "name": "MEMORY 2"
+            },
+            {
+                "address": "e3",
+                "name": "MEMORY 3"
+            },
+            {
+                "address": "e4",
+                "name": "MEMORY 4"
+            },
+            {
+                "address": "e5",
+                "name": "MEMORY 5"
+            },
+            {
+                "address": "e6",
+                "name": "MEMORY 6"
+            },
+            {
+                "address": "ea",
+                "name": "ASPECT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

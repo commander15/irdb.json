@@ -1,0 +1,77 @@
+{
+    "display_name": "Krell Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "M2"
+            },
+            {
+                "address": "1",
+                "name": "DVD"
+            },
+            {
+                "address": "2",
+                "name": "LD"
+            },
+            {
+                "address": "3",
+                "name": "SAT"
+            },
+            {
+                "address": "4",
+                "name": "VCR"
+            },
+            {
+                "address": "5",
+                "name": "TV"
+            },
+            {
+                "address": "6",
+                "name": "CD"
+            },
+            {
+                "address": "7",
+                "name": "TUNER"
+            },
+            {
+                "address": "8",
+                "name": "AUX1"
+            },
+            {
+                "address": "9",
+                "name": "AUX2"
+            },
+            {
+                "address": "9",
+                "name": ""
+            },
+            {
+                "address": "a",
+                "name": "MAIN ZONE"
+            },
+            {
+                "address": "b",
+                "name": "ZONE 2"
+            },
+            {
+                "address": "c",
+                "name": "USER"
+            },
+            {
+                "address": "21",
+                "name": "THX"
+            },
+            {
+                "address": "23",
+                "name": "PRE1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

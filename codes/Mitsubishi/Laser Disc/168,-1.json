@@ -1,0 +1,405 @@
+{
+    "display_name": "Mitsubishi Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "c",
+                "name": "DIGITAL/ANALOG"
+            },
+            {
+                "address": "c",
+                "name": "DIGITAL/ANALOG/CX"
+            },
+            {
+                "address": "c",
+                "name": "DIGITAL"
+            },
+            {
+                "address": "d",
+                "name": "FILE"
+            },
+            {
+                "address": "e",
+                "name": "CX"
+            },
+            {
+                "address": "10",
+                "name": "FWD >>"
+            },
+            {
+                "address": "10",
+                "name": "FFWD>>"
+            },
+            {
+                "address": "11",
+                "name": "REV <<"
+            },
+            {
+                "address": "11",
+                "name": "REW<<"
+            },
+            {
+                "address": "13",
+                "name": "MENU"
+            },
+            {
+                "address": "13",
+                "name": "CHAPTER"
+            },
+            {
+                "address": "16",
+                "name": "STOP/OPEN []"
+            },
+            {
+                "address": "16",
+                "name": "STOP []"
+            },
+            {
+                "address": "16",
+                "name": "STOP/OPEN"
+            },
+            {
+                "address": "17",
+                "name": "PLAY >"
+            },
+            {
+                "address": "17",
+                "name": "PLAY>"
+            },
+            {
+                "address": "18",
+                "name": "PAUSE"
+            },
+            {
+                "address": "18",
+                "name": "PAUSE"
+            },
+            {
+                "address": "19",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "19",
+                "name": "LAST MEMORY"
+            },
+            {
+                "address": "1c",
+                "name": "POWER"
+            },
+            {
+                "address": "1d",
+                "name": "AUTO EDIT"
+            },
+            {
+                "address": "1e",
+                "name": "AUDIO MONITOR"
+            },
+            {
+                "address": "1e",
+                "name": "AUDIO D/A"
+            },
+            {
+                "address": "1e",
+                "name": "AUDIO"
+            },
+            {
+                "address": "1f",
+                "name": "+10"
+            },
+            {
+                "address": "20",
+                "name": "JOG FWD"
+            },
+            {
+                "address": "20",
+                "name": "JOG FWD >>"
+            },
+            {
+                "address": "24",
+                "name": "JOG REV"
+            },
+            {
+                "address": "24",
+                "name": "JOG REV <<"
+            },
+            {
+                "address": "28",
+                "name": "SCAN X2 FWD"
+            },
+            {
+                "address": "28",
+                "name": "SCAN FWD"
+            },
+            {
+                "address": "28",
+                "name": "SCAN FWD(CLEAR SCAN)"
+            },
+            {
+                "address": "28",
+                "name": "SCAN FWD(SLOW SP)"
+            },
+            {
+                "address": "29",
+                "name": ""
+            },
+            {
+                "address": "29",
+                "name": "SCAN FWD(LOW SCAN)"
+            },
+            {
+                "address": "29",
+                "name": "SCAN FWD(MED-SLOW)"
+            },
+            {
+                "address": "2a",
+                "name": "SCAN FWD(MED-HIGH)"
+            },
+            {
+                "address": "2b",
+                "name": ""
+            },
+            {
+                "address": "2b",
+                "name": "SCAN FWD(HIGH SCAN)"
+            },
+            {
+                "address": "2b",
+                "name": "SHUTTLE FWD(F.S)"
+            },
+            {
+                "address": "2b",
+                "name": "SHUTTLE FWD >>"
+            },
+            {
+                "address": "2b",
+                "name": "SCAN FWD(FULL SP)"
+            },
+            {
+                "address": "2c",
+                "name": "SCAN X2 REV"
+            },
+            {
+                "address": "2c",
+                "name": "SCAN REV(CLEAR SCAN)"
+            },
+            {
+                "address": "2c",
+                "name": "SCAN REV(SLOW SP)"
+            },
+            {
+                "address": "2d",
+                "name": ""
+            },
+            {
+                "address": "2d",
+                "name": "SCAN REV(LOW SCAN)"
+            },
+            {
+                "address": "2d",
+                "name": "SCAN REV(MED-SLOW)"
+            },
+            {
+                "address": "2e",
+                "name": "SCAN REV(MED-HIGH)"
+            },
+            {
+                "address": "2f",
+                "name": "SCAN REV(HIGH SCAN)"
+            },
+            {
+                "address": "2f",
+                "name": "SHUTTLE REV(F.S)"
+            },
+            {
+                "address": "2f",
+                "name": "SHUTTLE REW <<"
+            },
+            {
+                "address": "2f",
+                "name": "SCAN REV(FULL SP)"
+            },
+            {
+                "address": "37",
+                "name": "DIGITAL LEVEL"
+            },
+            {
+                "address": "37",
+                "name": "AUDIO COMPRESS"
+            },
+            {
+                "address": "42",
+                "name": "ENTER"
+            },
+            {
+                "address": "43",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "44",
+                "name": "REPEAT B"
+            },
+            {
+                "address": "44",
+                "name": "REPEAT A"
+            },
+            {
+                "address": "45",
+                "name": "C (CANCEL)"
+            },
+            {
+                "address": "45",
+                "name": "CANCEL"
+            },
+            {
+                "address": "46",
+                "name": "SEARCH -"
+            },
+            {
+                "address": "47",
+                "name": "SEARCH +"
+            },
+            {
+                "address": "48",
+                "name": "REPEAT A"
+            },
+            {
+                "address": "48",
+                "name": "REPEAT B"
+            },
+            {
+                "address": "4c",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "4d",
+                "name": "SIDE A"
+            },
+            {
+                "address": "4d",
+                "name": "DISC SIDE A"
+            },
+            {
+                "address": "4e",
+                "name": "SIDE B"
+            },
+            {
+                "address": "4e",
+                "name": "DISC SIDE B"
+            },
+            {
+                "address": "50",
+                "name": "FRAME <"
+            },
+            {
+                "address": "50",
+                "name": "STEP <"
+            },
+            {
+                "address": "52",
+                "name": "FS (FWD SRCH) >>"
+            },
+            {
+                "address": "52",
+                "name": "FS >>"
+            },
+            {
+                "address": "52",
+                "name": "SRCH FWD (FS)>>"
+            },
+            {
+                "address": "53",
+                "name": "RS (REV SRCH) <<"
+            },
+            {
+                "address": "53",
+                "name": "RS <<"
+            },
+            {
+                "address": "53",
+                "name": "SRCH REV (RS)<<"
+            },
+            {
+                "address": "54",
+                "name": "FRAME >"
+            },
+            {
+                "address": "54",
+                "name": "STEP >"
+            },
+            {
+                "address": "55",
+                "name": "SEARCH <"
+            },
+            {
+                "address": "58",
+                "name": "SEARCH >"
+            },
+            {
+                "address": "5a",
+                "name": "HILITE/INTRO SCAN"
+            },
+            {
+                "address": "5b",
+                "name": "STROBE"
+            },
+            {
+                "address": "5b",
+                "name": "STILL/W SOUND"
+            },
+            {
+                "address": "5d",
+                "name": "ONE SHOT MEMORY"
+            },
+            {
+                "address": "5e",
+                "name": "RANDOM"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

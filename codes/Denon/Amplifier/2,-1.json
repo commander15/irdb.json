@@ -1,0 +1,409 @@
+{
+    "display_name": "Denon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "PHONO"
+            },
+            {
+                "address": "42",
+                "name": "CD"
+            },
+            {
+                "address": "43",
+                "name": "TUNER"
+            },
+            {
+                "address": "44",
+                "name": "AUX/VIDEO-1"
+            },
+            {
+                "address": "45",
+                "name": "AUX/VIDEO-2"
+            },
+            {
+                "address": "4b",
+                "name": "MUTING"
+            },
+            {
+                "address": "4c",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "50",
+                "name": "POWER"
+            },
+            {
+                "address": "58",
+                "name": "TAPE MONITOR"
+            },
+            {
+                "address": "59",
+                "name": "TAPE-1/1>2"
+            },
+            {
+                "address": "5a",
+                "name": "TAPE-2/2>1"
+            },
+            {
+                "address": "81",
+                "name": "PHONO"
+            },
+            {
+                "address": "82",
+                "name": "CD"
+            },
+            {
+                "address": "83",
+                "name": "TUNER"
+            },
+            {
+                "address": "84",
+                "name": "AUX"
+            },
+            {
+                "address": "8b",
+                "name": "MUTING"
+            },
+            {
+                "address": "8c",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "8d",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "90",
+                "name": "AMP POWER"
+            },
+            {
+                "address": "91",
+                "name": "SOURCE DIRECT"
+            },
+            {
+                "address": "99",
+                "name": "TAPE-1"
+            },
+            {
+                "address": "9a",
+                "name": "TAPE-2"
+            },
+            {
+                "address": "ac",
+                "name": "SP-A"
+            },
+            {
+                "address": "ad",
+                "name": "SP-B"
+            },
+            {
+                "address": "c0",
+                "name": "SURR.AUT.BAL"
+            },
+            {
+                "address": "c1",
+                "name": "AMP POWER"
+            },
+            {
+                "address": "c1",
+                "name": "POWER"
+            },
+            {
+                "address": "c3",
+                "name": "AMP PHONO"
+            },
+            {
+                "address": "c4",
+                "name": "AMP CD"
+            },
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c5",
+                "name": "AMP TUNER"
+            },
+            {
+                "address": "c5",
+                "name": "TUNER"
+            },
+            {
+                "address": "c6",
+                "name": "AUX"
+            },
+            {
+                "address": "c8",
+                "name": "AMP DBS/BS"
+            },
+            {
+                "address": "c8",
+                "name": "DBS/BS"
+            },
+            {
+                "address": "c9",
+                "name": "TV"
+            },
+            {
+                "address": "ca",
+                "name": "AMP VDP"
+            },
+            {
+                "address": "ca",
+                "name": "VDP"
+            },
+            {
+                "address": "cc",
+                "name": "AMP V.AUX"
+            },
+            {
+                "address": "cc",
+                "name": "V.AUX"
+            },
+            {
+                "address": "cd",
+                "name": "AMP VCR-1"
+            },
+            {
+                "address": "cd",
+                "name": "VCR-1"
+            },
+            {
+                "address": "ce",
+                "name": "AMP VCR-2"
+            },
+            {
+                "address": "ce",
+                "name": "VCR-2"
+            },
+            {
+                "address": "d2",
+                "name": "AMP DAT/TAPE-1"
+            },
+            {
+                "address": "d2",
+                "name": "TAPE-1"
+            },
+            {
+                "address": "d3",
+                "name": "AMP DAT/TAPE-2"
+            },
+            {
+                "address": "d3",
+                "name": "DAT/TAPE-2"
+            },
+            {
+                "address": "d5",
+                "name": "AMP CINEMA"
+            },
+            {
+                "address": "d5",
+                "name": "CINEMA"
+            },
+            {
+                "address": "d8",
+                "name": "AMP VIDEO SELECT"
+            },
+            {
+                "address": "d8",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "d9",
+                "name": "AMP A.V.S.E"
+            },
+            {
+                "address": "d9",
+                "name": "A.V.S.E"
+            },
+            {
+                "address": "db",
+                "name": "AMP REC SELECT"
+            },
+            {
+                "address": "db",
+                "name": "AUDIO REC SELECT"
+            },
+            {
+                "address": "de",
+                "name": "AMP PANEL"
+            },
+            {
+                "address": "de",
+                "name": "PANEL"
+            },
+            {
+                "address": "df",
+                "name": "AMP SCREEN"
+            },
+            {
+                "address": "df",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "e4",
+                "name": "AMP CENTER MODE"
+            },
+            {
+                "address": "e4",
+                "name": "SURROUND CENTER"
+            },
+            {
+                "address": "e6",
+                "name": "AMP SURR.MODE"
+            },
+            {
+                "address": "e6",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "e7",
+                "name": "AMP BYPASS"
+            },
+            {
+                "address": "e8",
+                "name": "AMP DELAY V"
+            },
+            {
+                "address": "e8",
+                "name": "SURR.DELAY V"
+            },
+            {
+                "address": "e9",
+                "name": "AMP DELAY ^"
+            },
+            {
+                "address": "e9",
+                "name": "SURR.DELAY ^"
+            },
+            {
+                "address": "ea",
+                "name": "AMP T.TONE"
+            },
+            {
+                "address": "ea",
+                "name": "SURR./PARAM.T.TONE"
+            },
+            {
+                "address": "eb",
+                "name": "3CH LOGIC"
+            },
+            {
+                "address": "ec",
+                "name": "AMP CENTER"
+            },
+            {
+                "address": "ec",
+                "name": "OUTPUT CENTER"
+            },
+            {
+                "address": "ed",
+                "name": "AMP REAR"
+            },
+            {
+                "address": "ed",
+                "name": "OUTPUT REAR"
+            },
+            {
+                "address": "ee",
+                "name": "AMP SP-A"
+            },
+            {
+                "address": "ee",
+                "name": "OUTPUT FRONT"
+            },
+            {
+                "address": "ef",
+                "name": "AMP SP-B"
+            },
+            {
+                "address": "f0",
+                "name": "AMP MUTING"
+            },
+            {
+                "address": "f0",
+                "name": "MUTING"
+            },
+            {
+                "address": "f1",
+                "name": "AMP MASTER VOL ^"
+            },
+            {
+                "address": "f1",
+                "name": "MASTER ^"
+            },
+            {
+                "address": "f2",
+                "name": "AMP MASTER VOL V"
+            },
+            {
+                "address": "f2",
+                "name": "MASTER V"
+            },
+            {
+                "address": "f3",
+                "name": "AMP REAR ^"
+            },
+            {
+                "address": "f3",
+                "name": "SURR.REAR ^"
+            },
+            {
+                "address": "f4",
+                "name": "AMP REAR V"
+            },
+            {
+                "address": "f4",
+                "name": "SURR.REAR V"
+            },
+            {
+                "address": "f5",
+                "name": "AMP CENTER ^"
+            },
+            {
+                "address": "f5",
+                "name": "SURR.CENTER ^"
+            },
+            {
+                "address": "f6",
+                "name": "AMP CENTER V"
+            },
+            {
+                "address": "f6",
+                "name": "SURR.CENTER V"
+            },
+            {
+                "address": "f7",
+                "name": "AMP BALANCE <"
+            },
+            {
+                "address": "f7",
+                "name": "SURR.BAL <"
+            },
+            {
+                "address": "f8",
+                "name": "AMP BALANCE >"
+            },
+            {
+                "address": "f8",
+                "name": "SURR.BAL >"
+            },
+            {
+                "address": "ff",
+                "name": "AMP VDP DIRECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

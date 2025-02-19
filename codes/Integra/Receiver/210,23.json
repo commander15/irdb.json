@@ -1,0 +1,29 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "8a",
+                "name": "UNIVERSAL PORT"
+            },
+            {
+                "address": "9e",
+                "name": "USB"
+            },
+            {
+                "address": "da",
+                "name": "XM"
+            },
+            {
+                "address": "db",
+                "name": "SIRIUS"
+            }
+        ],
+        "device_address": "69000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

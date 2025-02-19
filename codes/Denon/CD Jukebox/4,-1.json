@@ -1,0 +1,41 @@
+{
+    "display_name": "Denon CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "REPEAT OFF"
+            },
+            {
+                "address": "fa",
+                "name": "MODE OFF"
+            },
+            {
+                "address": "fb",
+                "name": "CROSS FADE"
+            },
+            {
+                "address": "fc",
+                "name": "ALL DISCS"
+            },
+            {
+                "address": "fd",
+                "name": "1 DISC"
+            },
+            {
+                "address": "fe",
+                "name": "REPEAT 1"
+            },
+            {
+                "address": "ff",
+                "name": "BEST HIT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

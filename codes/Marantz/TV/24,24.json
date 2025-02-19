@@ -1,0 +1,101 @@
+{
+    "display_name": "Marantz TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "40",
+                "name": "HD 3"
+            },
+            {
+                "address": "41",
+                "name": "PIC MEMORY"
+            },
+            {
+                "address": "42",
+                "name": "CONTRAST"
+            },
+            {
+                "address": "43",
+                "name": "BRIGHT"
+            },
+            {
+                "address": "44",
+                "name": "PIC MODE"
+            },
+            {
+                "address": "45",
+                "name": "COLOR TEMP"
+            },
+            {
+                "address": "ad",
+                "name": "MODE: WIDE"
+            },
+            {
+                "address": "ad",
+                "name": "WIDE"
+            },
+            {
+                "address": "b0",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b1",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b2",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "b3",
+                "name": "CURSON RIGHT"
+            },
+            {
+                "address": "b4",
+                "name": "MENU"
+            },
+            {
+                "address": "b5",
+                "name": "OK"
+            },
+            {
+                "address": "c0",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c4",
+                "name": "ENTER"
+            },
+            {
+                "address": "ca",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "cb",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "dc",
+                "name": "HD 2"
+            },
+            {
+                "address": "eb",
+                "name": "HD 1"
+            }
+        ],
+        "device_address": "18000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

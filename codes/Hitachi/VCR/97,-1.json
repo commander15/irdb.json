@@ -1,0 +1,61 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "0",
+                "name": "VCR PROGRAM"
+            },
+            {
+                "address": "0",
+                "name": "VCR1 S.Q.P."
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "14",
+                "name": "VTR RECORD"
+            },
+            {
+                "address": "14",
+                "name": "REC"
+            },
+            {
+                "address": "14",
+                "name": "VCR1 RECORD"
+            },
+            {
+                "address": "14",
+                "name": "VCR1 REC"
+            },
+            {
+                "address": "14",
+                "name": "VCR REC"
+            },
+            {
+                "address": "14",
+                "name": "VCR1 REC-PLAY"
+            },
+            {
+                "address": "14",
+                "name": "VTR1 RECORD"
+            },
+            {
+                "address": "40",
+                "name": "PL"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

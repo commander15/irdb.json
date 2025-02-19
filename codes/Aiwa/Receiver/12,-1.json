@@ -1,0 +1,45 @@
+{
+    "display_name": "Aiwa Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "31",
+                "name": "DSL"
+            },
+            {
+                "address": "3f",
+                "name": "SURROUND ON/OFF"
+            },
+            {
+                "address": "46",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "77",
+                "name": "MODE"
+            },
+            {
+                "address": "78",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Aiwa",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

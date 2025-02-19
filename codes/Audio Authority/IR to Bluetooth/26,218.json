@@ -1,0 +1,109 @@
+{
+    "display_name": "Audio Authority IR to Bluetooth",
+    "ir": {
+        "commands": [
+            {
+                "address": "15",
+                "name": "PLAYSTATION"
+            },
+            {
+                "address": "16",
+                "name": "EJECT"
+            },
+            {
+                "address": "50",
+                "name": "SELECT"
+            },
+            {
+                "address": "51",
+                "name": "L3"
+            },
+            {
+                "address": "52",
+                "name": "R3"
+            },
+            {
+                "address": "53",
+                "name": "START"
+            },
+            {
+                "address": "58",
+                "name": "L2"
+            },
+            {
+                "address": "59",
+                "name": "R2"
+            },
+            {
+                "address": "5a",
+                "name": "L1"
+            },
+            {
+                "address": "5b",
+                "name": "R1"
+            },
+            {
+                "address": "5c",
+                "name": "TRIANGLE"
+            },
+            {
+                "address": "5d",
+                "name": "CIRCLE"
+            },
+            {
+                "address": "5e",
+                "name": "X"
+            },
+            {
+                "address": "5f",
+                "name": "SQUARE"
+            },
+            {
+                "address": "6b",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "6c",
+                "name": "MACRO 1"
+            },
+            {
+                "address": "6d",
+                "name": "MACRO 2"
+            },
+            {
+                "address": "6e",
+                "name": "MACRO 3"
+            },
+            {
+                "address": "6f",
+                "name": "MACRO 4"
+            },
+            {
+                "address": "70",
+                "name": "MACRO 5"
+            },
+            {
+                "address": "71",
+                "name": "MACRO 6"
+            },
+            {
+                "address": "72",
+                "name": "MACRO 7"
+            },
+            {
+                "address": "73",
+                "name": "MACRO 8"
+            },
+            {
+                "address": "74",
+                "name": "MACRO 9"
+            }
+        ],
+        "device_address": "68000000",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Audio Authority",
+    "model": "",
+    "name": "",
+    "target": "IR to Bluetooth"
+}

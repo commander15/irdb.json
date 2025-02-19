@@ -1,0 +1,61 @@
+{
+    "display_name": "Samsung Unknown_ARH-700",
+    "ir": {
+        "commands": [
+            {
+                "address": "25",
+                "name": "TIMER"
+            },
+            {
+                "address": "27",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "29",
+                "name": "SWING"
+            },
+            {
+                "address": "31",
+                "name": "TEMP-"
+            },
+            {
+                "address": "32",
+                "name": "TEMP+"
+            },
+            {
+                "address": "35",
+                "name": "FAN_LOW"
+            },
+            {
+                "address": "36",
+                "name": "FAN_MED"
+            },
+            {
+                "address": "37",
+                "name": "FAN_HIGH"
+            },
+            {
+                "address": "39",
+                "name": "FAN"
+            },
+            {
+                "address": "3a",
+                "name": "HEAT"
+            },
+            {
+                "address": "3c",
+                "name": "COOL"
+            },
+            {
+                "address": "3f",
+                "name": "KEY_POWER"
+            }
+        ],
+        "device_address": "100",
+        "protocol": "Samsung20"
+    },
+    "manufacturer": "Samsung",
+    "model": "",
+    "name": "",
+    "target": "Unknown_ARH-700"
+}

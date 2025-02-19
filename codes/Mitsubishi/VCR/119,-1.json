@@ -1,0 +1,29 @@
+{
+    "display_name": "Mitsubishi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "22",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "44",
+                "name": "VCR A"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

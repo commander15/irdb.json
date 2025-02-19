@@ -1,0 +1,41 @@
+{
+    "display_name": "NAD Unknown_NAD",
+    "ir": {
+        "commands": [
+            {
+                "address": "30",
+                "name": "SKIP_LEFT"
+            },
+            {
+                "address": "31",
+                "name": "SKIP_RIGHT"
+            },
+            {
+                "address": "32",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "38",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "39",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "3a",
+                "name": "SCAN_LEFT"
+            },
+            {
+                "address": "3b",
+                "name": "SCAN_RIGHT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Unknown_NAD"
+}

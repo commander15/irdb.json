@@ -1,0 +1,417 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "POWER Z4 TOGGLE"
+            },
+            {
+                "address": "6",
+                "name": "Z4 ON"
+            },
+            {
+                "address": "6",
+                "name": "POWER Z4 ON"
+            },
+            {
+                "address": "7",
+                "name": "Z4 OFF"
+            },
+            {
+                "address": "7",
+                "name": "POWER Z4 OFF"
+            },
+            {
+                "address": "1b",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1b",
+                "name": "NET CURSOR UP"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1c",
+                "name": "NET CURSOR DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1d",
+                "name": "NET CURSOR LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "1e",
+                "name": "NET CURSOR RIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "1f",
+                "name": "NET ENTER"
+            },
+            {
+                "address": "90",
+                "name": "TUNER UP"
+            },
+            {
+                "address": "91",
+                "name": "TUNER DOWN"
+            },
+            {
+                "address": "92",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "92",
+                "name": "NET PRESET+"
+            },
+            {
+                "address": "93",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "93",
+                "name": "NET PRESET-"
+            },
+            {
+                "address": "94",
+                "name": "NET SHIFT"
+            },
+            {
+                "address": "9c",
+                "name": "MODE"
+            },
+            {
+                "address": "a0",
+                "name": "MEMO"
+            },
+            {
+                "address": "a0",
+                "name": "NET MEMORY"
+            },
+            {
+                "address": "a3",
+                "name": "SEARCH"
+            },
+            {
+                "address": "a3",
+                "name": "NET PG./CHAR. SRCH."
+            },
+            {
+                "address": "b0",
+                "name": "1"
+            },
+            {
+                "address": "b0",
+                "name": "NET 1"
+            },
+            {
+                "address": "b1",
+                "name": "2"
+            },
+            {
+                "address": "b1",
+                "name": "NET 2"
+            },
+            {
+                "address": "b2",
+                "name": "3"
+            },
+            {
+                "address": "b2",
+                "name": "NET 3"
+            },
+            {
+                "address": "b3",
+                "name": "4"
+            },
+            {
+                "address": "b3",
+                "name": "NET 4"
+            },
+            {
+                "address": "b4",
+                "name": "5"
+            },
+            {
+                "address": "b4",
+                "name": "NET 5"
+            },
+            {
+                "address": "b5",
+                "name": "6"
+            },
+            {
+                "address": "b5",
+                "name": "NET 6"
+            },
+            {
+                "address": "b6",
+                "name": "7"
+            },
+            {
+                "address": "b6",
+                "name": "NET 7"
+            },
+            {
+                "address": "b7",
+                "name": "8"
+            },
+            {
+                "address": "b7",
+                "name": "NET 8"
+            },
+            {
+                "address": "b8",
+                "name": "9"
+            },
+            {
+                "address": "b9",
+                "name": "0"
+            },
+            {
+                "address": "f8",
+                "name": "TUNER A"
+            },
+            {
+                "address": "f8",
+                "name": "NET SHIFT A"
+            },
+            {
+                "address": "f9",
+                "name": "TUNER B"
+            },
+            {
+                "address": "f9",
+                "name": "NET SHIFT B"
+            },
+            {
+                "address": "fa",
+                "name": "TUNER C"
+            },
+            {
+                "address": "fa",
+                "name": "NET SHIFT C"
+            },
+            {
+                "address": "fb",
+                "name": "TUNER D"
+            },
+            {
+                "address": "fb",
+                "name": "NET SHIFT D"
+            },
+            {
+                "address": "fc",
+                "name": "TUNER E"
+            },
+            {
+                "address": "fc",
+                "name": "NET SHIFT E"
+            },
+            {
+                "address": "fd",
+                "name": "TUNER F"
+            },
+            {
+                "address": "fd",
+                "name": "NET SHIFT F"
+            },
+            {
+                "address": "fe",
+                "name": "TUNER G"
+            },
+            {
+                "address": "fe",
+                "name": "NET SHIFT G"
+            },
+            {
+                "address": "285",
+                "name": "STATUS REQUEST"
+            },
+            {
+                "address": "2c0",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "2c1",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "2c2",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "2c7",
+                "name": "TOGGLE NET/USB"
+            },
+            {
+                "address": "2ca",
+                "name": "INPUT XM"
+            },
+            {
+                "address": "2cb",
+                "name": "INPUT HD RADIO"
+            },
+            {
+                "address": "2cc",
+                "name": "INPUT NET"
+            },
+            {
+                "address": "2cd",
+                "name": "INPUT IPOD"
+            },
+            {
+                "address": "2ce",
+                "name": "INPUT USB"
+            },
+            {
+                "address": "2d0",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "2d1",
+                "name": "INPUT HDP"
+            },
+            {
+                "address": "2d2",
+                "name": "INPUT TV/CBL"
+            },
+            {
+                "address": "2d3",
+                "name": "INPUT SAT"
+            },
+            {
+                "address": "2d5",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "2d6",
+                "name": "INPUT DVR"
+            },
+            {
+                "address": "2d9",
+                "name": "INPUT V.AUX"
+            },
+            {
+                "address": "2dc",
+                "name": "TOGGLE DVD/HDP"
+            },
+            {
+                "address": "2df",
+                "name": "TOGGLE VCR/DVR"
+            },
+            {
+                "address": "305",
+                "name": "NET PLAY"
+            },
+            {
+                "address": "306",
+                "name": "NET PAUSE"
+            },
+            {
+                "address": "307",
+                "name": "NET STOP"
+            },
+            {
+                "address": "308",
+                "name": "NET SKIP +"
+            },
+            {
+                "address": "309",
+                "name": "NET SKIP -"
+            },
+            {
+                "address": "30a",
+                "name": "NET REPEAT ONE"
+            },
+            {
+                "address": "30b",
+                "name": "NET REPEAT OFF"
+            },
+            {
+                "address": "30c",
+                "name": "NET RANDON ON"
+            },
+            {
+                "address": "30d",
+                "name": "NET RANDOM OFF"
+            },
+            {
+                "address": "311",
+                "name": "NET REPEAT ALL"
+            },
+            {
+                "address": "316",
+                "name": "NET STATUS REQUEST"
+            },
+            {
+                "address": "3bc",
+                "name": "Z4 REPEAT"
+            },
+            {
+                "address": "3bd",
+                "name": "Z4 RANDOM"
+            },
+            {
+                "address": "3be",
+                "name": "Z4 USB DIR. PLAY"
+            },
+            {
+                "address": "3bf",
+                "name": "Z4 FAVORITE DIR.PLAY"
+            },
+            {
+                "address": "3cc",
+                "name": "Z4 PRESET CH+"
+            },
+            {
+                "address": "3cd",
+                "name": "Z4 PRESET CH-"
+            },
+            {
+                "address": "3ce",
+                "name": "Z4 PRESET SHIFT"
+            },
+            {
+                "address": "3d7",
+                "name": "Z4 SEARCH (RDS)"
+            },
+            {
+                "address": "3e0",
+                "name": "Z4 PLAY/PAUSE"
+            },
+            {
+                "address": "3e1",
+                "name": "Z4 STOP"
+            },
+            {
+                "address": "3e3",
+                "name": "Z4 SKIP/TUNE-"
+            },
+            {
+                "address": "3e4",
+                "name": "Z4 SKIP/TUNE+"
+            }
+        ],
+        "device_address": "200",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

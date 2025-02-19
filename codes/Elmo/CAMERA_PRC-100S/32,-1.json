@@ -1,0 +1,117 @@
+{
+    "display_name": "Elmo CAMERA_PRC-100S",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "2",
+                "name": "backlight"
+            },
+            {
+                "address": "3",
+                "name": "reset"
+            },
+            {
+                "address": "4",
+                "name": "irisopen"
+            },
+            {
+                "address": "6",
+                "name": "preset"
+            },
+            {
+                "address": "7",
+                "name": "id"
+            },
+            {
+                "address": "8",
+                "name": "irisclose"
+            },
+            {
+                "address": "9",
+                "name": "focusnear"
+            },
+            {
+                "address": "a",
+                "name": "KEY_1"
+            },
+            {
+                "address": "b",
+                "name": "KEY_4"
+            },
+            {
+                "address": "c",
+                "name": "irisauto"
+            },
+            {
+                "address": "d",
+                "name": "focusfar"
+            },
+            {
+                "address": "e",
+                "name": "KEY_2"
+            },
+            {
+                "address": "f",
+                "name": "KEY_5"
+            },
+            {
+                "address": "11",
+                "name": "focusauto"
+            },
+            {
+                "address": "12",
+                "name": "KEY_3"
+            },
+            {
+                "address": "13",
+                "name": "KEY_6"
+            },
+            {
+                "address": "16",
+                "name": "KEY_DOWN"
+            },
+            {
+                "address": "17",
+                "name": "cursor"
+            },
+            {
+                "address": "18",
+                "name": "tele"
+            },
+            {
+                "address": "19",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "1c",
+                "name": "wide"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_HOME"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Elmo",
+    "model": "",
+    "name": "",
+    "target": "CAMERA_PRC-100S"
+}

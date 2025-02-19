@@ -1,0 +1,25 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "34",
+                "name": "CH +"
+            },
+            {
+                "address": "35",
+                "name": "CH -"
+            },
+            {
+                "address": "a4",
+                "name": "TUNER/BAND"
+            }
+        ],
+        "device_address": "a00",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

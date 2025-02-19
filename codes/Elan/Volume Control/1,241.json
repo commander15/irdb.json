@@ -1,0 +1,33 @@
+{
+    "display_name": "Elan Volume Control",
+    "ir": {
+        "commands": [
+            {
+                "address": "53",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "55",
+                "name": "MUTE"
+            },
+            {
+                "address": "59",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "5a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "5d",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "20000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Volume Control"
+}

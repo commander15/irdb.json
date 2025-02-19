@@ -1,0 +1,105 @@
+{
+    "display_name": "Optoma Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "Power On"
+            },
+            {
+                "address": "5",
+                "name": "Mode"
+            },
+            {
+                "address": "e",
+                "name": "Menu"
+            },
+            {
+                "address": "f",
+                "name": "Enter"
+            },
+            {
+                "address": "10",
+                "name": "Left"
+            },
+            {
+                "address": "11",
+                "name": "Volume Up"
+            },
+            {
+                "address": "12",
+                "name": "Right"
+            },
+            {
+                "address": "14",
+                "name": "Volume Down"
+            },
+            {
+                "address": "16",
+                "name": "HDMI 1"
+            },
+            {
+                "address": "1b",
+                "name": "VGA 1"
+            },
+            {
+                "address": "1e",
+                "name": "VGA 2"
+            },
+            {
+                "address": "1e",
+                "name": "Video RCA"
+            },
+            {
+                "address": "2e",
+                "name": "Power Off"
+            },
+            {
+                "address": "30",
+                "name": "HDMI 2"
+            },
+            {
+                "address": "41",
+                "name": "Brightness"
+            },
+            {
+                "address": "42",
+                "name": "Contrast"
+            },
+            {
+                "address": "43",
+                "name": "Gamma"
+            },
+            {
+                "address": "45",
+                "name": "Lamp Mode"
+            },
+            {
+                "address": "46",
+                "name": "Ratio 16:9"
+            },
+            {
+                "address": "47",
+                "name": "Ratio 4:3"
+            },
+            {
+                "address": "48",
+                "name": "LBX"
+            },
+            {
+                "address": "49",
+                "name": "Native"
+            },
+            {
+                "address": "54",
+                "name": "3D Format"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "nec1"
+    },
+    "manufacturer": "Optoma",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

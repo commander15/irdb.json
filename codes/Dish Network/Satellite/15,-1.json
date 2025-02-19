@@ -1,0 +1,25 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "2e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2f",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3f",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

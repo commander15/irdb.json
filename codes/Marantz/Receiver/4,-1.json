@@ -1,0 +1,53 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY"
+            },
+            {
+                "address": "2c",
+                "name": "PTY / PLAY"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "31",
+                "name": "STOP"
+            },
+            {
+                "address": "3f",
+                "name": "DVD"
+            },
+            {
+                "address": "4b",
+                "name": "SUB-T/ATT"
+            },
+            {
+                "address": "4b",
+                "name": ""
+            },
+            {
+                "address": "4b",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "82",
+                "name": "SET UP/T. TONE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

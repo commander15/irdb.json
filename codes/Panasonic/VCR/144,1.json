@@ -1,0 +1,45 @@
+{
+    "display_name": "Panasonic VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "1",
+                "name": "PROG/VCR+"
+            },
+            {
+                "address": "4",
+                "name": "SELECT"
+            },
+            {
+                "address": "a",
+                "name": "SPEED"
+            },
+            {
+                "address": "31",
+                "name": "ADD/DELETE"
+            },
+            {
+                "address": "31",
+                "name": "ADD/DEL"
+            },
+            {
+                "address": "56",
+                "name": "ACTION"
+            },
+            {
+                "address": "56",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "120",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

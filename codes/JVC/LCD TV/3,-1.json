@@ -1,0 +1,65 @@
+{
+    "display_name": "JVC LCD TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "a",
+                "name": "OK/SELECT"
+            },
+            {
+                "address": "11",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "12",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "14",
+                "name": "VIDEO3"
+            },
+            {
+                "address": "17",
+                "name": "POWER (TOGGLE)"
+            },
+            {
+                "address": "18",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "19",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "1b",
+                "name": "VIDEO4"
+            },
+            {
+                "address": "1e",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "80",
+                "name": "FREEZE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "LCD TV"
+}

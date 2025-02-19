@@ -1,0 +1,57 @@
+{
+    "display_name": "Grundig Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "MODE"
+            },
+            {
+                "address": "d",
+                "name": "0"
+            },
+            {
+                "address": "e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "11",
+                "name": "8"
+            },
+            {
+                "address": "12",
+                "name": "9"
+            },
+            {
+                "address": "13",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "17",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "18",
+                "name": ""
+            },
+            {
+                "address": "19",
+                "name": ""
+            },
+            {
+                "address": "1f",
+                "name": "POWER"
+            },
+            {
+                "address": "1f",
+                "name": ""
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Proton"
+    },
+    "manufacturer": "Grundig",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

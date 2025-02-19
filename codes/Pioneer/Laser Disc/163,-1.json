@@ -1,0 +1,117 @@
+{
+    "display_name": "Pioneer Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "98",
+                "name": "STOP"
+            },
+            {
+                "address": "99",
+                "name": "0"
+            },
+            {
+                "address": "99",
+                "name": "1"
+            },
+            {
+                "address": "99",
+                "name": "2"
+            },
+            {
+                "address": "99",
+                "name": "3"
+            },
+            {
+                "address": "99",
+                "name": "4"
+            },
+            {
+                "address": "99",
+                "name": "5"
+            },
+            {
+                "address": "99",
+                "name": "6"
+            },
+            {
+                "address": "99",
+                "name": "7"
+            },
+            {
+                "address": "99",
+                "name": "8"
+            },
+            {
+                "address": "99",
+                "name": "9"
+            },
+            {
+                "address": "99",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "99",
+                "name": "ENTER"
+            },
+            {
+                "address": "99",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "99",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "99",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "99",
+                "name": "POWER"
+            },
+            {
+                "address": "99",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "9a",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "9b",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "9c",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "9c",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "9d",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "9d",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "9e",
+                "name": "PLAY"
+            },
+            {
+                "address": "9f",
+                "name": "PAUSE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

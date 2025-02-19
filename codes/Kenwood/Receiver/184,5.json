@@ -1,0 +1,35 @@
+{
+    "display_name": "Kenwood Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "4f",
+                "device_address": "1700",
+                "name": "",
+                "protocol": "NEC"
+            },
+            {
+                "address": "4f",
+                "device_address": "1700",
+                "name": "TUNER MEMORY",
+                "protocol": "NEC"
+            },
+            {
+                "address": "4f",
+                "device_address": "1700",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "1700",
+                "name": "MPEG",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

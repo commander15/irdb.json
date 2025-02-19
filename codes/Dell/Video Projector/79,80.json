@@ -1,0 +1,129 @@
+{
+    "display_name": "Dell Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "ASPECT"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "PWRTOGGLE"
+            },
+            {
+                "address": "3",
+                "name": "VIDEO MODE"
+            },
+            {
+                "address": "4",
+                "name": "INPUT DVI"
+            },
+            {
+                "address": "4",
+                "name": "INPUT NEXT"
+            },
+            {
+                "address": "5",
+                "name": "PGUP"
+            },
+            {
+                "address": "6",
+                "name": "PGDOWN"
+            },
+            {
+                "address": "8",
+                "name": "VOL +"
+            },
+            {
+                "address": "9",
+                "name": "KEYSTONE UP"
+            },
+            {
+                "address": "a",
+                "name": "PICTURE"
+            },
+            {
+                "address": "b",
+                "name": "VOL -"
+            },
+            {
+                "address": "c",
+                "name": "HIDE"
+            },
+            {
+                "address": "d",
+                "name": "KEYSTONE DOWN"
+            },
+            {
+                "address": "10",
+                "name": "GAMMA"
+            },
+            {
+                "address": "11",
+                "name": "MENU"
+            },
+            {
+                "address": "18",
+                "name": "R-SYNC"
+            },
+            {
+                "address": "19",
+                "name": "INPUT S-VIDEO 2"
+            },
+            {
+                "address": "1b",
+                "name": "INPUT COMPOSITE"
+            },
+            {
+                "address": "1c",
+                "name": "INPUTBNC"
+            },
+            {
+                "address": "1d",
+                "name": "INPUT DVI/SAT"
+            },
+            {
+                "address": "1e",
+                "name": "INPUT RCA"
+            },
+            {
+                "address": "20",
+                "name": "INPUT VGA"
+            },
+            {
+                "address": "23",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "24",
+                "name": "INPUT VIDEO"
+            },
+            {
+                "address": "25",
+                "name": "FORMAT"
+            },
+            {
+                "address": "26",
+                "name": "BRIGHTNESS"
+            },
+            {
+                "address": "27",
+                "name": "CONTRAST"
+            },
+            {
+                "address": "28",
+                "name": "COLOR"
+            }
+        ],
+        "device_address": "4f0000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Dell",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

@@ -1,0 +1,49 @@
+{
+    "display_name": "Daewoo TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "CODE1 VID 4"
+            },
+            {
+                "address": "e",
+                "name": "CODE1 VID 3"
+            },
+            {
+                "address": "15",
+                "name": "CODE1 POWER OFF"
+            },
+            {
+                "address": "15",
+                "name": "CODE1 POWER ON"
+            },
+            {
+                "address": "15",
+                "name": "CODE4 POWER OFF"
+            },
+            {
+                "address": "15",
+                "name": "CODE4 POWER ON"
+            },
+            {
+                "address": "23",
+                "name": "CODE1 VIDE 2"
+            },
+            {
+                "address": "2c",
+                "name": "CODE1 VID 5"
+            },
+            {
+                "address": "2d",
+                "name": "CODE1 VID 1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Proton"
+    },
+    "manufacturer": "Daewoo",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

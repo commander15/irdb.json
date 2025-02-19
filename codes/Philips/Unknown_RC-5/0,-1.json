@@ -1,0 +1,37 @@
+{
+    "display_name": "Philips Unknown_RC-5",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "TV_STANDBY"
+            },
+            {
+                "address": "d",
+                "name": "TV_MUTE"
+            },
+            {
+                "address": "10",
+                "name": "TV_VOL_UP"
+            },
+            {
+                "address": "11",
+                "name": "TV_VOL_DOWN"
+            },
+            {
+                "address": "20",
+                "name": "TV_PRG_UP"
+            },
+            {
+                "address": "21",
+                "name": "TV_PRG_DOWN"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RC-5"
+}

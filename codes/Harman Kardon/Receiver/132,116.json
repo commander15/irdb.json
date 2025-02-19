@@ -1,0 +1,41 @@
+{
+    "display_name": "Harman Kardon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "50",
+                "name": "TR PLAY"
+            },
+            {
+                "address": "51",
+                "name": "TR STOP"
+            },
+            {
+                "address": "52",
+                "name": "TR PAUSE"
+            },
+            {
+                "address": "53",
+                "name": "TR SCAN <<"
+            },
+            {
+                "address": "54",
+                "name": "TR SCAN >>"
+            },
+            {
+                "address": "55",
+                "name": "TR SKIP <<"
+            },
+            {
+                "address": "56",
+                "name": "TR SKIP >>"
+            }
+        ],
+        "device_address": "8400000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

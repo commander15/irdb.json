@@ -1,0 +1,89 @@
+{
+    "display_name": "Denon DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c0",
+                "name": "OFF"
+            },
+            {
+                "address": "c0",
+                "name": "DVD OFF"
+            },
+            {
+                "address": "cd",
+                "name": "SUPER AUDIO CD SETUP"
+            },
+            {
+                "address": "cd",
+                "name": "CD/STEREO/MULTI"
+            },
+            {
+                "address": "cd",
+                "name": "SUPER AUDIO CD SET"
+            },
+            {
+                "address": "d0",
+                "name": "HDMI/DVI FORMAT"
+            },
+            {
+                "address": "d0",
+                "name": "HDMI FORMAT"
+            },
+            {
+                "address": "d4",
+                "name": "PURE DIRECT SELECT"
+            },
+            {
+                "address": "d5",
+                "name": "HDMI/DVI SELECT"
+            },
+            {
+                "address": "d5",
+                "name": "HDMI/ DVI SELECT"
+            },
+            {
+                "address": "d5",
+                "name": "HDMI SELECT"
+            },
+            {
+                "address": "fa",
+                "name": "DISC EXCHANGE"
+            },
+            {
+                "address": "fd",
+                "name": "PAGE -"
+            },
+            {
+                "address": "fd",
+                "name": "PAGE-"
+            },
+            {
+                "address": "fd",
+                "name": "PAGE --"
+            },
+            {
+                "address": "fe",
+                "name": "PAGE +"
+            },
+            {
+                "address": "fe",
+                "name": "PAGE+"
+            },
+            {
+                "address": "ff",
+                "name": "GROUP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

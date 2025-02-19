@@ -1,0 +1,53 @@
+{
+    "display_name": "Apple MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MENU"
+            },
+            {
+                "address": "2",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "3",
+                "name": ">> NEXT"
+            },
+            {
+                "address": "3",
+                "name": "TRACK FWD"
+            },
+            {
+                "address": "4",
+                "name": "<< PREVIOUS"
+            },
+            {
+                "address": "4",
+                "name": "TRACK RWD"
+            },
+            {
+                "address": "5",
+                "name": "+"
+            },
+            {
+                "address": "5",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "6",
+                "name": "-"
+            },
+            {
+                "address": "6",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "7700",
+        "protocol": "Apple"
+    },
+    "manufacturer": "Apple",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

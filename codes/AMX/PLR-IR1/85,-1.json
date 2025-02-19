@@ -1,0 +1,537 @@
+{
+    "display_name": "AMX PLR-IR1",
+    "ir": {
+        "commands": [
+            {
+                "address": "44",
+                "name": "RECORD"
+            },
+            {
+                "address": "45",
+                "name": "RECORD"
+            },
+            {
+                "address": "46",
+                "name": "RECORD"
+            },
+            {
+                "address": "47",
+                "name": "RECORD"
+            },
+            {
+                "address": "48",
+                "name": "7"
+            },
+            {
+                "address": "49",
+                "name": "7"
+            },
+            {
+                "address": "4a",
+                "name": "7"
+            },
+            {
+                "address": "4b",
+                "name": "7"
+            },
+            {
+                "address": "4c",
+                "name": "6"
+            },
+            {
+                "address": "4d",
+                "name": "6"
+            },
+            {
+                "address": "4e",
+                "name": "6"
+            },
+            {
+                "address": "4f",
+                "name": "6"
+            },
+            {
+                "address": "50",
+                "name": "INFO"
+            },
+            {
+                "address": "51",
+                "name": "INFO"
+            },
+            {
+                "address": "52",
+                "name": "INFO"
+            },
+            {
+                "address": "53",
+                "name": "INFO"
+            },
+            {
+                "address": "54",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "58",
+                "name": "MUTE"
+            },
+            {
+                "address": "59",
+                "name": "MUTE"
+            },
+            {
+                "address": "5a",
+                "name": "MUTE"
+            },
+            {
+                "address": "5b",
+                "name": "MUTE"
+            },
+            {
+                "address": "60",
+                "name": "REW"
+            },
+            {
+                "address": "61",
+                "name": "REW"
+            },
+            {
+                "address": "62",
+                "name": "REW"
+            },
+            {
+                "address": "63",
+                "name": "REW"
+            },
+            {
+                "address": "64",
+                "name": "PAUSE"
+            },
+            {
+                "address": "65",
+                "name": "PAUSE"
+            },
+            {
+                "address": "66",
+                "name": "PAUSE"
+            },
+            {
+                "address": "67",
+                "name": "PAUSE"
+            },
+            {
+                "address": "68",
+                "name": "8"
+            },
+            {
+                "address": "69",
+                "name": "8"
+            },
+            {
+                "address": "6a",
+                "name": "8"
+            },
+            {
+                "address": "6b",
+                "name": "8"
+            },
+            {
+                "address": "6c",
+                "name": "1"
+            },
+            {
+                "address": "6d",
+                "name": "1"
+            },
+            {
+                "address": "6e",
+                "name": "1"
+            },
+            {
+                "address": "6f",
+                "name": "1"
+            },
+            {
+                "address": "70",
+                "name": "CANCEL"
+            },
+            {
+                "address": "71",
+                "name": "CANCEL"
+            },
+            {
+                "address": "72",
+                "name": "CANCEL"
+            },
+            {
+                "address": "73",
+                "name": "CANCEL"
+            },
+            {
+                "address": "74",
+                "name": ""
+            },
+            {
+                "address": "75",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "76",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "77",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "78",
+                "name": "MENU"
+            },
+            {
+                "address": "79",
+                "name": "MENU"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "7b",
+                "name": "MENU"
+            },
+            {
+                "address": "80",
+                "name": "PLAY"
+            },
+            {
+                "address": "81",
+                "name": "PLAY"
+            },
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PLAY"
+            },
+            {
+                "address": "84",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "85",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "86",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "87",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "88",
+                "name": "9"
+            },
+            {
+                "address": "89",
+                "name": "9"
+            },
+            {
+                "address": "8a",
+                "name": "9"
+            },
+            {
+                "address": "8b",
+                "name": "9"
+            },
+            {
+                "address": "8c",
+                "name": "2"
+            },
+            {
+                "address": "8d",
+                "name": "2"
+            },
+            {
+                "address": "8e",
+                "name": "2"
+            },
+            {
+                "address": "8f",
+                "name": "2"
+            },
+            {
+                "address": "90",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "91",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "92",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "93",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "94",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "95",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "96",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "97",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "a0",
+                "name": "FF"
+            },
+            {
+                "address": "a1",
+                "name": "FF"
+            },
+            {
+                "address": "a2",
+                "name": "FF"
+            },
+            {
+                "address": "a3",
+                "name": "FF"
+            },
+            {
+                "address": "a4",
+                "name": "0"
+            },
+            {
+                "address": "a5",
+                "name": "0"
+            },
+            {
+                "address": "a6",
+                "name": "0"
+            },
+            {
+                "address": "a7",
+                "name": "0"
+            },
+            {
+                "address": "a8",
+                "name": "4"
+            },
+            {
+                "address": "a9",
+                "name": "4"
+            },
+            {
+                "address": "aa",
+                "name": "4"
+            },
+            {
+                "address": "ab",
+                "name": "4"
+            },
+            {
+                "address": "ac",
+                "name": "3"
+            },
+            {
+                "address": "ad",
+                "name": "3"
+            },
+            {
+                "address": "ae",
+                "name": "3"
+            },
+            {
+                "address": "af",
+                "name": "3"
+            },
+            {
+                "address": "b0",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b1",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b2",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b4",
+                "name": "GUIDE"
+            },
+            {
+                "address": "b5",
+                "name": "GUIDE"
+            },
+            {
+                "address": "b6",
+                "name": "GUIDE"
+            },
+            {
+                "address": "b7",
+                "name": "GUIDE"
+            },
+            {
+                "address": "b8",
+                "name": "PHAST"
+            },
+            {
+                "address": "b9",
+                "name": "PHAST"
+            },
+            {
+                "address": "ba",
+                "name": "PHAST"
+            },
+            {
+                "address": "bb",
+                "name": "PHAST"
+            },
+            {
+                "address": "c0",
+                "name": "STOP"
+            },
+            {
+                "address": "c1",
+                "name": "STOP"
+            },
+            {
+                "address": "c2",
+                "name": "STOP"
+            },
+            {
+                "address": "c3",
+                "name": "STOP"
+            },
+            {
+                "address": "c4",
+                "name": "RECALL"
+            },
+            {
+                "address": "c5",
+                "name": "RECALL"
+            },
+            {
+                "address": "c6",
+                "name": "RECALL"
+            },
+            {
+                "address": "c7",
+                "name": "RECALL"
+            },
+            {
+                "address": "c8",
+                "name": ""
+            },
+            {
+                "address": "c9",
+                "name": "5"
+            },
+            {
+                "address": "ca",
+                "name": "5"
+            },
+            {
+                "address": "cb",
+                "name": "5"
+            },
+            {
+                "address": "cc",
+                "name": "SOURCE"
+            },
+            {
+                "address": "cd",
+                "name": "SOURCE"
+            },
+            {
+                "address": "ce",
+                "name": "SOURCE"
+            },
+            {
+                "address": "cf",
+                "name": "SOURCE"
+            },
+            {
+                "address": "d0",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "d1",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "d2",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "d3",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "d4",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d5",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d6",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d8",
+                "name": "POWER"
+            },
+            {
+                "address": "d9",
+                "name": "POWER"
+            },
+            {
+                "address": "db",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Dgtec"
+    },
+    "manufacturer": "AMX",
+    "model": "",
+    "name": "",
+    "target": "PLR-IR1"
+}

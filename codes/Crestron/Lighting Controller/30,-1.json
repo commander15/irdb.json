@@ -1,0 +1,45 @@
+{
+    "display_name": "Crestron Lighting Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "OFF"
+            },
+            {
+                "address": "1",
+                "name": "ON"
+            },
+            {
+                "address": "2",
+                "name": "SCENE 1"
+            },
+            {
+                "address": "3",
+                "name": "SCENE 2"
+            },
+            {
+                "address": "4",
+                "name": "SCENE 3"
+            },
+            {
+                "address": "5",
+                "name": "SCENE 4"
+            },
+            {
+                "address": "21",
+                "name": "RAISE"
+            },
+            {
+                "address": "22",
+                "name": "LOWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Crestron",
+    "model": "",
+    "name": "",
+    "target": "Lighting Controller"
+}

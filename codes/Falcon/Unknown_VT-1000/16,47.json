@@ -1,0 +1,77 @@
+{
+    "display_name": "Falcon Unknown_VT-1000",
+    "ir": {
+        "commands": [
+            {
+                "address": "82",
+                "name": "store"
+            },
+            {
+                "address": "83",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "84",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "85",
+                "name": "skew_up"
+            },
+            {
+                "address": "86",
+                "name": "skew_down"
+            },
+            {
+                "address": "87",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "88",
+                "name": "audio_down"
+            },
+            {
+                "address": "89",
+                "name": "bw"
+            },
+            {
+                "address": "8a",
+                "name": "h/v"
+            },
+            {
+                "address": "8b",
+                "name": "audio_up"
+            },
+            {
+                "address": "9a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "9b",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "9c",
+                "name": "norm"
+            },
+            {
+                "address": "9d",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "9e",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "9f",
+                "name": "KEY_CHANNELDOWN"
+            }
+        ],
+        "device_address": "80000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Falcon",
+    "model": "",
+    "name": "",
+    "target": "Unknown_VT-1000"
+}

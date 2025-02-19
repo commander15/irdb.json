@@ -1,0 +1,381 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "1",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "4",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "4",
+                "name": "SLOW/SEARCH <<"
+            },
+            {
+                "address": "5",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "5",
+                "name": "SLOW/SEARCH >>"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "STILL/PAUSE"
+            },
+            {
+                "address": "7",
+                "name": "SLOW <"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "f",
+                "name": "SLOW >"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO"
+            },
+            {
+                "address": "3d",
+                "name": "POWER"
+            },
+            {
+                "address": "3e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "45",
+                "name": "HP-V.S.S."
+            },
+            {
+                "address": "48",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "48",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "48",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "48",
+                "name": "A-B"
+            },
+            {
+                "address": "49",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "49",
+                "name": "SKIP/SEARCH <<"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP/SEARCH >>"
+            },
+            {
+                "address": "80",
+                "name": "MENU"
+            },
+            {
+                "address": "80",
+                "name": "MENU/PLAY LIST"
+            },
+            {
+                "address": "81",
+                "name": "RETURN"
+            },
+            {
+                "address": "82",
+                "name": "SELECT"
+            },
+            {
+                "address": "82",
+                "name": "ENTER"
+            },
+            {
+                "address": "82",
+                "name": "MENU ENTER"
+            },
+            {
+                "address": "83",
+                "name": "CANCEL"
+            },
+            {
+                "address": "83",
+                "name": "CLEAR"
+            },
+            {
+                "address": "85",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "85",
+                "name": "UP ARROW"
+            },
+            {
+                "address": "85",
+                "name": "ARROW: UP"
+            },
+            {
+                "address": "85",
+                "name": "MENU UP"
+            },
+            {
+                "address": "86",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "86",
+                "name": "DOWN ARROW"
+            },
+            {
+                "address": "86",
+                "name": "ARROW: DOWN"
+            },
+            {
+                "address": "86",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "87",
+                "name": "LEFT ARROW"
+            },
+            {
+                "address": "87",
+                "name": "ARROW: LEFT"
+            },
+            {
+                "address": "87",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "88",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "88",
+                "name": "RIGHT ARROW"
+            },
+            {
+                "address": "88",
+                "name": "ARROW: RIGHT"
+            },
+            {
+                "address": "88",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "89",
+                "name": "+10"
+            },
+            {
+                "address": "89",
+                "name": ">10"
+            },
+            {
+                "address": "89",
+                "name": ">=10"
+            },
+            {
+                "address": "8c",
+                "name": "REPEAT MODE"
+            },
+            {
+                "address": "8c",
+                "name": "MODE"
+            },
+            {
+                "address": "8d",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "8e",
+                "name": "MARKER"
+            },
+            {
+                "address": "90",
+                "name": "ANGLE"
+            },
+            {
+                "address": "91",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "91",
+                "name": "TITLE"
+            },
+            {
+                "address": "92",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "93",
+                "name": "SUBTITLE OFF/ON"
+            },
+            {
+                "address": "93",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "94",
+                "name": "ACTION"
+            },
+            {
+                "address": "94",
+                "name": "SETUP"
+            },
+            {
+                "address": "95",
+                "name": "PAUSE"
+            },
+            {
+                "address": "95",
+                "name": "STILL/PAUSE"
+            },
+            {
+                "address": "96",
+                "name": "DOWN CURSOR"
+            },
+            {
+                "address": "97",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "97",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "98",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "98",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "99",
+                "name": "FL. DISP"
+            },
+            {
+                "address": "99",
+                "name": "FL DISP."
+            },
+            {
+                "address": "9b",
+                "name": "TITLE"
+            },
+            {
+                "address": "9b",
+                "name": "TOP MENU/DIRECT NAV"
+            },
+            {
+                "address": "9e",
+                "name": "VSS"
+            },
+            {
+                "address": "9e",
+                "name": "V.S.S."
+            },
+            {
+                "address": "9e",
+                "name": "SP-V.S.S."
+            },
+            {
+                "address": "e0",
+                "name": "GROUP"
+            },
+            {
+                "address": "e1",
+                "name": "AUDIO ONLY"
+            },
+            {
+                "address": "e5",
+                "name": "PAGE"
+            },
+            {
+                "address": "e8",
+                "name": "TEXT"
+            }
+        ],
+        "device_address": "b0",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

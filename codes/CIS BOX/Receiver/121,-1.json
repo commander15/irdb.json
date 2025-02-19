@@ -1,0 +1,113 @@
+{
+    "display_name": "CIS BOX Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "PRESET UP"
+            },
+            {
+                "address": "10",
+                "name": "PRE UP"
+            },
+            {
+                "address": "11",
+                "name": "PRESET DN"
+            },
+            {
+                "address": "11",
+                "name": "PRE DN"
+            },
+            {
+                "address": "12",
+                "name": "VOL UP"
+            },
+            {
+                "address": "13",
+                "name": "VOL DN"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            },
+            {
+                "address": "1e",
+                "name": "VID2"
+            },
+            {
+                "address": "1e",
+                "name": "VID 2"
+            },
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "22",
+                "name": "VID1"
+            },
+            {
+                "address": "22",
+                "name": "VID 1"
+            },
+            {
+                "address": "23",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "23",
+                "name": "MD TAPE"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "25",
+                "name": "CD/SACD"
+            },
+            {
+                "address": "2e",
+                "name": "PWR ON"
+            },
+            {
+                "address": "2f",
+                "name": "PWR OFF"
+            },
+            {
+                "address": "42",
+                "name": "VID3"
+            },
+            {
+                "address": "43",
+                "name": "VID4"
+            },
+            {
+                "address": "69",
+                "name": "MD"
+            },
+            {
+                "address": "6a",
+                "name": "TV/ SAT/ CABLE"
+            },
+            {
+                "address": "6a",
+                "name": "TV SAT"
+            },
+            {
+                "address": "6b",
+                "name": "LD"
+            },
+            {
+                "address": "7d",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

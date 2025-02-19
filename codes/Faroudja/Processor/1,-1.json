@@ -1,0 +1,69 @@
+{
+    "display_name": "Faroudja Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INPUT MODE"
+            },
+            {
+                "address": "1",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "2",
+                "name": "PRESET/ENTER"
+            },
+            {
+                "address": "2",
+                "name": "SELECT/ENTER"
+            },
+            {
+                "address": "3",
+                "name": "MENU"
+            },
+            {
+                "address": "4",
+                "name": "FUNCTION +"
+            },
+            {
+                "address": "4",
+                "name": "FUNCTION UP"
+            },
+            {
+                "address": "5",
+                "name": "VALUE +"
+            },
+            {
+                "address": "5",
+                "name": "VALUE UP"
+            },
+            {
+                "address": "6",
+                "name": "FUNCTION -"
+            },
+            {
+                "address": "6",
+                "name": "FUNCTION DOWN"
+            },
+            {
+                "address": "7",
+                "name": "VALUE -"
+            },
+            {
+                "address": "7",
+                "name": "VALUE DOWN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Faroudja",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

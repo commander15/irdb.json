@@ -1,0 +1,45 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2f",
+                "name": "<> T-MODE"
+            },
+            {
+                "address": "3f",
+                "name": "RECORDER 2"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE (RECORDER 2)"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT - TAPE"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT: TAPE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

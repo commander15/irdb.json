@@ -1,0 +1,201 @@
+{
+    "display_name": "JVC Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "7",
+                "name": "TAPE 2 SELECT"
+            },
+            {
+                "address": "7",
+                "name": "SOURCE SLCT TAPE2"
+            },
+            {
+                "address": "8",
+                "name": "FM TUNER SELECT"
+            },
+            {
+                "address": "8",
+                "name": "SOURCE SLCT FM"
+            },
+            {
+                "address": "9",
+                "name": "AM TUNER SELECT"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE SLCT AM"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "18",
+                "name": "TUNER PRESET-"
+            },
+            {
+                "address": "18",
+                "name": "TUNER PRESET- (-[])"
+            },
+            {
+                "address": "19",
+                "name": "TUNER PRESET+"
+            },
+            {
+                "address": "19",
+                "name": "TUNER PRESET+ (+ >)"
+            },
+            {
+                "address": "1c",
+                "name": "FADE MUTING"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "TUNER 0"
+            },
+            {
+                "address": "21",
+                "name": "TUNER 1"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "TUNER 2"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "TUNER 3"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "TUNER 4"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "TUNER 5"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "TUNER 6"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "TUNER 7"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "TUNER 8"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "TUNER 9"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "2a",
+                "name": "TUNER 10"
+            },
+            {
+                "address": "2a",
+                "name": "10"
+            },
+            {
+                "address": "2f",
+                "name": "TUNER +10"
+            },
+            {
+                "address": "2f",
+                "name": "+10"
+            },
+            {
+                "address": "30",
+                "name": "SEA SOURCE"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO SELECT"
+            },
+            {
+                "address": "3c",
+                "name": "SOURCE SLCT PHONO"
+            },
+            {
+                "address": "3d",
+                "name": "CD PLAY (AND SELECT)"
+            },
+            {
+                "address": "3d",
+                "name": "SOURCE SLCT CD"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE1 PLAY (SELECT)"
+            },
+            {
+                "address": "3f",
+                "name": "SOURCE SLCT TAPE1"
+            },
+            {
+                "address": "58",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "5e",
+                "name": "SURROUND VOL+"
+            },
+            {
+                "address": "5f",
+                "name": "SURROUND VOL-"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

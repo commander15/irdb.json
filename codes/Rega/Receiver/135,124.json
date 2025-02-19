@@ -1,0 +1,29 @@
+{
+    "display_name": "Rega Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "FM"
+            },
+            {
+                "address": "82",
+                "name": "AM"
+            },
+            {
+                "address": "d1",
+                "name": "PRESET -"
+            },
+            {
+                "address": "d2",
+                "name": "PRESET +"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Rega",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

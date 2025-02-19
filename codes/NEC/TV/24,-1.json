@@ -1,0 +1,49 @@
+{
+    "display_name": "NEC TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "VIDEO"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "58",
+                "name": "RGB/PC"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

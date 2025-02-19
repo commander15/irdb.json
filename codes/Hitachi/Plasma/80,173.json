@@ -1,0 +1,133 @@
+{
+    "display_name": "Hitachi Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3",
+                "name": "VOLYM +"
+            },
+            {
+                "address": "4",
+                "name": "VOLYM -"
+            },
+            {
+                "address": "5",
+                "name": "MUTE"
+            },
+            {
+                "address": "6",
+                "name": "PINP"
+            },
+            {
+                "address": "7",
+                "name": "RECALL"
+            },
+            {
+                "address": "9",
+                "name": "RGB1"
+            },
+            {
+                "address": "9",
+                "name": "RGB 1"
+            },
+            {
+                "address": "a",
+                "name": "RGB2"
+            },
+            {
+                "address": "a",
+                "name": "RGB 2"
+            },
+            {
+                "address": "b",
+                "name": "AV1"
+            },
+            {
+                "address": "c",
+                "name": "AV2"
+            },
+            {
+                "address": "d",
+                "name": "AV3"
+            },
+            {
+                "address": "e",
+                "name": "AV4"
+            },
+            {
+                "address": "12",
+                "name": "AUTO"
+            },
+            {
+                "address": "13",
+                "name": "MENU"
+            },
+            {
+                "address": "14",
+                "name": "UP"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR UPP"
+            },
+            {
+                "address": "15",
+                "name": "DN"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR NER"
+            },
+            {
+                "address": "16",
+                "name": "RIGHT"
+            },
+            {
+                "address": "16",
+                "name": "GER"
+            },
+            {
+                "address": "17",
+                "name": "LEFT"
+            },
+            {
+                "address": "17",
+                "name": "NSTER"
+            },
+            {
+                "address": "18",
+                "name": "OK"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "19",
+                "name": "SIZE"
+            },
+            {
+                "address": "1a",
+                "name": "RETURN"
+            }
+        ],
+        "device_address": "a0000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

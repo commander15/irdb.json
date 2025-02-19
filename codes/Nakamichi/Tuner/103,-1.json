@@ -1,0 +1,53 @@
+{
+    "display_name": "Nakamichi Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "8f",
+                "name": "CD DISC"
+            },
+            {
+                "address": "93",
+                "name": "CD DISC SCAN"
+            },
+            {
+                "address": "c1",
+                "name": "CD <<"
+            },
+            {
+                "address": "c2",
+                "name": "CD <"
+            },
+            {
+                "address": "c5",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "c6",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "c7",
+                "name": "CD >>"
+            },
+            {
+                "address": "c8",
+                "name": "CD >"
+            },
+            {
+                "address": "cb",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "db",
+                "name": "CD RANDOM"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

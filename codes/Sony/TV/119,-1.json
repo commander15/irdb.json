@@ -1,0 +1,41 @@
+{
+    "display_name": "Sony TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "36",
+                "name": "POWER SAVING"
+            },
+            {
+                "address": "39",
+                "name": "DRC MODE"
+            },
+            {
+                "address": "76",
+                "name": "FAVORITES"
+            },
+            {
+                "address": "76",
+                "name": "FAVS"
+            },
+            {
+                "address": "7c",
+                "name": "ON (ID MODE)"
+            },
+            {
+                "address": "7d",
+                "name": "OFF (ID MODE)"
+            },
+            {
+                "address": "7e",
+                "name": "SET (ID MODE)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,45 @@
+{
+    "display_name": "Parasound Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CD - SKIP +"
+            },
+            {
+                "address": "2",
+                "name": "DISC +"
+            },
+            {
+                "address": "4",
+                "name": "CD - SKIP -"
+            },
+            {
+                "address": "5",
+                "name": "CD - PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "CD - PLAY"
+            },
+            {
+                "address": "9",
+                "name": "CD - STOP"
+            },
+            {
+                "address": "c",
+                "name": "CD - FF"
+            },
+            {
+                "address": "d",
+                "name": "CD - RW"
+            }
+        ],
+        "device_address": "10c",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Parasound",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

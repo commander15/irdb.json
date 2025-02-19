@@ -1,0 +1,45 @@
+{
+    "display_name": "VocoPro Karaoke",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "3",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "5",
+                "name": "STOP"
+            },
+            {
+                "address": "6",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "7",
+                "name": "REPEAT"
+            },
+            {
+                "address": "8",
+                "name": "MEMORY"
+            },
+            {
+                "address": "c",
+                "name": "OPEN/CLOSE"
+            }
+        ],
+        "device_address": "40",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "VocoPro",
+    "model": "",
+    "name": "",
+    "target": "Karaoke"
+}

@@ -1,0 +1,53 @@
+{
+    "display_name": "Kenwood Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SKIP << / P.CALL"
+            },
+            {
+                "address": "1",
+                "name": "SKIP >> / P.CALL"
+            },
+            {
+                "address": "2",
+                "name": "SEARCH << / TUNING"
+            },
+            {
+                "address": "3",
+                "name": "SEARCH >> / TUNING"
+            },
+            {
+                "address": "4",
+                "name": "STOP / AUTO/MONO"
+            },
+            {
+                "address": "6",
+                "name": "TUNER / BAND"
+            },
+            {
+                "address": "7",
+                "name": "PLAY/PAUSE / CD"
+            },
+            {
+                "address": "1d",
+                "name": "DIMMER"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "4f",
+                "name": "+100"
+            }
+        ],
+        "device_address": "2e0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

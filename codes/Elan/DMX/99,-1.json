@@ -1,0 +1,165 @@
+{
+    "display_name": "Elan DMX",
+    "ir": {
+        "commands": [
+            {
+                "address": "cd",
+                "name": "1"
+            },
+            {
+                "address": "ce",
+                "name": "2"
+            },
+            {
+                "address": "cf",
+                "name": "3"
+            },
+            {
+                "address": "d0",
+                "name": "4"
+            },
+            {
+                "address": "d1",
+                "name": "5"
+            },
+            {
+                "address": "d2",
+                "name": "6"
+            },
+            {
+                "address": "d3",
+                "name": "7"
+            },
+            {
+                "address": "d4",
+                "name": "8"
+            },
+            {
+                "address": "d5",
+                "name": "9"
+            },
+            {
+                "address": "d6",
+                "name": "0"
+            },
+            {
+                "address": "d7",
+                "name": "MENU"
+            },
+            {
+                "address": "d8",
+                "name": "PAUSE"
+            },
+            {
+                "address": "d9",
+                "name": "UP"
+            },
+            {
+                "address": "da",
+                "name": "LEFT"
+            },
+            {
+                "address": "db",
+                "name": "RIGHT"
+            },
+            {
+                "address": "dc",
+                "name": "DOWN"
+            },
+            {
+                "address": "dd",
+                "name": "STOP"
+            },
+            {
+                "address": "de",
+                "name": "PLAY"
+            },
+            {
+                "address": "e4",
+                "name": "ARTIST"
+            },
+            {
+                "address": "e5",
+                "name": "GENRE"
+            },
+            {
+                "address": "e7",
+                "name": "PLAYLIST"
+            },
+            {
+                "address": "e8",
+                "name": "REPEAT"
+            },
+            {
+                "address": "e9",
+                "name": "RANDOM"
+            },
+            {
+                "address": "eb",
+                "name": "POWER"
+            },
+            {
+                "address": "ec",
+                "name": "DEFAULT O/P"
+            },
+            {
+                "address": "ed",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "ee",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "ef",
+                "name": "MUTE"
+            },
+            {
+                "address": "f0",
+                "name": "OUTPUT"
+            },
+            {
+                "address": "f1",
+                "name": "DISC +"
+            },
+            {
+                "address": "f2",
+                "name": "DISC -"
+            },
+            {
+                "address": "f3",
+                "name": "RECORD"
+            },
+            {
+                "address": "f4",
+                "name": "DELETE"
+            },
+            {
+                "address": "f5",
+                "name": "INFO"
+            },
+            {
+                "address": "f6",
+                "name": "HOME"
+            },
+            {
+                "address": "f7",
+                "name": "SELECT"
+            },
+            {
+                "address": "f8",
+                "name": "TRACK -"
+            },
+            {
+                "address": "f9",
+                "name": "TRACK +"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "DMX"
+}

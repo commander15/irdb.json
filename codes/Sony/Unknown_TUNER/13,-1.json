@@ -1,0 +1,25 @@
+{
+    "display_name": "Sony Unknown_TUNER",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "BAND"
+            },
+            {
+                "address": "10",
+                "name": "PRESET+"
+            },
+            {
+                "address": "11",
+                "name": "PRESET-"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TUNER"
+}

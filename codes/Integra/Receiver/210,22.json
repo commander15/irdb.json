@@ -1,0 +1,77 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "42",
+                "name": "Z3 VOLUME + (2)"
+            },
+            {
+                "address": "43",
+                "name": "Z3 VOLUME - (2)"
+            },
+            {
+                "address": "47",
+                "name": "STANDBY"
+            },
+            {
+                "address": "47",
+                "name": "Z3 STANDBY"
+            },
+            {
+                "address": "47",
+                "name": "ZONE 2 OFF"
+            },
+            {
+                "address": "5f",
+                "name": "Z3 SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "SOURCE"
+            },
+            {
+                "address": "84",
+                "name": "Z3 MUTING ON"
+            },
+            {
+                "address": "84",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "85",
+                "name": "Z3 MUTING OFF"
+            },
+            {
+                "address": "85",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "8c",
+                "name": "DVD"
+            },
+            {
+                "address": "8c",
+                "name": "Z3 DVD"
+            },
+            {
+                "address": "8c",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "cb",
+                "name": "Z3 STANDBY/ON (TGLE)"
+            },
+            {
+                "address": "cb",
+                "name": "STANDBY/ON"
+            }
+        ],
+        "device_address": "34800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

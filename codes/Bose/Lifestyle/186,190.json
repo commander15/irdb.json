@@ -1,0 +1,293 @@
+{
+    "display_name": "Bose Lifestyle",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "5",
+                "name": "AM"
+            },
+            {
+                "address": "6",
+                "name": "FM/AM TOGGLE"
+            },
+            {
+                "address": "d",
+                "name": "VCR"
+            },
+            {
+                "address": "e",
+                "name": "TV"
+            },
+            {
+                "address": "f",
+                "name": "AUX"
+            },
+            {
+                "address": "15",
+                "name": "CBL/SAT"
+            },
+            {
+                "address": "18",
+                "name": "TCPC DOWN"
+            },
+            {
+                "address": "18",
+                "name": "TRACK/CH./PRE. DOWN"
+            },
+            {
+                "address": "19",
+                "name": "TCPC UP"
+            },
+            {
+                "address": "19",
+                "name": "TRACK/CH./PRE. UP"
+            },
+            {
+                "address": "1a",
+                "name": "STOP"
+            },
+            {
+                "address": "20",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "25",
+                "name": "FM ASSERT"
+            },
+            {
+                "address": "28",
+                "name": "AM ASSERT"
+            },
+            {
+                "address": "30",
+                "name": "EXIT"
+            },
+            {
+                "address": "36",
+                "name": "PAUSE ASSERT"
+            },
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "41",
+                "name": "1"
+            },
+            {
+                "address": "42",
+                "name": "2"
+            },
+            {
+                "address": "43",
+                "name": "3"
+            },
+            {
+                "address": "44",
+                "name": "4"
+            },
+            {
+                "address": "45",
+                "name": "5"
+            },
+            {
+                "address": "46",
+                "name": "6"
+            },
+            {
+                "address": "47",
+                "name": "7"
+            },
+            {
+                "address": "48",
+                "name": "8"
+            },
+            {
+                "address": "49",
+                "name": "9"
+            },
+            {
+                "address": "4c",
+                "name": "POWER"
+            },
+            {
+                "address": "4c",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "4c",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "4d",
+                "name": "MUTE ALL TOGGLE"
+            },
+            {
+                "address": "4d",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "53",
+                "name": "CD/DVD"
+            },
+            {
+                "address": "55",
+                "name": "PLAY"
+            },
+            {
+                "address": "56",
+                "name": "PAUSE TOGGLE"
+            },
+            {
+                "address": "57",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "57",
+                "name": "SEEK/SCAN <<"
+            },
+            {
+                "address": "58",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "58",
+                "name": "SEEK/SCAN >>"
+            },
+            {
+                "address": "59",
+                "name": "FM"
+            },
+            {
+                "address": "5c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "60",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "63",
+                "name": "CD #"
+            },
+            {
+                "address": "64",
+                "name": "INFO"
+            },
+            {
+                "address": "65",
+                "name": "ENCORE"
+            },
+            {
+                "address": "65",
+                "name": "SIMILAR (ENCORE)"
+            },
+            {
+                "address": "66",
+                "name": "UMUSIC"
+            },
+            {
+                "address": "67",
+                "name": "WHOLE CD"
+            },
+            {
+                "address": "68",
+                "name": "RATING -"
+            },
+            {
+                "address": "69",
+                "name": "RATING +"
+            },
+            {
+                "address": "70",
+                "name": "SYSTEM"
+            },
+            {
+                "address": "80",
+                "name": "SETTINGS"
+            },
+            {
+                "address": "8c",
+                "name": "POWER ON"
+            },
+            {
+                "address": "8c",
+                "name": "POWER ON ASSERT"
+            },
+            {
+                "address": "90",
+                "name": "DVD MENU"
+            },
+            {
+                "address": "9d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "9f",
+                "name": "PLAYLIST"
+            },
+            {
+                "address": "a0",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "b0",
+                "name": "LIBRARY"
+            },
+            {
+                "address": "b3",
+                "name": "STORED"
+            },
+            {
+                "address": "c0",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "cc",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "cc",
+                "name": "POWER OFF ASSERT"
+            },
+            {
+                "address": "cd",
+                "name": "MUTE ALL ASSERT"
+            },
+            {
+                "address": "d0",
+                "name": "GUIDE"
+            },
+            {
+                "address": "e0",
+                "name": "ENTER"
+            },
+            {
+                "address": "f4",
+                "name": "LOCAL SOURCE"
+            },
+            {
+                "address": "fe",
+                "name": "MUTE ASSERT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Bose",
+    "model": "",
+    "name": "",
+    "target": "Lifestyle"
+}

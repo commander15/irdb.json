@@ -1,0 +1,65 @@
+{
+    "display_name": "Carver Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "REMOTE VOLUME UP"
+            },
+            {
+                "address": "12",
+                "name": "REMOTE VOLUME DOWN"
+            },
+            {
+                "address": "40",
+                "name": "POWER"
+            },
+            {
+                "address": "42",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "43",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "45",
+                "name": "REMOTE"
+            },
+            {
+                "address": "52",
+                "name": "PHONO"
+            },
+            {
+                "address": "53",
+                "name": "CD"
+            },
+            {
+                "address": "54",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "55",
+                "name": "TUNER"
+            },
+            {
+                "address": "5b",
+                "name": "MUTE"
+            },
+            {
+                "address": "5c",
+                "name": "AUX"
+            },
+            {
+                "address": "5d",
+                "name": "VIDEO 2"
+            }
+        ],
+        "device_address": "38000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

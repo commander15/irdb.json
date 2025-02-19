@@ -1,0 +1,265 @@
+{
+    "display_name": "Go Video VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SKIP"
+            },
+            {
+                "address": "1",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "7",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "f",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "13",
+                "name": "SLOW + ^"
+            },
+            {
+                "address": "13",
+                "name": "SLOW +"
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "15",
+                "name": "STOP []"
+            },
+            {
+                "address": "15",
+                "name": "STOP/EJECT []"
+            },
+            {
+                "address": "16",
+                "name": "PAUSE/STILL"
+            },
+            {
+                "address": "16",
+                "name": "PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "SLOW - V"
+            },
+            {
+                "address": "17",
+                "name": "SLOW -"
+            },
+            {
+                "address": "18",
+                "name": "REW <<"
+            },
+            {
+                "address": "19",
+                "name": "PLAY >"
+            },
+            {
+                "address": "19",
+                "name": "PLAY/LOAD >"
+            },
+            {
+                "address": "1a",
+                "name": "FWD >>"
+            },
+            {
+                "address": "1c",
+                "name": "MEMORY"
+            },
+            {
+                "address": "1d",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1d",
+                "name": "RESET"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1f",
+                "name": "MENU"
+            },
+            {
+                "address": "22",
+                "name": "SELECT"
+            },
+            {
+                "address": "24",
+                "name": "VHS"
+            },
+            {
+                "address": "26",
+                "name": "100+"
+            },
+            {
+                "address": "2b",
+                "name": "INDEX"
+            },
+            {
+                "address": "2c",
+                "name": "TRACKING/MENU ^"
+            },
+            {
+                "address": "2d",
+                "name": "TRACKING/MENU V"
+            },
+            {
+                "address": "31",
+                "name": "CLK/CTR"
+            },
+            {
+                "address": "3a",
+                "name": "SP/SLP"
+            },
+            {
+                "address": "3c",
+                "name": "ATR"
+            },
+            {
+                "address": "42",
+                "name": "SHUTTLE BEGIN <"
+            },
+            {
+                "address": "42",
+                "name": "TRK/MENU ^"
+            },
+            {
+                "address": "43",
+                "name": "SHUTTLE END >"
+            },
+            {
+                "address": "43",
+                "name": "TRK/MENU V"
+            },
+            {
+                "address": "4c",
+                "name": "SCENE"
+            },
+            {
+                "address": "4d",
+                "name": "BEGIN"
+            },
+            {
+                "address": "4e",
+                "name": "END"
+            },
+            {
+                "address": "54",
+                "name": "LCV"
+            },
+            {
+                "address": "54",
+                "name": "LAST CHANNEL"
+            },
+            {
+                "address": "58",
+                "name": "QUIT"
+            },
+            {
+                "address": "59",
+                "name": "TUNER"
+            },
+            {
+                "address": "5a",
+                "name": "LINE"
+            },
+            {
+                "address": "5b",
+                "name": "8MM"
+            },
+            {
+                "address": "5c",
+                "name": "DECK 2"
+            },
+            {
+                "address": "5c",
+                "name": "SYNC EDIT"
+            },
+            {
+                "address": "5d",
+                "name": "DECK 1"
+            },
+            {
+                "address": "5d",
+                "name": "8MM/VHS"
+            },
+            {
+                "address": "5e",
+                "name": "COPY TAPE"
+            }
+        ],
+        "device_address": "a0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Go Video",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

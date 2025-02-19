@@ -1,0 +1,33 @@
+{
+    "display_name": "Rotel CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "FF"
+            },
+            {
+                "address": "21",
+                "name": "REW"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Rotel",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

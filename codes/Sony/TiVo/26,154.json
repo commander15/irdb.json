@@ -1,0 +1,285 @@
+{
+    "display_name": "Sony TiVo",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "b",
+                "name": "ENTER/JUMP"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "b",
+                "name": "JUMP"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL+"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL/PAGE UP"
+            },
+            {
+                "address": "11",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "11",
+                "name": "CHANNEL_"
+            },
+            {
+                "address": "11",
+                "name": "CHANNEL/PAGE DOWN"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "BACK"
+            },
+            {
+                "address": "1b",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "1b",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "1b",
+                "name": "BACK <<"
+            },
+            {
+                "address": "1b",
+                "name": "REW"
+            },
+            {
+                "address": "1c",
+                "name": "FORWARD"
+            },
+            {
+                "address": "1c",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "1c",
+                "name": "FAST FWD >>"
+            },
+            {
+                "address": "1c",
+                "name": "FF"
+            },
+            {
+                "address": "1d",
+                "name": "RECORD ON/OFF"
+            },
+            {
+                "address": "1d",
+                "name": "RECORD"
+            },
+            {
+                "address": "1d",
+                "name": "REC ON/OFF"
+            },
+            {
+                "address": "23",
+                "name": "SLOW"
+            },
+            {
+                "address": "23",
+                "name": "SLOW >"
+            },
+            {
+                "address": "23",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "2b",
+                "name": "LIST"
+            },
+            {
+                "address": "5b",
+                "name": "REPLAY"
+            },
+            {
+                "address": "5e",
+                "name": "MENU SELECT"
+            },
+            {
+                "address": "5e",
+                "name": "SE3ECT"
+            },
+            {
+                "address": "5e",
+                "name": "SELECT"
+            },
+            {
+                "address": "5f",
+                "name": "MENU UP ARROW"
+            },
+            {
+                "address": "5f",
+                "name": "UP"
+            },
+            {
+                "address": "5f",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "60",
+                "name": "MENU DOWN ARROW"
+            },
+            {
+                "address": "60",
+                "name": "DOWN"
+            },
+            {
+                "address": "60",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "61",
+                "name": "MENU RIGHT ARROW"
+            },
+            {
+                "address": "61",
+                "name": "RIGHT"
+            },
+            {
+                "address": "61",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "62",
+                "name": "MENU LEFT ARROW"
+            },
+            {
+                "address": "62",
+                "name": "LEFT"
+            },
+            {
+                "address": "62",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "63",
+                "name": "CLEAR"
+            },
+            {
+                "address": "6f",
+                "name": "TIVO"
+            },
+            {
+                "address": "6f",
+                "name": "TIVO CENTRAL"
+            },
+            {
+                "address": "6f",
+                "name": "TIVO MAN"
+            },
+            {
+                "address": "6f",
+                "name": "TIVO BUTTON"
+            },
+            {
+                "address": "70",
+                "name": "THUMBS UP"
+            },
+            {
+                "address": "70",
+                "name": "THUMB UP"
+            },
+            {
+                "address": "71",
+                "name": "THUMBS DOWN"
+            },
+            {
+                "address": "71",
+                "name": "THUMB DOWN"
+            },
+            {
+                "address": "72",
+                "name": "ADVANCE"
+            },
+            {
+                "address": "72",
+                "name": "ADVANCE>"
+            },
+            {
+                "address": "73",
+                "name": "GUIDE/LIVE TV"
+            },
+            {
+                "address": "73",
+                "name": "GUIDE"
+            },
+            {
+                "address": "73",
+                "name": "GUIDE(LIVE TV)"
+            }
+        ],
+        "device_address": "68000000",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TiVo"
+}

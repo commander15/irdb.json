@@ -1,0 +1,93 @@
+{
+    "display_name": "Antex Electronics Satellite Radio",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "ZONE 1"
+            },
+            {
+                "address": "9",
+                "name": "ZONE 2"
+            },
+            {
+                "address": "a",
+                "name": "ZONE 3"
+            },
+            {
+                "address": "f",
+                "name": "PRESET"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "1c",
+                "name": "POWER"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "22",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "23",
+                "name": "CURSOR SELECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "ScAtl-6"
+    },
+    "manufacturer": "Antex Electronics",
+    "model": "",
+    "name": "",
+    "target": "Satellite Radio"
+}

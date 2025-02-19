@@ -1,0 +1,265 @@
+{
+    "display_name": "Harman Kardon Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "AM/FM"
+            },
+            {
+                "address": "81",
+                "name": "FM"
+            },
+            {
+                "address": "81",
+                "name": "BAND"
+            },
+            {
+                "address": "82",
+                "name": "AM"
+            },
+            {
+                "address": "84",
+                "name": "AM/FM TUNE/SRCH >>"
+            },
+            {
+                "address": "84",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "84",
+                "name": "SCROLL +"
+            },
+            {
+                "address": "84",
+                "name": "TUNE+"
+            },
+            {
+                "address": "85",
+                "name": "AM/FM TUNE/SRCH <<"
+            },
+            {
+                "address": "85",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "85",
+                "name": "SCROLL -"
+            },
+            {
+                "address": "85",
+                "name": "TUNE-"
+            },
+            {
+                "address": "86",
+                "name": "AM/FM * (MEMO)"
+            },
+            {
+                "address": "86",
+                "name": "MEMO"
+            },
+            {
+                "address": "86",
+                "name": "MEMORY"
+            },
+            {
+                "address": "87",
+                "name": "AM/FM 1 (ABC)"
+            },
+            {
+                "address": "87",
+                "name": "1"
+            },
+            {
+                "address": "88",
+                "name": "AM/FM 2 (DEF)"
+            },
+            {
+                "address": "88",
+                "name": "2"
+            },
+            {
+                "address": "89",
+                "name": "AM/FM 3 (GHI)"
+            },
+            {
+                "address": "89",
+                "name": "3"
+            },
+            {
+                "address": "8a",
+                "name": "AM/FM 4 (JKL)"
+            },
+            {
+                "address": "8a",
+                "name": "4"
+            },
+            {
+                "address": "8b",
+                "name": "AM/FM 5 (MNO)"
+            },
+            {
+                "address": "8b",
+                "name": "5"
+            },
+            {
+                "address": "8c",
+                "name": "AM/FM 6 (PQR)"
+            },
+            {
+                "address": "8c",
+                "name": "6"
+            },
+            {
+                "address": "8d",
+                "name": "AM/FM 7 (STU)"
+            },
+            {
+                "address": "8d",
+                "name": "7"
+            },
+            {
+                "address": "8e",
+                "name": "AM/FM 8 (VWX)"
+            },
+            {
+                "address": "8e",
+                "name": "8"
+            },
+            {
+                "address": "8f",
+                "name": "SHIFT"
+            },
+            {
+                "address": "91",
+                "name": "SEEK"
+            },
+            {
+                "address": "91",
+                "name": "AUTO TUNING"
+            },
+            {
+                "address": "92",
+                "name": "HI-BLEND"
+            },
+            {
+                "address": "93",
+                "name": "AM/FM FM MODE (<)"
+            },
+            {
+                "address": "93",
+                "name": "FUNCTION/FM MODE"
+            },
+            {
+                "address": "94",
+                "name": "ACT TRACK"
+            },
+            {
+                "address": "95",
+                "name": "FINE TUNE"
+            },
+            {
+                "address": "96",
+                "name": "AM/FM # (P-SCAN)"
+            },
+            {
+                "address": "96",
+                "name": "P.SCAN(PRESET SCAN)"
+            },
+            {
+                "address": "97",
+                "name": "ANT 1 (ANTENNA 1)"
+            },
+            {
+                "address": "98",
+                "name": "ANT 2 (ANTENNA 2)"
+            },
+            {
+                "address": "9c",
+                "name": "ON (MAIN POWER)"
+            },
+            {
+                "address": "9c",
+                "name": "POWER ON"
+            },
+            {
+                "address": "9d",
+                "name": "AM/FM 9 (YZ)"
+            },
+            {
+                "address": "9d",
+                "name": "9"
+            },
+            {
+                "address": "9e",
+                "name": "AM/FM 0 (CLEAR)"
+            },
+            {
+                "address": "9e",
+                "name": "0"
+            },
+            {
+                "address": "9f",
+                "name": "OFF (MAIN POWER)"
+            },
+            {
+                "address": "a8",
+                "name": "SELECT"
+            },
+            {
+                "address": "aa",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c1",
+                "name": "MUTE"
+            },
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c7",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "c8",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "ca",
+                "name": "VID1"
+            },
+            {
+                "address": "cb",
+                "name": "VID2"
+            },
+            {
+                "address": "ce",
+                "name": "VID3"
+            },
+            {
+                "address": "d0",
+                "name": "DVD"
+            },
+            {
+                "address": "d3",
+                "name": "TV"
+            },
+            {
+                "address": "db",
+                "name": "SLEEP"
+            },
+            {
+                "address": "dc",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

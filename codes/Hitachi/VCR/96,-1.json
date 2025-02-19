@@ -1,0 +1,2357 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "TRACKING - UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "S. TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR1 TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "TRACKING +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR1 AUTO TRK ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR1 MANUAL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VTR1 TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "TRACKING - DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "S. TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR1 TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "TRACKING -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR1 AUTO TRK V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR1 MANUAL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VTR1 TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR1 SLOW +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VARIABLE +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR1 SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR1 SLOW ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VTR1 SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR1 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR1 SLOW -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VARIABLE -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR1 SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR1 SLOW V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VTR1 SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VTR 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "8 (AM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR1 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "8 VWX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR1 8 (AM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VTR1 8 (T U V AM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR 8 (AM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR1 8 AM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VTR 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "9 (PM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR1 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "9 YZ.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR1 9 (PM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VTR1 9 (W X Y PM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR 9 (PM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR1 9 PM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "100 ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "100+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "VCR1 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "VCR 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "+100",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FAST FORWARD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VTR FFWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FFWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FFWD/SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 FFWD>>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 FFWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FF/VISUAL SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FFWD/VI.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR FFWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR F.FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 FF/V.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "F.FWD/VI.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 F.FWD/V.SRCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 F.FWD/SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR1 F.FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VTR1 FF/VI.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "F.FWD/VISUAL SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR FFWD >>/>>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REWIND <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VTR REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW/SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR1 REW<<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR1 REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW/VISUAL SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW/VI.SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR1 REW/V.SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR1 REW/VISUAL SRCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR1 REW/SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VTR1 REW/VI.SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR REW <</<<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "RR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VTR STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VCR1 STOP[]",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VCR1 STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VCR STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VTR1 STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VTR 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "0 (WEEK DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VCR1 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "0 ?!\"",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VCR 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VTR1 0 (? !)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VTR 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "1 (SUN)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VCR1 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "1 ABC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VCR 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VTR1 1 (Q Z)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VTR 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "2 (MON)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VCR1 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "2 DEF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VCR 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VTR1 2 (A B C)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VTR 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "3 (TUE)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VCR1 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "3 GHI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VCR 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VTR1 3 (D E F)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F.ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F. ADV (FAST PLAY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "STILL F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR1 F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR1 SKIP/F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR1 F.ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VTR1 F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR1 F ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "STILL F.ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SLOW MOTION +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SLOW >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VCR1 SLOW >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VCR1 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VTR1 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "X2 FAST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "X2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VTR PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VCR1 PLAY>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VCR1 PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "PLAY >",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VCR PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VTR1 PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR1 AUDIO MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VTR1 UNKNOWN 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR1 CH1/2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR1 MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR1 VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "TV/VCR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VTR VTR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "TV/VTR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VTR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VTR/TV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VTR1 UNKNOWN 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR1 TV/VCR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VTR POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VCR1 OPERATE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VCR1 POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VCR POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VTR1 OPERATE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL --",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VTR CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "V (CHANNEL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL V (AUX)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHAN -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR1 CH V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR CH V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR1 CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VTR1 TV PROGRAMME V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CH-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHANNEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VTR CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "^ (CHANNEL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHANNEL ^ (AUX)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHANNEL UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHAN +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR1 CH ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR CH ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR1 CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VTR1 TV PROGRAMME ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CH +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VTR PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR1 PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "EDIT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR1 PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR1 PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VTR1 PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "0",
+                "name": "REVERSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VTR 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "4 (WED)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VCR1 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "4 JKL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VCR 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VTR1 4 (G H I WKL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VCR1 4 (DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VTR 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "5 (THU)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR1 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "5 MNO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR1 5 (DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VTR1 5 (J K L)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR 5 (DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR1 5 DAILY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VTR 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6 (FRI)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6 (CL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6 PQR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6 PL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6 PL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6 (WEEKLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6 (PL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VTR1 6 (M N O)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR 6 (WEEKLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR1 6 WEEKLY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VTR 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "7 (SAT)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VCR1 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "7 STU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VCR 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VTR1 7 (P R S DLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VCR1 7 (WEEKLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "20",
+                "device_address": "0",
+                "name": "ART",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "0",
+                "name": "PNP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "0",
+                "name": "P IN P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "23",
+                "device_address": "0",
+                "name": "SHIFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "26",
+                "device_address": "0",
+                "name": "MULTI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "27",
+                "device_address": "0",
+                "name": "SEEK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2a",
+                "device_address": "0",
+                "name": "RECALL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "0",
+                "name": "VCR1 A.DUB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR1 T.SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR1 TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR1 SP/EP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VTR1 TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR1 AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR1 AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR1 INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VTR1 TRANS (AUX)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "0",
+                "name": "VCR1 MTS MONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "VCR1 EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "VTR1 EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "0",
+                "name": "VCR1 V.DUB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "VCR1 GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "INTELASCAN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "TRACKING - AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR1 AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR1 TRACKING AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VTR1 AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR1 AUTO TRACKING",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "PROG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VCR1 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VCR1 GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VCR GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VTR1 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "SCREEN MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR1 0000",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR1 CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR1 CLEAR CNT RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "CLEAR COUNT RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR1 RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VTR1 COUNTER 0000",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "COUNTER RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR1 T-160 RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "VCR1 DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "VCR DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "VTR1 DISP.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "SCREEN DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "DISPLY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "0",
+                "name": "TIMER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VCR1 MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VCR1 TAPE RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VTR1 COUNTER MEMO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "COUNTER MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR1 INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR1 GO-TO INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "GO-TO INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VTR1 INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR1 INDEX GO-TO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "COUNTER/REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR1 COUNT CLOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "COUNTER REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR1 COUNTER REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR1 REMAIN MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VTR1 COUNT REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "CLOCK COUNTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR1 MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "VCR1 REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "0",
+                "name": "VCR1 TV MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "0",
+                "name": "VCR1 EDIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "0",
+                "name": "VCR1 SET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "CENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "VCR1 JOG/SHUTTLE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "69",
+                "device_address": "0",
+                "name": "SKIPFF",
+                "protocol": "NEC"
+            },
+            {
+                "address": "6a",
+                "device_address": "0",
+                "name": "SKIPRR",
+                "protocol": "NEC"
+            },
+            {
+                "address": "6b",
+                "device_address": "0",
+                "name": "SLOW MOTION +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6e",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR1 SHUTTLE FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR1 SHUT FWD (F.S.)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR1 SHUT FWD >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR SHUT FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR1 SHUT.FWD(F.S)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR1 SHUTTLE REW",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR1 SHUT REV (F.S.)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR1 SHUT REV <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR SHUT REV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR1 SHUT.REV(F.S)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "FRAME >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "VCR1 JOG FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "JOG +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "VCR1 JOG FORWARD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "VCR1 JOG/SHU.FORWARD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "FRAME <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR1 JOG REW",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR1 JOG REV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "JOG -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR1 JOG REVERSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR1 JOG/SHU.REVERSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "83",
+                "device_address": "0",
+                "name": "SHUTTLE +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "0",
+                "name": "SHUTTLE -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "86",
+                "device_address": "0",
+                "name": "GO-TO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "86",
+                "device_address": "0",
+                "name": "VCR1 GO-TO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "TITLE (LAST CH)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "VCR1 TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR1 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR1 +100",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR1 +100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "0",
+                "name": "VCR1 MTS SA SET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "VCR1 PRINT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "SPECTRA SONIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "VCR1 SPECTRA SONIC",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

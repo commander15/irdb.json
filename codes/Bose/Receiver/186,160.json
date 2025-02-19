@@ -1,0 +1,29 @@
+{
+    "display_name": "Bose Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "4c",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "ba",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Bose",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

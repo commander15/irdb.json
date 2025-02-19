@@ -1,0 +1,37 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "5",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "TAPE REC/PLAY"
+            },
+            {
+                "address": "c",
+                "name": "TAPE FF >>"
+            },
+            {
+                "address": "d",
+                "name": "TAPE REW <<"
+            },
+            {
+                "address": "e",
+                "name": "TAPE PAUSE "
+            }
+        ],
+        "device_address": "d00",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,765 @@
+{
+    "display_name": "Meridian Remote Control",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0B"
+            },
+            {
+                "address": "0",
+                "name": "0 A"
+            },
+            {
+                "address": "0",
+                "name": "0 B"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1B"
+            },
+            {
+                "address": "1",
+                "name": "1 A"
+            },
+            {
+                "address": "1",
+                "name": "1 B"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2B"
+            },
+            {
+                "address": "2",
+                "name": "2 A"
+            },
+            {
+                "address": "2",
+                "name": "2 B"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3B"
+            },
+            {
+                "address": "3",
+                "name": "3 B"
+            },
+            {
+                "address": "3",
+                "name": "3 A"
+            },
+            {
+                "address": "3",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4B"
+            },
+            {
+                "address": "4",
+                "name": "4 B"
+            },
+            {
+                "address": "4",
+                "name": "4 A"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5B"
+            },
+            {
+                "address": "5",
+                "name": "5 A"
+            },
+            {
+                "address": "5",
+                "name": "5 B"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6B"
+            },
+            {
+                "address": "6",
+                "name": "6 A"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7B"
+            },
+            {
+                "address": "7",
+                "name": "7 A"
+            },
+            {
+                "address": "7",
+                "name": "7 B"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8B"
+            },
+            {
+                "address": "8",
+                "name": "8 A"
+            },
+            {
+                "address": "8",
+                "name": "8 B"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9B"
+            },
+            {
+                "address": "9",
+                "name": "9 B"
+            },
+            {
+                "address": "9",
+                "name": "9 A"
+            },
+            {
+                "address": "a",
+                "name": "PAGE >"
+            },
+            {
+                "address": "a",
+                "name": "PAGE > B"
+            },
+            {
+                "address": "c",
+                "name": "OFF"
+            },
+            {
+                "address": "c",
+                "name": "OFF B"
+            },
+            {
+                "address": "c",
+                "name": "OFF A"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "MUTE B"
+            },
+            {
+                "address": "d",
+                "name": "MUTE A"
+            },
+            {
+                "address": "e",
+                "name": "F BAND"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME + B"
+            },
+            {
+                "address": "10",
+                "name": "VOL UP A"
+            },
+            {
+                "address": "10",
+                "name": "VOL UP B"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME - B"
+            },
+            {
+                "address": "11",
+                "name": "VOL DOWN A"
+            },
+            {
+                "address": "11",
+                "name": "VOL DOWN B"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT B"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT A"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "20",
+                "name": "CHAPTER +"
+            },
+            {
+                "address": "20",
+                "name": "CHAPTER +B"
+            },
+            {
+                "address": "20",
+                "name": "TRACK + A"
+            },
+            {
+                "address": "20",
+                "name": "TRACK + B"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": "CHAPTER -"
+            },
+            {
+                "address": "21",
+                "name": "CHAPTER -B"
+            },
+            {
+                "address": "21",
+                "name": "TRACK - A"
+            },
+            {
+                "address": "21",
+                "name": "TRACK - B"
+            },
+            {
+                "address": "23",
+                "name": "AUDIO"
+            },
+            {
+                "address": "23",
+                "name": "AUDIO B"
+            },
+            {
+                "address": "23",
+                "name": "F AUDIO"
+            },
+            {
+                "address": "2e",
+                "name": "STORE"
+            },
+            {
+                "address": "2e",
+                "name": "STORE B"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE A"
+            },
+            {
+                "address": "31",
+                "name": "CLEAR"
+            },
+            {
+                "address": "31",
+                "name": "CLEAR B"
+            },
+            {
+                "address": "32",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "32",
+                "name": "REWIND"
+            },
+            {
+                "address": "32",
+                "name": "REWIND B"
+            },
+            {
+                "address": "32",
+                "name": "REW B"
+            },
+            {
+                "address": "32",
+                "name": "REW A"
+            },
+            {
+                "address": "33",
+                "name": "OSD"
+            },
+            {
+                "address": "33",
+                "name": "OSD B"
+            },
+            {
+                "address": "33",
+                "name": "F OSD"
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": "FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "FORWARD B"
+            },
+            {
+                "address": "34",
+                "name": "FF B"
+            },
+            {
+                "address": "34",
+                "name": "FF A"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "35",
+                "name": "PLAY B"
+            },
+            {
+                "address": "35",
+                "name": "PLAY A"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "36",
+                "name": "STOP B"
+            },
+            {
+                "address": "36",
+                "name": "STOP A"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "37",
+                "name": "RECORD B"
+            },
+            {
+                "address": "3a",
+                "name": "ANGLE"
+            },
+            {
+                "address": "3a",
+                "name": "ANGLE B"
+            },
+            {
+                "address": "3a",
+                "name": "F ANGLE"
+            },
+            {
+                "address": "3b",
+                "name": "A-B"
+            },
+            {
+                "address": "3b",
+                "name": "A-B B"
+            },
+            {
+                "address": "3b",
+                "name": "F A-B"
+            },
+            {
+                "address": "3c",
+                "name": "F PHASE"
+            },
+            {
+                "address": "43",
+                "name": "#"
+            },
+            {
+                "address": "43",
+                "name": "# B"
+            },
+            {
+                "address": "43",
+                "name": "F #"
+            },
+            {
+                "address": "44",
+                "name": "PAGE <"
+            },
+            {
+                "address": "44",
+                "name": "PAGE < B"
+            },
+            {
+                "address": "44",
+                "name": "F <PAGE"
+            },
+            {
+                "address": "45",
+                "name": "SETUP"
+            },
+            {
+                "address": "45",
+                "name": "SETUP B"
+            },
+            {
+                "address": "45",
+                "name": "F SETUP"
+            },
+            {
+                "address": "4c",
+                "name": "LD"
+            },
+            {
+                "address": "4c",
+                "name": "LD A"
+            },
+            {
+                "address": "4c",
+                "name": "LD B"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP B"
+            },
+            {
+                "address": "50",
+                "name": "UP B"
+            },
+            {
+                "address": "50",
+                "name": "UP A"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN B"
+            },
+            {
+                "address": "51",
+                "name": "DOWN A"
+            },
+            {
+                "address": "51",
+                "name": "DOWN B"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "52",
+                "name": "MENU B"
+            },
+            {
+                "address": "52",
+                "name": "MENU A"
+            },
+            {
+                "address": "53",
+                "name": "RETURN"
+            },
+            {
+                "address": "53",
+                "name": "RETURN B"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT B"
+            },
+            {
+                "address": "55",
+                "name": "LEFT A"
+            },
+            {
+                "address": "55",
+                "name": "LEFT B"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT B"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT A"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT B"
+            },
+            {
+                "address": "57",
+                "name": "ENTER"
+            },
+            {
+                "address": "57",
+                "name": "ENTER B"
+            },
+            {
+                "address": "57",
+                "name": "ENTER A"
+            },
+            {
+                "address": "5d",
+                "name": "DSP B"
+            },
+            {
+                "address": "5d",
+                "name": "DSP A"
+            },
+            {
+                "address": "6b",
+                "name": "CD"
+            },
+            {
+                "address": "6b",
+                "name": "CD B"
+            },
+            {
+                "address": "6b",
+                "name": "CD A"
+            },
+            {
+                "address": "6c",
+                "name": "RADIO"
+            },
+            {
+                "address": "6c",
+                "name": "RADIO B"
+            },
+            {
+                "address": "6c",
+                "name": "RADIO A"
+            },
+            {
+                "address": "6d",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "6d",
+                "name": "TAPE 1 B"
+            },
+            {
+                "address": "6d",
+                "name": "TAPE 1 A"
+            },
+            {
+                "address": "6e",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "6e",
+                "name": "TAPE 2A"
+            },
+            {
+                "address": "6e",
+                "name": "TAPE 2B"
+            },
+            {
+                "address": "6f",
+                "name": "CABLE"
+            },
+            {
+                "address": "6f",
+                "name": "CABLE B"
+            },
+            {
+                "address": "6f",
+                "name": "CABLE A"
+            },
+            {
+                "address": "70",
+                "name": "VCR 1"
+            },
+            {
+                "address": "70",
+                "name": "VCR 1 B"
+            },
+            {
+                "address": "70",
+                "name": "VCR 1 A"
+            },
+            {
+                "address": "71",
+                "name": "VCR 2"
+            },
+            {
+                "address": "71",
+                "name": "VCR 2 A"
+            },
+            {
+                "address": "71",
+                "name": "VCR 2 B"
+            },
+            {
+                "address": "72",
+                "name": "LP"
+            },
+            {
+                "address": "72",
+                "name": "LP A"
+            },
+            {
+                "address": "72",
+                "name": "LP B"
+            },
+            {
+                "address": "73",
+                "name": "TV"
+            },
+            {
+                "address": "73",
+                "name": "TV B"
+            },
+            {
+                "address": "73",
+                "name": "TV A"
+            },
+            {
+                "address": "74",
+                "name": "DVD"
+            },
+            {
+                "address": "74",
+                "name": "DVDB"
+            },
+            {
+                "address": "74",
+                "name": "DVD A"
+            },
+            {
+                "address": "74",
+                "name": "DVD B"
+            },
+            {
+                "address": "75",
+                "name": "CDR"
+            },
+            {
+                "address": "75",
+                "name": "CDR A"
+            },
+            {
+                "address": "75",
+                "name": "CDR B"
+            },
+            {
+                "address": "79",
+                "name": "."
+            },
+            {
+                "address": "79",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "79",
+                "name": "TOP MENU B"
+            },
+            {
+                "address": "79",
+                "name": "TOP MENU A"
+            },
+            {
+                "address": "7a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "7a",
+                "name": "DISPLAY A"
+            },
+            {
+                "address": "7a",
+                "name": ""
+            },
+            {
+                "address": "7a",
+                "name": "DISPLAY B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Meridian",
+    "model": "",
+    "name": "",
+    "target": "Remote Control"
+}

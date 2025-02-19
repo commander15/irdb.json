@@ -1,0 +1,21 @@
+{
+    "display_name": "Sony DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "1e",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1f",
+                "name": "CHANNEL -"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

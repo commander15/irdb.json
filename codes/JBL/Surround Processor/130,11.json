@@ -1,0 +1,321 @@
+{
+    "display_name": "JBL Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MENU +"
+            },
+            {
+                "address": "1",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "2",
+                "name": "OSD OFF"
+            },
+            {
+                "address": "4",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "5",
+                "name": "BALANCE REAR"
+            },
+            {
+                "address": "5",
+                "name": "OSD ON"
+            },
+            {
+                "address": "6",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "8",
+                "name": "SELECT"
+            },
+            {
+                "address": "a",
+                "name": "DONE"
+            },
+            {
+                "address": "c",
+                "name": "TAPE"
+            },
+            {
+                "address": "c",
+                "name": "INPUT:TAPE"
+            },
+            {
+                "address": "d",
+                "name": "TUNER"
+            },
+            {
+                "address": "d",
+                "name": "INPUT:TUNER"
+            },
+            {
+                "address": "e",
+                "name": "CD"
+            },
+            {
+                "address": "e",
+                "name": "INPUT:CD"
+            },
+            {
+                "address": "f",
+                "name": "AUX"
+            },
+            {
+                "address": "f",
+                "name": "INPUT:AUX"
+            },
+            {
+                "address": "10",
+                "name": "TV"
+            },
+            {
+                "address": "10",
+                "name": "INPUT:TV"
+            },
+            {
+                "address": "11",
+                "name": "VIDEO DISC"
+            },
+            {
+                "address": "11",
+                "name": "INPUT:V DISC"
+            },
+            {
+                "address": "12",
+                "name": "VCR 2"
+            },
+            {
+                "address": "12",
+                "name": "INPUT:DVD"
+            },
+            {
+                "address": "13",
+                "name": "VCR 1"
+            },
+            {
+                "address": "13",
+                "name": "INPUT:VCR"
+            },
+            {
+                "address": "14",
+                "name": "RECORD ZONE II"
+            },
+            {
+                "address": "15",
+                "name": "MUTE"
+            },
+            {
+                "address": "16",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "18",
+                "name": "POWER ON"
+            },
+            {
+                "address": "19",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1a",
+                "name": "EFFECT +"
+            },
+            {
+                "address": "1a",
+                "name": "FX UP"
+            },
+            {
+                "address": "1b",
+                "name": "EFFECT -"
+            },
+            {
+                "address": "1b",
+                "name": "FS DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "MENU -"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "BALANCE FRONT"
+            },
+            {
+                "address": "1f",
+                "name": "EFFECT BYPASS"
+            },
+            {
+                "address": "20",
+                "name": "DOLBY PRO LOGIC"
+            },
+            {
+                "address": "21",
+                "name": "THX CINEMA"
+            },
+            {
+                "address": "22",
+                "name": "LOGIC 7"
+            },
+            {
+                "address": "23",
+                "name": "DTS"
+            },
+            {
+                "address": "24",
+                "name": "2 CHANNEL STEREO"
+            },
+            {
+                "address": "25",
+                "name": "PARTY"
+            },
+            {
+                "address": "26",
+                "name": "TV M"
+            },
+            {
+                "address": "27",
+                "name": "MUSIC"
+            },
+            {
+                "address": "4c",
+                "name": "ZONE 2:TAPE"
+            },
+            {
+                "address": "4d",
+                "name": "ZONE 2:TUNER"
+            },
+            {
+                "address": "4e",
+                "name": "ZONE 2:CD"
+            },
+            {
+                "address": "4f",
+                "name": "ZONE 2:AUX"
+            },
+            {
+                "address": "50",
+                "name": "ZONE 2:TV"
+            },
+            {
+                "address": "51",
+                "name": "ZONE 2:V DISC"
+            },
+            {
+                "address": "52",
+                "name": "ZONE 2:DVD"
+            },
+            {
+                "address": "53",
+                "name": "ZONE 2:VCR"
+            },
+            {
+                "address": "84",
+                "name": "+5DB"
+            },
+            {
+                "address": "85",
+                "name": "REMOTE TRIGGER OFF"
+            },
+            {
+                "address": "86",
+                "name": "-5DB"
+            },
+            {
+                "address": "88",
+                "name": "DEACTIVATE ZONE 2"
+            },
+            {
+                "address": "8a",
+                "name": "U R HERE"
+            },
+            {
+                "address": "8c",
+                "name": "ACCY + TAPE MODE"
+            },
+            {
+                "address": "8d",
+                "name": "ACCY + TUNER MODE"
+            },
+            {
+                "address": "8e",
+                "name": "ACCY + CD MODE"
+            },
+            {
+                "address": "8f",
+                "name": "ACCY + AUX MODE"
+            },
+            {
+                "address": "90",
+                "name": "ACCY + TV MODE"
+            },
+            {
+                "address": "91",
+                "name": "ACCY + V DISC MODE"
+            },
+            {
+                "address": "92",
+                "name": "ACCY + VCR2 MODE"
+            },
+            {
+                "address": "93",
+                "name": "ACCY + VCR1 MODE"
+            },
+            {
+                "address": "94",
+                "name": "ZONE 2 MODE"
+            },
+            {
+                "address": "95",
+                "name": "FULL MUTE"
+            },
+            {
+                "address": "96",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "97",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "98",
+                "name": "OSD ON"
+            },
+            {
+                "address": "99",
+                "name": "OSD OFF"
+            },
+            {
+                "address": "9a",
+                "name": "BASS +"
+            },
+            {
+                "address": "9b",
+                "name": "BASS -"
+            },
+            {
+                "address": "9e",
+                "name": "REMOTE TRIGGER ON"
+            }
+        ],
+        "device_address": "41000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "JBL",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

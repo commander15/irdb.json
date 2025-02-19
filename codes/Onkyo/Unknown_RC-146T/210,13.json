@@ -1,0 +1,49 @@
+{
+    "display_name": "Onkyo Unknown_RC-146T",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "15",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "16",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "18",
+                "name": "Pause-Record"
+            },
+            {
+                "address": "19",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1b",
+                "name": "Autospace"
+            },
+            {
+                "address": "1d",
+                "name": "SkipForward"
+            },
+            {
+                "address": "5d",
+                "name": "Reset"
+            }
+        ],
+        "device_address": "1a4000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Onkyo",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RC-146T"
+}

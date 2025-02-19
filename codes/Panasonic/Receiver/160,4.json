@@ -1,0 +1,25 @@
+{
+    "display_name": "Panasonic Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "34",
+                "name": "PRESET UP"
+            },
+            {
+                "address": "35",
+                "name": "PRESET DOWN"
+            },
+            {
+                "address": "a4",
+                "name": "TUNER"
+            }
+        ],
+        "device_address": "a00",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

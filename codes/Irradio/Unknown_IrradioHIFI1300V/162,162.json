@@ -1,0 +1,89 @@
+{
+    "display_name": "Irradio Unknown_IrradioHIFI1300V",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "skip/tuning-"
+            },
+            {
+                "address": "5",
+                "name": "mode/remain"
+            },
+            {
+                "address": "6",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "7",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "c",
+                "name": "skip/tuning+"
+            },
+            {
+                "address": "d",
+                "name": "random"
+            },
+            {
+                "address": "e",
+                "name": "band"
+            },
+            {
+                "address": "f",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "13",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "14",
+                "name": "memory/clock"
+            },
+            {
+                "address": "15",
+                "name": "intro"
+            },
+            {
+                "address": "17",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_AGAIN"
+            },
+            {
+                "address": "1d",
+                "name": "xbass"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "1f",
+                "name": "timer"
+            },
+            {
+                "address": "20",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "60",
+                "name": "KEY_VOLUMEDOWN"
+            }
+        ],
+        "device_address": "288",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Irradio",
+    "model": "",
+    "name": "",
+    "target": "Unknown_IrradioHIFI1300V"
+}

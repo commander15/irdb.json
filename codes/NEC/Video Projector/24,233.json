@@ -1,0 +1,525 @@
+{
+    "display_name": "NEC Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "VIDEO"
+            },
+            {
+                "address": "4",
+                "name": "RGB"
+            },
+            {
+                "address": "4",
+                "name": "RGB1"
+            },
+            {
+                "address": "5",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "5",
+                "name": "RGB2"
+            },
+            {
+                "address": "6",
+                "name": "SET UP"
+            },
+            {
+                "address": "6",
+                "name": "SET UP (ON SCRN MGR)"
+            },
+            {
+                "address": "7",
+                "name": "SELECT"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "8",
+                "name": "ON"
+            },
+            {
+                "address": "8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "9",
+                "name": "ZOOM W"
+            },
+            {
+                "address": "9",
+                "name": "ZOOM ^"
+            },
+            {
+                "address": "9",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "a",
+                "name": "ZOOM T"
+            },
+            {
+                "address": "a",
+                "name": "ZOOM V"
+            },
+            {
+                "address": "a",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "b",
+                "name": "FOCUS +"
+            },
+            {
+                "address": "b",
+                "name": "FOCUS ^"
+            },
+            {
+                "address": "c",
+                "name": "FOCUS -"
+            },
+            {
+                "address": "c",
+                "name": "FOCUS V"
+            },
+            {
+                "address": "d",
+                "name": "CONTRAST ^"
+            },
+            {
+                "address": "e",
+                "name": "CONTRAST V"
+            },
+            {
+                "address": "f",
+                "name": "BRIGHT ^"
+            },
+            {
+                "address": "10",
+                "name": "BRIGHT V"
+            },
+            {
+                "address": "11",
+                "name": "DISPLAY MUTE"
+            },
+            {
+                "address": "14",
+                "name": "OFF"
+            },
+            {
+                "address": "14",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "15",
+                "name": "CLEAR"
+            },
+            {
+                "address": "16",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "17",
+                "name": "ENTER"
+            },
+            {
+                "address": "17",
+                "name": "MENU L-CLICK (UNDER)"
+            },
+            {
+                "address": "18",
+                "name": "1 (ABC)"
+            },
+            {
+                "address": "19",
+                "name": "2 (DEF)"
+            },
+            {
+                "address": "1a",
+                "name": "3 (GHI)"
+            },
+            {
+                "address": "1b",
+                "name": "4 (JKL)"
+            },
+            {
+                "address": "1c",
+                "name": "5 (MNO)"
+            },
+            {
+                "address": "1d",
+                "name": "6 (PQR)"
+            },
+            {
+                "address": "1e",
+                "name": "7 (STU)"
+            },
+            {
+                "address": "1f",
+                "name": "8 (VWX)"
+            },
+            {
+                "address": "21",
+                "name": "POSITION MOUSE NE"
+            },
+            {
+                "address": "22",
+                "name": "POSITION MOUSE NW"
+            },
+            {
+                "address": "23",
+                "name": "POSITION MOUSE SE"
+            },
+            {
+                "address": "24",
+                "name": "POSITION MOUSE WEST"
+            },
+            {
+                "address": "25",
+                "name": "POSITION (OFF)"
+            },
+            {
+                "address": "40",
+                "name": "9 (YZ-)"
+            },
+            {
+                "address": "41",
+                "name": "0"
+            },
+            {
+                "address": "42",
+                "name": "FOCUS PAT."
+            },
+            {
+                "address": "43",
+                "name": "NORMAL"
+            },
+            {
+                "address": "43",
+                "name": "RESET"
+            },
+            {
+                "address": "44",
+                "name": "KEY LOCK"
+            },
+            {
+                "address": "45",
+                "name": "MUTE AUDIO"
+            },
+            {
+                "address": "46",
+                "name": "MENU"
+            },
+            {
+                "address": "46",
+                "name": "MENU (ON SCREEN MGR)"
+            },
+            {
+                "address": "47",
+                "name": "MUTE PICTURE"
+            },
+            {
+                "address": "47",
+                "name": "PICTURE MUTE"
+            },
+            {
+                "address": "47",
+                "name": "PIC-MUTE"
+            },
+            {
+                "address": "48",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "48",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "49",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "49",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4c",
+                "name": "FREEZE"
+            },
+            {
+                "address": "4d",
+                "name": "EXPAND"
+            },
+            {
+                "address": "4d",
+                "name": "RGB MODE"
+            },
+            {
+                "address": "5c",
+                "name": ">+"
+            },
+            {
+                "address": "5c",
+                "name": "+ (ON SCREEN MGR)"
+            },
+            {
+                "address": "5c",
+                "name": "+"
+            },
+            {
+                "address": "5c",
+                "name": "MENU MOUSE EAST (+)"
+            },
+            {
+                "address": "5d",
+                "name": "<-"
+            },
+            {
+                "address": "5d",
+                "name": "- (ON SCREEN MGR)"
+            },
+            {
+                "address": "5d",
+                "name": "-"
+            },
+            {
+                "address": "5d",
+                "name": "MENU MOUSE WEST (-)"
+            },
+            {
+                "address": "5e",
+                "name": "^"
+            },
+            {
+                "address": "5e",
+                "name": "POSITION ^"
+            },
+            {
+                "address": "5e",
+                "name": "MENU MOUSE NORTH"
+            },
+            {
+                "address": "5f",
+                "name": "V"
+            },
+            {
+                "address": "5f",
+                "name": "POSITION V"
+            },
+            {
+                "address": "5f",
+                "name": "MENU MOUSE SOUTH"
+            },
+            {
+                "address": "83",
+                "name": "CTL VIDEO"
+            },
+            {
+                "address": "84",
+                "name": "CTL RGB"
+            },
+            {
+                "address": "84",
+                "name": "POSITION >"
+            },
+            {
+                "address": "85",
+                "name": "CTL S-VIDEO"
+            },
+            {
+                "address": "85",
+                "name": "POSITION <"
+            },
+            {
+                "address": "86",
+                "name": "CTL SET UP"
+            },
+            {
+                "address": "87",
+                "name": "2X/4X"
+            },
+            {
+                "address": "88",
+                "name": "CTL POWER"
+            },
+            {
+                "address": "89",
+                "name": "CTL ZOOM W"
+            },
+            {
+                "address": "89",
+                "name": "MAGNIFY REDUCE +"
+            },
+            {
+                "address": "8a",
+                "name": "CTL ZOOM T"
+            },
+            {
+                "address": "8a",
+                "name": "MAGNIFY REDUCE -"
+            },
+            {
+                "address": "8b",
+                "name": "CTL FOCUS +"
+            },
+            {
+                "address": "8c",
+                "name": "CTL FOCUS -"
+            },
+            {
+                "address": "8d",
+                "name": "CTL CONTRAST ^"
+            },
+            {
+                "address": "8e",
+                "name": "CTL CONTRAST V"
+            },
+            {
+                "address": "8f",
+                "name": "CTL BRIGHT ^"
+            },
+            {
+                "address": "90",
+                "name": "CTL BRIGHT V"
+            },
+            {
+                "address": "91",
+                "name": "FREEZE"
+            },
+            {
+                "address": "95",
+                "name": "CTL CLEAR"
+            },
+            {
+                "address": "96",
+                "name": "CTL DISPLAY"
+            },
+            {
+                "address": "97",
+                "name": "CTL ENTER"
+            },
+            {
+                "address": "98",
+                "name": "CTL 1 (ABC)"
+            },
+            {
+                "address": "99",
+                "name": "CTL 2 (DEF)"
+            },
+            {
+                "address": "9a",
+                "name": "CTL 3 (GHI)"
+            },
+            {
+                "address": "9b",
+                "name": "CTL 4 (JKL)"
+            },
+            {
+                "address": "9c",
+                "name": "CTL 5 (MNO)"
+            },
+            {
+                "address": "9d",
+                "name": "CTL 6 (PQR)"
+            },
+            {
+                "address": "9e",
+                "name": "CTL 7 (STU)"
+            },
+            {
+                "address": "9f",
+                "name": "CTL 8 (VWX)"
+            },
+            {
+                "address": "c0",
+                "name": "CTL 9 (YZ-)"
+            },
+            {
+                "address": "c1",
+                "name": "CTL 0"
+            },
+            {
+                "address": "c2",
+                "name": "CTL FOCUS PAT."
+            },
+            {
+                "address": "c3",
+                "name": "CTL NORMAL"
+            },
+            {
+                "address": "c4",
+                "name": "CTL KEY LOCK"
+            },
+            {
+                "address": "c5",
+                "name": "CTL MUTE AUDIO"
+            },
+            {
+                "address": "c6",
+                "name": "CTL MENU"
+            },
+            {
+                "address": "c6",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "c7",
+                "name": "CTL MUTE PICTURE"
+            },
+            {
+                "address": "c8",
+                "name": "CTL VOLUME ^"
+            },
+            {
+                "address": "c9",
+                "name": "CTL VOLUME V"
+            },
+            {
+                "address": "cd",
+                "name": "CTL EXPAND"
+            },
+            {
+                "address": "dc",
+                "name": "CTL >+"
+            },
+            {
+                "address": "dc",
+                "name": "POSITION MOUSE EAST"
+            },
+            {
+                "address": "dd",
+                "name": "CTL <-"
+            },
+            {
+                "address": "dd",
+                "name": "POSITION MOUSE SW"
+            },
+            {
+                "address": "de",
+                "name": "CTL ^"
+            },
+            {
+                "address": "de",
+                "name": "POSITION MOUSE NORTH"
+            },
+            {
+                "address": "df",
+                "name": "CTL V"
+            },
+            {
+                "address": "df",
+                "name": "POSITION MOUSE SOUTH"
+            }
+        ],
+        "device_address": "3000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

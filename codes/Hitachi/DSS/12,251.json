@@ -1,0 +1,449 @@
+{
+    "display_name": "Hitachi DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "DSS2 CH ^"
+            },
+            {
+                "address": "3",
+                "name": "DSS2 CH V"
+            },
+            {
+                "address": "4",
+                "name": "DSS2 0 (&!/)"
+            },
+            {
+                "address": "5",
+                "name": "DSS2 1 (ABC)"
+            },
+            {
+                "address": "6",
+                "name": "DSS2 2 (DEF)"
+            },
+            {
+                "address": "7",
+                "name": "DSS2 3 (GHI)"
+            },
+            {
+                "address": "8",
+                "name": "DSS2 4 (JKL)"
+            },
+            {
+                "address": "9",
+                "name": "DSS2 5 (MNO)"
+            },
+            {
+                "address": "a",
+                "name": "DSS2 6 (PQR)"
+            },
+            {
+                "address": "b",
+                "name": "DSS2 7 (STU)"
+            },
+            {
+                "address": "c",
+                "name": "DSS2 8 (VWX)"
+            },
+            {
+                "address": "d",
+                "name": "DSS2 9 (YZ)"
+            },
+            {
+                "address": "e",
+                "name": "ACTION"
+            },
+            {
+                "address": "f",
+                "name": "DSS2 EXIT"
+            },
+            {
+                "address": "10",
+                "name": "DSS2 V"
+            },
+            {
+                "address": "11",
+                "name": "DSS2 FAV"
+            },
+            {
+                "address": "12",
+                "name": "DSS2 GUIDE"
+            },
+            {
+                "address": "13",
+                "name": "DSS2 INFO"
+            },
+            {
+                "address": "14",
+                "name": "DSS2 <"
+            },
+            {
+                "address": "15",
+                "name": "DSS2 POWER"
+            },
+            {
+                "address": "16",
+                "name": "DSS2 LAST CH"
+            },
+            {
+                "address": "17",
+                "name": "DSS2 >"
+            },
+            {
+                "address": "18",
+                "name": "DSS2 SELECT"
+            },
+            {
+                "address": "19",
+                "name": "DSS2 ^"
+            },
+            {
+                "address": "69",
+                "name": "DSS2 SVCS"
+            },
+            {
+                "address": "6a",
+                "name": "DSS2 TRIANGLE"
+            },
+            {
+                "address": "6b",
+                "name": "DSS2 CIRCLE"
+            },
+            {
+                "address": "6c",
+                "name": "DSS2 SQUARE"
+            },
+            {
+                "address": "6d",
+                "name": "DSS2 MOVIES"
+            },
+            {
+                "address": "6e",
+                "name": "DSS2 SPORTS"
+            },
+            {
+                "address": "6f",
+                "name": "DSS2 NEWS"
+            },
+            {
+                "address": "70",
+                "name": "DSS2 MENU"
+            },
+            {
+                "address": "75",
+                "name": "DSS2 ALPHA"
+            },
+            {
+                "address": "76",
+                "name": "DSS2 SCHED"
+            },
+            {
+                "address": "77",
+                "name": "DSS2 QT1"
+            },
+            {
+                "address": "78",
+                "name": "DSS2 QT2"
+            },
+            {
+                "address": "79",
+                "name": "DSS2 QT3"
+            },
+            {
+                "address": "7a",
+                "name": "DSS2 QT4"
+            },
+            {
+                "address": "7b",
+                "name": "DSS2 QT5"
+            },
+            {
+                "address": "7c",
+                "name": "DSS2 QT6"
+            },
+            {
+                "address": "7d",
+                "name": "DSS2 QT7"
+            },
+            {
+                "address": "7e",
+                "name": "DSS2 QT8"
+            },
+            {
+                "address": "7f",
+                "name": "DSS2 QT9"
+            },
+            {
+                "address": "81",
+                "name": "DSS1 INPUT"
+            },
+            {
+                "address": "82",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "82",
+                "name": "DSS1 CH ^"
+            },
+            {
+                "address": "83",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "83",
+                "name": "DSS1 CH V"
+            },
+            {
+                "address": "84",
+                "name": "0"
+            },
+            {
+                "address": "84",
+                "name": "DSS1 0 (*!/)"
+            },
+            {
+                "address": "85",
+                "name": "1"
+            },
+            {
+                "address": "85",
+                "name": "DSS1 1 (ABC)"
+            },
+            {
+                "address": "86",
+                "name": "2"
+            },
+            {
+                "address": "86",
+                "name": "DSS1 2 (DEF)"
+            },
+            {
+                "address": "87",
+                "name": "3"
+            },
+            {
+                "address": "87",
+                "name": "DSS1 3 (GHI)"
+            },
+            {
+                "address": "88",
+                "name": "4"
+            },
+            {
+                "address": "88",
+                "name": "DSS1 4 (JKL)"
+            },
+            {
+                "address": "89",
+                "name": "5"
+            },
+            {
+                "address": "89",
+                "name": "DSS1 5 (MNO)"
+            },
+            {
+                "address": "8a",
+                "name": "6"
+            },
+            {
+                "address": "8a",
+                "name": "DSS1 6 (PQR)"
+            },
+            {
+                "address": "8b",
+                "name": "7"
+            },
+            {
+                "address": "8b",
+                "name": "DSS1 7 (STU)"
+            },
+            {
+                "address": "8c",
+                "name": "8"
+            },
+            {
+                "address": "8c",
+                "name": "DSS1 8 (VWX)"
+            },
+            {
+                "address": "8d",
+                "name": "9"
+            },
+            {
+                "address": "8d",
+                "name": "DSS1 9 (YZ)"
+            },
+            {
+                "address": "8f",
+                "name": "EXIT"
+            },
+            {
+                "address": "8f",
+                "name": "DSS1 EXIT"
+            },
+            {
+                "address": "90",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "90",
+                "name": "DSS1 V"
+            },
+            {
+                "address": "91",
+                "name": "FAV (LIST)"
+            },
+            {
+                "address": "91",
+                "name": "DSS1 FAV"
+            },
+            {
+                "address": "92",
+                "name": "GUIDE"
+            },
+            {
+                "address": "92",
+                "name": "DSS1 GUIDE"
+            },
+            {
+                "address": "93",
+                "name": "INFO"
+            },
+            {
+                "address": "93",
+                "name": "DSS1 INFO"
+            },
+            {
+                "address": "94",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "94",
+                "name": "DSS1 <"
+            },
+            {
+                "address": "95",
+                "name": "DSS1 POWER"
+            },
+            {
+                "address": "96",
+                "name": "LAST CHAN"
+            },
+            {
+                "address": "96",
+                "name": "DSS1 LAST CH"
+            },
+            {
+                "address": "97",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "97",
+                "name": "DSS1 >"
+            },
+            {
+                "address": "98",
+                "name": "SELECT"
+            },
+            {
+                "address": "98",
+                "name": "DSS1 SELECT"
+            },
+            {
+                "address": "99",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "99",
+                "name": "DSS1 ^"
+            },
+            {
+                "address": "e9",
+                "name": "DSS1 SVCS"
+            },
+            {
+                "address": "ea",
+                "name": "DSS1 TRIANGLE"
+            },
+            {
+                "address": "eb",
+                "name": "DSS1 CIRCLE"
+            },
+            {
+                "address": "ec",
+                "name": "DSS1 SQUARE"
+            },
+            {
+                "address": "ed",
+                "name": "DSS1 MOVIES"
+            },
+            {
+                "address": "ee",
+                "name": "DSS1 SPORTS"
+            },
+            {
+                "address": "ef",
+                "name": "DSS1 NEWS"
+            },
+            {
+                "address": "f0",
+                "name": "MENU"
+            },
+            {
+                "address": "f0",
+                "name": "DSS1 MENU"
+            },
+            {
+                "address": "f5",
+                "name": "DSS1 ALPHA"
+            },
+            {
+                "address": "f6",
+                "name": "DSS1 SCHED"
+            },
+            {
+                "address": "f7",
+                "name": "DSS1 QT1"
+            },
+            {
+                "address": "f8",
+                "name": "DSS1 QT2"
+            },
+            {
+                "address": "f9",
+                "name": "DSS1 QT3"
+            },
+            {
+                "address": "fa",
+                "name": "DSS1 QT4"
+            },
+            {
+                "address": "fb",
+                "name": "DSS1 QT5"
+            },
+            {
+                "address": "fc",
+                "name": "DSS1 QT6"
+            },
+            {
+                "address": "fd",
+                "name": "DSS1 QT7"
+            },
+            {
+                "address": "fe",
+                "name": "DSS1 QT8"
+            },
+            {
+                "address": "ff",
+                "name": "DSS1 QT9"
+            }
+        ],
+        "device_address": "60000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

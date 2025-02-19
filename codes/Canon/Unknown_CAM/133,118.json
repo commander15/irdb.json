@@ -1,0 +1,57 @@
+{
+    "display_name": "Canon Unknown_CAM",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "1",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "2",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "3",
+                "name": "START/STOP"
+            },
+            {
+                "address": "4",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "TAPE-RETURN"
+            },
+            {
+                "address": "d",
+                "name": "COUNTER-RESET"
+            },
+            {
+                "address": "17",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_T"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_W"
+            }
+        ],
+        "device_address": "21400000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Canon",
+    "model": "",
+    "name": "",
+    "target": "Unknown_CAM"
+}

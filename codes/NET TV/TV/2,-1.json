@@ -1,0 +1,129 @@
+{
+    "display_name": "NET TV TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1",
+                "name": "CH/TIME SET ^"
+            },
+            {
+                "address": "2",
+                "name": "CH/TIME SET V"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "4",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "5",
+                "name": "TV/CATV"
+            },
+            {
+                "address": "7",
+                "name": "SLEEP"
+            },
+            {
+                "address": "8",
+                "name": "RETURN"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "TIMER"
+            },
+            {
+                "address": "b",
+                "name": "CURSOR"
+            },
+            {
+                "address": "c",
+                "name": "CANCEL"
+            },
+            {
+                "address": "d",
+                "name": "TV/AV(VGA)"
+            },
+            {
+                "address": "e",
+                "name": "POWER"
+            },
+            {
+                "address": "f",
+                "name": "MTS"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "35",
+                "name": "NORMAL"
+            },
+            {
+                "address": "58",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "59",
+                "name": "FUNCTION LEVEL ^"
+            },
+            {
+                "address": "5a",
+                "name": "FUNCTION LEVEL V"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Proton"
+    },
+    "manufacturer": "NET TV",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

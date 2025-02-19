@@ -1,0 +1,95 @@
+{
+    "display_name": "Elan Camera Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "QUAD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "PIP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "FREEZE/SEQUENCE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "ZOOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "CURSOR ENTER/MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VIDEO 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "VIDEO 4",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Camera Switcher"
+}

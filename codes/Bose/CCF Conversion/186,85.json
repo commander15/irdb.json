@@ -1,0 +1,273 @@
+{
+    "display_name": "Bose CCF Conversion",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "4",
+                "name": "MONO:5 DECODING ON"
+            },
+            {
+                "address": "5",
+                "name": "MONO:5 DECODING OFF"
+            },
+            {
+                "address": "6",
+                "name": "AM/FM INPUT TOGGLE"
+            },
+            {
+                "address": "8",
+                "name": "CENTER VOLUME -"
+            },
+            {
+                "address": "9",
+                "name": "CENTER VOLUME +"
+            },
+            {
+                "address": "a",
+                "name": "SURROUND VOLUME -"
+            },
+            {
+                "address": "b",
+                "name": "SURROUND VOLUME +"
+            },
+            {
+                "address": "c",
+                "name": "AM INPUT"
+            },
+            {
+                "address": "d",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "e",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "f",
+                "name": "AUX INPUT"
+            },
+            {
+                "address": "10",
+                "name": "FM INPUT"
+            },
+            {
+                "address": "11",
+                "name": "DIGITAL 1"
+            },
+            {
+                "address": "12",
+                "name": "DIGITAL 2"
+            },
+            {
+                "address": "13",
+                "name": "DIGITAL 3"
+            },
+            {
+                "address": "14",
+                "name": "DIGITAL 4"
+            },
+            {
+                "address": "15",
+                "name": "NO DIGITAL INPUT"
+            },
+            {
+                "address": "15",
+                "name": "NO DIGITAL"
+            },
+            {
+                "address": "16",
+                "name": "TOGGLE 1:5"
+            },
+            {
+                "address": "17",
+                "name": "TOGGLE DRC"
+            },
+            {
+                "address": "18",
+                "name": "CD TRACK SKIP \\XAA"
+            },
+            {
+                "address": "18",
+                "name": "SKIP \\XAA"
+            },
+            {
+                "address": "18",
+                "name": "TRACK SKIP \\XAA"
+            },
+            {
+                "address": "19",
+                "name": "CD TRACK SKIP \\XBA"
+            },
+            {
+                "address": "19",
+                "name": "SKIP \\XBA"
+            },
+            {
+                "address": "19",
+                "name": "TRACK SKIP \\XBA"
+            },
+            {
+                "address": "1a",
+                "name": "CD \\X86"
+            },
+            {
+                "address": "1c",
+                "name": "VIDEO 5 (SE-1)"
+            },
+            {
+                "address": "1d",
+                "name": "MRI PRESET +"
+            },
+            {
+                "address": "1e",
+                "name": "DYN RNG COMP OFF"
+            },
+            {
+                "address": "1f",
+                "name": "MRI PRESET -"
+            },
+            {
+                "address": "2f",
+                "name": "FILM EQ OFF"
+            },
+            {
+                "address": "4a",
+                "name": "RANDOM DISC TOGGLE"
+            },
+            {
+                "address": "4b",
+                "name": "STEREO MODE"
+            },
+            {
+                "address": "4c",
+                "name": "OFF"
+            },
+            {
+                "address": "4c",
+                "name": "POWER"
+            },
+            {
+                "address": "4d",
+                "name": "TREBLE FLAT"
+            },
+            {
+                "address": "4e",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "4f",
+                "name": "FRONT 3 SPEAKER MODE"
+            },
+            {
+                "address": "50",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "51",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "52",
+                "name": "TAPE INPUT"
+            },
+            {
+                "address": "53",
+                "name": "CD INPUT"
+            },
+            {
+                "address": "54",
+                "name": "CD DISC SKIP -"
+            },
+            {
+                "address": "55",
+                "name": "CD \\X87"
+            },
+            {
+                "address": "56",
+                "name": "CD \\X85"
+            },
+            {
+                "address": "57",
+                "name": "SEEK \\XA0"
+            },
+            {
+                "address": "58",
+                "name": "SEEK \\XB3"
+            },
+            {
+                "address": "59",
+                "name": "DYNA RNG COMP ON"
+            },
+            {
+                "address": "5a",
+                "name": "TOGGLE FEQ"
+            },
+            {
+                "address": "5b",
+                "name": "BASS FLAT"
+            },
+            {
+                "address": "5c",
+                "name": "RANDOM ALL TOGGLE"
+            },
+            {
+                "address": "5c",
+                "name": "RANDOM ALL"
+            },
+            {
+                "address": "5d",
+                "name": "CD DISC SKIP +"
+            },
+            {
+                "address": "5e",
+                "name": "BASS +"
+            },
+            {
+                "address": "5f",
+                "name": "BASS -"
+            },
+            {
+                "address": "6f",
+                "name": "AMP OFF"
+            },
+            {
+                "address": "9f",
+                "name": "SURROUND FLAT"
+            },
+            {
+                "address": "af",
+                "name": "AMP ON"
+            },
+            {
+                "address": "cf",
+                "name": "FILM EQ ON"
+            },
+            {
+                "address": "df",
+                "name": "MUTE ALL"
+            },
+            {
+                "address": "ef",
+                "name": "CENTER FLAT"
+            }
+        ],
+        "device_address": "17400000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Bose",
+    "model": "",
+    "name": "",
+    "target": "CCF Conversion"
+}

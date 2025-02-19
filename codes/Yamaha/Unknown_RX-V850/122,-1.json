@@ -1,0 +1,197 @@
+{
+    "display_name": "Yamaha Unknown_RX-V850",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE_PLAY"
+            },
+            {
+                "address": "1",
+                "name": "TAPE_REWIND"
+            },
+            {
+                "address": "2",
+                "name": "TAPE_FFWD"
+            },
+            {
+                "address": "3",
+                "name": "TAPE_STOP"
+            },
+            {
+                "address": "4",
+                "name": "TAPE_REC/PAUSE"
+            },
+            {
+                "address": "5",
+                "name": "TAPE_REC_MUTE"
+            },
+            {
+                "address": "6",
+                "name": "TAPE_DECK_A/B"
+            },
+            {
+                "address": "7",
+                "name": "TAPE_DIR_A"
+            },
+            {
+                "address": "8",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "9",
+                "name": "CD_PAUSE/STOP"
+            },
+            {
+                "address": "a",
+                "name": "CD_SKIP_FWD"
+            },
+            {
+                "address": "b",
+                "name": "CD_SKIP_REV"
+            },
+            {
+                "address": "c",
+                "name": "CD_SEARCH_FWD"
+            },
+            {
+                "address": "d",
+                "name": "CD_SEARCH_REV"
+            },
+            {
+                "address": "f",
+                "name": "VCR_1"
+            },
+            {
+                "address": "10",
+                "name": "TUNER_+"
+            },
+            {
+                "address": "12",
+                "name": "TUNER_A/B/C/D/E"
+            },
+            {
+                "address": "14",
+                "name": "PHONO"
+            },
+            {
+                "address": "15",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "16",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "17",
+                "name": "LD_V"
+            },
+            {
+                "address": "18",
+                "name": "TAPE_2/VCR_2"
+            },
+            {
+                "address": "19",
+                "name": "TAPE_1/DAT"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1c",
+                "name": "MUTING"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "40",
+                "name": "TAPE_DIR_B"
+            },
+            {
+                "address": "4f",
+                "name": "CD_DISK_SKIP"
+            },
+            {
+                "address": "52",
+                "name": "DELAY_TIME_+"
+            },
+            {
+                "address": "53",
+                "name": "DELAY_TIME_-"
+            },
+            {
+                "address": "56",
+                "name": "DSP_EFFECT_ON/OFF"
+            },
+            {
+                "address": "5e",
+                "name": "REAR_LEVEL_+"
+            },
+            {
+                "address": "5f",
+                "name": "REAR_LEVEL_-"
+            },
+            {
+                "address": "80",
+                "name": "FRONT_LEVEL_+"
+            },
+            {
+                "address": "81",
+                "name": "FRONT_LEVEL_-"
+            },
+            {
+                "address": "82",
+                "name": "CENTRE_LEVEL_+"
+            },
+            {
+                "address": "83",
+                "name": "CENTRE_LEVEL_-"
+            },
+            {
+                "address": "84",
+                "name": "DSP_CENTRE_MODE"
+            },
+            {
+                "address": "85",
+                "name": "DSP_TEST"
+            },
+            {
+                "address": "88",
+                "name": "DSP_PRO_LOGIC"
+            },
+            {
+                "address": "89",
+                "name": "DSP_PRO_LOGIC_ENH."
+            },
+            {
+                "address": "8a",
+                "name": "DSP_CNCT_VIDEO"
+            },
+            {
+                "address": "8b",
+                "name": "DSP_MONO_MOVIE"
+            },
+            {
+                "address": "8c",
+                "name": "DSP_ROCK"
+            },
+            {
+                "address": "8d",
+                "name": "DSP_HALL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RX-V850"
+}

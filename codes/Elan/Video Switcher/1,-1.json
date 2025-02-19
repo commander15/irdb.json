@@ -1,0 +1,45 @@
+{
+    "display_name": "Elan Video Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "O17"
+            },
+            {
+                "address": "15",
+                "name": "O18"
+            },
+            {
+                "address": "16",
+                "name": "O19"
+            },
+            {
+                "address": "17",
+                "name": "O20"
+            },
+            {
+                "address": "34",
+                "name": "O21"
+            },
+            {
+                "address": "35",
+                "name": "O22"
+            },
+            {
+                "address": "36",
+                "name": "O23"
+            },
+            {
+                "address": "37",
+                "name": "O24"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Velleman"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Video Switcher"
+}

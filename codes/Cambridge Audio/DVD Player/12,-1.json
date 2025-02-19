@@ -1,0 +1,201 @@
+{
+    "display_name": "Cambridge Audio DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "2",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "3",
+                "name": "AUDIO"
+            },
+            {
+                "address": "4",
+                "name": "SUB"
+            },
+            {
+                "address": "5",
+                "name": "ANGLE"
+            },
+            {
+                "address": "6",
+                "name": "INFO"
+            },
+            {
+                "address": "7",
+                "name": "ZOOM"
+            },
+            {
+                "address": "8",
+                "name": "REPEAT"
+            },
+            {
+                "address": "9",
+                "name": "A-B"
+            },
+            {
+                "address": "a",
+                "name": "DISC TITLE"
+            },
+            {
+                "address": "c",
+                "name": "DISC MENU"
+            },
+            {
+                "address": "d",
+                "name": "UP"
+            },
+            {
+                "address": "e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "10",
+                "name": "LEFT"
+            },
+            {
+                "address": "11",
+                "name": "SELECT"
+            },
+            {
+                "address": "12",
+                "name": "RIGHT"
+            },
+            {
+                "address": "13",
+                "name": "DOWN"
+            },
+            {
+                "address": "14",
+                "name": "SETUP"
+            },
+            {
+                "address": "15",
+                "name": "PAUSE"
+            },
+            {
+                "address": "16",
+                "name": "RETURN"
+            },
+            {
+                "address": "17",
+                "name": "SKIP LEFT"
+            },
+            {
+                "address": "18",
+                "name": "PLAY"
+            },
+            {
+                "address": "19",
+                "name": "SKIP RIGHT"
+            },
+            {
+                "address": "1a",
+                "name": "<<"
+            },
+            {
+                "address": "1b",
+                "name": "STOP"
+            },
+            {
+                "address": "1c",
+                "name": ">>"
+            },
+            {
+                "address": "1d",
+                "name": "SLOW"
+            },
+            {
+                "address": "1e",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "1f",
+                "name": "1"
+            },
+            {
+                "address": "20",
+                "name": "2"
+            },
+            {
+                "address": "21",
+                "name": "3"
+            },
+            {
+                "address": "22",
+                "name": "4"
+            },
+            {
+                "address": "23",
+                "name": "5"
+            },
+            {
+                "address": "24",
+                "name": "6"
+            },
+            {
+                "address": "25",
+                "name": "7"
+            },
+            {
+                "address": "26",
+                "name": "8"
+            },
+            {
+                "address": "27",
+                "name": "9"
+            },
+            {
+                "address": "28",
+                "name": "0"
+            },
+            {
+                "address": "29",
+                "name": "10+"
+            },
+            {
+                "address": "2a",
+                "name": "GOTO"
+            },
+            {
+                "address": "2b",
+                "name": "PAL"
+            },
+            {
+                "address": "2c",
+                "name": "NTSC"
+            },
+            {
+                "address": "2d",
+                "name": "INTERLACED SCAN"
+            },
+            {
+                "address": "2e",
+                "name": "PROGRESSIVE SCAN"
+            },
+            {
+                "address": "2f",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "30",
+                "name": "MUTE OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

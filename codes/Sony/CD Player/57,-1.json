@@ -1,0 +1,285 @@
+{
+    "display_name": "Sony CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1/&!?"
+            },
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "2/ABC"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3/DEF"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4/GHI"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5/JKL"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "6/MNO"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7/PRS"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8/TUV"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9/WXY"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "d",
+                "name": "CHECK"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "12",
+                "name": "LINE LEVEL OUT +"
+            },
+            {
+                "address": "13",
+                "name": "LINE LEVEL OUT -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "1d",
+                "name": "CONTINUE PLAY"
+            },
+            {
+                "address": "1d",
+                "name": "CONTINUE"
+            },
+            {
+                "address": "1f",
+                "name": "PROGRAM PLAY"
+            },
+            {
+                "address": "1f",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "20",
+                "name": "10/0/QZ"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "27",
+                "name": ">10"
+            },
+            {
+                "address": "28",
+                "name": "TIME/TEXT/SPACE"
+            },
+            {
+                "address": "28",
+                "name": "TIME/TEXT"
+            },
+            {
+                "address": "2c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "30",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "30",
+                "name": "<< TRACK"
+            },
+            {
+                "address": "31",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "31",
+                "name": ">> TRACK"
+            },
+            {
+                "address": "32",
+                "name": "PLAY"
+            },
+            {
+                "address": "33",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "33",
+                "name": "<< SCAN"
+            },
+            {
+                "address": "34",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "34",
+                "name": ">> SCAN"
+            },
+            {
+                "address": "35",
+                "name": "SHUFFLE PLAY"
+            },
+            {
+                "address": "35",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "3c",
+                "name": "MUSIC SCAN"
+            },
+            {
+                "address": "3d",
+                "name": "DISK SKIP -"
+            },
+            {
+                "address": "3d",
+                "name": "DISC -"
+            },
+            {
+                "address": "3e",
+                "name": "DISK SKIP +"
+            },
+            {
+                "address": "3e",
+                "name": "DISC +"
+            },
+            {
+                "address": "3f",
+                "name": "HIGH-LIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "EXTRA"
+            },
+            {
+                "address": "4a",
+                "name": "DISC/CAPS"
+            },
+            {
+                "address": "4a",
+                "name": "DISC"
+            },
+            {
+                "address": "4b",
+                "name": "TRACK"
+            },
+            {
+                "address": "4c",
+                "name": "GROUP"
+            },
+            {
+                "address": "5f",
+                "name": "FADER/DEL"
+            },
+            {
+                "address": "69",
+                "name": "MEMO INPUT"
+            },
+            {
+                "address": "6b",
+                "name": "MEMO SCAN"
+            },
+            {
+                "address": "6e",
+                "name": "MEGA NO DELAY"
+            },
+            {
+                "address": "6f",
+                "name": "MEGA CONTROL"
+            },
+            {
+                "address": "71",
+                "name": "MEGA X-FADE"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RIGHT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

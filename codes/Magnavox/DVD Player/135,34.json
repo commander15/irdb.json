@@ -1,0 +1,173 @@
+{
+    "display_name": "Magnavox DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "POWER"
+            },
+            {
+                "address": "43",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "44",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "45",
+                "name": "1"
+            },
+            {
+                "address": "46",
+                "name": "2"
+            },
+            {
+                "address": "47",
+                "name": "3"
+            },
+            {
+                "address": "48",
+                "name": "4"
+            },
+            {
+                "address": "49",
+                "name": "5"
+            },
+            {
+                "address": "4a",
+                "name": "6"
+            },
+            {
+                "address": "4b",
+                "name": "7"
+            },
+            {
+                "address": "4c",
+                "name": "8"
+            },
+            {
+                "address": "4d",
+                "name": "9"
+            },
+            {
+                "address": "4e",
+                "name": "0"
+            },
+            {
+                "address": "52",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "52",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "53",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "55",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "57",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "58",
+                "name": "CLEAR"
+            },
+            {
+                "address": "5b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "5c",
+                "name": "MODE"
+            },
+            {
+                "address": "5d",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "5d",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "5e",
+                "name": "PLAY"
+            },
+            {
+                "address": "5f",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "5f",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "60",
+                "name": "STOP"
+            },
+            {
+                "address": "70",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "71",
+                "name": "MENU"
+            },
+            {
+                "address": "72",
+                "name": "ENTER"
+            },
+            {
+                "address": "73",
+                "name": "RETURN"
+            },
+            {
+                "address": "74",
+                "name": "SETUP"
+            },
+            {
+                "address": "75",
+                "name": "AAROW LEFT"
+            },
+            {
+                "address": "76",
+                "name": "AAROW RIGHT"
+            },
+            {
+                "address": "77",
+                "name": "AAROW UP"
+            },
+            {
+                "address": "78",
+                "name": "AAROW DOWN"
+            },
+            {
+                "address": "79",
+                "name": "ANGLE"
+            },
+            {
+                "address": "7a",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "7b",
+                "name": "AUDIO"
+            },
+            {
+                "address": "81",
+                "name": "ZOOM"
+            }
+        ],
+        "device_address": "21c",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Magnavox",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

@@ -1,0 +1,113 @@
+{
+    "display_name": "Dwin TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "70",
+                "name": "CTR +"
+            },
+            {
+                "address": "71",
+                "name": "SUB +"
+            },
+            {
+                "address": "73",
+                "name": "MENU"
+            },
+            {
+                "address": "74",
+                "name": "EXIT"
+            },
+            {
+                "address": "75",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "77",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "0 - DVI2"
+            },
+            {
+                "address": "7d",
+                "name": "1 - COMPOSITE 1"
+            },
+            {
+                "address": "7e",
+                "name": "2 - COMPOSITE 2"
+            },
+            {
+                "address": "7f",
+                "name": "3 - SVIDEO 1"
+            },
+            {
+                "address": "80",
+                "name": "4 - SVIDEO 2"
+            },
+            {
+                "address": "81",
+                "name": "5 - COMPONENT 1"
+            },
+            {
+                "address": "82",
+                "name": "6 - COMPONENT 2"
+            },
+            {
+                "address": "83",
+                "name": "7 - RGB1"
+            },
+            {
+                "address": "84",
+                "name": "8 - RGB2"
+            },
+            {
+                "address": "85",
+                "name": "9 - DVI 1"
+            },
+            {
+                "address": "87",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "88",
+                "name": "ENTER"
+            },
+            {
+                "address": "8a",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "8b",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "8c",
+                "name": "SELECT"
+            },
+            {
+                "address": "8d",
+                "name": "ARROW DN"
+            },
+            {
+                "address": "8e",
+                "name": "INFO"
+            },
+            {
+                "address": "8f",
+                "name": "GUIDE"
+            },
+            {
+                "address": "90",
+                "name": "MODE +"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA(Old)"
+    },
+    "manufacturer": "Dwin",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,121 @@
+{
+    "display_name": "Arcam Music System",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CD 0"
+            },
+            {
+                "address": "1",
+                "name": "CD 1"
+            },
+            {
+                "address": "2",
+                "name": "CD 2"
+            },
+            {
+                "address": "3",
+                "name": "CD 3"
+            },
+            {
+                "address": "4",
+                "name": "CD 4"
+            },
+            {
+                "address": "5",
+                "name": "CD 5"
+            },
+            {
+                "address": "6",
+                "name": "CD 6"
+            },
+            {
+                "address": "7",
+                "name": "CD 7"
+            },
+            {
+                "address": "8",
+                "name": "CD 8"
+            },
+            {
+                "address": "9",
+                "name": "CD 9"
+            },
+            {
+                "address": "1d",
+                "name": "CD REPEAT"
+            },
+            {
+                "address": "20",
+                "name": "SKIP/SEARCH >>"
+            },
+            {
+                "address": "20",
+                "name": "CD NEXT TRACK"
+            },
+            {
+                "address": "21",
+                "name": "SKIP/SEARCH <<"
+            },
+            {
+                "address": "21",
+                "name": "CD PREVIOUS TRACK"
+            },
+            {
+                "address": "29",
+                "name": "CD PROGRAM"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "2d",
+                "name": "CD EJECT"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "CD PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "CD SCAN BACK"
+            },
+            {
+                "address": "34",
+                "name": "CD SCAN FORWARD"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "35",
+                "name": "CD PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "36",
+                "name": "CD STOP"
+            },
+            {
+                "address": "3a",
+                "name": "CD CLEAR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Music System"
+}

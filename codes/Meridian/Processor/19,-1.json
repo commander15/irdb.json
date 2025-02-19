@@ -1,0 +1,37 @@
+{
+    "display_name": "Meridian Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "50",
+                "name": "UP"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5d",
+                "name": "DSP"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Meridian",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

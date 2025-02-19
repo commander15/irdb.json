@@ -1,0 +1,45 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "3e",
+                "name": "VCR1/TV (VCR1/TAPE)"
+            },
+            {
+                "address": "3f",
+                "name": "VCR 1"
+            },
+            {
+                "address": "3f",
+                "name": "VCR 2"
+            },
+            {
+                "address": "3f",
+                "name": "VCR1"
+            },
+            {
+                "address": "3f",
+                "name": "VCR"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT - VCR"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT: VCR"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

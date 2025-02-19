@@ -1,0 +1,45 @@
+{
+    "display_name": "Creative Unknown_JUKEBOX3",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "40",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "50",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "70",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "a0",
+                "name": "FAST_REVERSE"
+            },
+            {
+                "address": "b0",
+                "name": "EAX"
+            },
+            {
+                "address": "e0",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "f0",
+                "name": "KEY_VOLUMEUP"
+            }
+        ],
+        "device_address": "21000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Creative",
+    "model": "",
+    "name": "",
+    "target": "Unknown_JUKEBOX3"
+}

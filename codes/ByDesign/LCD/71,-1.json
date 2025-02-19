@@ -1,0 +1,41 @@
+{
+    "display_name": "ByDesign LCD",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "ENTER"
+            },
+            {
+                "address": "a",
+                "name": "UP"
+            },
+            {
+                "address": "12",
+                "name": "DOWN"
+            },
+            {
+                "address": "22",
+                "name": "RIGHT"
+            },
+            {
+                "address": "2a",
+                "name": "LEFT"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC{2}"
+    },
+    "manufacturer": "ByDesign",
+    "model": "",
+    "name": "",
+    "target": "LCD"
+}

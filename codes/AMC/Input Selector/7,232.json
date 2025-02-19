@@ -1,0 +1,61 @@
+{
+    "display_name": "AMC Input Selector",
+    "ir": {
+        "commands": [
+            {
+                "address": "82",
+                "name": "MUTE"
+            },
+            {
+                "address": "c0",
+                "name": "2"
+            },
+            {
+                "address": "c1",
+                "name": "1"
+            },
+            {
+                "address": "c2",
+                "name": "3"
+            },
+            {
+                "address": "c3",
+                "name": "4"
+            },
+            {
+                "address": "c4",
+                "name": "5"
+            },
+            {
+                "address": "c5",
+                "name": "6"
+            },
+            {
+                "address": "c6",
+                "name": "7"
+            },
+            {
+                "address": "c8",
+                "name": "8"
+            },
+            {
+                "address": "d8",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d9",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "da",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "700",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AMC",
+    "model": "",
+    "name": "",
+    "target": "Input Selector"
+}

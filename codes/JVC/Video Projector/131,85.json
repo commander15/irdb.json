@@ -1,0 +1,61 @@
+{
+    "display_name": "JVC Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "8f",
+                "name": "HIDE"
+            },
+            {
+                "address": "90",
+                "name": "OPERATE"
+            },
+            {
+                "address": "92",
+                "name": "FREEZE"
+            },
+            {
+                "address": "93",
+                "name": "MUTE"
+            },
+            {
+                "address": "98",
+                "name": "VOL +"
+            },
+            {
+                "address": "99",
+                "name": "VOL -"
+            },
+            {
+                "address": "9a",
+                "name": "MENU"
+            },
+            {
+                "address": "9b",
+                "name": "SPECIAL"
+            },
+            {
+                "address": "9c",
+                "name": "VIDEO"
+            },
+            {
+                "address": "9d",
+                "name": "COMPUTER"
+            },
+            {
+                "address": "9e",
+                "name": "AUTO"
+            },
+            {
+                "address": "9f",
+                "name": "RESIZE"
+            }
+        ],
+        "device_address": "10600000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

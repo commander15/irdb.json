@@ -1,0 +1,509 @@
+{
+    "display_name": "Marantz CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "FIGURE 0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "FIGURE 1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "FIGURE 2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "FIGURE 3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "FIGURE 4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "FIGURE 5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "FIGURE 6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "FIGURE 7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "FIGURE 8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "FIGURE 9"
+            },
+            {
+                "address": "a",
+                "name": "FIGURE 10/0"
+            },
+            {
+                "address": "a",
+                "name": "10"
+            },
+            {
+                "address": "b",
+                "name": "TIME"
+            },
+            {
+                "address": "c",
+                "name": "POWER ON/STANDBY"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "f",
+                "name": "SCROLL/RECALL"
+            },
+            {
+                "address": "f",
+                "name": "RECALL"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOL +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "VOL -"
+            },
+            {
+                "address": "1c",
+                "name": "RANDOM"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1d",
+                "name": "PLAY MODE REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1e",
+                "name": "DISC"
+            },
+            {
+                "address": "1e",
+                "name": "DISC +"
+            },
+            {
+                "address": "1e",
+                "name": "DISK"
+            },
+            {
+                "address": "1e",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "1f",
+                "name": "DISC -"
+            },
+            {
+                "address": "20",
+                "name": "SONG+"
+            },
+            {
+                "address": "20",
+                "name": "NEXT"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "20",
+                "name": "TRACK >>"
+            },
+            {
+                "address": "20",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "21",
+                "name": "SONG-"
+            },
+            {
+                "address": "21",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": "TRACK <<"
+            },
+            {
+                "address": "21",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "24",
+                "name": "PROGRAM 1"
+            },
+            {
+                "address": "24",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "25",
+                "name": "PITCH RESET"
+            },
+            {
+                "address": "25",
+                "name": "PROGRAM 2"
+            },
+            {
+                "address": "26",
+                "name": "PITCH + (FOLDER +)"
+            },
+            {
+                "address": "26",
+                "name": "PROGRAM 3"
+            },
+            {
+                "address": "26",
+                "name": "PITCH +"
+            },
+            {
+                "address": "27",
+                "name": "PITCH - (FOLDER -)"
+            },
+            {
+                "address": "27",
+                "name": "PROGRAM 4"
+            },
+            {
+                "address": "27",
+                "name": "PITCH -"
+            },
+            {
+                "address": "28",
+                "name": "PROGRAM 5"
+            },
+            {
+                "address": "29",
+                "name": "PROGRAM 6"
+            },
+            {
+                "address": "29",
+                "name": "PROGRAM 2"
+            },
+            {
+                "address": "29",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "2b",
+                "name": "INTRO SCAN (AMS)"
+            },
+            {
+                "address": "2b",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "2b",
+                "name": "SCAN"
+            },
+            {
+                "address": "2b",
+                "name": "AMS"
+            },
+            {
+                "address": "2b",
+                "name": "INTRO"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "2d",
+                "name": "EJECT"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN/EJECT"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "31",
+                "name": "DELETE/CANCEL"
+            },
+            {
+                "address": "31",
+                "name": "DELETE"
+            },
+            {
+                "address": "31",
+                "name": "CANCEL"
+            },
+            {
+                "address": "32",
+                "name": "BACKWARD"
+            },
+            {
+                "address": "32",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "32",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "32",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "34",
+                "name": "FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "35",
+                "name": "POWER ON (PLAY)"
+            },
+            {
+                "address": "35",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "DISC 1"
+            },
+            {
+                "address": "37",
+                "name": "DISK 1"
+            },
+            {
+                "address": "38",
+                "name": "DISC 2"
+            },
+            {
+                "address": "38",
+                "name": "DISK 2"
+            },
+            {
+                "address": "39",
+                "name": "DISC 3"
+            },
+            {
+                "address": "39",
+                "name": "DISK 3"
+            },
+            {
+                "address": "3b",
+                "name": "REPEAT A/B"
+            },
+            {
+                "address": "3b",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "3f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "40",
+                "name": "DISC 4"
+            },
+            {
+                "address": "40",
+                "name": "DISK 4"
+            },
+            {
+                "address": "41",
+                "name": "DISC 5"
+            },
+            {
+                "address": "41",
+                "name": "DISK 5"
+            },
+            {
+                "address": "42",
+                "name": "SOUND MODE"
+            },
+            {
+                "address": "47",
+                "name": "DISPLAY (DIMMER)"
+            },
+            {
+                "address": "47",
+                "name": "DIMMER"
+            },
+            {
+                "address": "47",
+                "name": "DISPLAY DIMMER"
+            },
+            {
+                "address": "50",
+                "name": "FOLDER +"
+            },
+            {
+                "address": "51",
+                "name": "FOLDER -"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "57",
+                "name": "ENTER"
+            },
+            {
+                "address": "58",
+                "name": "TEXT"
+            },
+            {
+                "address": "5c",
+                "name": "CATEGORY"
+            },
+            {
+                "address": "68",
+                "name": "EDIT"
+            },
+            {
+                "address": "6d",
+                "name": "TITLE"
+            },
+            {
+                "address": "6e",
+                "name": "TITLE INPUT"
+            },
+            {
+                "address": "72",
+                "name": "NEXT DISC"
+            },
+            {
+                "address": "73",
+                "name": "PREVIOUS DISC"
+            },
+            {
+                "address": "73",
+                "name": "PREVIOUS DISK"
+            },
+            {
+                "address": "78",
+                "name": "FADE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

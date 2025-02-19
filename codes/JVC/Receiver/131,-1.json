@@ -1,0 +1,409 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "3",
+                "name": "TAPE 1 STOP [] (4)"
+            },
+            {
+                "address": "3",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "3",
+                "name": "TAPE1 CON. STOP []"
+            },
+            {
+                "address": "3",
+                "name": "TAPE1 CONTROL STOP"
+            },
+            {
+                "address": "3",
+                "name": "TAPE1/2 STOP []"
+            },
+            {
+                "address": "3",
+                "name": "TAPE CONT STOP"
+            },
+            {
+                "address": "3",
+                "name": "TAPE 1 STOP[]"
+            },
+            {
+                "address": "3",
+                "name": "TAPE1/2 STOP (- [])"
+            },
+            {
+                "address": "3",
+                "name": "TAPE STOP"
+            },
+            {
+                "address": "4",
+                "name": "TAPE1 OPEN/CLOSE"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1 FFWD >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1 FF >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE 1 >> (P)"
+            },
+            {
+                "address": "6",
+                "name": "TAPE FF >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1 CON. FFWD >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1 CONTROL FFWD"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1/2 FFWD >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE CONT >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE 1 >>"
+            },
+            {
+                "address": "6",
+                "name": "TAPE1/2 FFWD (> >>)"
+            },
+            {
+                "address": "6",
+                "name": "TAPE FF/>>"
+            },
+            {
+                "address": "7",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 1 << (6)"
+            },
+            {
+                "address": "7",
+                "name": "TAPE REW <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE1 CON. REW <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE1 CONTROL REW"
+            },
+            {
+                "address": "7",
+                "name": "TAPE1/2 REW <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE CONT <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 1 <<"
+            },
+            {
+                "address": "7",
+                "name": "TAPE1/2 REW (< <<)"
+            },
+            {
+                "address": "7",
+                "name": "TAPE REW/<<"
+            },
+            {
+                "address": "b",
+                "name": "TAPE1 <>"
+            },
+            {
+                "address": "b",
+                "name": "DIRECTION <>"
+            },
+            {
+                "address": "b",
+                "name": "TAPE1 OPEN/CLOSE <>"
+            },
+            {
+                "address": "b",
+                "name": "TAPE1/2 <>"
+            },
+            {
+                "address": "b",
+                "name": "TAPE <>"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "c",
+                "name": "TAPE 1 PLAY > (1)"
+            },
+            {
+                "address": "c",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1 CON. PLAY >"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1 CONTROL PLAY>"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1/2 PLAY >"
+            },
+            {
+                "address": "c",
+                "name": "TAPE CONT PLAY"
+            },
+            {
+                "address": "c",
+                "name": "TAPE 1 PLAY>"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1/2 PLAY (+ >)"
+            },
+            {
+                "address": "c",
+                "name": "TAPE PLAY"
+            },
+            {
+                "address": "d",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "d",
+                "name": "TAPE 1 PAUSE (5)"
+            },
+            {
+                "address": "d",
+                "name": "TAPE PAUSE/STILL "
+            },
+            {
+                "address": "d",
+                "name": "TAPE1 CON. PAUSE "
+            },
+            {
+                "address": "d",
+                "name": "TAPE1 CONTROL PAUSE"
+            },
+            {
+                "address": "d",
+                "name": "TAPE1/2 PAUSE "
+            },
+            {
+                "address": "d",
+                "name": "TAPE CONT PAUSE/STIL"
+            },
+            {
+                "address": "d",
+                "name": "TAPE1/2 PAUSE ()"
+            },
+            {
+                "address": "d",
+                "name": "TAPE PAUSE"
+            },
+            {
+                "address": "d",
+                "name": "TAPE PAUSE "
+            },
+            {
+                "address": "d",
+                "name": "TAPE1 CON. PAUSE/S."
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 SKIP <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 SRCH <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE 1 << (2)"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 MUSIC SCAN <<"
+            },
+            {
+                "address": "18",
+                "name": "MUSIC SCAN <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 SEARCH REV <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 SRCH REV <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1/2 AMS <<"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1 SKIP <"
+            },
+            {
+                "address": "18",
+                "name": "TAPE SEARCH <<"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 SKIP >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 SRCH >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE 1 >>(3)"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 MUSIC SCAN >>"
+            },
+            {
+                "address": "19",
+                "name": "MUSIC SCAN >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 SEARCH FWD >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 SRCH FWD >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1/2 AMS >>"
+            },
+            {
+                "address": "19",
+                "name": "TAPE1 SKIP >"
+            },
+            {
+                "address": "19",
+                "name": "TAPE SEARCH >>"
+            },
+            {
+                "address": "43",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "4c",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE1 REC/PLAY"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE 1 REC/PLAY"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE1 REC-PLAY"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE1 CON. REC/PLAY"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE CONT REC"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE1/2 REC"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE REC (REC+PLAY)"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE1/2 PLAY/REC"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1 REC/PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE 1 REC/STOP"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1 REC-PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1 REC/STANDBY"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1 CON. REC/PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1 CON.REC/PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE1/2 REC/STBY"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE CONT REC/PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE REC/PLAY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

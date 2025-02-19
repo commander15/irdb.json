@@ -1,0 +1,357 @@
+{
+    "display_name": "BnK Components 2-Channel Preamp",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "OFF"
+            },
+            {
+                "address": "2",
+                "name": "ON"
+            },
+            {
+                "address": "3",
+                "name": "MUTE"
+            },
+            {
+                "address": "3",
+                "name": "BK002 MUTE"
+            },
+            {
+                "address": "5",
+                "name": "V1"
+            },
+            {
+                "address": "5",
+                "name": "BK002 V1"
+            },
+            {
+                "address": "6",
+                "name": "TV"
+            },
+            {
+                "address": "6",
+                "name": "BK002 TV"
+            },
+            {
+                "address": "9",
+                "name": "V2"
+            },
+            {
+                "address": "9",
+                "name": "BK002 V2"
+            },
+            {
+                "address": "b",
+                "name": "TAPE"
+            },
+            {
+                "address": "b",
+                "name": "BK002 TAPE"
+            },
+            {
+                "address": "d",
+                "name": "DVD"
+            },
+            {
+                "address": "d",
+                "name": "BK002 DVD"
+            },
+            {
+                "address": "e",
+                "name": "TUNER"
+            },
+            {
+                "address": "f",
+                "name": "CD"
+            },
+            {
+                "address": "f",
+                "name": "BK002 CD"
+            },
+            {
+                "address": "13",
+                "name": "BAND"
+            },
+            {
+                "address": "1b",
+                "name": "TUNE-"
+            },
+            {
+                "address": "1b",
+                "name": "BK002 TUNE-"
+            },
+            {
+                "address": "1c",
+                "name": "TUNE+"
+            },
+            {
+                "address": "1c",
+                "name": "BK002 TUNE+"
+            },
+            {
+                "address": "1f",
+                "name": "CR LEFT"
+            },
+            {
+                "address": "1f",
+                "name": "BK002 LEFT"
+            },
+            {
+                "address": "20",
+                "name": "CR RIGHT"
+            },
+            {
+                "address": "20",
+                "name": "BK002 RIGHT"
+            },
+            {
+                "address": "23",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "23",
+                "name": "BK002 VOLUME-"
+            },
+            {
+                "address": "24",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "24",
+                "name": "BK002 VOLUME+"
+            },
+            {
+                "address": "26",
+                "name": "MODE"
+            },
+            {
+                "address": "29",
+                "name": "10+"
+            },
+            {
+                "address": "29",
+                "name": "BK002 NUMBER +10"
+            },
+            {
+                "address": "2d",
+                "name": "CR DOWN"
+            },
+            {
+                "address": "2d",
+                "name": "BK002 DOWN"
+            },
+            {
+                "address": "2e",
+                "name": "CR UP"
+            },
+            {
+                "address": "2e",
+                "name": "BK002 UP"
+            },
+            {
+                "address": "2f",
+                "name": "MENU"
+            },
+            {
+                "address": "2f",
+                "name": "BK002 MENU"
+            },
+            {
+                "address": "30",
+                "name": "ENTER"
+            },
+            {
+                "address": "30",
+                "name": "SELECT"
+            },
+            {
+                "address": "30",
+                "name": "BK002 ENTER"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "31",
+                "name": "BK002 NUMBER 1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "32",
+                "name": "BK002 NUMBER 2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "33",
+                "name": "BK002 NUMBER 3"
+            },
+            {
+                "address": "35",
+                "name": "4"
+            },
+            {
+                "address": "35",
+                "name": "BK002 NUMBER 4"
+            },
+            {
+                "address": "36",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": "BK002 NUMBER 5"
+            },
+            {
+                "address": "37",
+                "name": "6"
+            },
+            {
+                "address": "37",
+                "name": "BK002 NUMBER 6"
+            },
+            {
+                "address": "39",
+                "name": "7"
+            },
+            {
+                "address": "39",
+                "name": "BK002 NUMBER 7"
+            },
+            {
+                "address": "3a",
+                "name": "8"
+            },
+            {
+                "address": "3a",
+                "name": "BK002 NUMBER 8"
+            },
+            {
+                "address": "3b",
+                "name": "9"
+            },
+            {
+                "address": "3b",
+                "name": "BK002 NUMBER 9"
+            },
+            {
+                "address": "3e",
+                "name": "0"
+            },
+            {
+                "address": "3e",
+                "name": "BK002 NUMBER 0"
+            },
+            {
+                "address": "40",
+                "name": "SAVE"
+            },
+            {
+                "address": "40",
+                "name": "BK002 SAVE"
+            },
+            {
+                "address": "4a",
+                "name": "SAT"
+            },
+            {
+                "address": "4b",
+                "name": "PRESET +"
+            },
+            {
+                "address": "65",
+                "name": "BASS-"
+            },
+            {
+                "address": "65",
+                "name": "BK002 BASS-"
+            },
+            {
+                "address": "76",
+                "name": "AM"
+            },
+            {
+                "address": "76",
+                "name": "BK002 AM"
+            },
+            {
+                "address": "79",
+                "name": "TREBLE-"
+            },
+            {
+                "address": "79",
+                "name": "BK002 TREBLE-"
+            },
+            {
+                "address": "7d",
+                "name": "BK002 EXIT"
+            },
+            {
+                "address": "8e",
+                "name": "FM"
+            },
+            {
+                "address": "8e",
+                "name": "BK002 FM"
+            },
+            {
+                "address": "a2",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "c6",
+                "name": "PRESET -"
+            },
+            {
+                "address": "cf",
+                "name": "A KEY"
+            },
+            {
+                "address": "cf",
+                "name": "LOUDNESS"
+            },
+            {
+                "address": "cf",
+                "name": "BK002 LOUDNESS"
+            },
+            {
+                "address": "e5",
+                "name": "BASS+"
+            },
+            {
+                "address": "e5",
+                "name": "BK002 BASS+"
+            },
+            {
+                "address": "eb",
+                "name": "ST/MONO"
+            },
+            {
+                "address": "eb",
+                "name": "BK002 STEREO/MONO"
+            },
+            {
+                "address": "f9",
+                "name": "TREBLE+"
+            },
+            {
+                "address": "f9",
+                "name": "BK002 TREBLE+"
+            }
+        ],
+        "device_address": "58000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "BnK Components",
+    "model": "",
+    "name": "",
+    "target": "2-Channel Preamp"
+}

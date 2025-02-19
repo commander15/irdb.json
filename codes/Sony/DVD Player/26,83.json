@@ -1,0 +1,197 @@
+{
+    "display_name": "Sony DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "10",
+                "name": "CH UP"
+            },
+            {
+                "address": "11",
+                "name": "CH DN"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO"
+            },
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "SCAN/SLOW <<"
+            },
+            {
+                "address": "1c",
+                "name": "SCAN/SLOW >>"
+            },
+            {
+                "address": "1d",
+                "name": "RECORD"
+            },
+            {
+                "address": "1e",
+                "name": "SURROUND"
+            },
+            {
+                "address": "22",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "23",
+                "name": "MENU"
+            },
+            {
+                "address": "24",
+                "name": "RETURN"
+            },
+            {
+                "address": "2a",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "30",
+                "name": "BOOKMARK/SEARCH MENU"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "43",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "4c",
+                "name": "VCR +"
+            },
+            {
+                "address": "4d",
+                "name": "SET UP"
+            },
+            {
+                "address": "4f",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "56",
+                "name": "NEXT >"
+            },
+            {
+                "address": "57",
+                "name": "< PREV"
+            },
+            {
+                "address": "58",
+                "name": "SP/EP"
+            },
+            {
+                "address": "5a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "5b",
+                "name": "REPEAT/REPLAY"
+            },
+            {
+                "address": "5d",
+                "name": "SKIP >"
+            },
+            {
+                "address": "60",
+                "name": "SUBTITLE/TIMER"
+            },
+            {
+                "address": "61",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "62",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "63",
+                "name": "CLEAR"
+            },
+            {
+                "address": "65",
+                "name": "ANGLE"
+            },
+            {
+                "address": "69",
+                "name": "VIDEO"
+            },
+            {
+                "address": "6a",
+                "name": "DVD"
+            },
+            {
+                "address": "79",
+                "name": "MUTE/ZOOM"
+            }
+        ],
+        "device_address": "d00000",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

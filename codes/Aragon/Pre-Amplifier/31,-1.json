@@ -1,0 +1,317 @@
+{
+    "display_name": "Aragon Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "ANALOG"
+            },
+            {
+                "address": "2",
+                "name": "DTS NEO"
+            },
+            {
+                "address": "3",
+                "name": "CLUB"
+            },
+            {
+                "address": "4",
+                "name": "INPUT GAIN +"
+            },
+            {
+                "address": "5",
+                "name": "5 CH STEREO"
+            },
+            {
+                "address": "6",
+                "name": "PARTY"
+            },
+            {
+                "address": "7",
+                "name": "MONO"
+            },
+            {
+                "address": "8",
+                "name": "INPUT GAIN -"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: AUX"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: CD/LD"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: DVD"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: TAPE"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: TV"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: VCR"
+            },
+            {
+                "address": "9",
+                "name": "VID SW: VIDEO"
+            },
+            {
+                "address": "a",
+                "name": "ADVANCED SETUP"
+            },
+            {
+                "address": "b",
+                "name": "PL: MODE: PANORAMA"
+            },
+            {
+                "address": "c",
+                "name": "AM"
+            },
+            {
+                "address": "d",
+                "name": "FM"
+            },
+            {
+                "address": "e",
+                "name": "THX: RE EQ OFF"
+            },
+            {
+                "address": "f",
+                "name": "THX: RE EQ ON"
+            },
+            {
+                "address": "10",
+                "name": "OTF ADJ: CENTER +"
+            },
+            {
+                "address": "11",
+                "name": "OTF ADJ: CENTER -"
+            },
+            {
+                "address": "12",
+                "name": "OTF ADJ: SUBWOOFER +"
+            },
+            {
+                "address": "13",
+                "name": "OTF ADJ: SUBWOOFER -"
+            },
+            {
+                "address": "14",
+                "name": "THX: THX ON"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "16",
+                "name": "THX: THX OFF"
+            },
+            {
+                "address": "17",
+                "name": "PL: MODE: MUSIC"
+            },
+            {
+                "address": "18",
+                "name": "PL: MODE: MOVIE"
+            },
+            {
+                "address": "19",
+                "name": "PL: CENTER +"
+            },
+            {
+                "address": "1a",
+                "name": "DIGITAL"
+            },
+            {
+                "address": "1b",
+                "name": "8 CHANNEL INPUT"
+            },
+            {
+                "address": "1c",
+                "name": "PRO LOGIC II"
+            },
+            {
+                "address": "1d",
+                "name": "STEREO"
+            },
+            {
+                "address": "1e",
+                "name": "SETUP"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "21",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "22",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "23",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "24",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "25",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "26",
+                "name": "MUTE"
+            },
+            {
+                "address": "27",
+                "name": "PL: MODE: MATRIX"
+            },
+            {
+                "address": "28",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "29",
+                "name": "PL: MODE: PRO LOGIC"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2b",
+                "name": "PL: CENTER -"
+            },
+            {
+                "address": "2c",
+                "name": "1"
+            },
+            {
+                "address": "2d",
+                "name": "2"
+            },
+            {
+                "address": "2e",
+                "name": "3"
+            },
+            {
+                "address": "2f",
+                "name": "4"
+            },
+            {
+                "address": "30",
+                "name": "5"
+            },
+            {
+                "address": "31",
+                "name": "6"
+            },
+            {
+                "address": "32",
+                "name": "7"
+            },
+            {
+                "address": "33",
+                "name": "8"
+            },
+            {
+                "address": "34",
+                "name": "9"
+            },
+            {
+                "address": "35",
+                "name": "10"
+            },
+            {
+                "address": "36",
+                "name": "INPUT: TV"
+            },
+            {
+                "address": "36",
+                "name": ""
+            },
+            {
+                "address": "37",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "37",
+                "name": ""
+            },
+            {
+                "address": "38",
+                "name": "INPUT: VIDEO"
+            },
+            {
+                "address": "38",
+                "name": ""
+            },
+            {
+                "address": "39",
+                "name": "INPUT: VCR"
+            },
+            {
+                "address": "39",
+                "name": ""
+            },
+            {
+                "address": "3a",
+                "name": "INPUT: CD/LD"
+            },
+            {
+                "address": "3a",
+                "name": ""
+            },
+            {
+                "address": "3b",
+                "name": "INPUT: TAPE"
+            },
+            {
+                "address": "3b",
+                "name": ""
+            },
+            {
+                "address": "3c",
+                "name": "INPUT: AUX"
+            },
+            {
+                "address": "3c",
+                "name": ""
+            },
+            {
+                "address": "3d",
+                "name": "INPUT: TUNER"
+            },
+            {
+                "address": "3e",
+                "name": "DIRECT"
+            },
+            {
+                "address": "3f",
+                "name": "POWER ON"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Aragon",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

@@ -1,0 +1,37 @@
+{
+    "display_name": "Classe Audio DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE T0"
+            },
+            {
+                "address": "d",
+                "name": "MUTE T1"
+            },
+            {
+                "address": "10",
+                "name": "VOL+ T0"
+            },
+            {
+                "address": "10",
+                "name": "VOL+ T1"
+            },
+            {
+                "address": "11",
+                "name": "VOL- T0"
+            },
+            {
+                "address": "11",
+                "name": "VOL- T1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

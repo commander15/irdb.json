@@ -1,0 +1,317 @@
+{
+    "display_name": "Fosgate Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "S-VID-1"
+            },
+            {
+                "address": "0",
+                "name": "SIBILANT FILTERS"
+            },
+            {
+                "address": "2",
+                "name": "MOVIE 70MM"
+            },
+            {
+                "address": "2",
+                "name": "MOVIE 70MM WIDE"
+            },
+            {
+                "address": "3",
+                "name": "ROCK"
+            },
+            {
+                "address": "4",
+                "name": "S-VID-2"
+            },
+            {
+                "address": "4",
+                "name": "RE-EQ FILTERS"
+            },
+            {
+                "address": "6",
+                "name": "MOVIE 70MM"
+            },
+            {
+                "address": "6",
+                "name": "MOVIE 35MM"
+            },
+            {
+                "address": "6",
+                "name": "70MM"
+            },
+            {
+                "address": "7",
+                "name": "POPULAR"
+            },
+            {
+                "address": "7",
+                "name": "POP"
+            },
+            {
+                "address": "8",
+                "name": "VCR"
+            },
+            {
+                "address": "8",
+                "name": "STEREO BYPASS"
+            },
+            {
+                "address": "a",
+                "name": "PRO LOGIC"
+            },
+            {
+                "address": "a",
+                "name": "THX"
+            },
+            {
+                "address": "a",
+                "name": "PRO LOGC"
+            },
+            {
+                "address": "b",
+                "name": "JAZZ"
+            },
+            {
+                "address": "e",
+                "name": "MONO ENHANCE"
+            },
+            {
+                "address": "e",
+                "name": "PRO LOGIC"
+            },
+            {
+                "address": "f",
+                "name": "CLASSICAL"
+            },
+            {
+                "address": "f",
+                "name": "CHAMBER"
+            },
+            {
+                "address": "f",
+                "name": "CLAS"
+            },
+            {
+                "address": "12",
+                "name": "MONO ENHANCE"
+            },
+            {
+                "address": "13",
+                "name": "BYPASS"
+            },
+            {
+                "address": "13",
+                "name": "ORCHESTRA"
+            },
+            {
+                "address": "13",
+                "name": "ORCH"
+            },
+            {
+                "address": "13",
+                "name": "SRND OFF"
+            },
+            {
+                "address": "18",
+                "name": "BACK LEVEL ^"
+            },
+            {
+                "address": "18",
+                "name": "REAR VOL+"
+            },
+            {
+                "address": "19",
+                "name": "MASTER VOLUME V"
+            },
+            {
+                "address": "19",
+                "name": "MASTER LEVEL V"
+            },
+            {
+                "address": "19",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "40",
+                "name": "SOURCE ^"
+            },
+            {
+                "address": "40",
+                "name": "PAN CTR"
+            },
+            {
+                "address": "40",
+                "name": "PAN CENTER"
+            },
+            {
+                "address": "41",
+                "name": "LV"
+            },
+            {
+                "address": "41",
+                "name": "INPUT CALIBRATE <"
+            },
+            {
+                "address": "43",
+                "name": "SOURCE V"
+            },
+            {
+                "address": "43",
+                "name": "PAN V"
+            },
+            {
+                "address": "44",
+                "name": "DELAY ^"
+            },
+            {
+                "address": "44",
+                "name": "SOURCE ^"
+            },
+            {
+                "address": "45",
+                "name": "AUX 1"
+            },
+            {
+                "address": "45",
+                "name": "AUTO"
+            },
+            {
+                "address": "45",
+                "name": "CD"
+            },
+            {
+                "address": "47",
+                "name": "DELAY V"
+            },
+            {
+                "address": "47",
+                "name": "SOURCE V"
+            },
+            {
+                "address": "48",
+                "name": "BASS EQ ^"
+            },
+            {
+                "address": "48",
+                "name": "DELAY ^"
+            },
+            {
+                "address": "48",
+                "name": "SIB"
+            },
+            {
+                "address": "48",
+                "name": "BASS +"
+            },
+            {
+                "address": "49",
+                "name": "AUX 2"
+            },
+            {
+                "address": "49",
+                "name": "INPUT CALIBRATE >"
+            },
+            {
+                "address": "49",
+                "name": "AUX"
+            },
+            {
+                "address": "4b",
+                "name": "BASS EQ V"
+            },
+            {
+                "address": "4b",
+                "name": "DELAY V"
+            },
+            {
+                "address": "4b",
+                "name": "BYPASS"
+            },
+            {
+                "address": "4b",
+                "name": "BASS -"
+            },
+            {
+                "address": "4c",
+                "name": "CTR ON"
+            },
+            {
+                "address": "4c",
+                "name": "CNTR ON"
+            },
+            {
+                "address": "4f",
+                "name": "BOOST"
+            },
+            {
+                "address": "4f",
+                "name": "CNTR+"
+            },
+            {
+                "address": "50",
+                "name": "MUTE"
+            },
+            {
+                "address": "51",
+                "name": "POWER"
+            },
+            {
+                "address": "53",
+                "name": "HI FREQ"
+            },
+            {
+                "address": "53",
+                "name": "PANEL LIGHTS"
+            },
+            {
+                "address": "53",
+                "name": "RE-EQ"
+            },
+            {
+                "address": "56",
+                "name": "BACK LEVEL REF"
+            },
+            {
+                "address": "56",
+                "name": "REF"
+            },
+            {
+                "address": "58",
+                "name": "MASTER VOLUME ^"
+            },
+            {
+                "address": "58",
+                "name": "MASTER LEVEL ^"
+            },
+            {
+                "address": "58",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "5a",
+                "name": "BACK LEVEL V"
+            },
+            {
+                "address": "5a",
+                "name": "REAR VOL-"
+            },
+            {
+                "address": "5f",
+                "name": "SIBILANT"
+            },
+            {
+                "address": "5f",
+                "name": "PAN ^"
+            }
+        ],
+        "device_address": "210",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Fosgate",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

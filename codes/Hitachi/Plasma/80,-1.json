@@ -1,0 +1,21 @@
+{
+    "display_name": "Hitachi Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "3e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3f",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

@@ -1,0 +1,225 @@
+{
+    "display_name": "JVC CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "0",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "3",
+                "name": "STOP"
+            },
+            {
+                "address": "4",
+                "name": "OPEN / CLOSE"
+            },
+            {
+                "address": "4",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "8",
+                "name": "INTRO"
+            },
+            {
+                "address": "15",
+                "name": "CALL"
+            },
+            {
+                "address": "18",
+                "name": "<<"
+            },
+            {
+                "address": "18",
+                "name": "TRACK -"
+            },
+            {
+                "address": "19",
+                "name": ">>"
+            },
+            {
+                "address": "19",
+                "name": "TRACK +"
+            },
+            {
+                "address": "1b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "2b",
+                "name": "PLAY"
+            },
+            {
+                "address": "2b",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "2c",
+                "name": "CLEAR"
+            },
+            {
+                "address": "30",
+                "name": "<<"
+            },
+            {
+                "address": "30",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "30",
+                "name": "SCAN -"
+            },
+            {
+                "address": "31",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "32",
+                "name": "RANDOM"
+            },
+            {
+                "address": "36",
+                "name": ">>"
+            },
+            {
+                "address": "36",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "36",
+                "name": "SCAN +"
+            },
+            {
+                "address": "37",
+                "name": "CONTINUE"
+            },
+            {
+                "address": "46",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "46",
+                "name": "+1 DISC"
+            },
+            {
+                "address": "46",
+                "name": "DISC +"
+            },
+            {
+                "address": "47",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "47",
+                "name": "-1 DISC"
+            },
+            {
+                "address": "47",
+                "name": "DISC -"
+            },
+            {
+                "address": "80",
+                "name": "DISC"
+            },
+            {
+                "address": "81",
+                "name": "TRACK"
+            },
+            {
+                "address": "82",
+                "name": "MENU UP"
+            },
+            {
+                "address": "82",
+                "name": "+10 DISC"
+            },
+            {
+                "address": "82",
+                "name": "DISC 10+"
+            },
+            {
+                "address": "83",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "83",
+                "name": "-10 DISC"
+            },
+            {
+                "address": "83",
+                "name": "DISC 10-"
+            },
+            {
+                "address": "84",
+                "name": "1 DISC"
+            },
+            {
+                "address": "84",
+                "name": "ONE DISC"
+            },
+            {
+                "address": "89",
+                "name": "USER FILE"
+            },
+            {
+                "address": "94",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "95",
+                "name": "DISC SEARCH"
+            }
+        ],
+        "device_address": "220000",
+        "protocol": "JVC-48"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

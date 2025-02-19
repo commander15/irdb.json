@@ -1,0 +1,121 @@
+{
+    "display_name": "Vidikron Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "ON"
+            },
+            {
+                "address": "c",
+                "name": "OFF"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "e",
+                "name": "PP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "12",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "13",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "14",
+                "name": "COLOUR +"
+            },
+            {
+                "address": "15",
+                "name": "COLOUR -"
+            },
+            {
+                "address": "16",
+                "name": "BASS +"
+            },
+            {
+                "address": "17",
+                "name": "BASS -"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "1a",
+                "name": "BALANCE +"
+            },
+            {
+                "address": "1b",
+                "name": "BALANCE -"
+            },
+            {
+                "address": "1c",
+                "name": "CONTRAST+"
+            },
+            {
+                "address": "1d",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "1f",
+                "name": "TINT -"
+            },
+            {
+                "address": "25",
+                "name": "TEST ON"
+            },
+            {
+                "address": "26",
+                "name": "SL/TIM"
+            },
+            {
+                "address": "27",
+                "name": "TINT +"
+            },
+            {
+                "address": "30",
+                "name": "ENHANCE +"
+            },
+            {
+                "address": "31",
+                "name": "ENHANCE -"
+            },
+            {
+                "address": "38",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "39",
+                "name": "STATUS"
+            },
+            {
+                "address": "39",
+                "name": "STORE MEMORY"
+            },
+            {
+                "address": "3f",
+                "name": "TEST OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Vidikron",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

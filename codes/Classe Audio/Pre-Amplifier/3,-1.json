@@ -1,0 +1,261 @@
+{
+    "display_name": "Classe Audio Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "A MUTE T0"
+            },
+            {
+                "address": "0",
+                "name": "A MUTE T1"
+            },
+            {
+                "address": "1",
+                "name": "A DISPLAY T0"
+            },
+            {
+                "address": "1",
+                "name": "A DISPLAY T1"
+            },
+            {
+                "address": "1",
+                "name": "A DISP T0"
+            },
+            {
+                "address": "1",
+                "name": "A DISP T1"
+            },
+            {
+                "address": "8",
+                "name": "A VOL+ T0"
+            },
+            {
+                "address": "8",
+                "name": "A VOL+ T1"
+            },
+            {
+                "address": "9",
+                "name": "A VOL- T0"
+            },
+            {
+                "address": "9",
+                "name": "A VOL- T1"
+            },
+            {
+                "address": "b",
+                "name": "A STANDBY T0"
+            },
+            {
+                "address": "b",
+                "name": "A STANDBY T1"
+            },
+            {
+                "address": "b",
+                "name": "A STDBY T0"
+            },
+            {
+                "address": "b",
+                "name": "A STDBY T1"
+            },
+            {
+                "address": "d",
+                "name": "A ENTER T0"
+            },
+            {
+                "address": "d",
+                "name": "A ENTER T1"
+            },
+            {
+                "address": "e",
+                "name": "A MENU T0"
+            },
+            {
+                "address": "e",
+                "name": "A MENU T1"
+            },
+            {
+                "address": "f",
+                "name": "A UP T0"
+            },
+            {
+                "address": "f",
+                "name": "A UP T1"
+            },
+            {
+                "address": "10",
+                "name": "A BAL R T0"
+            },
+            {
+                "address": "10",
+                "name": "A BAL R T1"
+            },
+            {
+                "address": "10",
+                "name": "A RIGHT T0"
+            },
+            {
+                "address": "10",
+                "name": "A RIGHT T1"
+            },
+            {
+                "address": "11",
+                "name": "A BAL L T0"
+            },
+            {
+                "address": "11",
+                "name": "A BAL L T1"
+            },
+            {
+                "address": "11",
+                "name": "A LEFT T0"
+            },
+            {
+                "address": "11",
+                "name": "A LEFT T1"
+            },
+            {
+                "address": "12",
+                "name": "A DOWN T0"
+            },
+            {
+                "address": "12",
+                "name": "A DOWN T1"
+            },
+            {
+                "address": "18",
+                "name": "A LINE4 T0"
+            },
+            {
+                "address": "18",
+                "name": "A LINE4 T1"
+            },
+            {
+                "address": "18",
+                "name": "A REG4 T0"
+            },
+            {
+                "address": "18",
+                "name": "A REG4 T1"
+            },
+            {
+                "address": "19",
+                "name": "A LINE3 T0"
+            },
+            {
+                "address": "19",
+                "name": "A LINE3 T1"
+            },
+            {
+                "address": "19",
+                "name": "A REG3 T0"
+            },
+            {
+                "address": "19",
+                "name": "A REG3 T1"
+            },
+            {
+                "address": "1a",
+                "name": "A LINE2 T0"
+            },
+            {
+                "address": "1a",
+                "name": "A LINE2 T1"
+            },
+            {
+                "address": "1a",
+                "name": "A REG2 T0"
+            },
+            {
+                "address": "1a",
+                "name": "A REG2 T1"
+            },
+            {
+                "address": "1b",
+                "name": "A LINE1 T0"
+            },
+            {
+                "address": "1b",
+                "name": "A LINE1 T1"
+            },
+            {
+                "address": "1b",
+                "name": "A REG1 T0"
+            },
+            {
+                "address": "1b",
+                "name": "A REG1 T1"
+            },
+            {
+                "address": "20",
+                "name": "A SRS T0"
+            },
+            {
+                "address": "20",
+                "name": "A SRS T1"
+            },
+            {
+                "address": "21",
+                "name": "A TAPE T0"
+            },
+            {
+                "address": "21",
+                "name": "A TAPE T1"
+            },
+            {
+                "address": "22",
+                "name": "A BAL2 T0"
+            },
+            {
+                "address": "22",
+                "name": "A BAL2 T1"
+            },
+            {
+                "address": "23",
+                "name": "A BAL1 T0"
+            },
+            {
+                "address": "23",
+                "name": "A BAL1 T1"
+            },
+            {
+                "address": "28",
+                "name": "A GAIN T0"
+            },
+            {
+                "address": "28",
+                "name": "A GAIN T1"
+            },
+            {
+                "address": "29",
+                "name": "A PHASE T0"
+            },
+            {
+                "address": "29",
+                "name": "A PHASE T1"
+            },
+            {
+                "address": "2a",
+                "name": "A BAL3 T0"
+            },
+            {
+                "address": "2a",
+                "name": "A BAL3 T1"
+            },
+            {
+                "address": "2b",
+                "name": "A OUTPUT T0"
+            },
+            {
+                "address": "2b",
+                "name": "A OUTPUT T1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

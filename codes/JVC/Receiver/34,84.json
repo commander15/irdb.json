@@ -1,0 +1,21 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "SURR:EX/ES/PLII"
+            },
+            {
+                "address": "91",
+                "name": "DIMMER"
+            }
+        ],
+        "device_address": "2200000",
+        "protocol": "JVC-48"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

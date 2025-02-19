@@ -1,0 +1,61 @@
+{
+    "display_name": "Philips Unknown_CD720",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "KEY_TIME"
+            },
+            {
+                "address": "10",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "11",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_AGAIN"
+            },
+            {
+                "address": "20",
+                "name": "KEY_NEXT"
+            },
+            {
+                "address": "21",
+                "name": "KEY_PREVIOUS"
+            },
+            {
+                "address": "2b",
+                "name": "SCAN"
+            },
+            {
+                "address": "2d",
+                "name": "KEY_OPEN"
+            },
+            {
+                "address": "30",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "35",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "36",
+                "name": "KEY_STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "Unknown_CD720"
+}

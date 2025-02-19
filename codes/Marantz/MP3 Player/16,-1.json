@@ -1,0 +1,21 @@
+{
+    "display_name": "Marantz MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

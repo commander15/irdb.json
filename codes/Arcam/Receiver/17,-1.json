@@ -1,0 +1,237 @@
+{
+    "display_name": "Arcam Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "ZONE 2: SAT INPUT"
+            },
+            {
+                "address": "0",
+                "name": "NUMBER 0 (TUNER)"
+            },
+            {
+                "address": "1",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "1",
+                "name": "NUMBER 1 (TUNER)"
+            },
+            {
+                "address": "2",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "2",
+                "name": "ZONE 2: AV INPUT"
+            },
+            {
+                "address": "2",
+                "name": "NUMBER 2 (TUNER)"
+            },
+            {
+                "address": "3",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "3",
+                "name": "ZONE 2: TUNER INPUT"
+            },
+            {
+                "address": "3",
+                "name": "NUMBER 3 (TUNER)"
+            },
+            {
+                "address": "4",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "4",
+                "name": "ZONE 2: DVD INPUT"
+            },
+            {
+                "address": "4",
+                "name": "NUMBER 4 (TUNER)"
+            },
+            {
+                "address": "5",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "5",
+                "name": "NUMBER 5 (TUNER)"
+            },
+            {
+                "address": "6",
+                "name": "PRESET 6"
+            },
+            {
+                "address": "6",
+                "name": "ZONE 2: VCR INPUT"
+            },
+            {
+                "address": "6",
+                "name": "NUMBER 6 (TUNER)"
+            },
+            {
+                "address": "7",
+                "name": "PRESET 7"
+            },
+            {
+                "address": "7",
+                "name": "ZONE 2: CD INPUT"
+            },
+            {
+                "address": "7",
+                "name": "NUMBER 7 (TUNER)"
+            },
+            {
+                "address": "8",
+                "name": "PRESET 8"
+            },
+            {
+                "address": "8",
+                "name": "ZONE 2: PVR INPUT"
+            },
+            {
+                "address": "8",
+                "name": "NUMBER 8 (TUNER)"
+            },
+            {
+                "address": "9",
+                "name": "PRESET 9"
+            },
+            {
+                "address": "9",
+                "name": "ZONE 2: DVD-A INP."
+            },
+            {
+                "address": "9",
+                "name": "NUMBER 9 (TUNER)"
+            },
+            {
+                "address": "c",
+                "name": "ZONE 2: POWER TOG."
+            },
+            {
+                "address": "d",
+                "name": "ZONE 2: MUTE TOG."
+            },
+            {
+                "address": "10",
+                "name": "ZONE 2: VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "ZONE 2: VOLUME DN."
+            },
+            {
+                "address": "1e",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "1f",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "20",
+                "name": "PRE/SIRIUS + (TUN)"
+            },
+            {
+                "address": "21",
+                "name": "PRE/SIRIUS - (TUN)"
+            },
+            {
+                "address": "22",
+                "name": "SEEK UP"
+            },
+            {
+                "address": "23",
+                "name": "SEEK DOWN"
+            },
+            {
+                "address": "25",
+                "name": "PAGE DOWN (TUNE)"
+            },
+            {
+                "address": "26",
+                "name": "PAGE UP (TUNER)"
+            },
+            {
+                "address": "29",
+                "name": "DELETE PRESET"
+            },
+            {
+                "address": "36",
+                "name": "ZONE 2: PRESET TOG."
+            },
+            {
+                "address": "38",
+                "name": "ZONE 2: PRESET UP"
+            },
+            {
+                "address": "39",
+                "name": "ZONE 2: PRESET DN."
+            },
+            {
+                "address": "4d",
+                "name": "TUNING + RIGHT"
+            },
+            {
+                "address": "4e",
+                "name": "TUNING - LEFT"
+            },
+            {
+                "address": "55",
+                "name": "PRESET DOWN (TUNER)"
+            },
+            {
+                "address": "56",
+                "name": "PRESET UP (TUNE)"
+            },
+            {
+                "address": "6e",
+                "name": "PRESET 10"
+            },
+            {
+                "address": "6f",
+                "name": "PRESET 11"
+            },
+            {
+                "address": "70",
+                "name": "PRESET 12"
+            },
+            {
+                "address": "71",
+                "name": "PRESET 13"
+            },
+            {
+                "address": "72",
+                "name": "PRESET 14"
+            },
+            {
+                "address": "77",
+                "name": "ZONE 2: MUTE"
+            },
+            {
+                "address": "78",
+                "name": "ZONE 2: MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "ZONE 2: ON"
+            },
+            {
+                "address": "7c",
+                "name": "ZONE 2: STAND BY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

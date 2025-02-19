@@ -1,0 +1,193 @@
+{
+    "display_name": "Esoteric Audio DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "1",
+                "name": "PLAY"
+            },
+            {
+                "address": "2",
+                "name": "PAUSE"
+            },
+            {
+                "address": "3",
+                "name": "STOP"
+            },
+            {
+                "address": "4",
+                "name": "0"
+            },
+            {
+                "address": "5",
+                "name": "1"
+            },
+            {
+                "address": "6",
+                "name": "2"
+            },
+            {
+                "address": "7",
+                "name": "3"
+            },
+            {
+                "address": "9",
+                "name": "DOWN"
+            },
+            {
+                "address": "a",
+                "name": "UP"
+            },
+            {
+                "address": "b",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "c",
+                "name": "NEXT"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "5"
+            },
+            {
+                "address": "f",
+                "name": "6"
+            },
+            {
+                "address": "11",
+                "name": "RETURN"
+            },
+            {
+                "address": "15",
+                "name": "7"
+            },
+            {
+                "address": "16",
+                "name": "8"
+            },
+            {
+                "address": "17",
+                "name": "9"
+            },
+            {
+                "address": "1d",
+                "name": "RANDOM"
+            },
+            {
+                "address": "1e",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "40",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "41",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "42",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "45",
+                "name": "SETUP"
+            },
+            {
+                "address": "46",
+                "name": "A-B"
+            },
+            {
+                "address": "47",
+                "name": "REPEAT"
+            },
+            {
+                "address": "4a",
+                "name": "MENU"
+            },
+            {
+                "address": "4b",
+                "name": "CLEAR"
+            },
+            {
+                "address": "4c",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "4d",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "4e",
+                "name": "ANGLE"
+            },
+            {
+                "address": "4f",
+                "name": "+10"
+            },
+            {
+                "address": "50",
+                "name": "STEP SLOW <<"
+            },
+            {
+                "address": "51",
+                "name": "STEP SLOW >>"
+            },
+            {
+                "address": "52",
+                "name": "LEFT"
+            },
+            {
+                "address": "53",
+                "name": "RIGHT"
+            },
+            {
+                "address": "54",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "55",
+                "name": "ENTER SELECT"
+            },
+            {
+                "address": "59",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "5a",
+                "name": "FL DIMMER"
+            },
+            {
+                "address": "5b",
+                "name": "FUNCTION MEMORY"
+            },
+            {
+                "address": "5c",
+                "name": "LAST MEMORY"
+            },
+            {
+                "address": "5d",
+                "name": "CONDITION MEMORY"
+            },
+            {
+                "address": "5e",
+                "name": "VIDEO OFF"
+            }
+        ],
+        "device_address": "85",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Esoteric Audio",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

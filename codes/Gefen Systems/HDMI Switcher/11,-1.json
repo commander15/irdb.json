@@ -1,0 +1,61 @@
+{
+    "display_name": "Gefen Systems HDMI Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "name": "PORT1"
+            },
+            {
+                "address": "40",
+                "name": "PORT1 TOGGLE"
+            },
+            {
+                "address": "41",
+                "name": "PORT2"
+            },
+            {
+                "address": "41",
+                "name": "PORT2 TOGGLE"
+            },
+            {
+                "address": "43",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "44",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "45",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "45",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "47",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "49",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "72",
+                "name": "INPUT 5"
+            },
+            {
+                "address": "73",
+                "name": "INPUT 6"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Gefen Systems",
+    "model": "",
+    "name": "",
+    "target": "HDMI Switcher"
+}

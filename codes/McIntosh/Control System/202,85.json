@@ -1,0 +1,61 @@
+{
+    "display_name": "McIntosh Control System",
+    "ir": {
+        "commands": [
+            {
+                "address": "88",
+                "name": "CDR"
+            },
+            {
+                "address": "89",
+                "name": "SERVER"
+            },
+            {
+                "address": "8a",
+                "name": "MM"
+            },
+            {
+                "address": "8d",
+                "name": "MC"
+            },
+            {
+                "address": "90",
+                "name": "CD"
+            },
+            {
+                "address": "92",
+                "name": "TUNER"
+            },
+            {
+                "address": "97",
+                "name": "AUX"
+            },
+            {
+                "address": "c2",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "c3",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "c6",
+                "name": "MUTE"
+            },
+            {
+                "address": "cb",
+                "name": "POWER ON"
+            },
+            {
+                "address": "df",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "19400000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "McIntosh",
+    "model": "",
+    "name": "",
+    "target": "Control System"
+}

@@ -1,0 +1,901 @@
+{
+    "display_name": "Arcam DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0A"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1A"
+            },
+            {
+                "address": "1",
+                "name": "TRACK 1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2A"
+            },
+            {
+                "address": "2",
+                "name": "TRACK 2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3A"
+            },
+            {
+                "address": "3",
+                "name": "TRACK 3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4A"
+            },
+            {
+                "address": "4",
+                "name": "TRACK 4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5A"
+            },
+            {
+                "address": "5",
+                "name": "TRACK 5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6A"
+            },
+            {
+                "address": "6",
+                "name": "TRACK 6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7A"
+            },
+            {
+                "address": "7",
+                "name": "TRACK 7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8A"
+            },
+            {
+                "address": "8",
+                "name": "TRACK 8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9A"
+            },
+            {
+                "address": "9",
+                "name": "TRACK 9"
+            },
+            {
+                "address": "a",
+                "name": "TRACK 10"
+            },
+            {
+                "address": "b",
+                "name": "TRACK 11"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "POWER_A"
+            },
+            {
+                "address": "c",
+                "name": "TRACK 12"
+            },
+            {
+                "address": "c",
+                "name": "POWERA"
+            },
+            {
+                "address": "d",
+                "name": "TRACK 13"
+            },
+            {
+                "address": "e",
+                "name": "TRACK 14"
+            },
+            {
+                "address": "f",
+                "name": "TRACK 15"
+            },
+            {
+                "address": "10",
+                "name": "TRACK 16"
+            },
+            {
+                "address": "11",
+                "name": "TRACK 17"
+            },
+            {
+                "address": "12",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "12",
+                "name": "DISPLAY_A"
+            },
+            {
+                "address": "12",
+                "name": "TRACK 18"
+            },
+            {
+                "address": "12",
+                "name": "DISP"
+            },
+            {
+                "address": "12",
+                "name": "DISP A"
+            },
+            {
+                "address": "13",
+                "name": "TRACK 19"
+            },
+            {
+                "address": "14",
+                "name": "TRACK 20"
+            },
+            {
+                "address": "15",
+                "name": "TRACK 21"
+            },
+            {
+                "address": "16",
+                "name": "TRACK 22"
+            },
+            {
+                "address": "17",
+                "name": "TRACK 23"
+            },
+            {
+                "address": "18",
+                "name": "TRACK 24"
+            },
+            {
+                "address": "19",
+                "name": "TRACK 25"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT TOGGLE"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT A"
+            },
+            {
+                "address": "1e",
+                "name": "SLOWF"
+            },
+            {
+                "address": "1e",
+                "name": "SLOW FORWARD"
+            },
+            {
+                "address": "1e",
+                "name": ">"
+            },
+            {
+                "address": "1e",
+                "name": ">A"
+            },
+            {
+                "address": "1e",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "1e",
+                "name": "SLOW +"
+            },
+            {
+                "address": "1e",
+                "name": "SLOW + A"
+            },
+            {
+                "address": "1f",
+                "name": "SLOWR"
+            },
+            {
+                "address": "1f",
+                "name": "SLOW REWIND"
+            },
+            {
+                "address": "1f",
+                "name": "<"
+            },
+            {
+                "address": "1f",
+                "name": "<A"
+            },
+            {
+                "address": "1f",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "1f",
+                "name": "SLOW -"
+            },
+            {
+                "address": "1f",
+                "name": "SLOW - A"
+            },
+            {
+                "address": "20",
+                "name": "SKIPF"
+            },
+            {
+                "address": "20",
+                "name": "SKIPF_A"
+            },
+            {
+                "address": "20",
+                "name": "TRACK FWD"
+            },
+            {
+                "address": "20",
+                "name": ">I"
+            },
+            {
+                "address": "20",
+                "name": ">IA"
+            },
+            {
+                "address": "20",
+                "name": "TRACK FORWARD"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "20",
+                "name": "NEXT"
+            },
+            {
+                "address": "20",
+                "name": "NEXT A"
+            },
+            {
+                "address": "21",
+                "name": "SKIPB"
+            },
+            {
+                "address": "21",
+                "name": "SKIPB_A"
+            },
+            {
+                "address": "21",
+                "name": "TRACK BACK"
+            },
+            {
+                "address": "21",
+                "name": "I<"
+            },
+            {
+                "address": "21",
+                "name": "I<A"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "21",
+                "name": "PREVIOUS A"
+            },
+            {
+                "address": "25",
+                "name": "TRIM"
+            },
+            {
+                "address": "25",
+                "name": "TRIM A"
+            },
+            {
+                "address": "29",
+                "name": "MODE"
+            },
+            {
+                "address": "29",
+                "name": "MODE_A"
+            },
+            {
+                "address": "29",
+                "name": "PROGRAMME"
+            },
+            {
+                "address": "29",
+                "name": "PROGRAMM"
+            },
+            {
+                "address": "29",
+                "name": "PROG"
+            },
+            {
+                "address": "29",
+                "name": "PROGA"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN_A"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "2d",
+                "name": "STOP"
+            },
+            {
+                "address": "2d",
+                "name": "OPEN/CLOSE A"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE_A"
+            },
+            {
+                "address": "30",
+                "name": "PAUSEA"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE A"
+            },
+            {
+                "address": "32",
+                "name": "FASTR"
+            },
+            {
+                "address": "32",
+                "name": "FASTR_A"
+            },
+            {
+                "address": "32",
+                "name": "FAST REWIND"
+            },
+            {
+                "address": "32",
+                "name": "<<"
+            },
+            {
+                "address": "32",
+                "name": "<<A"
+            },
+            {
+                "address": "32",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "32",
+                "name": "REW"
+            },
+            {
+                "address": "32",
+                "name": "REW A"
+            },
+            {
+                "address": "34",
+                "name": "FASTF"
+            },
+            {
+                "address": "34",
+                "name": "FASTF_A"
+            },
+            {
+                "address": "34",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "34",
+                "name": ">>"
+            },
+            {
+                "address": "34",
+                "name": ">>A"
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": "TRIM"
+            },
+            {
+                "address": "34",
+                "name": "FWD"
+            },
+            {
+                "address": "34",
+                "name": "FWD A"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "35",
+                "name": "PLAY_A"
+            },
+            {
+                "address": "35",
+                "name": "PLAYA"
+            },
+            {
+                "address": "35",
+                "name": "PLAY A"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "36",
+                "name": "STOP_A"
+            },
+            {
+                "address": "36",
+                "name": "STOPA"
+            },
+            {
+                "address": "36",
+                "name": "TRACK BACK"
+            },
+            {
+                "address": "36",
+                "name": "STOP A"
+            },
+            {
+                "address": "3a",
+                "name": "CLEAR"
+            },
+            {
+                "address": "3a",
+                "name": "CLEARA"
+            },
+            {
+                "address": "3b",
+                "name": "MARK_AB"
+            },
+            {
+                "address": "3b",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "3b",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "3b",
+                "name": "A/B"
+            },
+            {
+                "address": "3b",
+                "name": "A/BA"
+            },
+            {
+                "address": "40",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "40",
+                "name": "PROGRAM_A"
+            },
+            {
+                "address": "40",
+                "name": "PMODE"
+            },
+            {
+                "address": "40",
+                "name": "RANDOM"
+            },
+            {
+                "address": "40",
+                "name": "RANDOM A"
+            },
+            {
+                "address": "41",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "41",
+                "name": "SUBTITLE_A"
+            },
+            {
+                "address": "41",
+                "name": "SUBTITLES"
+            },
+            {
+                "address": "41",
+                "name": "SUBTITLESA"
+            },
+            {
+                "address": "41",
+                "name": "SUBTITLE A"
+            },
+            {
+                "address": "42",
+                "name": "TITLE"
+            },
+            {
+                "address": "42",
+                "name": "TITLE_A"
+            },
+            {
+                "address": "42",
+                "name": "TITLE A"
+            },
+            {
+                "address": "43",
+                "name": "MENU"
+            },
+            {
+                "address": "43",
+                "name": "MENU_A"
+            },
+            {
+                "address": "43",
+                "name": "MENUA"
+            },
+            {
+                "address": "43",
+                "name": "MENU A"
+            },
+            {
+                "address": "44",
+                "name": "ZOOM"
+            },
+            {
+                "address": "44",
+                "name": "ZOOM_A"
+            },
+            {
+                "address": "44",
+                "name": "ZOOM A"
+            },
+            {
+                "address": "45",
+                "name": "AUDIO"
+            },
+            {
+                "address": "45",
+                "name": "AUDIO_A"
+            },
+            {
+                "address": "45",
+                "name": "AUDIO A"
+            },
+            {
+                "address": "46",
+                "name": "MEM"
+            },
+            {
+                "address": "46",
+                "name": "MEM_A"
+            },
+            {
+                "address": "46",
+                "name": "MEM (BOOKMARK)"
+            },
+            {
+                "address": "46",
+                "name": "MEMORY"
+            },
+            {
+                "address": "46",
+                "name": "MEMORY A"
+            },
+            {
+                "address": "48",
+                "name": "RETURN"
+            },
+            {
+                "address": "48",
+                "name": "RETURN_A"
+            },
+            {
+                "address": "48",
+                "name": "RETURN A"
+            },
+            {
+                "address": "49",
+                "name": "ANGLE"
+            },
+            {
+                "address": "49",
+                "name": "ANGLE_A"
+            },
+            {
+                "address": "49",
+                "name": "ANGLE A"
+            },
+            {
+                "address": "4a",
+                "name": "SETUP"
+            },
+            {
+                "address": "4a",
+                "name": "SETUP_A"
+            },
+            {
+                "address": "4a",
+                "name": "SETUP A"
+            },
+            {
+                "address": "4b",
+                "name": "STATUS"
+            },
+            {
+                "address": "4b",
+                "name": "STATUS_A"
+            },
+            {
+                "address": "4b",
+                "name": "STATUS A"
+            },
+            {
+                "address": "4c",
+                "name": "SEARCH"
+            },
+            {
+                "address": "4c",
+                "name": "SEARCH_A"
+            },
+            {
+                "address": "4c",
+                "name": "SEARCH A"
+            },
+            {
+                "address": "4d",
+                "name": "PL"
+            },
+            {
+                "address": "4d",
+                "name": "MODE"
+            },
+            {
+                "address": "4d",
+                "name": "MODE A"
+            },
+            {
+                "address": "50",
+                "name": "RIGHT CURSOR"
+            },
+            {
+                "address": "50",
+                "name": "RIGHT CURSOR_A"
+            },
+            {
+                "address": "50",
+                "name": "RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "RIGHTA"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "C RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "C RIGHT A"
+            },
+            {
+                "address": "51",
+                "name": "LEFT CURSOR"
+            },
+            {
+                "address": "51",
+                "name": "LEFT CURSOR_A"
+            },
+            {
+                "address": "51",
+                "name": "LEFT"
+            },
+            {
+                "address": "51",
+                "name": "LEFTA"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "51",
+                "name": "C LEFT"
+            },
+            {
+                "address": "51",
+                "name": "C LEFT A"
+            },
+            {
+                "address": "55",
+                "name": "DOWN CURSOR"
+            },
+            {
+                "address": "55",
+                "name": "DOWN CURSOR_A"
+            },
+            {
+                "address": "55",
+                "name": "DOWN"
+            },
+            {
+                "address": "55",
+                "name": "DOWNA"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "55",
+                "name": "C DOWN"
+            },
+            {
+                "address": "55",
+                "name": "C DOWN A"
+            },
+            {
+                "address": "56",
+                "name": "UP CURSOR"
+            },
+            {
+                "address": "56",
+                "name": "UP CURSOR_A"
+            },
+            {
+                "address": "56",
+                "name": "UP"
+            },
+            {
+                "address": "56",
+                "name": ""
+            },
+            {
+                "address": "56",
+                "name": "UPA"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "56",
+                "name": "C UP"
+            },
+            {
+                "address": "56",
+                "name": "C UP A"
+            },
+            {
+                "address": "57",
+                "name": "OK"
+            },
+            {
+                "address": "57",
+                "name": "OK_A"
+            },
+            {
+                "address": "57",
+                "name": "OKA"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR SELECT (OK)"
+            },
+            {
+                "address": "57",
+                "name": "OK A"
+            },
+            {
+                "address": "7b",
+                "name": "DISCRETE ON"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7b",
+                "name": "ON"
+            },
+            {
+                "address": "7c",
+                "name": "DISCRETE OFF"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7c",
+                "name": "OFF"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

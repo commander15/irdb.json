@@ -1,0 +1,797 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c",
+                "name": "12V TRIGGER 1 ON"
+            },
+            {
+                "address": "d",
+                "name": "12V TRIGGER 1 OFF"
+            },
+            {
+                "address": "e",
+                "name": "12V TRIGGER 2 ON"
+            },
+            {
+                "address": "f",
+                "name": "12V TRIGGER 2 OFF"
+            },
+            {
+                "address": "22",
+                "name": "RETURN / BACK"
+            },
+            {
+                "address": "23",
+                "name": "GUI MENU / SETUP"
+            },
+            {
+                "address": "24",
+                "name": "TUNER MEMORY"
+            },
+            {
+                "address": "98",
+                "name": "TUNER BAND TOGGLE AM/FM"
+            },
+            {
+                "address": "99",
+                "name": "TUNER BAND FM"
+            },
+            {
+                "address": "9a",
+                "name": "TUNER BAND AM"
+            },
+            {
+                "address": "9b",
+                "name": "TUNER BAND XM"
+            },
+            {
+                "address": "f2",
+                "name": "INTERNET RADIO FAVORITE 1"
+            },
+            {
+                "address": "f3",
+                "name": "INTERNET RADIO FAVORITE 2"
+            },
+            {
+                "address": "f4",
+                "name": "INTERNET RADIO FAVORITE 3"
+            },
+            {
+                "address": "f5",
+                "name": "INTERNET RADIO FAVORITE 4"
+            },
+            {
+                "address": "124",
+                "name": "QUICK SELECT / USER PRESET 1"
+            },
+            {
+                "address": "125",
+                "name": "QUICK SELECT / USER PRESET 2"
+            },
+            {
+                "address": "126",
+                "name": "QUICK SELECT / USER PRESET 3"
+            },
+            {
+                "address": "127",
+                "name": "QUICK SELECT / USER PRESET 4"
+            },
+            {
+                "address": "128",
+                "name": "QUICK SELECT / USER PRESET 5"
+            },
+            {
+                "address": "131",
+                "name": "SURROUND MODE DIRECT / STEREO"
+            },
+            {
+                "address": "133",
+                "name": "PURE DIRECT"
+            },
+            {
+                "address": "134",
+                "name": "SURROUND MODE STANDARD"
+            },
+            {
+                "address": "144",
+                "name": "SURROUND MODE AUTO"
+            },
+            {
+                "address": "14c",
+                "name": "SURROUND MODE AURO 3D PREVIOUS"
+            },
+            {
+                "address": "150",
+                "name": "SURROUND MODE DSP SIMULATION"
+            },
+            {
+                "address": "151",
+                "name": "SURROUND MODE MULTI CHANNEL"
+            },
+            {
+                "address": "15b",
+                "name": "SURROUND MODE NEURAL"
+            },
+            {
+                "address": "15c",
+                "name": "SURROUND MODE DOLBY ATMOS"
+            },
+            {
+                "address": "15d",
+                "name": "SURROUND MODE AURO 3D NEXT"
+            },
+            {
+                "address": "165",
+                "name": "INPUT MODE HDMI"
+            },
+            {
+                "address": "167",
+                "name": "INPUT MODE DIGITAL"
+            },
+            {
+                "address": "16c",
+                "name": "INPUT MODE DECODE"
+            },
+            {
+                "address": "170",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "171",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "172",
+                "name": "VOLUME MUTE"
+            },
+            {
+                "address": "17a",
+                "name": "CHANNEL LEVEL"
+            },
+            {
+                "address": "19a",
+                "name": "SUBWOOFER 2 LEVEL UP"
+            },
+            {
+                "address": "19b",
+                "name": "SUBWOOFER 2 LEVEL DOWN"
+            },
+            {
+                "address": "1a1",
+                "name": "DOLBY TFL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1a2",
+                "name": "DOLBY TFL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1a3",
+                "name": "DOLBY TFR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1a4",
+                "name": "DOLBY TFR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1a5",
+                "name": "DOLBY TML SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1a6",
+                "name": "DOLBY TML SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1a7",
+                "name": "DOLBY TMR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1a8",
+                "name": "DOLBY TMR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1a9",
+                "name": "DOLBY TRL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1aa",
+                "name": "DOLBY TRL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1ab",
+                "name": "DOLBY TRR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1ac",
+                "name": "DOLBY TRR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1ad",
+                "name": "DOLBY RHL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1ae",
+                "name": "DOLBY RHL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1af",
+                "name": "DOLBY RHR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1b0",
+                "name": "DOLBY RHR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1b1",
+                "name": "DOLBY LF SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1b2",
+                "name": "DOLBY LF SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1b3",
+                "name": "DOLBY RF SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1b4",
+                "name": "DOLBY RF SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1b5",
+                "name": "DOLBY SL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1b6",
+                "name": "DOLBY SL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1b7",
+                "name": "DOLBY SR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1b8",
+                "name": "DOLBY SR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1b9",
+                "name": "DOLBY LB SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1ba",
+                "name": "DOLBY LB SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1bb",
+                "name": "DOLBY RB SPEAKER LEVEL UP"
+            },
+            {
+                "address": "1bc",
+                "name": "DOLBY RB SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "1bd",
+                "name": "LFC ON"
+            },
+            {
+                "address": "1be",
+                "name": "LFC OFF"
+            },
+            {
+                "address": "1c8",
+                "name": "LFC TOGGLE ON/OFF"
+            },
+            {
+                "address": "211",
+                "name": "DSX SELECT"
+            },
+            {
+                "address": "221",
+                "name": "DYNAMIC VOLUME TOGGLE MODE"
+            },
+            {
+                "address": "223",
+                "name": "DYNAMIC EQ TOGGLE ON/OFF"
+            },
+            {
+                "address": "224",
+                "name": "RESTORER MODE"
+            },
+            {
+                "address": "225",
+                "name": "DYNAMIC EQ/VOLUME TOGGLE MODE"
+            },
+            {
+                "address": "226",
+                "name": "FRONT SPEAKER A"
+            },
+            {
+                "address": "228",
+                "name": "FRONT SPEAKER B"
+            },
+            {
+                "address": "22a",
+                "name": "FRONT SPEAKER A+B"
+            },
+            {
+                "address": "22c",
+                "name": "RESTORER OFF"
+            },
+            {
+                "address": "22d",
+                "name": "RESTORER MODE 1"
+            },
+            {
+                "address": "22e",
+                "name": "RESTORER MODE 2"
+            },
+            {
+                "address": "22f",
+                "name": "RESTORER MODE 3"
+            },
+            {
+                "address": "26c",
+                "name": "SS AUDIO DELAY"
+            },
+            {
+                "address": "26c",
+                "name": "AUDIO DELAY MODE"
+            },
+            {
+                "address": "26d",
+                "name": "AUDIO DELAY UP"
+            },
+            {
+                "address": "26e",
+                "name": "AUDIO DELAY DOWN"
+            },
+            {
+                "address": "270",
+                "name": "INFO / OSD"
+            },
+            {
+                "address": "282",
+                "name": "DSX ON HEIGHT"
+            },
+            {
+                "address": "283",
+                "name": "DSX ON WIDE"
+            },
+            {
+                "address": "284",
+                "name": "DSX OFF"
+            },
+            {
+                "address": "285",
+                "name": "STATUS REQUEST"
+            },
+            {
+                "address": "287",
+                "name": "DSX ON WIDE+HEIGHT"
+            },
+            {
+                "address": "29b",
+                "name": "INPUT IPOD"
+            },
+            {
+                "address": "29d",
+                "name": "HDMI MONITOR SELECT 1"
+            },
+            {
+                "address": "29e",
+                "name": "HDMI MONITOR SELECT 2"
+            },
+            {
+                "address": "2c7",
+                "name": "INPUT AUX/NET/USB/ONLINE MUSIC"
+            },
+            {
+                "address": "2ca",
+                "name": "INPUT TUNER XM"
+            },
+            {
+                "address": "2cb",
+                "name": "INPUT DTU / HD RADIO"
+            },
+            {
+                "address": "2cc",
+                "name": "INPUT AUX/NET"
+            },
+            {
+                "address": "2cd",
+                "name": "INPUT AUX/IPOD/DOCK"
+            },
+            {
+                "address": "2ce",
+                "name": "INPUT AUX/USB"
+            },
+            {
+                "address": "2cf",
+                "name": "INPUT HD RADIO"
+            },
+            {
+                "address": "2d1",
+                "name": "INPUT BD"
+            },
+            {
+                "address": "2d5",
+                "name": "INPUT GAME"
+            },
+            {
+                "address": "2d7",
+                "name": "INPUT GAME 2"
+            },
+            {
+                "address": "2d8",
+                "name": "INPUT VCR4"
+            },
+            {
+                "address": "2da",
+                "name": "INPUT AUX 2"
+            },
+            {
+                "address": "2dc",
+                "name": "INPUT BD/DVD/HDP"
+            },
+            {
+                "address": "2dd",
+                "name": "INPUT VCR 1/2"
+            },
+            {
+                "address": "2de",
+                "name": "INPUT VCR 3/4"
+            },
+            {
+                "address": "2df",
+                "name": "INPUT VCR/DVR/MEDIA PLAYER"
+            },
+            {
+                "address": "2e0",
+                "name": "MULTEQ XT 32 TOGGLE MODE"
+            },
+            {
+                "address": "2e5",
+                "name": "INPUT INTERNET RADIO"
+            },
+            {
+                "address": "2ea",
+                "name": "DYNAMIC EQ ON + DYNAMIC VOLUME OFF"
+            },
+            {
+                "address": "2eb",
+                "name": "DYNAMIC EQ OFF + DYNAMIC VOLUME OFF"
+            },
+            {
+                "address": "2ec",
+                "name": "DYNAMIC VOLUME HEAVY/MIDNIGHT"
+            },
+            {
+                "address": "2ed",
+                "name": "DYNAMIC VOLUME MEDIUM/EVENING"
+            },
+            {
+                "address": "2ee",
+                "name": "DYNAMIC VOLUME LIGHT/DAY"
+            },
+            {
+                "address": "2ef",
+                "name": "INPUT BLUETOOTH"
+            },
+            {
+                "address": "2f1",
+                "name": "HDMI MONITOR SELECT"
+            },
+            {
+                "address": "2f2",
+                "name": "HDMI MONITOR SCALE/RESOLUTION"
+            },
+            {
+                "address": "2f5",
+                "name": "HDMI ASPECT RADIO 16:9"
+            },
+            {
+                "address": "2f6",
+                "name": "HDMI ASPECT RADIO 4:3"
+            },
+            {
+                "address": "2f8",
+                "name": "DYNAMIC EQ REF LEVEL 0DB"
+            },
+            {
+                "address": "2f9",
+                "name": "DYNAMIC EQ REF LEVEL 5DB"
+            },
+            {
+                "address": "2fa",
+                "name": "DYNAMIC EQ REF LEVEL 10DB"
+            },
+            {
+                "address": "2fb",
+                "name": "DYNAMIC EQ REF LEVEL 15DB"
+            },
+            {
+                "address": "2fc",
+                "name": "INPUT SPOTIFY"
+            },
+            {
+                "address": "2fd",
+                "name": "INPUT PANDORA"
+            },
+            {
+                "address": "300",
+                "name": "NET/USB CURSOR/ARROW UP"
+            },
+            {
+                "address": "301",
+                "name": "NET/USB CURSOR/ARROW DOWN"
+            },
+            {
+                "address": "302",
+                "name": "NET/USB CURSOR/ARROW LEFT"
+            },
+            {
+                "address": "303",
+                "name": "NET/USB CURSOR/ARROW RIGHT"
+            },
+            {
+                "address": "304",
+                "name": "NET/USB ENTER/PLAY/PAUSE"
+            },
+            {
+                "address": "305",
+                "name": "NET/USB PLAY"
+            },
+            {
+                "address": "306",
+                "name": "NET/USB PAUSE"
+            },
+            {
+                "address": "307",
+                "name": "NET/USB STOP"
+            },
+            {
+                "address": "308",
+                "name": "NET/USB SKIP PLUS"
+            },
+            {
+                "address": "309",
+                "name": "NET/USB SKIP MINUS"
+            },
+            {
+                "address": "30a",
+                "name": "NET/USB REPEAT ONE"
+            },
+            {
+                "address": "30b",
+                "name": "NET/USB REPEAT OFF"
+            },
+            {
+                "address": "30c",
+                "name": "NET/USB RANDOM ON"
+            },
+            {
+                "address": "30d",
+                "name": "NET/USB RANDOM OFF"
+            },
+            {
+                "address": "311",
+                "name": "NET/USB REPEAT ALL"
+            },
+            {
+                "address": "315",
+                "name": "GRAPHIC EQ TOGGLE ON/OFF"
+            },
+            {
+                "address": "318",
+                "name": "GRAPHIC EQ ON"
+            },
+            {
+                "address": "31f",
+                "name": "GRAPHIC EQ OFF"
+            },
+            {
+                "address": "320",
+                "name": "IPOD CURSOR/ARROW UP"
+            },
+            {
+                "address": "321",
+                "name": "IPOD CURSOR/ARROW DOWN"
+            },
+            {
+                "address": "322",
+                "name": "IPOD CURSOR/ARROW LEFT"
+            },
+            {
+                "address": "323",
+                "name": "IPOD CURSOR/ARROW RIGHT"
+            },
+            {
+                "address": "324",
+                "name": "IPOD ENTER"
+            },
+            {
+                "address": "325",
+                "name": "IPOD PLAY/PAUSE"
+            },
+            {
+                "address": "327",
+                "name": "IPOD STOP"
+            },
+            {
+                "address": "328",
+                "name": "IPOD SKIP PLUS/FORWARD"
+            },
+            {
+                "address": "329",
+                "name": "IPOD SKIP MINUS/REVERSE"
+            },
+            {
+                "address": "32a",
+                "name": "IPOD SEARCH FORWARD"
+            },
+            {
+                "address": "32b",
+                "name": "IPOD SEARCH REVERSE"
+            },
+            {
+                "address": "32c",
+                "name": "IPOD REPEAT ONE"
+            },
+            {
+                "address": "32d",
+                "name": "IPOD REPEAT ALL"
+            },
+            {
+                "address": "32e",
+                "name": "IPOD REPEAT OFF"
+            },
+            {
+                "address": "32f",
+                "name": "IPOD SHUFFLE SONGS"
+            },
+            {
+                "address": "330",
+                "name": "IPOD SHUFFLE ALBUMS"
+            },
+            {
+                "address": "331",
+                "name": "IPOD SHUFFLE OFF"
+            },
+            {
+                "address": "332",
+                "name": "IPOD MENU"
+            },
+            {
+                "address": "333",
+                "name": "IPOD MODE BROWSE"
+            },
+            {
+                "address": "334",
+                "name": "IPOD MODE REMOTE"
+            },
+            {
+                "address": "33a",
+                "name": "HDMI CONTROL/CEC ON"
+            },
+            {
+                "address": "33b",
+                "name": "HDMI CONTROL/CEC OFF"
+            },
+            {
+                "address": "33d",
+                "name": "HDMI AUDIO OUT TOGGLE TV/AMP"
+            },
+            {
+                "address": "33e",
+                "name": "HDMI AUDIO OUT TV"
+            },
+            {
+                "address": "33f",
+                "name": "HDMI AUDIO OUT AMP"
+            },
+            {
+                "address": "343",
+                "name": "PARTY"
+            },
+            {
+                "address": "344",
+                "name": "SLEEP"
+            },
+            {
+                "address": "35b",
+                "name": "INSTA PREVIEW TOGGLE ON/OFF"
+            },
+            {
+                "address": "366",
+                "name": "INSTA PREVIEW ON"
+            },
+            {
+                "address": "367",
+                "name": "INSTA PREVIEW OFF"
+            },
+            {
+                "address": "368",
+                "name": "ECO MODE TOGGLE"
+            },
+            {
+                "address": "369",
+                "name": "ECO MODE OFF"
+            },
+            {
+                "address": "36a",
+                "name": "ECO MODE ON"
+            },
+            {
+                "address": "36b",
+                "name": "ECO MODE AUTO"
+            },
+            {
+                "address": "3b5",
+                "name": "OPTION"
+            },
+            {
+                "address": "3bc",
+                "name": "REPEAT"
+            },
+            {
+                "address": "3bd",
+                "name": "RANDOM/SHUFFLE"
+            },
+            {
+                "address": "3be",
+                "name": "USB DIRECT PLAY"
+            },
+            {
+                "address": "3bf",
+                "name": "FAVORITE DIRECT PLAY"
+            },
+            {
+                "address": "3cc",
+                "name": "TUNER PRESET CHANNEL UP"
+            },
+            {
+                "address": "3cd",
+                "name": "TUNER PRESET CHANNEL DOWN"
+            },
+            {
+                "address": "3ce",
+                "name": "TUNER PRESET CHANNEL SHIFT"
+            },
+            {
+                "address": "3d7",
+                "name": "TUNER PRESET SEARCH/RDS"
+            },
+            {
+                "address": "3e0",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "3e1",
+                "name": "STOP"
+            },
+            {
+                "address": "3e3",
+                "name": "TUNER PRESET SKIP/TUNE DOWN"
+            },
+            {
+                "address": "3e4",
+                "name": "TUNER PRESET SKIP/TUNE UP"
+            }
+        ],
+        "device_address": "8",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

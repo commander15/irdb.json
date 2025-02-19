@@ -1,0 +1,165 @@
+{
+    "display_name": "GE VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "tv_vcr"
+            },
+            {
+                "address": "6",
+                "name": "clear_reset"
+            },
+            {
+                "address": "8",
+                "name": "program"
+            },
+            {
+                "address": "a",
+                "name": "tracking_left"
+            },
+            {
+                "address": "b",
+                "name": "tracking_right"
+            },
+            {
+                "address": "10",
+                "name": "KEY_SLOW"
+            },
+            {
+                "address": "12",
+                "name": "counter_memory"
+            },
+            {
+                "address": "15",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "15",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "17",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "17",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "19",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1d",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "24",
+                "name": "add_delete"
+            },
+            {
+                "address": "2a",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "2c",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "2d",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "30",
+                "name": "KEY_0"
+            },
+            {
+                "address": "31",
+                "name": "KEY_1"
+            },
+            {
+                "address": "32",
+                "name": "KEY_2"
+            },
+            {
+                "address": "33",
+                "name": "KEY_3"
+            },
+            {
+                "address": "34",
+                "name": "KEY_4"
+            },
+            {
+                "address": "35",
+                "name": "KEY_5"
+            },
+            {
+                "address": "36",
+                "name": "KEY_6"
+            },
+            {
+                "address": "37",
+                "name": "KEY_7"
+            },
+            {
+                "address": "38",
+                "name": "KEY_8"
+            },
+            {
+                "address": "39",
+                "name": "KEY_9"
+            },
+            {
+                "address": "3c",
+                "name": "display"
+            },
+            {
+                "address": "40",
+                "name": "KEY_EJECTCD"
+            },
+            {
+                "address": "44",
+                "name": "otr_start"
+            },
+            {
+                "address": "45",
+                "name": "otr_length"
+            },
+            {
+                "address": "46",
+                "name": "speed"
+            },
+            {
+                "address": "47",
+                "name": "input"
+            },
+            {
+                "address": "d1",
+                "name": "KEY_0"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RCA-38"
+    },
+    "manufacturer": "GE",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

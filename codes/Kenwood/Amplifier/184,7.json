@@ -1,0 +1,45 @@
+{
+    "display_name": "Kenwood Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "50",
+                "name": "CURSOR DOWN / SOUN"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR UP / SOUND C"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR LEFT / SOUND"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR RIGHT / SOUND"
+            },
+            {
+                "address": "56",
+                "name": "ROOM EQ"
+            },
+            {
+                "address": "57",
+                "name": "FLAT"
+            },
+            {
+                "address": "5f",
+                "name": "D-BASS"
+            },
+            {
+                "address": "9b",
+                "name": "PLAY/PAUSE / DIGITAL"
+            }
+        ],
+        "device_address": "5c00",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

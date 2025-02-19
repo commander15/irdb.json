@@ -1,0 +1,81 @@
+{
+    "display_name": "Sony Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "12",
+                "name": ""
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "1e",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "20",
+                "name": "PHONE"
+            },
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "23",
+                "name": "TAPE"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "69",
+                "name": "DAT"
+            },
+            {
+                "address": "6a",
+                "name": "SAT"
+            },
+            {
+                "address": "6b",
+                "name": "LD"
+            },
+            {
+                "address": "7b",
+                "name": ""
+            },
+            {
+                "address": "7d",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "68",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

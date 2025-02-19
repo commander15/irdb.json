@@ -1,0 +1,33 @@
+{
+    "display_name": "CIS BOX Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "H SHIFT"
+            },
+            {
+                "address": "11",
+                "name": "V SHIFT"
+            },
+            {
+                "address": "12",
+                "name": "H SIZE"
+            },
+            {
+                "address": "13",
+                "name": "V SIZE"
+            },
+            {
+                "address": "7e",
+                "name": "SET"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

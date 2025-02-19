@@ -1,0 +1,167 @@
+{
+    "display_name": "Sonance Distributed Audio",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "LIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "FUNCTION",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7",
+                "device_address": "0",
+                "name": "MUTE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "ENTER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "CHANNEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "CHANNEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "FM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "CD2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "CD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "SAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "SCAN <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "SCAN >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "TAPE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "AUX",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Sonance",
+    "model": "",
+    "name": "",
+    "target": "Distributed Audio"
+}

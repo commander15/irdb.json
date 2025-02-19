@@ -1,0 +1,185 @@
+{
+    "display_name": "Yamaha CD-R",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "84",
+                "name": "STOP"
+            },
+            {
+                "address": "86",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "87",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "88",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "89",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "8c",
+                "name": "CLEAR"
+            },
+            {
+                "address": "8d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "8e",
+                "name": "RANDOM"
+            },
+            {
+                "address": "8f",
+                "name": "INTRO"
+            },
+            {
+                "address": "90",
+                "name": "0"
+            },
+            {
+                "address": "91",
+                "name": "1"
+            },
+            {
+                "address": "92",
+                "name": "2"
+            },
+            {
+                "address": "93",
+                "name": "3"
+            },
+            {
+                "address": "94",
+                "name": "4"
+            },
+            {
+                "address": "95",
+                "name": "5"
+            },
+            {
+                "address": "96",
+                "name": "6"
+            },
+            {
+                "address": "97",
+                "name": "7"
+            },
+            {
+                "address": "98",
+                "name": "8"
+            },
+            {
+                "address": "99",
+                "name": "9"
+            },
+            {
+                "address": "9a",
+                "name": "+10"
+            },
+            {
+                "address": "9e",
+                "name": "TEXT/TIME"
+            },
+            {
+                "address": "a0",
+                "name": "REC"
+            },
+            {
+                "address": "a3",
+                "name": "COPY"
+            },
+            {
+                "address": "a5",
+                "name": "FINALIZE"
+            },
+            {
+                "address": "a6",
+                "name": "ERASE"
+            },
+            {
+                "address": "a7",
+                "name": "TRACK NO. WRITE"
+            },
+            {
+                "address": "a8",
+                "name": "AMQR"
+            },
+            {
+                "address": "ab",
+                "name": "INPUT"
+            },
+            {
+                "address": "b6",
+                "name": "TIMER REC"
+            },
+            {
+                "address": "b7",
+                "name": "ENTER"
+            },
+            {
+                "address": "b8",
+                "name": "COMPLETE"
+            },
+            {
+                "address": "b9",
+                "name": "MODE"
+            },
+            {
+                "address": "ba",
+                "name": "MENU"
+            },
+            {
+                "address": "bb",
+                "name": "VALUE +"
+            },
+            {
+                "address": "bc",
+                "name": "VALUE -"
+            },
+            {
+                "address": "bd",
+                "name": "CDR"
+            },
+            {
+                "address": "be",
+                "name": "HDD"
+            },
+            {
+                "address": "dd",
+                "name": "BOOKMARK"
+            },
+            {
+                "address": "de",
+                "name": "GROUP SKIP -"
+            },
+            {
+                "address": "df",
+                "name": "GROUP SKIP +"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "CD-R"
+}

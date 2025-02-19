@@ -1,0 +1,117 @@
+{
+    "display_name": "NEC Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCR CHANNEL +"
+            },
+            {
+                "address": "1",
+                "name": "VCR CHANNEL -"
+            },
+            {
+                "address": "2",
+                "name": "VCR VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VCR VOLUME -"
+            },
+            {
+                "address": "4",
+                "name": "STOP []"
+            },
+            {
+                "address": "5",
+                "name": "PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "RECORD"
+            },
+            {
+                "address": "8",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "VCR TV/VCR"
+            },
+            {
+                "address": "c",
+                "name": "FF/SRCH >>"
+            },
+            {
+                "address": "d",
+                "name": "REW/SRCH <<"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "10",
+                "name": "VCR 1"
+            },
+            {
+                "address": "11",
+                "name": "VCR 2"
+            },
+            {
+                "address": "12",
+                "name": "VCR 3"
+            },
+            {
+                "address": "13",
+                "name": "VCR 4"
+            },
+            {
+                "address": "14",
+                "name": "VCR 5"
+            },
+            {
+                "address": "15",
+                "name": "VCR 6"
+            },
+            {
+                "address": "16",
+                "name": "VCR 7"
+            },
+            {
+                "address": "17",
+                "name": "VCR 8"
+            },
+            {
+                "address": "18",
+                "name": "VCR 9"
+            },
+            {
+                "address": "19",
+                "name": "VCR ANT/AUX"
+            },
+            {
+                "address": "1a",
+                "name": "VCR 0"
+            },
+            {
+                "address": "1b",
+                "name": "VCR RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "VCR TIMER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

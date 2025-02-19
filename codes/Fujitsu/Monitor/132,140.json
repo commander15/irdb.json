@@ -1,0 +1,25 @@
+{
+    "display_name": "Fujitsu Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "VOL +"
+            },
+            {
+                "address": "11",
+                "name": "VOL -"
+            },
+            {
+                "address": "12",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "84000",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

@@ -1,0 +1,433 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "54",
+                "name": "CD REPEAT"
+            },
+            {
+                "address": "54",
+                "name": "REPEAT"
+            },
+            {
+                "address": "58",
+                "name": "CD SKIP >>"
+            },
+            {
+                "address": "58",
+                "name": "SKIP +"
+            },
+            {
+                "address": "58",
+                "name": "CD >>"
+            },
+            {
+                "address": "58",
+                "name": "CD-FF"
+            },
+            {
+                "address": "58",
+                "name": "CD SEARCH >> (>>)"
+            },
+            {
+                "address": "59",
+                "name": "CD SKIP <<"
+            },
+            {
+                "address": "59",
+                "name": "SKIP -"
+            },
+            {
+                "address": "59",
+                "name": "CD <<"
+            },
+            {
+                "address": "59",
+                "name": "CD-RW"
+            },
+            {
+                "address": "59",
+                "name": "CD SEARCH << (<<)"
+            },
+            {
+                "address": "5a",
+                "name": "CD SCAN >>"
+            },
+            {
+                "address": "5a",
+                "name": ">>"
+            },
+            {
+                "address": "5a",
+                "name": "FORWARD"
+            },
+            {
+                "address": "5a",
+                "name": "CD >>"
+            },
+            {
+                "address": "5a",
+                "name": "CD-SEARCH+"
+            },
+            {
+                "address": "5a",
+                "name": "CD SCAN FWD >>"
+            },
+            {
+                "address": "5b",
+                "name": "CD SCAN <<"
+            },
+            {
+                "address": "5b",
+                "name": "<<"
+            },
+            {
+                "address": "5b",
+                "name": "REV"
+            },
+            {
+                "address": "5b",
+                "name": "CD <<"
+            },
+            {
+                "address": "5b",
+                "name": "CD-SEACH-"
+            },
+            {
+                "address": "5b",
+                "name": "CD SCAN REV <<"
+            },
+            {
+                "address": "5c",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "5c",
+                "name": "PLAY"
+            },
+            {
+                "address": "5c",
+                "name": "CD-PLAY"
+            },
+            {
+                "address": "5d",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "5d",
+                "name": "A/B"
+            },
+            {
+                "address": "5d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "5d",
+                "name": "PAUSE A/B"
+            },
+            {
+                "address": "5d",
+                "name": "CD-PAUSE"
+            },
+            {
+                "address": "5d",
+                "name": "CD PAUSE (A/B)"
+            },
+            {
+                "address": "5e",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "5e",
+                "name": "STOP"
+            },
+            {
+                "address": "5e",
+                "name": "CD-STOP"
+            },
+            {
+                "address": "64",
+                "name": "DISC 1"
+            },
+            {
+                "address": "65",
+                "name": "DISC 2"
+            },
+            {
+                "address": "66",
+                "name": "DISC 3"
+            },
+            {
+                "address": "67",
+                "name": "DISC 4"
+            },
+            {
+                "address": "68",
+                "name": "DISC 5"
+            },
+            {
+                "address": "69",
+                "name": "DISC 6"
+            },
+            {
+                "address": "6a",
+                "name": "CD RANDOM"
+            },
+            {
+                "address": "6a",
+                "name": "RANDOM"
+            },
+            {
+                "address": "6b",
+                "name": "CD DISC SKIP"
+            },
+            {
+                "address": "6b",
+                "name": "SKIP -"
+            },
+            {
+                "address": "6b",
+                "name": "SKIP + REV"
+            },
+            {
+                "address": "6b",
+                "name": "CD DISC SKIP +"
+            },
+            {
+                "address": "6b",
+                "name": "CD DISC SKIP + (POW)"
+            },
+            {
+                "address": "6b",
+                "name": "CD-SKIP DISC+"
+            },
+            {
+                "address": "6b",
+                "name": "CD DISC SKIP (<)"
+            },
+            {
+                "address": "81",
+                "name": "0"
+            },
+            {
+                "address": "82",
+                "name": "1"
+            },
+            {
+                "address": "83",
+                "name": "2"
+            },
+            {
+                "address": "84",
+                "name": "3"
+            },
+            {
+                "address": "85",
+                "name": "4"
+            },
+            {
+                "address": "86",
+                "name": "5"
+            },
+            {
+                "address": "87",
+                "name": "6"
+            },
+            {
+                "address": "88",
+                "name": "7"
+            },
+            {
+                "address": "89",
+                "name": "8"
+            },
+            {
+                "address": "8a",
+                "name": "9"
+            },
+            {
+                "address": "8c",
+                "name": "+10"
+            },
+            {
+                "address": "8d",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "90",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "91",
+                "name": "MENU"
+            },
+            {
+                "address": "91",
+                "name": "DVD-MENU"
+            },
+            {
+                "address": "92",
+                "name": "RETURN"
+            },
+            {
+                "address": "92",
+                "name": "DVD-RETURN"
+            },
+            {
+                "address": "98",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "98",
+                "name": "DVD-FF"
+            },
+            {
+                "address": "99",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "99",
+                "name": "DVD-RW"
+            },
+            {
+                "address": "9a",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "9a",
+                "name": "DVD-SEARCH+"
+            },
+            {
+                "address": "9b",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "9b",
+                "name": "DVD-SEARCH-"
+            },
+            {
+                "address": "9d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "9d",
+                "name": "DVD-PAUSE"
+            },
+            {
+                "address": "a0",
+                "name": "PLAY"
+            },
+            {
+                "address": "a0",
+                "name": "DVD-PLAY"
+            },
+            {
+                "address": "a1",
+                "name": "STOP"
+            },
+            {
+                "address": "a1",
+                "name": "DVD-STOP"
+            },
+            {
+                "address": "a4",
+                "name": "DISC 1"
+            },
+            {
+                "address": "a5",
+                "name": "DISC 2"
+            },
+            {
+                "address": "a6",
+                "name": "DISC 3"
+            },
+            {
+                "address": "a7",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "a7",
+                "name": "DVD-DISPLAY"
+            },
+            {
+                "address": "a8",
+                "name": "DISC 4"
+            },
+            {
+                "address": "a9",
+                "name": "DISC 5"
+            },
+            {
+                "address": "ab",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "ab",
+                "name": "DVD-DISC SKIP+"
+            },
+            {
+                "address": "ac",
+                "name": "UP"
+            },
+            {
+                "address": "ac",
+                "name": "DVD-CURSOR UP"
+            },
+            {
+                "address": "ad",
+                "name": "DOWN"
+            },
+            {
+                "address": "ad",
+                "name": "DVD-CURSOR DOWN"
+            },
+            {
+                "address": "ae",
+                "name": "RIGHT"
+            },
+            {
+                "address": "ae",
+                "name": "DVD-CURSOR RIGHT"
+            },
+            {
+                "address": "af",
+                "name": "LEFT"
+            },
+            {
+                "address": "af",
+                "name": "DVD-CURSOR LEFT"
+            },
+            {
+                "address": "b1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "b1",
+                "name": "DVD-POWER"
+            },
+            {
+                "address": "bb",
+                "name": "ENTER"
+            },
+            {
+                "address": "bb",
+                "name": "DVD-SELECT"
+            },
+            {
+                "address": "bc",
+                "name": "DVD-DVD SETUP"
+            },
+            {
+                "address": "bd",
+                "name": "DVD-TITLE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

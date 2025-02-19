@@ -1,0 +1,49 @@
+{
+    "display_name": "Audio Refinement CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "POWER"
+            },
+            {
+                "address": "10",
+                "name": "SEARCH +"
+            },
+            {
+                "address": "11",
+                "name": "SEACH -"
+            },
+            {
+                "address": "2d",
+                "name": "CD"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "3c",
+                "name": "TRACK -"
+            },
+            {
+                "address": "3f",
+                "name": "TRACK +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Refinement",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

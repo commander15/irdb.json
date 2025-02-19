@@ -1,0 +1,49 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "31",
+                "name": "REWIND"
+            },
+            {
+                "address": "32",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FWD"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            }
+        ],
+        "device_address": "1000",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

@@ -1,0 +1,143 @@
+{
+    "display_name": "InFocus Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "1ec",
+                "name": "NATIVE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1",
+                "device_address": "1ec",
+                "name": "STANDARD",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2",
+                "device_address": "1ec",
+                "name": "WIDESCREEN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "1ec",
+                "name": "WIDE ENHANCED",
+                "protocol": "NEC"
+            },
+            {
+                "address": "11",
+                "device_address": "1ec",
+                "name": "EXIT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "12",
+                "device_address": "1ec",
+                "name": "MENU",
+                "protocol": "NEC"
+            },
+            {
+                "address": "13",
+                "device_address": "1ec",
+                "name": "CURSOR UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "14",
+                "device_address": "1ec",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "15",
+                "device_address": "1ec",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC"
+            },
+            {
+                "address": "16",
+                "device_address": "1ec",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC"
+            },
+            {
+                "address": "17",
+                "device_address": "1ec",
+                "name": "OK",
+                "protocol": "NEC"
+            },
+            {
+                "address": "18",
+                "device_address": "1ec",
+                "name": "POWER OFF",
+                "protocol": "NEC"
+            },
+            {
+                "address": "19",
+                "device_address": "1ec",
+                "name": "POWER ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "19",
+                "device_address": "1ec",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "1ec",
+                "name": "PC1 ANALOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1b",
+                "device_address": "1ec",
+                "name": "PC1 DIGITAL",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1c",
+                "device_address": "1ec",
+                "name": "COMP HDTV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "1ec",
+                "name": "COMP INT.",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1e",
+                "device_address": "1ec",
+                "name": "S-VIDEO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1f",
+                "device_address": "1ec",
+                "name": "VIDEO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "40",
+                "device_address": "1ec",
+                "name": "PC HDTV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "41",
+                "device_address": "1ec",
+                "name": "PC VGA",
+                "protocol": "NEC2"
+            }
+        ]
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

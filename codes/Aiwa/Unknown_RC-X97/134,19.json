@@ -1,0 +1,57 @@
+{
+    "display_name": "Aiwa Unknown_RC-X97",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "off"
+            },
+            {
+                "address": "f",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "10",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "11",
+                "name": "disc_tune+"
+            },
+            {
+                "address": "12",
+                "name": "disc_tune-"
+            },
+            {
+                "address": "13",
+                "name": "radio_band"
+            },
+            {
+                "address": "14",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "16",
+                "name": "ff_next"
+            },
+            {
+                "address": "17",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "1f",
+                "name": "preset_scan"
+            }
+        ],
+        "device_address": "4300000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Aiwa",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RC-X97"
+}

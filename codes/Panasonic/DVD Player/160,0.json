@@ -1,0 +1,57 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "94",
+                "name": "DVD/CD"
+            },
+            {
+                "address": "9a",
+                "name": "AUX"
+            },
+            {
+                "address": "9c",
+                "name": "TV"
+            },
+            {
+                "address": "9e",
+                "name": "VCR"
+            },
+            {
+                "address": "b4",
+                "name": "PROLOGIC"
+            },
+            {
+                "address": "bb",
+                "name": "CH SELECT"
+            },
+            {
+                "address": "bc",
+                "name": "SUBWOOFER LEVEL"
+            },
+            {
+                "address": "f6",
+                "name": "TEST"
+            }
+        ],
+        "device_address": "a0",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

@@ -1,0 +1,21 @@
+{
+    "display_name": "Hitachi TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "STOP"
+            },
+            {
+                "address": "40",
+                "name": "GUIDE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

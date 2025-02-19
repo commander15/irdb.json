@@ -1,0 +1,69 @@
+{
+    "display_name": "Denon Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c5",
+                "name": "TUNER"
+            },
+            {
+                "address": "c6",
+                "name": "AUX"
+            },
+            {
+                "address": "c8",
+                "name": "DBS/BS"
+            },
+            {
+                "address": "c9",
+                "name": "TV"
+            },
+            {
+                "address": "ca",
+                "name": "VDP"
+            },
+            {
+                "address": "cc",
+                "name": "V.AUX"
+            },
+            {
+                "address": "cd",
+                "name": "VCR-1"
+            },
+            {
+                "address": "ce",
+                "name": "VCR-2"
+            },
+            {
+                "address": "d2",
+                "name": "TAPE-1"
+            },
+            {
+                "address": "d3",
+                "name": "DAT/TAPE-2"
+            },
+            {
+                "address": "f0",
+                "name": "MUTING"
+            },
+            {
+                "address": "f1",
+                "name": "MASTER ^"
+            },
+            {
+                "address": "f2",
+                "name": "MASTER V"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

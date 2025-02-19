@@ -1,0 +1,137 @@
+{
+    "display_name": "Humax HDTV Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "3",
+                "name": "1"
+            },
+            {
+                "address": "4",
+                "name": "2"
+            },
+            {
+                "address": "5",
+                "name": "3"
+            },
+            {
+                "address": "6",
+                "name": "4"
+            },
+            {
+                "address": "7",
+                "name": "5"
+            },
+            {
+                "address": "8",
+                "name": "6"
+            },
+            {
+                "address": "9",
+                "name": "7"
+            },
+            {
+                "address": "a",
+                "name": "8"
+            },
+            {
+                "address": "b",
+                "name": "9"
+            },
+            {
+                "address": "c",
+                "name": "0"
+            },
+            {
+                "address": "d",
+                "name": "-"
+            },
+            {
+                "address": "e",
+                "name": "INFO"
+            },
+            {
+                "address": "f",
+                "name": "MENU"
+            },
+            {
+                "address": "10",
+                "name": "CH. LIST"
+            },
+            {
+                "address": "11",
+                "name": "GUIDE"
+            },
+            {
+                "address": "12",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "13",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR ENTER/OK"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "16",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "18",
+                "name": "BACK"
+            },
+            {
+                "address": "19",
+                "name": "FREEZE"
+            },
+            {
+                "address": "1a",
+                "name": "AUDIO"
+            },
+            {
+                "address": "1b",
+                "name": "EXIT"
+            },
+            {
+                "address": "1c",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1d",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "40",
+                "name": "CC"
+            },
+            {
+                "address": "41",
+                "name": "FORMAT"
+            },
+            {
+                "address": "42",
+                "name": "SIGNAL METER"
+            },
+            {
+                "address": "43",
+                "name": "CH. ADD/SKIP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Humax",
+    "model": "",
+    "name": "",
+    "target": "HDTV Tuner"
+}

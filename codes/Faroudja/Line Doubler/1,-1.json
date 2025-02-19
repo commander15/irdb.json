@@ -1,0 +1,45 @@
+{
+    "display_name": "Faroudja Line Doubler",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INPUT MODE"
+            },
+            {
+                "address": "1",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "FACTORY PRESET"
+            },
+            {
+                "address": "3",
+                "name": "USER PRESETS"
+            },
+            {
+                "address": "4",
+                "name": "FUNCTION +"
+            },
+            {
+                "address": "5",
+                "name": "VALUE +"
+            },
+            {
+                "address": "6",
+                "name": "FUNCTION -"
+            },
+            {
+                "address": "7",
+                "name": "VALUE -"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Faroudja",
+    "model": "",
+    "name": "",
+    "target": "Line Doubler"
+}

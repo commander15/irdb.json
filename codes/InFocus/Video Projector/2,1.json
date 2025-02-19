@@ -1,0 +1,61 @@
+{
+    "display_name": "InFocus Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "10",
+                "name": "STANDBY (ON/OFF)"
+            },
+            {
+                "address": "11",
+                "name": "LITE SHOW"
+            },
+            {
+                "address": "12",
+                "name": "NEXT ^"
+            },
+            {
+                "address": "17",
+                "name": "PROG"
+            },
+            {
+                "address": "18",
+                "name": "FREEZE ESC"
+            },
+            {
+                "address": "19",
+                "name": "MENU EDIT"
+            },
+            {
+                "address": "1b",
+                "name": "MIC >"
+            },
+            {
+                "address": "1d",
+                "name": "MUTE <"
+            },
+            {
+                "address": "1e",
+                "name": "SELECT ENTER"
+            },
+            {
+                "address": "1f",
+                "name": "PREV V"
+            }
+        ],
+        "device_address": "4",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

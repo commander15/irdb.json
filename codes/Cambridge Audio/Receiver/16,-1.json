@@ -1,0 +1,289 @@
+{
+    "display_name": "Cambridge Audio Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "DVD"
+            },
+            {
+                "address": "2",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "4",
+                "name": "AUX"
+            },
+            {
+                "address": "5",
+                "name": "CD"
+            },
+            {
+                "address": "6",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "7",
+                "name": "REC 1"
+            },
+            {
+                "address": "8",
+                "name": "REC 2"
+            },
+            {
+                "address": "40",
+                "name": "TUNER"
+            },
+            {
+                "address": "41",
+                "name": "DVD"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "43",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "44",
+                "name": "REC 1"
+            },
+            {
+                "address": "45",
+                "name": "AUX"
+            },
+            {
+                "address": "46",
+                "name": "CD"
+            },
+            {
+                "address": "47",
+                "name": "REC 2"
+            },
+            {
+                "address": "49",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "4a",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "4b",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "4c",
+                "name": "UP"
+            },
+            {
+                "address": "4d",
+                "name": "DOWN"
+            },
+            {
+                "address": "4e",
+                "name": "ANALOG STEREO DIR."
+            },
+            {
+                "address": "4f",
+                "name": "DIGITAL STEREO MODE"
+            },
+            {
+                "address": "50",
+                "name": "DD/DTS MODES"
+            },
+            {
+                "address": "51",
+                "name": "PLIIX/NEO/DSP"
+            },
+            {
+                "address": "52",
+                "name": "DYNAMIC RANGE"
+            },
+            {
+                "address": "53",
+                "name": "SUB ON/OFF TOGGLE"
+            },
+            {
+                "address": "54",
+                "name": "TUNER PTY"
+            },
+            {
+                "address": "55",
+                "name": "TUNER APS"
+            },
+            {
+                "address": "56",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "57",
+                "name": "TUNER STEREO/MONO"
+            },
+            {
+                "address": "58",
+                "name": "TUNER STORE"
+            },
+            {
+                "address": "59",
+                "name": "TUNER MODE"
+            },
+            {
+                "address": "5a",
+                "name": "LEFT"
+            },
+            {
+                "address": "5b",
+                "name": "ENTER"
+            },
+            {
+                "address": "5c",
+                "name": "RIGHT"
+            },
+            {
+                "address": "5d",
+                "name": "OSD ON/OFF"
+            },
+            {
+                "address": "5e",
+                "name": "BASS/TREBLE"
+            },
+            {
+                "address": "5f",
+                "name": "7.1 DIRECT"
+            },
+            {
+                "address": "60",
+                "name": "CYCLE AUDIO INPUT MO"
+            },
+            {
+                "address": "61",
+                "name": "CYCLE VIDEO INPUT MO"
+            },
+            {
+                "address": "62",
+                "name": "AM/FM"
+            },
+            {
+                "address": "63",
+                "name": "CYCLE SOURCE SELECT"
+            },
+            {
+                "address": "64",
+                "name": "POWER ON"
+            },
+            {
+                "address": "65",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "66",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "67",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "68",
+                "name": "STEREO ON"
+            },
+            {
+                "address": "69",
+                "name": "STEREO OFF"
+            },
+            {
+                "address": "6a",
+                "name": "SUB ON"
+            },
+            {
+                "address": "6b",
+                "name": "SUB OFF"
+            },
+            {
+                "address": "6c",
+                "name": "FM MODE"
+            },
+            {
+                "address": "6d",
+                "name": "AM MODE"
+            },
+            {
+                "address": "6e",
+                "name": "ANALOG AUDIO INPUT"
+            },
+            {
+                "address": "6f",
+                "name": "DIGITAL AUDIO INPUT"
+            },
+            {
+                "address": "70",
+                "name": "COMPOSITE VID INPUT"
+            },
+            {
+                "address": "71",
+                "name": "S-VIDEO INPUT"
+            },
+            {
+                "address": "73",
+                "name": "SUB LEVEL UP"
+            },
+            {
+                "address": "74",
+                "name": "SUB LEVEL DOWN"
+            },
+            {
+                "address": "75",
+                "name": "TUNER PRESET 1"
+            },
+            {
+                "address": "76",
+                "name": "TUNER PRESET 2"
+            },
+            {
+                "address": "77",
+                "name": "TUNER PRESET 3"
+            },
+            {
+                "address": "78",
+                "name": "TUNER PRESET 4"
+            },
+            {
+                "address": "79",
+                "name": "TUNER PRESET 5"
+            },
+            {
+                "address": "7a",
+                "name": "TUNER PRESET 6"
+            },
+            {
+                "address": "7b",
+                "name": "TUNER PRESET 7"
+            },
+            {
+                "address": "7c",
+                "name": "TUNER PRESET 8"
+            },
+            {
+                "address": "7d",
+                "name": "TUNER PRESET 9"
+            },
+            {
+                "address": "7e",
+                "name": "TUNER PRESET 10"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

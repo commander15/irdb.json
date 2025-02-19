@@ -1,0 +1,49 @@
+{
+    "display_name": "JVC Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "VCR STOP"
+            },
+            {
+                "address": "6",
+                "name": "VCR FFWD"
+            },
+            {
+                "address": "7",
+                "name": "VCR REW"
+            },
+            {
+                "address": "b",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "c",
+                "name": "VCR PLAY"
+            },
+            {
+                "address": "d",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "10",
+                "name": "TV (CONTROL)"
+            },
+            {
+                "address": "cc",
+                "name": "VCR REC/PLAY"
+            },
+            {
+                "address": "cd",
+                "name": "VCR REC/PAUSE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

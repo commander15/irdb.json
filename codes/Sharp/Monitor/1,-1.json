@@ -1,0 +1,53 @@
+{
+    "display_name": "Sharp Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "AUDIO/VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "15",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "15",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "16",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "MUTE"
+            },
+            {
+                "address": "57",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "c4",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Sharp",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

@@ -1,0 +1,401 @@
+{
+    "display_name": "Harman Kardon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "800000",
+                "name": "CD STOP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "800000",
+                "name": "CD PLAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "800000",
+                "name": "CD MUTE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": "CD SKIP >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "CD SKIP <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "CD SEARCH>>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "CD SEARCH<<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "b",
+                "device_address": "800000",
+                "name": "CD A - B",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d",
+                "device_address": "800000",
+                "name": "INTRO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "50",
+                "device_address": "800000",
+                "name": "DISC",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "81",
+                "device_address": "800000",
+                "name": "AM/FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "81",
+                "device_address": "800000",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "800000",
+                "name": "TUNING +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "800000",
+                "name": "TUNE UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "800000",
+                "name": "TUNING -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "800000",
+                "name": "TUNE DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "86",
+                "device_address": "800000",
+                "name": "MEM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "800000",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "800000",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "800000",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "800000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "800000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "800000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "800000",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "800000",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "93",
+                "device_address": "800000",
+                "name": "TUN-M",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "96",
+                "device_address": "800000",
+                "name": "PSCAN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "800000",
+                "name": "DIRECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "800000",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "800000",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "800000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "800000",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "AVR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "800000",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "800000",
+                "name": "PHONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "800000",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "800000",
+                "name": "CD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "800000",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "800000",
+                "name": "VOLUME+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "800000",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "800000",
+                "name": "VID 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "800000",
+                "name": "VCR 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "800000",
+                "name": "VCR/VID1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "800000",
+                "name": "VID 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "800000",
+                "name": "VCR 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "800000",
+                "name": "XBOX/VID2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "800000",
+                "name": "TAPE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "800000",
+                "name": "TAPE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "800000",
+                "name": "TAPE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "800000",
+                "name": "VID 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "800000",
+                "name": "TV / AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "800000",
+                "name": "TV/VID3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "800000",
+                "name": "DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "800000",
+                "name": "VDP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "800000",
+                "name": "VID 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "800000",
+                "name": "REAR LEVEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "800000",
+                "name": "REAR LEVEL -",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d9",
+                "device_address": "800000",
+                "name": "CENTER LEVEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "800000",
+                "name": "CENTER LEVEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "800000",
+                "name": "SLEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "800000",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

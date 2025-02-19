@@ -1,0 +1,49 @@
+{
+    "display_name": "Yamaha Unknown_TX-1000",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "P1t8P9t16P17t24"
+            },
+            {
+                "address": "e",
+                "name": "P1P9P17"
+            },
+            {
+                "address": "f",
+                "name": "P2P10P18"
+            },
+            {
+                "address": "10",
+                "name": "P3P11P19"
+            },
+            {
+                "address": "11",
+                "name": "P4P12P20"
+            },
+            {
+                "address": "12",
+                "name": "P5P13P21"
+            },
+            {
+                "address": "13",
+                "name": "P6P14P22"
+            },
+            {
+                "address": "14",
+                "name": "P7P15P23"
+            },
+            {
+                "address": "15",
+                "name": "P8P16P24"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TX-1000"
+}

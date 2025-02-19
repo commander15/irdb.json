@@ -1,0 +1,49 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CAM PROGRAM"
+            },
+            {
+                "address": "0",
+                "name": "VCR2 S.Q.P."
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "14",
+                "name": "VCR2 RECORD"
+            },
+            {
+                "address": "14",
+                "name": "VCR2 REC"
+            },
+            {
+                "address": "14",
+                "name": "CAM REC"
+            },
+            {
+                "address": "14",
+                "name": "REC"
+            },
+            {
+                "address": "14",
+                "name": "VCR2 REC-PLAY"
+            },
+            {
+                "address": "14",
+                "name": "VTR2 REC"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

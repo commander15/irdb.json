@@ -1,0 +1,57 @@
+{
+    "display_name": "Carver Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": ">L"
+            },
+            {
+                "address": "21",
+                "name": "L<"
+            },
+            {
+                "address": "26",
+                "name": "S/T"
+            },
+            {
+                "address": "29",
+                "name": "MEMO"
+            },
+            {
+                "address": "2a",
+                "name": "RECORD"
+            },
+            {
+                "address": "2f",
+                "name": "<>"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "<<"
+            },
+            {
+                "address": "34",
+                "name": ">>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

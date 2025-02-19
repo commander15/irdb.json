@@ -1,0 +1,21 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "1d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Barco"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

@@ -1,0 +1,101 @@
+{
+    "display_name": "Elan Satellite Radio",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "8",
+                "name": "XM1"
+            },
+            {
+                "address": "9",
+                "name": "XM2"
+            },
+            {
+                "address": "a",
+                "name": "XM3"
+            },
+            {
+                "address": "e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "f",
+                "name": "PRESET"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "22",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "23",
+                "name": "SELECT"
+            },
+            {
+                "address": "26",
+                "name": "DIR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "ScAtl-6"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Satellite Radio"
+}

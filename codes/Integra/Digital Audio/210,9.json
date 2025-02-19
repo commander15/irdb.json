@@ -1,0 +1,209 @@
+{
+    "display_name": "Integra Digital Audio",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "device_address": "1a400",
+                "name": "SEARCH +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "81",
+                "device_address": "1a400",
+                "name": "SEARCH -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "88",
+                "device_address": "1a400",
+                "name": "MUSIC SERVER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "1a400",
+                "name": "INET RADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "1a400",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "1a400",
+                "name": "TRACK +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "90",
+                "device_address": "1a400",
+                "name": "TRACK -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "1a400",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "1a400",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "93",
+                "device_address": "1a400",
+                "name": "RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "98",
+                "device_address": "1a400",
+                "name": "ALBUM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "1a400",
+                "name": "ARTIST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9a",
+                "device_address": "1a400",
+                "name": "GENRE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "1a400",
+                "name": "PLAYLIST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "1a400",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "1a400",
+                "name": "SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "1a400",
+                "name": "MENU UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c1",
+                "device_address": "1a400",
+                "name": "MENU DOWN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c2",
+                "device_address": "1a400",
+                "name": "MENU LEFT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c3",
+                "device_address": "1a400",
+                "name": "MENU RIGHT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c4",
+                "device_address": "1a400",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "1a400",
+                "name": "CAPS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "1a400",
+                "name": "DELETE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "1a400",
+                "name": "1/@.-'/",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "1a400",
+                "name": "2/ABC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "1a400",
+                "name": "3/DEF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "1a400",
+                "name": "4/GHI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "1a400",
+                "name": "5/JKL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "1a400",
+                "name": "6/MNO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "1a400",
+                "name": "7/PQRS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "1a400",
+                "name": "8/TUV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dd",
+                "device_address": "1a400",
+                "name": "9/WXYZ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "1a400",
+                "name": "0/SPACE",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Digital Audio"
+}

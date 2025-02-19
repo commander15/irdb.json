@@ -1,0 +1,293 @@
+{
+    "display_name": "Audio Access Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "SOURCE 1"
+            },
+            {
+                "address": "80",
+                "name": "TUNER"
+            },
+            {
+                "address": "81",
+                "name": "SOURCE 2"
+            },
+            {
+                "address": "81",
+                "name": "CD-1"
+            },
+            {
+                "address": "82",
+                "name": "SOURCE 3"
+            },
+            {
+                "address": "82",
+                "name": "CD-2"
+            },
+            {
+                "address": "82",
+                "name": "TAPE"
+            },
+            {
+                "address": "83",
+                "name": "ALL/OFF"
+            },
+            {
+                "address": "83",
+                "name": "ON / OFF"
+            },
+            {
+                "address": "83",
+                "name": "POWER"
+            },
+            {
+                "address": "84",
+                "name": "SOURCE 6"
+            },
+            {
+                "address": "84",
+                "name": "F1"
+            },
+            {
+                "address": "85",
+                "name": "SOURCE 4"
+            },
+            {
+                "address": "85",
+                "name": "AUX"
+            },
+            {
+                "address": "86",
+                "name": "SOURCE 5"
+            },
+            {
+                "address": "86",
+                "name": "SOURCE 5A"
+            },
+            {
+                "address": "86",
+                "name": "VID"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "88",
+                "name": "SOURCE 7"
+            },
+            {
+                "address": "88",
+                "name": "F2"
+            },
+            {
+                "address": "8c",
+                "name": "SOURCE 8"
+            },
+            {
+                "address": "8c",
+                "name": "F3"
+            },
+            {
+                "address": "8d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "8f",
+                "name": "MUTE"
+            },
+            {
+                "address": "90",
+                "name": "F4"
+            },
+            {
+                "address": "94",
+                "name": "T/V"
+            },
+            {
+                "address": "94",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "95",
+                "name": "CHANNEL DN"
+            },
+            {
+                "address": "95",
+                "name": "CH DOWN"
+            },
+            {
+                "address": "96",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "96",
+                "name": "CH UP"
+            },
+            {
+                "address": "97",
+                "name": "PAUSE"
+            },
+            {
+                "address": "9c",
+                "name": "RR"
+            },
+            {
+                "address": "9d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "9d",
+                "name": "STOP"
+            },
+            {
+                "address": "9e",
+                "name": "PLAY"
+            },
+            {
+                "address": "9f",
+                "name": "FF"
+            },
+            {
+                "address": "a0",
+                "name": "0"
+            },
+            {
+                "address": "a1",
+                "name": "1"
+            },
+            {
+                "address": "a2",
+                "name": "2"
+            },
+            {
+                "address": "a3",
+                "name": "3"
+            },
+            {
+                "address": "a4",
+                "name": "4"
+            },
+            {
+                "address": "a5",
+                "name": "5"
+            },
+            {
+                "address": "a6",
+                "name": "6"
+            },
+            {
+                "address": "a7",
+                "name": "7"
+            },
+            {
+                "address": "a8",
+                "name": "8"
+            },
+            {
+                "address": "a9",
+                "name": "9"
+            },
+            {
+                "address": "aa",
+                "name": "+10"
+            },
+            {
+                "address": "ab",
+                "name": "DISC"
+            },
+            {
+                "address": "ac",
+                "name": "TRACK"
+            },
+            {
+                "address": "ad",
+                "name": "GRP"
+            },
+            {
+                "address": "ae",
+                "name": "FAV"
+            },
+            {
+                "address": "af",
+                "name": "ENTER"
+            },
+            {
+                "address": "b0",
+                "name": "TRACK <"
+            },
+            {
+                "address": "b1",
+                "name": "TRACK>"
+            },
+            {
+                "address": "b2",
+                "name": "REC"
+            },
+            {
+                "address": "b3",
+                "name": "GUIDE"
+            },
+            {
+                "address": "b4",
+                "name": "MENU"
+            },
+            {
+                "address": "b5",
+                "name": "EXIT"
+            },
+            {
+                "address": "b6",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "b7",
+                "name": "UP"
+            },
+            {
+                "address": "b8",
+                "name": "DOWN"
+            },
+            {
+                "address": "b9",
+                "name": "LEFT"
+            },
+            {
+                "address": "ba",
+                "name": "RIGHT"
+            },
+            {
+                "address": "bb",
+                "name": "SEL"
+            },
+            {
+                "address": "bc",
+                "name": "A"
+            },
+            {
+                "address": "bd",
+                "name": "B"
+            },
+            {
+                "address": "be",
+                "name": "C"
+            },
+            {
+                "address": "bf",
+                "name": "D"
+            }
+        ],
+        "device_address": "4280000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Audio Access",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

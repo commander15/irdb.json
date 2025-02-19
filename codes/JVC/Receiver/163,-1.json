@@ -1,0 +1,1201 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "SLEEP TIMER"
+            },
+            {
+                "address": "3",
+                "name": "SLEEP"
+            },
+            {
+                "address": "3",
+                "name": "TV SLEEP"
+            },
+            {
+                "address": "3",
+                "name": "SLEEP (SHIFT+3)"
+            },
+            {
+                "address": "5",
+                "name": "DAP PRO LOGIN ON/OFF"
+            },
+            {
+                "address": "5",
+                "name": "SURROUND"
+            },
+            {
+                "address": "5",
+                "name": "SURROUND ON/OFF"
+            },
+            {
+                "address": "5",
+                "name": "SURR REAR ON/OFF(-)"
+            },
+            {
+                "address": "5",
+                "name": "ACCOUSTIC EXPANDER"
+            },
+            {
+                "address": "5",
+                "name": "DAP(PROCESS)ON/OFF"
+            },
+            {
+                "address": "5",
+                "name": "DAPDOLBY ON/OFF"
+            },
+            {
+                "address": "6",
+                "name": "DAT"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 2 SOURCE SELECT"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 2/VIDEO SOUND"
+            },
+            {
+                "address": "7",
+                "name": "VIDEO SOUND"
+            },
+            {
+                "address": "7",
+                "name": "TAPE2"
+            },
+            {
+                "address": "7",
+                "name": "TAPE2/VIDEO SOUND"
+            },
+            {
+                "address": "7",
+                "name": "SOURCE SELECT TAPE 2"
+            },
+            {
+                "address": "7",
+                "name": "SOURCE SLCT TAPE2"
+            },
+            {
+                "address": "7",
+                "name": "TAPE2 MONITOR"
+            },
+            {
+                "address": "8",
+                "name": "FM"
+            },
+            {
+                "address": "8",
+                "name": "FM SOURCE SELECT"
+            },
+            {
+                "address": "8",
+                "name": "SOURCE SELECT FM"
+            },
+            {
+                "address": "8",
+                "name": "SOURCE SLCT FM"
+            },
+            {
+                "address": "8",
+                "name": "INPUT - FM"
+            },
+            {
+                "address": "9",
+                "name": "AM"
+            },
+            {
+                "address": "9",
+                "name": "AM SOURCE SELECT"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE SELECT AM"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE SLCT AM"
+            },
+            {
+                "address": "9",
+                "name": "INPUT - AM"
+            },
+            {
+                "address": "b",
+                "name": "FM/AM"
+            },
+            {
+                "address": "e",
+                "name": "DAP L BALANCE"
+            },
+            {
+                "address": "f",
+                "name": "DAP R BALANCE"
+            },
+            {
+                "address": "10",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "10",
+                "name": "TVSOUND"
+            },
+            {
+                "address": "10",
+                "name": "INPUT - TV"
+            },
+            {
+                "address": "11",
+                "name": "VTR"
+            },
+            {
+                "address": "11",
+                "name": "VCR"
+            },
+            {
+                "address": "11",
+                "name": "INPUT - VCR"
+            },
+            {
+                "address": "12",
+                "name": "AUX-1 (VIDEO)"
+            },
+            {
+                "address": "12",
+                "name": "VIDEO"
+            },
+            {
+                "address": "12",
+                "name": "VCR2 POWER"
+            },
+            {
+                "address": "13",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "15",
+                "name": "VTR SOUND SELECTOR"
+            },
+            {
+                "address": "15",
+                "name": "SOUND SELECTOR"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "AM/FM DOWN -"
+            },
+            {
+                "address": "18",
+                "name": "PRESET -"
+            },
+            {
+                "address": "18",
+                "name": "AM/FM PRESET CH -"
+            },
+            {
+                "address": "18",
+                "name": "AM/FM PRESET -"
+            },
+            {
+                "address": "18",
+                "name": "FM/AM PRESET -"
+            },
+            {
+                "address": "18",
+                "name": "AM/FM TUNER PRE(-[])"
+            },
+            {
+                "address": "19",
+                "name": "AM/FM UP +"
+            },
+            {
+                "address": "19",
+                "name": "PRESET +"
+            },
+            {
+                "address": "19",
+                "name": "AM/FM PRESET CH +"
+            },
+            {
+                "address": "19",
+                "name": "AM/FM PRESET +"
+            },
+            {
+                "address": "19",
+                "name": "FM/AM PRESET +"
+            },
+            {
+                "address": "19",
+                "name": "AM/FM TUNER PRE(+>)"
+            },
+            {
+                "address": "1a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1c",
+                "name": "FADE MUTING"
+            },
+            {
+                "address": "1c",
+                "name": "FADE MUTE"
+            },
+            {
+                "address": "1d",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "RCVR VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "MAIN VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "MASTER VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "RCVR VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "MAIN VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "MASTER VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "TUNER 10KEY 0"
+            },
+            {
+                "address": "20",
+                "name": "FM/AM 0/10"
+            },
+            {
+                "address": "20",
+                "name": "AM/FM 0"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "20",
+                "name": "TUNER 10KEY 0 MAG.PR"
+            },
+            {
+                "address": "20",
+                "name": "FM/AM 0"
+            },
+            {
+                "address": "21",
+                "name": "AM/FM 1"
+            },
+            {
+                "address": "21",
+                "name": "TUNER 10KEY 1"
+            },
+            {
+                "address": "21",
+                "name": "PHONO PLAY >"
+            },
+            {
+                "address": "21",
+                "name": "FM/AM 1"
+            },
+            {
+                "address": "21",
+                "name": "AM/FM 1(63HZ)"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "21",
+                "name": "TUNER 10KEY 1 63HZ"
+            },
+            {
+                "address": "22",
+                "name": "AM/FM 2"
+            },
+            {
+                "address": "22",
+                "name": "TUNER 10KEY 2"
+            },
+            {
+                "address": "22",
+                "name": "PHONO STOP []"
+            },
+            {
+                "address": "22",
+                "name": "FM/AM 2"
+            },
+            {
+                "address": "22",
+                "name": "AM/FM 2(160HZ)"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "TUNER 10KEY 2 160HZ"
+            },
+            {
+                "address": "23",
+                "name": "AM/FM 3"
+            },
+            {
+                "address": "23",
+                "name": "TUNER 10KEY 3"
+            },
+            {
+                "address": "23",
+                "name": "FM/AM 3"
+            },
+            {
+                "address": "23",
+                "name": "AM/FM 3(400HZ)"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "TUNER 10KEY 3 400HZ"
+            },
+            {
+                "address": "24",
+                "name": "AM/FM 4"
+            },
+            {
+                "address": "24",
+                "name": "TUNER 10KEY 4"
+            },
+            {
+                "address": "24",
+                "name": "FM/AM 4"
+            },
+            {
+                "address": "24",
+                "name": "AM/FM 4(1KHZ)"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "TUNER 10KEY 4 1KHZ"
+            },
+            {
+                "address": "25",
+                "name": "AM/FM 5"
+            },
+            {
+                "address": "25",
+                "name": "TUNER 10KEY 5"
+            },
+            {
+                "address": "25",
+                "name": "FM/AM 5"
+            },
+            {
+                "address": "25",
+                "name": "AM/FM 5(2.5KHZ)"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "TUNER 10KEY 5 2.5KHZ"
+            },
+            {
+                "address": "26",
+                "name": "AM/FM 6"
+            },
+            {
+                "address": "26",
+                "name": "TUNER 10KEY 6"
+            },
+            {
+                "address": "26",
+                "name": "FM/AM 6"
+            },
+            {
+                "address": "26",
+                "name": "AM/FM 6(6.3KHZ)"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "TUNER 10KEY 6 6.3KHZ"
+            },
+            {
+                "address": "27",
+                "name": "AM/FM 7"
+            },
+            {
+                "address": "27",
+                "name": "TUNER 10KEY 7"
+            },
+            {
+                "address": "27",
+                "name": "AM/FM 7/P"
+            },
+            {
+                "address": "27",
+                "name": "FM/AM 7"
+            },
+            {
+                "address": "27",
+                "name": "AM/FM 7/P(16KHZ)"
+            },
+            {
+                "address": "27",
+                "name": "7/P"
+            },
+            {
+                "address": "27",
+                "name": "TUNER 10KEY 7/P 16KZ"
+            },
+            {
+                "address": "27",
+                "name": "FM/AM 7/P"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "AM/FM 8"
+            },
+            {
+                "address": "28",
+                "name": "TUNER 10KEY 8"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "FM/AM 8"
+            },
+            {
+                "address": "28",
+                "name": "TUNER 10KEY 8 -SEA"
+            },
+            {
+                "address": "29",
+                "name": "AM/FM 9"
+            },
+            {
+                "address": "29",
+                "name": "TUNER 10KEY 9"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "FM/AM 9"
+            },
+            {
+                "address": "29",
+                "name": "TUNER 10KEY 9 +SEA"
+            },
+            {
+                "address": "2a",
+                "name": "AM/FM 10"
+            },
+            {
+                "address": "2a",
+                "name": "TUNER 10KEY 10"
+            },
+            {
+                "address": "2a",
+                "name": "10"
+            },
+            {
+                "address": "2a",
+                "name": "FM/AM 10"
+            },
+            {
+                "address": "2f",
+                "name": "AM/FM +10"
+            },
+            {
+                "address": "2f",
+                "name": "TUNER 10KEY +10"
+            },
+            {
+                "address": "2f",
+                "name": "+10"
+            },
+            {
+                "address": "2f",
+                "name": "10 +"
+            },
+            {
+                "address": "2f",
+                "name": "TUNER 10KEY +10 PRGM"
+            },
+            {
+                "address": "2f",
+                "name": "FM/AM 10+"
+            },
+            {
+                "address": "2f",
+                "name": "FM/AM +10"
+            },
+            {
+                "address": "2f",
+                "name": "0"
+            },
+            {
+                "address": "30",
+                "name": "SEA ON/OFF SEA"
+            },
+            {
+                "address": "30",
+                "name": "SEA ON/OFF"
+            },
+            {
+                "address": "30",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "30",
+                "name": "SEA SOURCE"
+            },
+            {
+                "address": "30",
+                "name": "SEA LEVEL ON/OFF"
+            },
+            {
+                "address": "31",
+                "name": "SEA 63 HZ"
+            },
+            {
+                "address": "31",
+                "name": "SEA CON. 63HZ"
+            },
+            {
+                "address": "31",
+                "name": "CONTROL 1 63HZ"
+            },
+            {
+                "address": "31",
+                "name": "SEA 63HZ(1)"
+            },
+            {
+                "address": "32",
+                "name": "SEA 160 HZ"
+            },
+            {
+                "address": "32",
+                "name": "SEA CON. 160HZ"
+            },
+            {
+                "address": "32",
+                "name": "CONTROL 2 160HZ"
+            },
+            {
+                "address": "32",
+                "name": "SEA 160HZ(2)"
+            },
+            {
+                "address": "33",
+                "name": "SEA 400 HZ"
+            },
+            {
+                "address": "33",
+                "name": "SEA CON. 400HZ"
+            },
+            {
+                "address": "33",
+                "name": "CONTROL 3 400HZ"
+            },
+            {
+                "address": "33",
+                "name": "SEA 400HZ(3)"
+            },
+            {
+                "address": "34",
+                "name": "SEA 1KHZ"
+            },
+            {
+                "address": "34",
+                "name": "SEA CON. 1KHZ"
+            },
+            {
+                "address": "34",
+                "name": "CONTROL 4 1KHZ"
+            },
+            {
+                "address": "34",
+                "name": "SEA 1KHZ(4)"
+            },
+            {
+                "address": "35",
+                "name": "SEA 2.5 KHZ"
+            },
+            {
+                "address": "35",
+                "name": "SEA CON. 2.5KHZ"
+            },
+            {
+                "address": "35",
+                "name": "CONTROL 5 2.5KHZ"
+            },
+            {
+                "address": "35",
+                "name": "SEA 25KHZ(5)"
+            },
+            {
+                "address": "36",
+                "name": "SEA 6.3 KHZ"
+            },
+            {
+                "address": "36",
+                "name": "SEA CON. 6.3KHZ"
+            },
+            {
+                "address": "36",
+                "name": "CONTROL 6 6.3KHZ"
+            },
+            {
+                "address": "36",
+                "name": "SEA 63KHZ(6)"
+            },
+            {
+                "address": "37",
+                "name": "SEA 16 KHZ"
+            },
+            {
+                "address": "37",
+                "name": "SEA CON. 16KHZ"
+            },
+            {
+                "address": "37",
+                "name": "CONTROL 7/P 16KHZ"
+            },
+            {
+                "address": "37",
+                "name": "SEA 16KHZ(7)"
+            },
+            {
+                "address": "38",
+                "name": "SEA PRESET SEA"
+            },
+            {
+                "address": "38",
+                "name": "SEA PRESET"
+            },
+            {
+                "address": "38",
+                "name": "PRESET"
+            },
+            {
+                "address": "38",
+                "name": "SEA MODE"
+            },
+            {
+                "address": "38",
+                "name": "SEA LVL PRESET()"
+            },
+            {
+                "address": "38",
+                "name": "SEA MODE (+10)"
+            },
+            {
+                "address": "3a",
+                "name": "SEA UP +"
+            },
+            {
+                "address": "3a",
+                "name": "SEA CON. SEA LEVEL +"
+            },
+            {
+                "address": "3a",
+                "name": "CONTROL 9 + SEA LEV."
+            },
+            {
+                "address": "3a",
+                "name": "SEA LEVEL +"
+            },
+            {
+                "address": "3a",
+                "name": "SEA LEVEL (+>)"
+            },
+            {
+                "address": "3b",
+                "name": "SEA DOWN -"
+            },
+            {
+                "address": "3b",
+                "name": "SEA CON. SEA LEVEL -"
+            },
+            {
+                "address": "3b",
+                "name": "CONTROL 8 - SEA LEV."
+            },
+            {
+                "address": "3b",
+                "name": "SEA LEVEL -"
+            },
+            {
+                "address": "3b",
+                "name": "SEA LVL FREQ(-[])"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO SOURCE SELECT"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO PLAY >"
+            },
+            {
+                "address": "3c",
+                "name": "SOURCE SELECT PHONO"
+            },
+            {
+                "address": "3c",
+                "name": "SOURCE SLCT PHONO"
+            },
+            {
+                "address": "3d",
+                "name": "CD"
+            },
+            {
+                "address": "3d",
+                "name": "CD SOURCE SELECT"
+            },
+            {
+                "address": "3d",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "3d",
+                "name": "SOURCE SELECT CD"
+            },
+            {
+                "address": "3d",
+                "name": "SOURCE SLCT CD"
+            },
+            {
+                "address": "3e",
+                "name": "AUX-2 (AUDIO)"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE 1 SOURCE SELECT"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "3f",
+                "name": "SOURCE SELECT TAPE 1"
+            },
+            {
+                "address": "3f",
+                "name": "SOURCE SLCT TAPE1"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE1"
+            },
+            {
+                "address": "43",
+                "name": "VIDEO"
+            },
+            {
+                "address": "43",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "43",
+                "name": "INPUT - DVR/DVD"
+            },
+            {
+                "address": "48",
+                "name": "DAP DELAY TIME"
+            },
+            {
+                "address": "48",
+                "name": "SURROUND DELAY"
+            },
+            {
+                "address": "48",
+                "name": "SURR DELAY (+)"
+            },
+            {
+                "address": "48",
+                "name": "SURR DELAY (1)"
+            },
+            {
+                "address": "4e",
+                "name": "DAP REAR LEVEL +"
+            },
+            {
+                "address": "4e",
+                "name": "SURROUND REAR +"
+            },
+            {
+                "address": "4e",
+                "name": "CH REAR LEVEL +"
+            },
+            {
+                "address": "4e",
+                "name": "SUR LVL REAR LVL +"
+            },
+            {
+                "address": "4e",
+                "name": "SURR REAR + (6)"
+            },
+            {
+                "address": "4e",
+                "name": "REAR VOL+"
+            },
+            {
+                "address": "4e",
+                "name": "REAR LEVEL +"
+            },
+            {
+                "address": "4f",
+                "name": "DAP REAR LEVEL -"
+            },
+            {
+                "address": "4f",
+                "name": "SURROUND REAR -"
+            },
+            {
+                "address": "4f",
+                "name": "CH REAR LEVEL -"
+            },
+            {
+                "address": "4f",
+                "name": "SUR LVL REAR LVL -"
+            },
+            {
+                "address": "4f",
+                "name": "SURR REAR - (5)"
+            },
+            {
+                "address": "4f",
+                "name": "REAR VOL-"
+            },
+            {
+                "address": "4f",
+                "name": "REAR LEVEL -"
+            },
+            {
+                "address": "52",
+                "name": "CSRP"
+            },
+            {
+                "address": "52",
+                "name": "CSRP ON/OFF"
+            },
+            {
+                "address": "58",
+                "name": "DAP DAP MODE"
+            },
+            {
+                "address": "58",
+                "name": "MODE"
+            },
+            {
+                "address": "58",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "58",
+                "name": "SURR CENTER MODE (-)"
+            },
+            {
+                "address": "58",
+                "name": "SURR MODE (10)"
+            },
+            {
+                "address": "58",
+                "name": "DAPDOLBY DAP MODE(6)"
+            },
+            {
+                "address": "58",
+                "name": "SURROUND"
+            },
+            {
+                "address": "5a",
+                "name": "FM MODE/MUTE (0)"
+            },
+            {
+                "address": "5a",
+                "name": "FM MODE"
+            },
+            {
+                "address": "5e",
+                "name": "DAP DAP LEVEL +"
+            },
+            {
+                "address": "5e",
+                "name": "SURROUND VOLUME +"
+            },
+            {
+                "address": "5f",
+                "name": "DAP DAP LEVEL -"
+            },
+            {
+                "address": "5f",
+                "name": "SURROUND VOLUME -"
+            },
+            {
+                "address": "63",
+                "name": "INPUT - DBS"
+            },
+            {
+                "address": "70",
+                "name": "SEA CON. DISPLAY"
+            },
+            {
+                "address": "70",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "70",
+                "name": "SEA DISPLAY"
+            },
+            {
+                "address": "70",
+                "name": "SEA CON. SEA DISPLAY"
+            },
+            {
+                "address": "72",
+                "name": "CSRP DISPLAY"
+            },
+            {
+                "address": "73",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "74",
+                "name": "SURR:ANLG/DIG."
+            },
+            {
+                "address": "75",
+                "name": "BASS BOOST"
+            },
+            {
+                "address": "78",
+                "name": "TUNING +"
+            },
+            {
+                "address": "79",
+                "name": "TUNING -"
+            },
+            {
+                "address": "7b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "80",
+                "name": "EQ: LEVEL +"
+            },
+            {
+                "address": "90",
+                "name": "EQ: LEVEL -"
+            },
+            {
+                "address": "a8",
+                "name": "SEA FREQUENCY +"
+            },
+            {
+                "address": "a8",
+                "name": "EQ: FREQUENCY"
+            },
+            {
+                "address": "a9",
+                "name": "SEA FREQUENCY -"
+            },
+            {
+                "address": "d5",
+                "name": "DAP DAP ON/OFF"
+            },
+            {
+                "address": "d6",
+                "name": "INPUT - DVD MULTI"
+            },
+            {
+                "address": "d7",
+                "name": "DAP TEST"
+            },
+            {
+                "address": "d7",
+                "name": "SURROUND TEST"
+            },
+            {
+                "address": "d7",
+                "name": "SURR TEST (+)"
+            },
+            {
+                "address": "d7",
+                "name": "DAP TEST (>>)"
+            },
+            {
+                "address": "d7",
+                "name": "SURR TEST (4)"
+            },
+            {
+                "address": "d7",
+                "name": "DAPDOLBY TEST"
+            },
+            {
+                "address": "d7",
+                "name": "TEST"
+            },
+            {
+                "address": "d8",
+                "name": "DAP CENTER LEVEL +"
+            },
+            {
+                "address": "d8",
+                "name": "PRESET CENTER L.+"
+            },
+            {
+                "address": "d8",
+                "name": "SUR LVL CTR LVL +"
+            },
+            {
+                "address": "d8",
+                "name": "SURROUND CTR +"
+            },
+            {
+                "address": "d8",
+                "name": "DAP CENTER (+>)"
+            },
+            {
+                "address": "d8",
+                "name": "SURR CNTR + (3)"
+            },
+            {
+                "address": "d9",
+                "name": "DAP CENTER LEVEL -"
+            },
+            {
+                "address": "d9",
+                "name": "PRESET CENTER L.-"
+            },
+            {
+                "address": "d9",
+                "name": "SUR LVL CTR LVL -"
+            },
+            {
+                "address": "d9",
+                "name": "SURROUND CTR -"
+            },
+            {
+                "address": "d9",
+                "name": "DAP REAR (-[])"
+            },
+            {
+                "address": "d9",
+                "name": "SURR CNTR - (2)"
+            },
+            {
+                "address": "e7",
+                "name": "C. TONE"
+            },
+            {
+                "address": "f5",
+                "name": "DAP MODE SIZE"
+            },
+            {
+                "address": "f5",
+                "name": "DAPDOLBY SIZE (3)"
+            },
+            {
+                "address": "f6",
+                "name": "DAP MODE LIVE"
+            },
+            {
+                "address": "f7",
+                "name": "DAP MODE WALL"
+            },
+            {
+                "address": "f7",
+                "name": "DAPDOLBY WALL (4)"
+            },
+            {
+                "address": "f8",
+                "name": "DAPDOLBY LEVEL+ (8)"
+            },
+            {
+                "address": "f9",
+                "name": "DAPDOLBY LEVEL-(7/P)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

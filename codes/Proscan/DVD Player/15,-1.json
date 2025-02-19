@@ -1,0 +1,21 @@
+{
+    "display_name": "Proscan DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "3f",
+                "name": "MUTE"
+            },
+            {
+                "address": "a3",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA"
+    },
+    "manufacturer": "Proscan",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

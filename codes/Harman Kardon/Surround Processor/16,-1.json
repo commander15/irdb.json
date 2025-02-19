@@ -1,0 +1,45 @@
+{
+    "display_name": "Harman Kardon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "50",
+                "name": "UP"
+            },
+            {
+                "address": "51",
+                "name": "DOWN"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "LEFT"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

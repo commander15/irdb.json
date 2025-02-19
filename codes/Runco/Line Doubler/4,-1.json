@@ -1,0 +1,65 @@
+{
+    "display_name": "Runco Line Doubler",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "NORMALIZE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VIDEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "FUNCTION +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "FUNCTION -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "FUNCTION SET",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5a",
+                "device_address": "0",
+                "name": "FREEZE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5c",
+                "device_address": "0",
+                "name": "DVNR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "0",
+                "name": "INCREMENTAL FREEZE",
+                "protocol": "NEC2"
+            }
+        ]
+    },
+    "manufacturer": "Runco",
+    "model": "",
+    "name": "",
+    "target": "Line Doubler"
+}

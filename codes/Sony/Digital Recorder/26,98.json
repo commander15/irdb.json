@@ -1,0 +1,41 @@
+{
+    "display_name": "Sony Digital Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "TITLE LIST"
+            },
+            {
+                "address": "14",
+                "name": "INSTANT SEARCH"
+            },
+            {
+                "address": "17",
+                "name": "TOOLS"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR MODE"
+            },
+            {
+                "address": "19",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "1c",
+                "name": "TIMER"
+            },
+            {
+                "address": "79",
+                "name": "ZOOM +"
+            }
+        ],
+        "device_address": "68",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Digital Recorder"
+}

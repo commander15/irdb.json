@@ -1,0 +1,65 @@
+{
+    "display_name": "AMC Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "1"
+            },
+            {
+                "address": "3",
+                "name": "2"
+            },
+            {
+                "address": "4",
+                "name": "3"
+            },
+            {
+                "address": "5",
+                "name": "4"
+            },
+            {
+                "address": "6",
+                "name": "5"
+            },
+            {
+                "address": "7",
+                "name": "6"
+            },
+            {
+                "address": "9",
+                "name": "8"
+            },
+            {
+                "address": "a",
+                "name": "9"
+            },
+            {
+                "address": "b",
+                "name": "0"
+            },
+            {
+                "address": "f",
+                "name": "TUNING - UP"
+            },
+            {
+                "address": "11",
+                "name": "AM / FM"
+            },
+            {
+                "address": "20",
+                "name": "7"
+            },
+            {
+                "address": "60",
+                "name": "TUNING - DOWN"
+            }
+        ],
+        "device_address": "1220000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AMC",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

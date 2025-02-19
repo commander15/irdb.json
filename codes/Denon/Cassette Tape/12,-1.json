@@ -1,0 +1,77 @@
+{
+    "display_name": "Denon Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "4b",
+                "name": "MUTING"
+            },
+            {
+                "address": "4c",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "4d",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "50",
+                "name": "POWER"
+            },
+            {
+                "address": "54",
+                "name": "VDP"
+            },
+            {
+                "address": "58",
+                "name": "PHONO"
+            },
+            {
+                "address": "59",
+                "name": "TUNER"
+            },
+            {
+                "address": "5a",
+                "name": "CD"
+            },
+            {
+                "address": "5d",
+                "name": "TAPE-1"
+            },
+            {
+                "address": "5e",
+                "name": "TAPE-2/VCR"
+            },
+            {
+                "address": "62",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "75",
+                "name": "REC SELECT"
+            },
+            {
+                "address": "7e",
+                "name": "PANEL"
+            },
+            {
+                "address": "d5",
+                "name": "PRESET V"
+            },
+            {
+                "address": "d6",
+                "name": "PRESET ^"
+            },
+            {
+                "address": "dc",
+                "name": "P.SCAN"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

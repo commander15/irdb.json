@@ -1,0 +1,173 @@
+{
+    "display_name": "Fujitsu Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3",
+                "name": "INPUT"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO"
+            },
+            {
+                "address": "6",
+                "name": "VIDEO"
+            },
+            {
+                "address": "8",
+                "name": "RGB"
+            },
+            {
+                "address": "9",
+                "name": "RGB2: D-SUB15"
+            },
+            {
+                "address": "a",
+                "name": "RGB3: 5 BNC"
+            },
+            {
+                "address": "b",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "c",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "e",
+                "name": "RGB1: DVI-D"
+            },
+            {
+                "address": "10",
+                "name": "SHIFT 1"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "20",
+                "name": "SHIFT 2"
+            },
+            {
+                "address": "20",
+                "name": "VOL +"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "21",
+                "name": "VOL -"
+            },
+            {
+                "address": "30",
+                "name": "SHIFT 3"
+            },
+            {
+                "address": "3e",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "ADJ LEFT"
+            },
+            {
+                "address": "3f",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "ADJ RIGHT"
+            },
+            {
+                "address": "40",
+                "name": "MENU"
+            },
+            {
+                "address": "40",
+                "name": "SHIFT 4"
+            },
+            {
+                "address": "41",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "41",
+                "name": "ADJ UP"
+            },
+            {
+                "address": "42",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "42",
+                "name": "ADJ DOWN"
+            },
+            {
+                "address": "5b",
+                "name": "ENTER"
+            },
+            {
+                "address": "5b",
+                "name": "SET"
+            },
+            {
+                "address": "80",
+                "name": "WIDE"
+            },
+            {
+                "address": "80",
+                "name": "ASPECT TOGGLE"
+            },
+            {
+                "address": "81",
+                "name": "ASPECT AUTO"
+            },
+            {
+                "address": "82",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "83",
+                "name": "ASPECT WIDE1"
+            },
+            {
+                "address": "84",
+                "name": "ASPECT WIDE2"
+            },
+            {
+                "address": "85",
+                "name": "ASPECT ZOOM1"
+            },
+            {
+                "address": "86",
+                "name": "ASPECT ZOOM2"
+            },
+            {
+                "address": "e0",
+                "name": "LOCK (HIDDEN)"
+            },
+            {
+                "address": "fa",
+                "name": "MODE (HIDDEN)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

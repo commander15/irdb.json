@@ -1,0 +1,49 @@
+{
+    "display_name": "Proton TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "LEVEL+"
+            },
+            {
+                "address": "6",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "7",
+                "name": "LEVEL-"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "d",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "9e",
+                "name": "SELECT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Proton"
+    },
+    "manufacturer": "Proton",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

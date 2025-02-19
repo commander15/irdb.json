@@ -1,0 +1,69 @@
+{
+    "display_name": "Harman Kardon Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PLAY >"
+            },
+            {
+                "address": "3",
+                "name": "STOP []"
+            },
+            {
+                "address": "4",
+                "name": "FF >>"
+            },
+            {
+                "address": "5",
+                "name": "REW <<"
+            },
+            {
+                "address": "6",
+                "name": "REC/PAUSE O/"
+            },
+            {
+                "address": "7",
+                "name": "REC MUTE"
+            },
+            {
+                "address": "8",
+                "name": "SKIP FWD >>"
+            },
+            {
+                "address": "9",
+                "name": "SKIP REV <<"
+            },
+            {
+                "address": "a",
+                "name": "INTRO"
+            },
+            {
+                "address": "e",
+                "name": "REPLAY"
+            },
+            {
+                "address": "1b",
+                "name": "RESET"
+            },
+            {
+                "address": "1c",
+                "name": "MEMORY"
+            },
+            {
+                "address": "1e",
+                "name": "MONITOR"
+            },
+            {
+                "address": "1f",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "2080000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

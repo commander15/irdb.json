@@ -1,0 +1,73 @@
+{
+    "display_name": "LG HDTV Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "d0",
+                "name": "POWER ON"
+            },
+            {
+                "address": "d1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "d2",
+                "name": "SYSTEM OFF"
+            },
+            {
+                "address": "d3",
+                "name": "NATIVE"
+            },
+            {
+                "address": "d4",
+                "name": "VARIABLE 1"
+            },
+            {
+                "address": "d5",
+                "name": "VARIABLE 2"
+            },
+            {
+                "address": "d6",
+                "name": "VARIABLE 3"
+            },
+            {
+                "address": "d7",
+                "name": "1080I"
+            },
+            {
+                "address": "d8",
+                "name": "720P"
+            },
+            {
+                "address": "d9",
+                "name": "480P"
+            },
+            {
+                "address": "da",
+                "name": "480I"
+            },
+            {
+                "address": "db",
+                "name": "DVI"
+            },
+            {
+                "address": "dc",
+                "name": "RGB"
+            },
+            {
+                "address": "dd",
+                "name": "YPBPR COMPONENT"
+            },
+            {
+                "address": "de",
+                "name": "VIDEO"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "LG",
+    "model": "",
+    "name": "",
+    "target": "HDTV Tuner"
+}

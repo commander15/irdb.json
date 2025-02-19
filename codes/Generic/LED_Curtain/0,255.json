@@ -1,0 +1,173 @@
+{
+    "display_name": "Generic LED_Curtain",
+    "ir": {
+        "commands": [
+            {
+                "address": "5c",
+                "name": "PLAY PAUSE"
+            },
+            {
+                "address": "5d",
+                "name": "OFF"
+            },
+            {
+                "address": "41",
+                "name": "ON"
+            },
+            {
+                "address": "40",
+                "name": "RESET"
+            },
+            {
+                "address": "58",
+                "name": "COLOURS"
+            },
+            {
+                "address": "59",
+                "name": "WHITE"
+            },
+            {
+                "address": "45",
+                "name": "DIRECTION"
+            },
+            {
+                "address": "44",
+                "name": "MIRROR"
+            },
+            {
+                "address": "54",
+                "name": "SANTA"
+            },
+            {
+                "address": "55",
+                "name": "PUMPKIN"
+            },
+            {
+                "address": "55",
+                "name": "EGG"
+            },
+            {
+                "address": "49",
+                "name": "HEART"
+            },
+            {
+                "address": "50",
+                "name": "TURKEY"
+            },
+            {
+                "address": "51",
+                "name": "SHAMROCK"
+            },
+            {
+                "address": "4d",
+                "name": "FLAG"
+            },
+            {
+                "address": "4c",
+                "name": "COSTUME"
+            },
+            {
+                "address": "1c",
+                "name": "CRESCENT"
+            },
+            {
+                "address": "1d",
+                "name": "PEOPLE"
+            },
+            {
+                "address": "1e",
+                "name": "TEXT"
+            },
+            {
+                "address": "1f",
+                "name": "PAWPRINT"
+            },
+            {
+                "address": "18",
+                "name": "CIRCUIT"
+            },
+            {
+                "address": "19",
+                "name": "FIREWORK"
+            },
+            {
+                "address": "1a",
+                "name": "HOUSE"
+            },
+            {
+                "address": "1b",
+                "name": "COLOUR CYCLE"
+            },
+            {
+                "address": "42",
+                "name": "M +"
+            },
+            {
+                "address": "43",
+                "name": "SPEED +"
+            },
+            {
+                "address": "46",
+                "name": "BRIGHT +"
+            },
+            {
+                "address": "47",
+                "name": "SOUND +"
+            },
+            {
+                "address": "4a",
+                "name": "M -"
+            },
+            {
+                "address": "4b",
+                "name": "SPEED -"
+            },
+            {
+                "address": "4e",
+                "name": "BRIGHT -"
+            },
+            {
+                "address": "4f",
+                "name": "SOUND -"
+            },
+            {
+                "address": "52",
+                "name": "NOTE 1"
+            },
+            {
+                "address": "53",
+                "name": "NOTE 2"
+            },
+            {
+                "address": "56",
+                "name": "NOTE 3"
+            },
+            {
+                "address": "57",
+                "name": "NOTE 4"
+            },
+            {
+                "address": "5a",
+                "name": "1H"
+            },
+            {
+                "address": "5b",
+                "name": "2H"
+            },
+            {
+                "address": "5e",
+                "name": "4H"
+            },
+            {
+                "address": "5f",
+                "name": "8H"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Generic",
+    "model": "",
+    "name": "",
+    "target": "LED_Curtain"
+}

@@ -1,0 +1,49 @@
+{
+    "display_name": "JVC Unknown_RM-RK50",
+    "ir": {
+        "commands": [
+            {
+                "address": "84",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "85",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "88",
+                "name": "KEY_CYCLEWINDOWS"
+            },
+            {
+                "address": "8d",
+                "name": "Sound"
+            },
+            {
+                "address": "8e",
+                "name": "Att"
+            },
+            {
+                "address": "92",
+                "name": "Track+"
+            },
+            {
+                "address": "93",
+                "name": "Track-"
+            },
+            {
+                "address": "94",
+                "name": "Disc+"
+            },
+            {
+                "address": "95",
+                "name": "Disc-"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-RK50"
+}

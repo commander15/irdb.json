@@ -1,0 +1,69 @@
+{
+    "display_name": "Sony Unknown_RM-X30",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "OFF"
+            },
+            {
+                "address": "f",
+                "name": "FM_MW_SW"
+            },
+            {
+                "address": "11",
+                "name": "SEL"
+            },
+            {
+                "address": "12",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "13",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "14",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "1b",
+                "name": "SEEK_AMS-"
+            },
+            {
+                "address": "1c",
+                "name": "SEEK_AMS+"
+            },
+            {
+                "address": "28",
+                "name": "DSPL"
+            },
+            {
+                "address": "30",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "31",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "37",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "48",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "4a",
+                "name": "AF_TA"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-X30"
+}

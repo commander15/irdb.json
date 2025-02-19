@@ -1,0 +1,301 @@
+{
+    "display_name": "Arcam Music System",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV"
+            },
+            {
+                "address": "0",
+                "name": "SELECT TV"
+            },
+            {
+                "address": "2",
+                "name": "AV"
+            },
+            {
+                "address": "2",
+                "name": "SELECT AV"
+            },
+            {
+                "address": "3",
+                "name": "DAB/AM"
+            },
+            {
+                "address": "3",
+                "name": "SELECT DAB/AM"
+            },
+            {
+                "address": "5",
+                "name": "TAPE"
+            },
+            {
+                "address": "5",
+                "name": "SELECT TAPE"
+            },
+            {
+                "address": "6",
+                "name": "GAME"
+            },
+            {
+                "address": "6",
+                "name": "SELECT GAME"
+            },
+            {
+                "address": "7",
+                "name": "CD"
+            },
+            {
+                "address": "7",
+                "name": "SELECT CD"
+            },
+            {
+                "address": "8",
+                "name": "FRONT INPUT"
+            },
+            {
+                "address": "8",
+                "name": "SELECT FRONT"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "STANDBY"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "16",
+                "name": "BASS +"
+            },
+            {
+                "address": "17",
+                "name": "BASS -"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "1a",
+                "name": "BALANCE +"
+            },
+            {
+                "address": "1b",
+                "name": "BALANCE -"
+            },
+            {
+                "address": "35",
+                "name": "FM"
+            },
+            {
+                "address": "35",
+                "name": "SELECT FM"
+            },
+            {
+                "address": "37",
+                "name": "INFO 1"
+            },
+            {
+                "address": "3b",
+                "name": "DISP"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "43",
+                "name": "VOL ZONE 1+"
+            },
+            {
+                "address": "44",
+                "name": "VOL ZONE 1-"
+            },
+            {
+                "address": "45",
+                "name": "MUTE ZONE 1 TOGGLE"
+            },
+            {
+                "address": "46",
+                "name": "MUTE ZONE 1 ON"
+            },
+            {
+                "address": "47",
+                "name": "MUTE ZONE 1 OFF"
+            },
+            {
+                "address": "48",
+                "name": "ZONE 2 VOL+"
+            },
+            {
+                "address": "48",
+                "name": "VOL ZONE 2+"
+            },
+            {
+                "address": "49",
+                "name": "ZONE 2 VOL-"
+            },
+            {
+                "address": "49",
+                "name": "VOL ZONE 2 -"
+            },
+            {
+                "address": "4a",
+                "name": "ZONE 2 MUTE TOGGLE"
+            },
+            {
+                "address": "4a",
+                "name": "MUTE ZONE 2 TOGGL"
+            },
+            {
+                "address": "4b",
+                "name": "MUTE ZONE 2 ON"
+            },
+            {
+                "address": "4c",
+                "name": "MUTE ZONE 2 OFF"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "VOLUME+"
+            },
+            {
+                "address": "50",
+                "name": "NAVIGATE RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "51",
+                "name": "VOLUME-"
+            },
+            {
+                "address": "51",
+                "name": "NAVIGATE LEFT"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "55",
+                "name": "NAVIGATE DOWN"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "56",
+                "name": "NAVIGATE UP"
+            },
+            {
+                "address": "57",
+                "name": "ENTER"
+            },
+            {
+                "address": "57",
+                "name": "OK/ENTER"
+            },
+            {
+                "address": "57",
+                "name": "OK"
+            },
+            {
+                "address": "71",
+                "name": "ALARM1 ON/OFF"
+            },
+            {
+                "address": "71",
+                "name": "ALARM 1"
+            },
+            {
+                "address": "72",
+                "name": "ALARM2 ON/OFF"
+            },
+            {
+                "address": "72",
+                "name": "ALARM 2"
+            },
+            {
+                "address": "73",
+                "name": "ALARM3 ON/OFF"
+            },
+            {
+                "address": "73",
+                "name": "ALARM 3"
+            },
+            {
+                "address": "74",
+                "name": "ALARM4 ON/OFF"
+            },
+            {
+                "address": "74",
+                "name": "ALARM 4"
+            },
+            {
+                "address": "76",
+                "name": "SLEEP ON/REDUCE"
+            },
+            {
+                "address": "77",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "78",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7b",
+                "name": "STANDBY OFF"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7c",
+                "name": "STANDBY ON"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Music System"
+}

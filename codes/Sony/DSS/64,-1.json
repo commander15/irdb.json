@@ -1,0 +1,29 @@
+{
+    "display_name": "Sony DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "10",
+                "name": "MUTE"
+            },
+            {
+                "address": "1a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

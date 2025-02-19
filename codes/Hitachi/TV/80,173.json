@@ -1,0 +1,85 @@
+{
+    "display_name": "Hitachi TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "6",
+                "name": "PINP"
+            },
+            {
+                "address": "7",
+                "name": "RECALL"
+            },
+            {
+                "address": "9",
+                "name": "RGB1"
+            },
+            {
+                "address": "a",
+                "name": "RGB2"
+            },
+            {
+                "address": "b",
+                "name": "AV1"
+            },
+            {
+                "address": "c",
+                "name": "AV2"
+            },
+            {
+                "address": "d",
+                "name": "AV3"
+            },
+            {
+                "address": "e",
+                "name": "AV4"
+            },
+            {
+                "address": "13",
+                "name": "MENU"
+            },
+            {
+                "address": "14",
+                "name": "UP"
+            },
+            {
+                "address": "15",
+                "name": "DN"
+            },
+            {
+                "address": "16",
+                "name": "RIGHT"
+            },
+            {
+                "address": "17",
+                "name": "LEFT"
+            },
+            {
+                "address": "18",
+                "name": "OK"
+            },
+            {
+                "address": "19",
+                "name": "SIZE"
+            },
+            {
+                "address": "1a",
+                "name": "RETURN"
+            }
+        ],
+        "device_address": "a0000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

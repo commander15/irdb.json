@@ -1,0 +1,161 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "name": "Z3 TUNING UP"
+            },
+            {
+                "address": "40",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "41",
+                "name": "Z3 TUNING DOWN"
+            },
+            {
+                "address": "41",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "87",
+                "name": "USB FRONT"
+            },
+            {
+                "address": "87",
+                "name": "NET AUDIO"
+            },
+            {
+                "address": "88",
+                "name": "MUSIC SERVER"
+            },
+            {
+                "address": "89",
+                "name": "INTERNET RADIO"
+            },
+            {
+                "address": "8d",
+                "name": "NET TUNE PLAY"
+            },
+            {
+                "address": "8e",
+                "name": "NET TUNE STOP"
+            },
+            {
+                "address": "8f",
+                "name": "NET TUNE DOWN"
+            },
+            {
+                "address": "8f",
+                "name": "NET TUNE UP"
+            },
+            {
+                "address": "d5",
+                "name": "1"
+            },
+            {
+                "address": "d5",
+                "name": "Z3 1"
+            },
+            {
+                "address": "d6",
+                "name": "2"
+            },
+            {
+                "address": "d6",
+                "name": "Z3 2"
+            },
+            {
+                "address": "d7",
+                "name": "3"
+            },
+            {
+                "address": "d7",
+                "name": "Z3 3"
+            },
+            {
+                "address": "d8",
+                "name": "4"
+            },
+            {
+                "address": "d8",
+                "name": "Z3 4"
+            },
+            {
+                "address": "d9",
+                "name": "5"
+            },
+            {
+                "address": "d9",
+                "name": "Z3 5"
+            },
+            {
+                "address": "da",
+                "name": "6"
+            },
+            {
+                "address": "da",
+                "name": "Z3 6"
+            },
+            {
+                "address": "db",
+                "name": "7"
+            },
+            {
+                "address": "db",
+                "name": "Z3 7"
+            },
+            {
+                "address": "dc",
+                "name": "8"
+            },
+            {
+                "address": "dc",
+                "name": "Z3 8"
+            },
+            {
+                "address": "dd",
+                "name": "9"
+            },
+            {
+                "address": "dd",
+                "name": "Z3 9"
+            },
+            {
+                "address": "dd",
+                "name": "1"
+            },
+            {
+                "address": "dd",
+                "name": "7"
+            },
+            {
+                "address": "de",
+                "name": "0/10"
+            },
+            {
+                "address": "de",
+                "name": "Z3 0/10"
+            },
+            {
+                "address": "df",
+                "name": "Z3 DIRECT TUNING"
+            },
+            {
+                "address": "df",
+                "name": "DIRECET TUNE"
+            }
+        ],
+        "device_address": "-2e000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

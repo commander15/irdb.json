@@ -1,0 +1,65 @@
+{
+    "display_name": "Thomson Unknown_TM9258",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "KEY_CYCLEWINDOWS"
+            },
+            {
+                "address": "84",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "88",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "8c",
+                "name": "trackNext"
+            },
+            {
+                "address": "8d",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "90",
+                "name": "trackBack"
+            },
+            {
+                "address": "91",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "93",
+                "name": "soundEffect"
+            },
+            {
+                "address": "94",
+                "name": "band"
+            },
+            {
+                "address": "95",
+                "name": "KEY_MODE"
+            },
+            {
+                "address": "99",
+                "name": "KEY_SELECT"
+            },
+            {
+                "address": "9c",
+                "name": "presUp"
+            },
+            {
+                "address": "9d",
+                "name": "presDown"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Thomson",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TM9258"
+}

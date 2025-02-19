@@ -1,0 +1,109 @@
+{
+    "display_name": "Sanyo Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "5",
+                "name": "V.MODE"
+            },
+            {
+                "address": "9",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "9",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "b",
+                "name": "MUTE"
+            },
+            {
+                "address": "1c",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "1c",
+                "name": "MENU"
+            },
+            {
+                "address": "1d",
+                "name": "LEVEL >"
+            },
+            {
+                "address": "1d",
+                "name": "LEVEL +"
+            },
+            {
+                "address": "1e",
+                "name": "LEVEL <"
+            },
+            {
+                "address": "1e",
+                "name": "LEVEL -"
+            },
+            {
+                "address": "1f",
+                "name": "AUTO"
+            },
+            {
+                "address": "46",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "46",
+                "name": "ZOOM V"
+            },
+            {
+                "address": "47",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "47",
+                "name": "ZOOM ^"
+            },
+            {
+                "address": "4a",
+                "name": "FOCUS +"
+            },
+            {
+                "address": "4a",
+                "name": "FOCUS ^"
+            },
+            {
+                "address": "4b",
+                "name": "FOCUS -"
+            },
+            {
+                "address": "4b",
+                "name": "FOCUS V"
+            },
+            {
+                "address": "58",
+                "name": "EXPAND"
+            },
+            {
+                "address": "5b",
+                "name": "KEYSTONE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Sanyo",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

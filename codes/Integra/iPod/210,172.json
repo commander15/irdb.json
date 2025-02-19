@@ -1,0 +1,77 @@
+{
+    "display_name": "Integra iPod",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "FF"
+            },
+            {
+                "address": "1",
+                "name": "REW"
+            },
+            {
+                "address": "46",
+                "name": "STANDBY"
+            },
+            {
+                "address": "8c",
+                "name": "PLAY MODE (SHUFFLE)"
+            },
+            {
+                "address": "8d",
+                "name": "PLAY"
+            },
+            {
+                "address": "8e",
+                "name": "STOP (PAUSE)"
+            },
+            {
+                "address": "8f",
+                "name": "TRACK +"
+            },
+            {
+                "address": "90",
+                "name": "TRACK -"
+            },
+            {
+                "address": "91",
+                "name": "PAUSE"
+            },
+            {
+                "address": "94",
+                "name": "REPEAT"
+            },
+            {
+                "address": "96",
+                "name": "SCROLL (BACKLIGHT)"
+            },
+            {
+                "address": "97",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "99",
+                "name": "DISPLAY (BACKLIGHT)"
+            },
+            {
+                "address": "9a",
+                "name": "RANDOM (SHUFFLE)"
+            },
+            {
+                "address": "9b",
+                "name": "MEMORY (PLAYLIST)"
+            },
+            {
+                "address": "9c",
+                "name": "STANDBY"
+            }
+        ],
+        "device_address": "d2000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "iPod"
+}

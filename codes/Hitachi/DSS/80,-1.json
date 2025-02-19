@@ -1,0 +1,109 @@
+{
+    "display_name": "Hitachi DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "TV 8 (VWX)"
+            },
+            {
+                "address": "5",
+                "name": "TV 9 (YZ)"
+            },
+            {
+                "address": "9",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "a",
+                "name": "TV LAST CH"
+            },
+            {
+                "address": "b",
+                "name": "TV MUTE"
+            },
+            {
+                "address": "c",
+                "name": "TV 0 (&!/)"
+            },
+            {
+                "address": "d",
+                "name": "TV 1 (ABC)"
+            },
+            {
+                "address": "e",
+                "name": "TV 2 (DEF)"
+            },
+            {
+                "address": "f",
+                "name": "TV 3 (GHI)"
+            },
+            {
+                "address": "12",
+                "name": "TV VOL ^"
+            },
+            {
+                "address": "15",
+                "name": "TV VOL V"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER"
+            },
+            {
+                "address": "18",
+                "name": "TV CH V"
+            },
+            {
+                "address": "19",
+                "name": "TV CH ^"
+            },
+            {
+                "address": "1c",
+                "name": "TV 4 (JKL)"
+            },
+            {
+                "address": "1d",
+                "name": "TV 5 (MNO)"
+            },
+            {
+                "address": "1e",
+                "name": "TV 6 (PQR)"
+            },
+            {
+                "address": "1f",
+                "name": "TV 7 (STU)"
+            },
+            {
+                "address": "33",
+                "name": "TV SELECT"
+            },
+            {
+                "address": "53",
+                "name": "TV MENU"
+            },
+            {
+                "address": "70",
+                "name": "TV ^"
+            },
+            {
+                "address": "71",
+                "name": "TV V"
+            },
+            {
+                "address": "72",
+                "name": "TV >"
+            },
+            {
+                "address": "73",
+                "name": "TV <"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

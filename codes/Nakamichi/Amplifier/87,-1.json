@@ -1,0 +1,341 @@
+{
+    "display_name": "Nakamichi Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "TAPE1 REC"
+            },
+            {
+                "address": "15",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "17",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "18",
+                "name": "[1] TUNER 1-9"
+            },
+            {
+                "address": "19",
+                "name": "[1] TUNER 2-10"
+            },
+            {
+                "address": "1a",
+                "name": "[1] TUNER 3-11"
+            },
+            {
+                "address": "1b",
+                "name": "[1] TUNER 4-12"
+            },
+            {
+                "address": "1c",
+                "name": "[1] TUNER 5-13"
+            },
+            {
+                "address": "1d",
+                "name": "[1] TUNER 6-14"
+            },
+            {
+                "address": "1e",
+                "name": "[1] TUNER 7-15"
+            },
+            {
+                "address": "1f",
+                "name": "[1] TUNER 8-16"
+            },
+            {
+                "address": "40",
+                "name": "[1] POWER"
+            },
+            {
+                "address": "41",
+                "name": "[1] MUTE"
+            },
+            {
+                "address": "42",
+                "name": "[1] VOLUME ^"
+            },
+            {
+                "address": "43",
+                "name": "[1] VOLUME V"
+            },
+            {
+                "address": "44",
+                "name": "[1] PHONO"
+            },
+            {
+                "address": "45",
+                "name": "[1] CD"
+            },
+            {
+                "address": "46",
+                "name": "[1] TUNER"
+            },
+            {
+                "address": "47",
+                "name": "[1] AUX1"
+            },
+            {
+                "address": "48",
+                "name": "[1] AUX2"
+            },
+            {
+                "address": "49",
+                "name": "[1] TAPE1"
+            },
+            {
+                "address": "4a",
+                "name": "[1] TAPE2"
+            },
+            {
+                "address": "4c",
+                "name": "[1] CD SCAN >>"
+            },
+            {
+                "address": "4d",
+                "name": "[1] CD SCAN <<"
+            },
+            {
+                "address": "4e",
+                "name": "[1] CD SKIP >"
+            },
+            {
+                "address": "4f",
+                "name": "[1] CD SKIP <"
+            },
+            {
+                "address": "50",
+                "name": "[1] CD PLAY >"
+            },
+            {
+                "address": "51",
+                "name": "[1] CD PAUSE "
+            },
+            {
+                "address": "52",
+                "name": "[1] CD STOP []"
+            },
+            {
+                "address": "54",
+                "name": "TAPE1 FFWD >>"
+            },
+            {
+                "address": "55",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "56",
+                "name": "TAPE1 CUE"
+            },
+            {
+                "address": "58",
+                "name": "TAPE1 R.PLAY <"
+            },
+            {
+                "address": "59",
+                "name": "TAPE1 AZIMUTH >"
+            },
+            {
+                "address": "5a",
+                "name": "TAPE1 AZIMUTH <"
+            },
+            {
+                "address": "5b",
+                "name": "[1] TUNER SHIFT"
+            },
+            {
+                "address": "5c",
+                "name": "[1] TUNER FM"
+            },
+            {
+                "address": "5d",
+                "name": "[1] TUNER AM"
+            },
+            {
+                "address": "5e",
+                "name": "[1] TUNER SEEK ^"
+            },
+            {
+                "address": "5f",
+                "name": "[1] TUNER SEEK V"
+            },
+            {
+                "address": "94",
+                "name": "TAPE2 REC"
+            },
+            {
+                "address": "95",
+                "name": "TAPE2 PLAY >"
+            },
+            {
+                "address": "96",
+                "name": "TAPE2 PAUSE "
+            },
+            {
+                "address": "97",
+                "name": "TAPE2 STOP []"
+            },
+            {
+                "address": "98",
+                "name": "[2] TUNER 1-9"
+            },
+            {
+                "address": "99",
+                "name": "[2] TUNER 2-10"
+            },
+            {
+                "address": "9a",
+                "name": "[2] TUNER 3-11"
+            },
+            {
+                "address": "9b",
+                "name": "[2] TUNER 4-12"
+            },
+            {
+                "address": "9c",
+                "name": "[2] TUNER 5-13"
+            },
+            {
+                "address": "9d",
+                "name": "[2] TUNER 6-14"
+            },
+            {
+                "address": "9e",
+                "name": "[2] TUNER 7-15"
+            },
+            {
+                "address": "9f",
+                "name": "[2] TUNER 8-16"
+            },
+            {
+                "address": "c0",
+                "name": "[2] POWER"
+            },
+            {
+                "address": "c1",
+                "name": "[2] MUTE"
+            },
+            {
+                "address": "c2",
+                "name": "[2] VOLUME ^"
+            },
+            {
+                "address": "c3",
+                "name": "[2] VOLUME V"
+            },
+            {
+                "address": "c4",
+                "name": "[2] PHONO"
+            },
+            {
+                "address": "c5",
+                "name": "[2] CD"
+            },
+            {
+                "address": "c6",
+                "name": "[2] TUNER"
+            },
+            {
+                "address": "c7",
+                "name": "[2] AUX1"
+            },
+            {
+                "address": "c8",
+                "name": "[2] AUX2"
+            },
+            {
+                "address": "c9",
+                "name": "[2] TAPE1"
+            },
+            {
+                "address": "ca",
+                "name": "[2] TAPE2"
+            },
+            {
+                "address": "cc",
+                "name": "[2] CD SCAN >>"
+            },
+            {
+                "address": "cd",
+                "name": "[2] CD SCAN <<"
+            },
+            {
+                "address": "ce",
+                "name": "[2] CD SKIP >"
+            },
+            {
+                "address": "cf",
+                "name": "[2] CD SKIP <"
+            },
+            {
+                "address": "d0",
+                "name": "[2] CD PLAY >"
+            },
+            {
+                "address": "d1",
+                "name": "[2] CD PAUSE "
+            },
+            {
+                "address": "d2",
+                "name": "[2] CD STOP []"
+            },
+            {
+                "address": "d4",
+                "name": "TAPE2 FFWD >>"
+            },
+            {
+                "address": "d5",
+                "name": "TAPE2 REW <<"
+            },
+            {
+                "address": "d6",
+                "name": "TAPE2 CUE"
+            },
+            {
+                "address": "d8",
+                "name": "TAPE2 R.PLAY <"
+            },
+            {
+                "address": "d9",
+                "name": "TAPE2 AZIMUTH >"
+            },
+            {
+                "address": "da",
+                "name": "TAPE2 AZIMUTH <"
+            },
+            {
+                "address": "db",
+                "name": "[2] TUNER SHIFT"
+            },
+            {
+                "address": "dc",
+                "name": "[2] TUNER FM"
+            },
+            {
+                "address": "dd",
+                "name": "[2] TUNER AM"
+            },
+            {
+                "address": "de",
+                "name": "[2] TUNER SEEK ^"
+            },
+            {
+                "address": "df",
+                "name": "[2] TUNER SEEK V"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

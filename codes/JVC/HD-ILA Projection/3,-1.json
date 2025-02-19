@@ -1,0 +1,201 @@
+{
+    "display_name": "JVC HD-ILA Projection",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "SLEEP TIMER"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "a",
+                "name": "OK"
+            },
+            {
+                "address": "d",
+                "name": "VIDEO STATUS"
+            },
+            {
+                "address": "e",
+                "name": "CLOSE CAPTION"
+            },
+            {
+                "address": "11",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "12",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "14",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "14",
+                "name": "INPUT3"
+            },
+            {
+                "address": "15",
+                "name": "DIGITAL IN"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "POWER (TOGGLE)"
+            },
+            {
+                "address": "18",
+                "name": "DOWN"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "UP"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1b",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "1b",
+                "name": "INPUT4"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1d",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1e",
+                "name": "RIGHT"
+            },
+            {
+                "address": "1e",
+                "name": "VOL UP"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "LEFT"
+            },
+            {
+                "address": "1f",
+                "name": "VOL DN"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "42",
+                "name": "SOUND"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "80",
+                "name": "MULTISCREEN FREEZE"
+            },
+            {
+                "address": "82",
+                "name": "MULTISCREEN INDEX"
+            },
+            {
+                "address": "89",
+                "name": "MULTISCREEN SWAP"
+            },
+            {
+                "address": "8b",
+                "name": "MULTILSCREEN TWIN"
+            },
+            {
+                "address": "93",
+                "name": "ASPECT"
+            },
+            {
+                "address": "93",
+                "name": "ASPECT RATIO"
+            },
+            {
+                "address": "d5",
+                "name": "THEATRE PRO"
+            },
+            {
+                "address": "e6",
+                "name": "BACK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "HD-ILA Projection"
+}

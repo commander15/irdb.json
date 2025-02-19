@@ -1,0 +1,97 @@
+{
+    "display_name": "Classe Audio CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "8",
+                "name": "PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "PLAY"
+            },
+            {
+                "address": "9",
+                "name": "STOP"
+            },
+            {
+                "address": "a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "b",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "c",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "d",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "e",
+                "name": "REPEAT"
+            },
+            {
+                "address": "f",
+                "name": "5"
+            },
+            {
+                "address": "10",
+                "name": "4"
+            },
+            {
+                "address": "11",
+                "name": "3"
+            },
+            {
+                "address": "12",
+                "name": "1"
+            },
+            {
+                "address": "13",
+                "name": "2"
+            },
+            {
+                "address": "14",
+                "name": "8"
+            },
+            {
+                "address": "15",
+                "name": "9"
+            },
+            {
+                "address": "16",
+                "name": "0"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "6"
+            },
+            {
+                "address": "19",
+                "name": "CLEAR"
+            }
+        ],
+        "device_address": "10c",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

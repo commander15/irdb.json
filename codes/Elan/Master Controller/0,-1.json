@@ -1,0 +1,45 @@
+{
+    "display_name": "Elan Master Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "MUTE"
+            },
+            {
+                "address": "3",
+                "name": "DND"
+            },
+            {
+                "address": "4",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "6",
+                "name": "BASS +"
+            },
+            {
+                "address": "7",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "24",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "26",
+                "name": "BASS -"
+            },
+            {
+                "address": "27",
+                "name": "TREBLE -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Master Controller"
+}

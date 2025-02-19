@@ -1,0 +1,57 @@
+{
+    "display_name": "Snell Speaker",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "BASS SHAPE - CINEMA"
+            },
+            {
+                "address": "3",
+                "name": "BASS SHAPE - REF."
+            },
+            {
+                "address": "4",
+                "name": "BASS LEVEL +4"
+            },
+            {
+                "address": "7",
+                "name": "BASS LEVEL +6"
+            },
+            {
+                "address": "8",
+                "name": "BASS LEVEL -4"
+            },
+            {
+                "address": "9",
+                "name": "BASS LEVEL -6"
+            },
+            {
+                "address": "f",
+                "name": "BASS LEVEL +2"
+            },
+            {
+                "address": "11",
+                "name": "BASS LEVEL -2"
+            },
+            {
+                "address": "13",
+                "name": "BASS LEVEL 0"
+            },
+            {
+                "address": "1e",
+                "name": "TREBLE - CUT"
+            },
+            {
+                "address": "1f",
+                "name": "TREBLE - BOOST"
+            }
+        ],
+        "device_address": "50",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "Snell",
+    "model": "",
+    "name": "",
+    "target": "Speaker"
+}

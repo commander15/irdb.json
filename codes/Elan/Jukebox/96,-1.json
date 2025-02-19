@@ -1,0 +1,61 @@
+{
+    "display_name": "Elan Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "12 NOW PLAYING"
+            },
+            {
+                "address": "86",
+                "name": "1 UP/REPEAT"
+            },
+            {
+                "address": "87",
+                "name": "2 DOWN/SHUFFLE"
+            },
+            {
+                "address": "88",
+                "name": "4 LIBRARY/MENU"
+            },
+            {
+                "address": "89",
+                "name": "6 SKIP-"
+            },
+            {
+                "address": "8a",
+                "name": "8 PAUSE"
+            },
+            {
+                "address": "8b",
+                "name": "10 SKIP+"
+            },
+            {
+                "address": "8e",
+                "name": "5 X HIDE/BACK"
+            },
+            {
+                "address": "8f",
+                "name": "7 DISPLAY/X REMOVE"
+            },
+            {
+                "address": "90",
+                "name": "9 STOP/I CLEAR"
+            },
+            {
+                "address": "91",
+                "name": "11 PLAY/SELECT"
+            },
+            {
+                "address": "94",
+                "name": "3 I VIEW/ALPHA"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Jukebox"
+}

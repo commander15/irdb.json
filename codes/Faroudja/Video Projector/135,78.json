@@ -1,0 +1,53 @@
+{
+    "display_name": "Faroudja Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "COMPOSITE 1"
+            },
+            {
+                "address": "2",
+                "name": "MENU"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "9",
+                "name": "COMPOSITE 3"
+            },
+            {
+                "address": "a",
+                "name": "HELP"
+            },
+            {
+                "address": "d",
+                "name": "STANDBY"
+            },
+            {
+                "address": "e",
+                "name": "FREEZE"
+            },
+            {
+                "address": "15",
+                "name": "COMPOSITE 2"
+            },
+            {
+                "address": "16",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "21c000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Faroudja",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

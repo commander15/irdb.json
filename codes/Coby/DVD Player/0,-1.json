@@ -1,0 +1,73 @@
+{
+    "display_name": "Coby DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "SELECT"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "10",
+                "name": "CHAP>"
+            },
+            {
+                "address": "14",
+                "name": "CHAP<"
+            },
+            {
+                "address": "18",
+                "name": "FWW"
+            },
+            {
+                "address": "1c",
+                "name": "REW"
+            },
+            {
+                "address": "40",
+                "name": "RIGHT"
+            },
+            {
+                "address": "44",
+                "name": "UP"
+            },
+            {
+                "address": "48",
+                "name": "DOWN"
+            },
+            {
+                "address": "49",
+                "name": "MENU"
+            },
+            {
+                "address": "4c",
+                "name": "LEFT"
+            },
+            {
+                "address": "4d",
+                "name": "TITLE"
+            },
+            {
+                "address": "57",
+                "name": "PLAY"
+            },
+            {
+                "address": "5b",
+                "name": "STOP"
+            },
+            {
+                "address": "5f",
+                "name": "PAUSE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Coby",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

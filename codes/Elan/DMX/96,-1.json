@@ -1,0 +1,239 @@
+{
+    "display_name": "Elan DMX",
+    "ir": {
+        "commands": [
+            {
+                "address": "cd",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "0",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "0",
+                "name": "DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "0",
+                "name": "DOWN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "dd",
+                "device_address": "0",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e3",
+                "device_address": "0",
+                "name": "ALBUM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "0",
+                "name": "ARTIST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "0",
+                "name": "GENRE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e7",
+                "device_address": "0",
+                "name": "PLAYLIST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e8",
+                "device_address": "0",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e9",
+                "device_address": "0",
+                "name": "RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "eb",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ed",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ee",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ef",
+                "device_address": "0",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f0",
+                "device_address": "0",
+                "name": "OUTPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f1",
+                "device_address": "0",
+                "name": "DISC +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f2",
+                "device_address": "0",
+                "name": "DISC -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "0",
+                "name": "RECORD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f4",
+                "device_address": "0",
+                "name": "DELETE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f5",
+                "device_address": "0",
+                "name": "INFO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f7",
+                "device_address": "0",
+                "name": "SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f8",
+                "device_address": "0",
+                "name": "TRACK -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f9",
+                "device_address": "0",
+                "name": "TRACK +",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "DMX"
+}

@@ -1,0 +1,1101 @@
+{
+    "display_name": "Yamaha DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "1"
+            },
+            {
+                "address": "80",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "80",
+                "name": "POWER: TOGGLE"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "80",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "80",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "80",
+                "name": "POWER (TOGGLE)"
+            },
+            {
+                "address": "81",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "81",
+                "name": "FUNCTN: OPEN/CLOSE"
+            },
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "82",
+                "name": "FUNCTN: PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "83",
+                "name": "FUNCTN: PAUSE"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE (STEP +)"
+            },
+            {
+                "address": "84",
+                "name": "PAUSE/STOP"
+            },
+            {
+                "address": "85",
+                "name": "STOP"
+            },
+            {
+                "address": "85",
+                "name": "FUNCTN: STOP"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH/SLOW REV"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH <"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "86",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH REV"
+            },
+            {
+                "address": "86",
+                "name": "REWIND"
+            },
+            {
+                "address": "86",
+                "name": "FUNCTN: SEARCH-"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH - (<<)"
+            },
+            {
+                "address": "86",
+                "name": "SEARCH -"
+            },
+            {
+                "address": "86",
+                "name": "SCAN DOWN"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH/SLOW FWD"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH >"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "87",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH FWD"
+            },
+            {
+                "address": "87",
+                "name": "FFWD"
+            },
+            {
+                "address": "87",
+                "name": "FUNCTN: SEARCH+"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH + (>>)"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH +"
+            },
+            {
+                "address": "87",
+                "name": "SCAN UP"
+            },
+            {
+                "address": "88",
+                "name": "SKIP <"
+            },
+            {
+                "address": "89",
+                "name": "SKIP >"
+            },
+            {
+                "address": "8a",
+                "name": "FUNCTN: DISC SKIP-"
+            },
+            {
+                "address": "8b",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "8b",
+                "name": "FUNCTN: DISC SKIP+"
+            },
+            {
+                "address": "8c",
+                "name": "INDEX -"
+            },
+            {
+                "address": "8d",
+                "name": "INDEX +"
+            },
+            {
+                "address": "8e",
+                "name": "SLOW -"
+            },
+            {
+                "address": "8f",
+                "name": "SLOW +"
+            },
+            {
+                "address": "91",
+                "name": "STEP <"
+            },
+            {
+                "address": "92",
+                "name": "STEP >"
+            },
+            {
+                "address": "92",
+                "name": "PLAY / PAUSE"
+            },
+            {
+                "address": "93",
+                "name": "0"
+            },
+            {
+                "address": "93",
+                "name": "NUMERIC: 0"
+            },
+            {
+                "address": "94",
+                "name": "2"
+            },
+            {
+                "address": "94",
+                "name": "1"
+            },
+            {
+                "address": "94",
+                "name": "NUMERIC: 1"
+            },
+            {
+                "address": "94",
+                "name": "0"
+            },
+            {
+                "address": "95",
+                "name": "2"
+            },
+            {
+                "address": "95",
+                "name": "NUMERIC: 2"
+            },
+            {
+                "address": "95",
+                "name": "1"
+            },
+            {
+                "address": "96",
+                "name": "3"
+            },
+            {
+                "address": "96",
+                "name": "NUMERIC: 3"
+            },
+            {
+                "address": "96",
+                "name": "2"
+            },
+            {
+                "address": "97",
+                "name": "4"
+            },
+            {
+                "address": "97",
+                "name": "NUMERIC: 4"
+            },
+            {
+                "address": "97",
+                "name": "3"
+            },
+            {
+                "address": "98",
+                "name": "5"
+            },
+            {
+                "address": "98",
+                "name": "NUMERIC: 5"
+            },
+            {
+                "address": "98",
+                "name": "4"
+            },
+            {
+                "address": "99",
+                "name": "6"
+            },
+            {
+                "address": "99",
+                "name": "NUMERIC: 6"
+            },
+            {
+                "address": "99",
+                "name": "5"
+            },
+            {
+                "address": "9a",
+                "name": "7"
+            },
+            {
+                "address": "9a",
+                "name": "NUMERIC: 7"
+            },
+            {
+                "address": "9a",
+                "name": "6"
+            },
+            {
+                "address": "9b",
+                "name": "8"
+            },
+            {
+                "address": "9b",
+                "name": "NUMERIC: 8"
+            },
+            {
+                "address": "9b",
+                "name": "7"
+            },
+            {
+                "address": "9c",
+                "name": "9"
+            },
+            {
+                "address": "9c",
+                "name": "NUMERIC: 9"
+            },
+            {
+                "address": "9c",
+                "name": "8"
+            },
+            {
+                "address": "9d",
+                "name": "+10"
+            },
+            {
+                "address": "9d",
+                "name": ">10"
+            },
+            {
+                "address": "9d",
+                "name": "9"
+            },
+            {
+                "address": "9d",
+                "name": "NUMERIC: +10/ >10"
+            },
+            {
+                "address": "9e",
+                "name": "+10"
+            },
+            {
+                "address": "9f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "9f",
+                "name": "CANCEL (CLEAR)"
+            },
+            {
+                "address": "9f",
+                "name": "PROG: CANCEL/CLEAR"
+            },
+            {
+                "address": "9f",
+                "name": "CANCEL"
+            },
+            {
+                "address": "9f",
+                "name": "TITLE/INDEX"
+            },
+            {
+                "address": "9f",
+                "name": "CANCEL/CLEAR"
+            },
+            {
+                "address": "a0",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "a0",
+                "name": "PROG: PROGRAM"
+            },
+            {
+                "address": "a0",
+                "name": "CANCEL (CLEAR)"
+            },
+            {
+                "address": "a1",
+                "name": "RANDOM"
+            },
+            {
+                "address": "a1",
+                "name": "PROG: RANDOM"
+            },
+            {
+                "address": "a1",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "a2",
+                "name": "RANDOM"
+            },
+            {
+                "address": "a3",
+                "name": "REP MODE"
+            },
+            {
+                "address": "a3",
+                "name": "PROG: REPEAT MODE"
+            },
+            {
+                "address": "a3",
+                "name": "REPEAT"
+            },
+            {
+                "address": "a3",
+                "name": "REPEART MODE"
+            },
+            {
+                "address": "a3",
+                "name": "REPEAT MODE"
+            },
+            {
+                "address": "a4",
+                "name": "REP A-B"
+            },
+            {
+                "address": "a4",
+                "name": "PROG: REPEAT A-B"
+            },
+            {
+                "address": "a4",
+                "name": "A-B"
+            },
+            {
+                "address": "a4",
+                "name": "REPEAR A-B"
+            },
+            {
+                "address": "a4",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "a4",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "a5",
+                "name": "AUTO SPACE"
+            },
+            {
+                "address": "a6",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "a6",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "a6",
+                "name": "SET: DISPLAY TOGGLE"
+            },
+            {
+                "address": "a6",
+                "name": "DISPLAY ON/OFF"
+            },
+            {
+                "address": "a6",
+                "name": "OSD TOG"
+            },
+            {
+                "address": "a6",
+                "name": "DISPLAY TOG"
+            },
+            {
+                "address": "a6",
+                "name": "ON-SCREEN"
+            },
+            {
+                "address": "a8",
+                "name": "STATUS"
+            },
+            {
+                "address": "a8",
+                "name": "TIME"
+            },
+            {
+                "address": "a8",
+                "name": "SET: TIME"
+            },
+            {
+                "address": "a9",
+                "name": "DIMMER"
+            },
+            {
+                "address": "a9",
+                "name": "SET: DIMMER"
+            },
+            {
+                "address": "aa",
+                "name": "SUBTITLE ON/OFF"
+            },
+            {
+                "address": "aa",
+                "name": "SET: SUBTITLE"
+            },
+            {
+                "address": "aa",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "aa",
+                "name": "SUBTITILE ON/OFF"
+            },
+            {
+                "address": "aa",
+                "name": "SUB TITLE"
+            },
+            {
+                "address": "ab",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "ab",
+                "name": "SUBTITLE 2"
+            },
+            {
+                "address": "ac",
+                "name": "SETUP"
+            },
+            {
+                "address": "ac",
+                "name": "SET: SETUP"
+            },
+            {
+                "address": "ad",
+                "name": "AUDIO"
+            },
+            {
+                "address": "ad",
+                "name": "SET: AUDIO"
+            },
+            {
+                "address": "ad",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "ae",
+                "name": "ANGLE"
+            },
+            {
+                "address": "ae",
+                "name": "SET: ANGLE"
+            },
+            {
+                "address": "b1",
+                "name": "TOP MENU/ DIR.NAV."
+            },
+            {
+                "address": "b1",
+                "name": "TITLE"
+            },
+            {
+                "address": "b1",
+                "name": "FUNCTN: TOP MENU"
+            },
+            {
+                "address": "b1",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "b1",
+                "name": "TOP MENU/RETURN"
+            },
+            {
+                "address": "b1",
+                "name": "RETURN"
+            },
+            {
+                "address": "b2",
+                "name": "MENU"
+            },
+            {
+                "address": "b2",
+                "name": "FUNCTN: MENU"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "FUNCTN: CURSOR DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "b4",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b4",
+                "name": "FUNCTN: CURSOR UP"
+            },
+            {
+                "address": "b4",
+                "name": "UP"
+            },
+            {
+                "address": "b4",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "b5",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "FUNCTN: CURSOR LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "b6",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "FUNCTN: CURSOR RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "b7",
+                "name": "RETURN"
+            },
+            {
+                "address": "b7",
+                "name": "FUNCTN: RETURN"
+            },
+            {
+                "address": "b8",
+                "name": "OK"
+            },
+            {
+                "address": "b8",
+                "name": "SELECT (ENTER)"
+            },
+            {
+                "address": "b8",
+                "name": "FUNCTN: SELECT/ENTER"
+            },
+            {
+                "address": "b8",
+                "name": "ENTER"
+            },
+            {
+                "address": "b8",
+                "name": "ENTER/SELECT"
+            },
+            {
+                "address": "b8",
+                "name": "ENTER/OK"
+            },
+            {
+                "address": "b8",
+                "name": "CURSOR ENTER/OK"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP REV"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP / SEARCH <"
+            },
+            {
+                "address": "b9",
+                "name": "FUNCTN: SKIP-"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP/SEARCH <"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP/SEARCH REV"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP -"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP/SEARCH -"
+            },
+            {
+                "address": "b9",
+                "name": "SKIP DOWN"
+            },
+            {
+                "address": "b9",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP FWD"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP / SEARCH >"
+            },
+            {
+                "address": "ba",
+                "name": "FUNCTN: SKIP+"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP/SEARCH >"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP/SEARCH FWD"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP +"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP/SEARCH +"
+            },
+            {
+                "address": "ba",
+                "name": "SKIP UP"
+            },
+            {
+                "address": "ba",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "bb",
+                "name": "MULTI SPEED"
+            },
+            {
+                "address": "bc",
+                "name": "DISC MODE"
+            },
+            {
+                "address": "bd",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "bd",
+                "name": "PLAY MODE: TOG"
+            },
+            {
+                "address": "cf",
+                "name": "POP-UP MENU"
+            },
+            {
+                "address": "d0",
+                "name": "SUB MENU"
+            },
+            {
+                "address": "d1",
+                "name": "DISC 1"
+            },
+            {
+                "address": "d1",
+                "name": "FUNCTN: DISC 1"
+            },
+            {
+                "address": "d2",
+                "name": "DISC 2"
+            },
+            {
+                "address": "d2",
+                "name": "FUNCTN: DISC 2"
+            },
+            {
+                "address": "d3",
+                "name": "DISC 3"
+            },
+            {
+                "address": "d3",
+                "name": "FUNCTN: DISC 3"
+            },
+            {
+                "address": "d4",
+                "name": "DISC 4"
+            },
+            {
+                "address": "d4",
+                "name": "FUNCTN: DISC 4"
+            },
+            {
+                "address": "d5",
+                "name": "DISC 5"
+            },
+            {
+                "address": "d5",
+                "name": "FUNCTN: DISC 5"
+            },
+            {
+                "address": "d7",
+                "name": "ZOOM"
+            },
+            {
+                "address": "d8",
+                "name": "MARKER"
+            },
+            {
+                "address": "d8",
+                "name": "SET: MARKER"
+            },
+            {
+                "address": "d9",
+                "name": "VIDEO ON/OFF"
+            },
+            {
+                "address": "d9",
+                "name": "AUDIO DIRECT"
+            },
+            {
+                "address": "d9",
+                "name": "AUDIO DIRECT (VID)"
+            },
+            {
+                "address": "d9",
+                "name": "SET: VIDEO TOGGLE"
+            },
+            {
+                "address": "d9",
+                "name": "AUDIO DIR(VIDON/OFF)"
+            },
+            {
+                "address": "d9",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "da",
+                "name": "PROGRESSIVE"
+            },
+            {
+                "address": "da",
+                "name": "SET: PROGRESSIVE TOG"
+            },
+            {
+                "address": "db",
+                "name": "TEXT"
+            },
+            {
+                "address": "dc",
+                "name": "GROUP -"
+            },
+            {
+                "address": "dd",
+                "name": "GROUP +"
+            },
+            {
+                "address": "dd",
+                "name": "GROUP"
+            },
+            {
+                "address": "dd",
+                "name": "SET: GROUP+"
+            },
+            {
+                "address": "de",
+                "name": "PAGE -"
+            },
+            {
+                "address": "de",
+                "name": "PAGE-"
+            },
+            {
+                "address": "df",
+                "name": "PAGE +"
+            },
+            {
+                "address": "df",
+                "name": "PAGE+"
+            },
+            {
+                "address": "df",
+                "name": "SET: PAGE+"
+            },
+            {
+                "address": "e0",
+                "name": "SET: PLAYER MODE"
+            },
+            {
+                "address": "e1",
+                "name": "MULTI/2CH"
+            },
+            {
+                "address": "e1",
+                "name": "SET: MULTI/2CH"
+            },
+            {
+                "address": "e1",
+                "name": "MULTI / 2CH."
+            },
+            {
+                "address": "e2",
+                "name": "SCAN"
+            },
+            {
+                "address": "e4",
+                "name": "MUTE"
+            },
+            {
+                "address": "e5",
+                "name": "HDMI"
+            },
+            {
+                "address": "e5",
+                "name": "HDMI ON/OFF"
+            },
+            {
+                "address": "e6",
+                "name": "INPUT: USB"
+            },
+            {
+                "address": "e8",
+                "name": "FUNCTIONS"
+            },
+            {
+                "address": "e9",
+                "name": "A (RED)"
+            },
+            {
+                "address": "ea",
+                "name": "B (GREEN)"
+            },
+            {
+                "address": "eb",
+                "name": "C (BLUE)"
+            },
+            {
+                "address": "ec",
+                "name": "D (YELLOW)"
+            },
+            {
+                "address": "ed",
+                "name": "PIP"
+            },
+            {
+                "address": "ee",
+                "name": "SECONDARY AUDIO"
+            },
+            {
+                "address": "ef",
+                "name": "BD/SD"
+            },
+            {
+                "address": "f0",
+                "name": "PLAY MODE: NORMAL"
+            },
+            {
+                "address": "f0",
+                "name": "NORMAL PLAY MODE"
+            },
+            {
+                "address": "f0",
+                "name": "PLAY MODE NORMAL"
+            },
+            {
+                "address": "f0",
+                "name": "PLAYMODE - NORMAL"
+            },
+            {
+                "address": "f0",
+                "name": "PLAY MODE - NORMAL"
+            },
+            {
+                "address": "f0",
+                "name": "PLAY - NORMAL"
+            },
+            {
+                "address": "f1",
+                "name": "PLAY MODE: RANDOM"
+            },
+            {
+                "address": "f1",
+                "name": "RANDOM PLAY MODE"
+            },
+            {
+                "address": "f1",
+                "name": "PLAY MODE RANDOM"
+            },
+            {
+                "address": "f1",
+                "name": "PLAYMODE - RANDOM"
+            },
+            {
+                "address": "f1",
+                "name": "PLAY MODE - RANDOM"
+            },
+            {
+                "address": "f1",
+                "name": "PLAY - RANDOM"
+            },
+            {
+                "address": "f2",
+                "name": "PLAY MODE: PROGRAM"
+            },
+            {
+                "address": "f2",
+                "name": "PROGRAM MODE"
+            },
+            {
+                "address": "f2",
+                "name": "PLAY MODE PROGRAM"
+            },
+            {
+                "address": "f2",
+                "name": "PLAY MODE - PROGRAM"
+            },
+            {
+                "address": "f2",
+                "name": "PLAY - PROGRAM"
+            },
+            {
+                "address": "f3",
+                "name": "PROG: REPEAT OFF"
+            },
+            {
+                "address": "f3",
+                "name": "REPEAT MODE OFF"
+            },
+            {
+                "address": "f3",
+                "name": "REPEAT OFF"
+            },
+            {
+                "address": "f5",
+                "name": "PROG: REPEAT ALL"
+            },
+            {
+                "address": "f5",
+                "name": "ALL DISC REPEAT"
+            },
+            {
+                "address": "f5",
+                "name": "REPEAT ALL"
+            },
+            {
+                "address": "f6",
+                "name": "POWER ON"
+            },
+            {
+                "address": "f6",
+                "name": "POWER: ON"
+            },
+            {
+                "address": "f6",
+                "name": "REPEAT OFF"
+            },
+            {
+                "address": "f6",
+                "name": "POWER"
+            },
+            {
+                "address": "f7",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "f7",
+                "name": "POWER: OFF"
+            },
+            {
+                "address": "f7",
+                "name": "STANDBY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

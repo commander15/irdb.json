@@ -1,0 +1,109 @@
+{
+    "display_name": "Carver CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "+10"
+            },
+            {
+                "address": "c",
+                "name": "INTRO."
+            },
+            {
+                "address": "d",
+                "name": "RANDOM"
+            },
+            {
+                "address": "10",
+                "name": "PLAY >"
+            },
+            {
+                "address": "13",
+                "name": "PAUSE/STOP"
+            },
+            {
+                "address": "16",
+                "name": "REPEAT"
+            },
+            {
+                "address": "17",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "18",
+                "name": "FWD >>"
+            },
+            {
+                "address": "19",
+                "name": "REW <<"
+            },
+            {
+                "address": "1a",
+                "name": "SKIP +"
+            },
+            {
+                "address": "1b",
+                "name": "SKIP -"
+            },
+            {
+                "address": "1c",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "1d",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "55",
+                "name": "DELETE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

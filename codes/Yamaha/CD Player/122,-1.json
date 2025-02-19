@@ -1,0 +1,101 @@
+{
+    "display_name": "Yamaha CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "STOP/PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "SKIP >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "TRACK UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "SKIP <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "TRACK DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "SEARCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "SEARCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "SEARCH <<",
+                "protocol": "NEC"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "DISC +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "DISC -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "DISC SKIP",
+                "protocol": "NEC"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "DISC SKIP",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

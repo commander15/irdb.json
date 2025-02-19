@@ -1,0 +1,105 @@
+{
+    "display_name": "Bell Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "EXIT"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "16",
+                "name": "VIEW TV"
+            },
+            {
+                "address": "18",
+                "name": "CURS RIGHT"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "CURS LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CURS DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "REC."
+            },
+            {
+                "address": "20",
+                "name": "PAUSE"
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Bell",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

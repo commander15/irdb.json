@@ -1,0 +1,93 @@
+{
+    "display_name": "NEC Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "1",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "2",
+                "name": "TV VOLUME ^"
+            },
+            {
+                "address": "3",
+                "name": "TV VOLUME V"
+            },
+            {
+                "address": "8",
+                "name": "TV POWER"
+            },
+            {
+                "address": "9",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "a",
+                "name": "TV MUTE"
+            },
+            {
+                "address": "b",
+                "name": "TV ANT/AUX"
+            },
+            {
+                "address": "10",
+                "name": "TV 0"
+            },
+            {
+                "address": "11",
+                "name": "TV 1"
+            },
+            {
+                "address": "12",
+                "name": "TV 2"
+            },
+            {
+                "address": "13",
+                "name": "TV 3"
+            },
+            {
+                "address": "14",
+                "name": "TV 4"
+            },
+            {
+                "address": "15",
+                "name": "TV 5"
+            },
+            {
+                "address": "16",
+                "name": "TV 6"
+            },
+            {
+                "address": "17",
+                "name": "TV 7"
+            },
+            {
+                "address": "18",
+                "name": "TV 8"
+            },
+            {
+                "address": "19",
+                "name": "TV 9"
+            },
+            {
+                "address": "1a",
+                "name": "TV TIMER"
+            },
+            {
+                "address": "1b",
+                "name": "TV RECALL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

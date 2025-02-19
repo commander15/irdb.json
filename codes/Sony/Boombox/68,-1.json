@@ -1,0 +1,49 @@
+{
+    "display_name": "Sony Boombox",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "MODE"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "30",
+                "name": "SOUND"
+            },
+            {
+                "address": "3f",
+                "name": "MEGA BASS"
+            },
+            {
+                "address": "47",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "60",
+                "name": "SLEEP"
+            },
+            {
+                "address": "61",
+                "name": "STANDBY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Boombox"
+}

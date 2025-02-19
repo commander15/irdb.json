@@ -1,0 +1,29 @@
+{
+    "display_name": "Sony DV Cam",
+    "ir": {
+        "commands": [
+            {
+                "address": "15",
+                "name": "PHOTO"
+            },
+            {
+                "address": "19",
+                "name": "START/STOP"
+            },
+            {
+                "address": "2d",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "4c",
+                "name": "DATA CODE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DV Cam"
+}

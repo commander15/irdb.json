@@ -1,0 +1,61 @@
+{
+    "display_name": "Elmo Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "A REV"
+            },
+            {
+                "address": "a",
+                "name": "A ZOOM WIDE"
+            },
+            {
+                "address": "b",
+                "name": "A ZOOM TELE"
+            },
+            {
+                "address": "c",
+                "name": "A FWD"
+            },
+            {
+                "address": "d",
+                "name": "A IRIS CLOSE"
+            },
+            {
+                "address": "e",
+                "name": "A ZERO RESET FWD"
+            },
+            {
+                "address": "f",
+                "name": "A ZERO RESET REV"
+            },
+            {
+                "address": "11",
+                "name": "A FOCUS F"
+            },
+            {
+                "address": "12",
+                "name": "A FOCUS N"
+            },
+            {
+                "address": "13",
+                "name": "A LAMP ON"
+            },
+            {
+                "address": "14",
+                "name": "A LAMP OFF"
+            },
+            {
+                "address": "e0",
+                "name": "A IRIS OPEN"
+            }
+        ],
+        "device_address": "2180",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Elmo",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

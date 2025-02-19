@@ -1,0 +1,129 @@
+{
+    "display_name": "Denon Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "45",
+                "name": "D1 CASS PITCH+/-"
+            },
+            {
+                "address": "46",
+                "name": ""
+            },
+            {
+                "address": "4a",
+                "name": "D2 CASS PITCH+/-"
+            },
+            {
+                "address": "53",
+                "name": "DECK SELECT A/B"
+            },
+            {
+                "address": "53",
+                "name": "A/B"
+            },
+            {
+                "address": "57",
+                "name": "DECK PLAY REV. <"
+            },
+            {
+                "address": "57",
+                "name": "PLAY(REV)"
+            },
+            {
+                "address": "5a",
+                "name": "D1 CASS FWD >> (>>)"
+            },
+            {
+                "address": "5a",
+                "name": "F.F >>"
+            },
+            {
+                "address": "5a",
+                "name": "DECK FF >>"
+            },
+            {
+                "address": "5a",
+                "name": "FF >>"
+            },
+            {
+                "address": "5b",
+                "name": "D1 CASS REW << (<<)"
+            },
+            {
+                "address": "5b",
+                "name": "REW <<"
+            },
+            {
+                "address": "5b",
+                "name": "DECK REW <<"
+            },
+            {
+                "address": "5c",
+                "name": "D1 CASS PLAY >"
+            },
+            {
+                "address": "5c",
+                "name": "PLAY >"
+            },
+            {
+                "address": "5c",
+                "name": "DECK PLAY >"
+            },
+            {
+                "address": "5d",
+                "name": "REC PAUSE/MUTE"
+            },
+            {
+                "address": "5d",
+                "name": "DECK PAUSE "
+            },
+            {
+                "address": "5d",
+                "name": "PAUSE "
+            },
+            {
+                "address": "5e",
+                "name": "D1 CASS STOP[] "
+            },
+            {
+                "address": "5e",
+                "name": "STOP []"
+            },
+            {
+                "address": "5e",
+                "name": "DECK STOP []"
+            },
+            {
+                "address": "5f",
+                "name": "RECORD"
+            },
+            {
+                "address": "5f",
+                "name": "DECK REC"
+            },
+            {
+                "address": "6a",
+                "name": "D2 CASS FWD >> (>>)"
+            },
+            {
+                "address": "6b",
+                "name": "D2 CASS REW << (<<)"
+            },
+            {
+                "address": "6c",
+                "name": "D2 CASS PLAY >"
+            },
+            {
+                "address": "6e",
+                "name": "D2 CASS STOP[] "
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

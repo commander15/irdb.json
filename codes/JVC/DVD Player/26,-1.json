@@ -1,0 +1,59 @@
+{
+    "display_name": "JVC DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "POWER - 5",
+                "protocol": "RC5"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "POWER - 6A",
+                "protocol": "RC6"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "STOP - 5",
+                "protocol": "RC5"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "STOP - 6A",
+                "protocol": "RC6"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "OPEN/CLOSE - 5",
+                "protocol": "RC5"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "OPEN/CLOSE - 6A",
+                "protocol": "RC6"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "PLAY - 5",
+                "protocol": "RC5"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "PLAY - 6A",
+                "protocol": "RC6"
+            }
+        ]
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

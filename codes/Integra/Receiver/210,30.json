@@ -1,0 +1,707 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "+10",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "BAND",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "CLEAR",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "CURSOR UP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "DISPLAY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "ENTER",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "MODE",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "PAUSE/STEP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "PLAY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "REPEAT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "RETURN",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "SETUP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "STOP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "TRACK DOWN",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "TRACK UP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "FF",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "FR",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "PRESET DOWN",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "48",
+                "device_address": "-80000000",
+                "name": "PRESET UP",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "AUDYSSEY OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "AUDYSSEY ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL TOGGLE",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC EQ OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC EQ ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC EQ TOGGLE",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOL HEAVY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOL LIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOL MEDIUM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOL OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOL TOGGLE",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: FULL MONO",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: GAME ACTION",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: GAME ROCK",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: GAME RPG",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: GAME SPORTS",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: ORCHESTRA",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: STUDIO MIX",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: UNPLUGGED",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MUSIC OPTIMIZER OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MUSIC OPTIMIZER ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "AUDIO ARC",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYMANIC EQ ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC EQ WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOLUME HEAVY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOLUME LIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOLUME MEDIU",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOLUME OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DYNAMIC VOLUME WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF CINEMA",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF CUSTOM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF GAME",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF MODE WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF THROUGH",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE DOLBYEX AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE FULL MONO",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE GAME ACTION",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE GAME ROCK",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE GAME RPG",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE GAME SPORTS",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE NEO6 THX CINEMA",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE NEO6 THX MUSIC",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE ORCHESTRA",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE STUDIO MIX",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE TV LOGIC",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MUSIC OPTIMIZER WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE 4:3",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE FULL",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE WIDE ZOOM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE ZOOM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE: PLXLL HEIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI AUDIO OUT OFF",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI AUDIO OUT ON",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE AUDYSSEY DSX",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE NEO6 MUSIC AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE NEO6CINEMA AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLX GAME AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLX MOVIE AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLX MUSIC AUDY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODEPLLZH+THXU2CINEM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODEPLLZH+THXU2GAMES",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODEPLLZH+THXU2MUSIC",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI AUDIO OUT WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI OUT BOTH",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI OUT BOTH MAIN",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "HDMI OUT BOTH SUB",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLZ H+GAMES",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLZ H+THXCINEM",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLZ H+THXMUSIC",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE PLLZ HEIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "VOLUME DOWN 1DB",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "VOLUME UP 1DB",
+                "protocol": "NEC2-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF DAY",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "ISF NIGHT",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE AUTO",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL HIGH",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL LOW",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL MID",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DOLBY VOL WRAP",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "MODE NEURAL DIGITAL",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "WIDE MODE SMART ZOOM",
+                "protocol": "NEC1-f16"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

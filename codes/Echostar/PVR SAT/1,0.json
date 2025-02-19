@@ -1,0 +1,49 @@
+{
+    "display_name": "Echostar PVR SAT",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE -"
+            },
+            {
+                "address": "f",
+                "name": "PAGE +"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "32",
+                "name": "FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "REPLAY"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "RECORDED EVENTS"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "PVR SAT"
+}

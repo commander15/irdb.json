@@ -1,0 +1,81 @@
+{
+    "display_name": "AIM RADIO",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "2",
+                "name": "Preset_Repeat"
+            },
+            {
+                "address": "3",
+                "name": "Snooze"
+            },
+            {
+                "address": "4",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "9",
+                "name": "Stop_Band"
+            },
+            {
+                "address": "a",
+                "name": "Intro"
+            },
+            {
+                "address": "b",
+                "name": "Timer"
+            },
+            {
+                "address": "11",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "12",
+                "name": "Random"
+            },
+            {
+                "address": "13",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "14",
+                "name": "X-Bass"
+            },
+            {
+                "address": "17",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "19",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1a",
+                "name": "Mem"
+            },
+            {
+                "address": "1b",
+                "name": "Display"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "20",
+                "name": "Function"
+            }
+        ],
+        "device_address": "102",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AIM",
+    "model": "",
+    "name": "",
+    "target": "RADIO"
+}

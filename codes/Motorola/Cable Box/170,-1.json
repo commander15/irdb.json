@@ -1,0 +1,29 @@
+{
+    "display_name": "Motorola Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1c",
+                "name": "POWER"
+            },
+            {
+                "address": "49",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Motorola",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

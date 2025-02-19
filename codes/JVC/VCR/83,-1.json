@@ -1,0 +1,1385 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "STOP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "B STOP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "VCRB STOP []",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "VIDEO B STOP []",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "STOP []",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "VCR B STOP[]",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4",
+                "device_address": "-80000000",
+                "name": "B EJECT",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "4",
+                "device_address": "-80000000",
+                "name": "EJECT",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "FAST FORWARD >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "B FF >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "VCRB FF >>/>>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "VCRB FF >> />>\\",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "VIDEO B >>/>>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "FFWD >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "VCR B FFWD >>/>>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "REWIND <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "B REW <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "VCRB REW <</<<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "VCRB REW << /<<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "VIDEO B <</<<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "REW <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "VCR B REW <</<<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "B POWER VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "VCRB POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "VIDEO B OPERATE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "VIDEO POWER",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "VCR B POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "B PLAY/X2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "VCRB PLAY >",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "VIDEO B PLAY >",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PLAY/X2 >",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "VCR B PLAY>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "PAUSE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "B PAUSE/STILL",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "VCRB PAUSE ",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "VIDEO B PAUSE ",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "PAUSE/STILL ",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "VCR B PAUSE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV/VCR",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "B TV/VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "VCRB TV/VIDEO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "VIDEO B TV/VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV/VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "VCR B TV/VIDEO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "B VARIABLE SEARCH >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VCRB SHUTTLE >>(+)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VCRB SHUT PLUS >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VIDEO B VAR SRCH >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VAR.SEARCH FWD >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VCRB SRCH>>(VARIABLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "LEFT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "B VARIABLE SEARCH <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VCRB SHUTTLE << (-)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VCRB SHUT PLUS <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VIDEO B VAR SRCH <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VAR.SEARCH REV <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VCRB SRCH<<(VARIABLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "VIDEO B AUDIO MONITO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "AUDIO MONITOR",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "B -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "B CH -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "VCRB CH/SET -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "VCRB CH V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "VIDEO B TV PROG -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "SET -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "SET REV",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "VCR B CH -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "B +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "B CH +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "VCRB CH/SET +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "VCRB CH ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "VIDEO B TV PROG +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "SET +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "SET FWD",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "VCR B CH +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1a",
+                "device_address": "-80000000",
+                "name": "POWER OFF",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1d",
+                "device_address": "-80000000",
+                "name": "POWER ON",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "B 1",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "VCRB 1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "VIDEO B 1",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "VCR B 1 (ABC)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "B 2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "VCRB 2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "VIDEO B 2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "VCR B 2 (DEF)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "B 3",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "VCRB 3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "VIDEO B 3",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "VCR B 3 (GHI)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "B 4",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "VCRB 4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "VIDEO B 4",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "VCR B 4 (JKL)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "B 5",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "VCRB 5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "VIDEO B 5",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "VCR B 5 (MNO)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "B 6",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "VCRB 6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "VIDEO B 6",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "VCR B 6 (PQR)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "B 7",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "VCRB 7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "VIDEO B 7",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "VCR B 7 (STU)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "B 8",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "VCRB 8 (DAILY M-F)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "VIDEO B 8 (DAILY)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "VCR B 8 (VWX)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "B 9",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "VCRB 9 (WEEKLY)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "VIDEO B 9 (WEEKLY)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "VCR B 9 (WEEKLY)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "B SP/EP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "VCRB SP/EP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "VIDEO B /// (SP/EP)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "SP/EP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "VCR B SP/EP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "32",
+                "device_address": "-80000000",
+                "name": "B AM/PM",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "JVC"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "B 0",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "VCRB 0 (AUX)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "VIDEO B 0 (AUX)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "VCR B 0 (AUX)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "B TIMER",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "VCRB TIMER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "VID B 5 TIMER (CH)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "TIMER",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "35",
+                "device_address": "-80000000",
+                "name": "VCR B TIMER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "B SKIP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "VCRB CANCEL(C/RESET",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "VCRB CANCEL/CHSKIP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "VIDEO B CANCEL",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "CANCEL/SKIP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "VCR B CANCEL",
+                "protocol": "JVC"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "B MENU",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "VCRB MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "VIDEO B REVIEW",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "VCR B MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "B DISPLAY",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "VCRB DISPLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "VIDEO B DISPLAY",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "DISPLAY",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "38",
+                "device_address": "-80000000",
+                "name": "VCR B DISPLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3b",
+                "device_address": "-80000000",
+                "name": "B GOTO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3b",
+                "device_address": "-80000000",
+                "name": "GO-TO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "OK",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "B SELECT",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "VCRB SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "VCRB OK",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "VID B 3 SELECT(CMEM)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "SELECT",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "VCR B SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "B ENTER",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "VCRB ENTER (OSD)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "ENTER/ADD",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "VCR B ENTER/OSD",
+                "protocol": "JVC"
+            },
+            {
+                "address": "41",
+                "device_address": "-80000000",
+                "name": "B TRACKING +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "41",
+                "device_address": "-80000000",
+                "name": "AUTO TRACKING UP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "42",
+                "device_address": "-80000000",
+                "name": "B TRACKING -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "42",
+                "device_address": "-80000000",
+                "name": "AUTO TRACKING DOWN",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "4b",
+                "device_address": "-80000000",
+                "name": "B TV MONITOR",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "4b",
+                "device_address": "-80000000",
+                "name": "TV/MONITOR",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "66",
+                "device_address": "-80000000",
+                "name": "VID B 4 TRANS(CHSRCH",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6e",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "80",
+                "device_address": "-80000000",
+                "name": "SELECT FWD",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "82",
+                "device_address": "-80000000",
+                "name": "VCRB SHUT PLUS ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "84",
+                "device_address": "-80000000",
+                "name": "SELECT REV",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "86",
+                "device_address": "-80000000",
+                "name": "VCRB SHUT PLUS V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "90",
+                "device_address": "-80000000",
+                "name": "VCRB C.MEMORY (ADD)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "90",
+                "device_address": "-80000000",
+                "name": "VCRB C.MEMORY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "90",
+                "device_address": "-80000000",
+                "name": "VCR B IN/OUT/START C",
+                "protocol": "JVC"
+            },
+            {
+                "address": "91",
+                "device_address": "-80000000",
+                "name": "B INDEX",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "91",
+                "device_address": "-80000000",
+                "name": "INDEX",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "93",
+                "device_address": "-80000000",
+                "name": "B MARK",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "93",
+                "device_address": "-80000000",
+                "name": "MARK",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "94",
+                "device_address": "-80000000",
+                "name": "B ERASE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "94",
+                "device_address": "-80000000",
+                "name": "ERASE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "B SKIP SEARCH",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "VCRB SKIP SEARCH",
+                "protocol": "JVC"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "SKIP/BLANK",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "VCR B SKIP SRCH",
+                "protocol": "JVC"
+            },
+            {
+                "address": "97",
+                "device_address": "-80000000",
+                "name": "B INTRO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "97",
+                "device_address": "-80000000",
+                "name": "INTRO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "af",
+                "device_address": "-80000000",
+                "name": "FRAME <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "af",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "af",
+                "device_address": "-80000000",
+                "name": "JOG REV",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "af",
+                "device_address": "-80000000",
+                "name": "VCR B JOG <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "b7",
+                "device_address": "-80000000",
+                "name": "SCAN <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "b8",
+                "device_address": "-80000000",
+                "name": "SCAN >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c3",
+                "device_address": "-80000000",
+                "name": "VCRB REVIEW",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "RECORD",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "B REC/PLAY/X2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "VCRB REC",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "VIDEO B REC",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "REC/PLAY/X2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "VCR B RECORD",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "REC/PAUSE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ea",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ed",
+                "device_address": "-80000000",
+                "name": "FRAME >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ed",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ed",
+                "device_address": "-80000000",
+                "name": "JOG FWD",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ed",
+                "device_address": "-80000000",
+                "name": "VCR B JOG >>",
+                "protocol": "JVC{2}"
+            }
+        ]
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

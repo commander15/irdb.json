@@ -1,0 +1,169 @@
+{
+    "display_name": "Kenwood VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "CD DISC"
+            },
+            {
+                "address": "d",
+                "name": "+10"
+            },
+            {
+                "address": "56",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "80",
+                "name": "0"
+            },
+            {
+                "address": "81",
+                "name": "1"
+            },
+            {
+                "address": "82",
+                "name": "2"
+            },
+            {
+                "address": "83",
+                "name": "3"
+            },
+            {
+                "address": "84",
+                "name": "4"
+            },
+            {
+                "address": "85",
+                "name": "5"
+            },
+            {
+                "address": "86",
+                "name": "6"
+            },
+            {
+                "address": "87",
+                "name": "7"
+            },
+            {
+                "address": "88",
+                "name": "8"
+            },
+            {
+                "address": "89",
+                "name": "9"
+            },
+            {
+                "address": "8c",
+                "name": "P.CALL V"
+            },
+            {
+                "address": "8f",
+                "name": "BAND"
+            },
+            {
+                "address": "95",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "99",
+                "name": "P.CALL ^"
+            },
+            {
+                "address": "9a",
+                "name": "VOLUME CTRL V"
+            },
+            {
+                "address": "9b",
+                "name": "VOLUME CTRL ^"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "POWER"
+            },
+            {
+                "address": "c9",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "cb",
+                "name": "CD PLAY/PAUSE"
+            },
+            {
+                "address": "ce",
+                "name": "CD <<"
+            },
+            {
+                "address": "cf",
+                "name": "CD >>"
+            },
+            {
+                "address": "d0",
+                "name": "TAPEA REV PLAY <"
+            },
+            {
+                "address": "d1",
+                "name": "TAPEA PLAY >"
+            },
+            {
+                "address": "d2",
+                "name": "TAPEA <<"
+            },
+            {
+                "address": "d3",
+                "name": "TAPEA >>"
+            },
+            {
+                "address": "d5",
+                "name": "TAPEA STOP []"
+            },
+            {
+                "address": "d6",
+                "name": "TAPEA REC"
+            },
+            {
+                "address": "d7",
+                "name": "BYPASS"
+            },
+            {
+                "address": "d8",
+                "name": "TAPEB REV PLAY <"
+            },
+            {
+                "address": "d9",
+                "name": "TAPEB PLAY >"
+            },
+            {
+                "address": "da",
+                "name": "TAPEB <<"
+            },
+            {
+                "address": "db",
+                "name": "TAPEB >>"
+            },
+            {
+                "address": "dd",
+                "name": "TAPEB STOP []"
+            },
+            {
+                "address": "de",
+                "name": "TAPEB REC"
+            },
+            {
+                "address": "df",
+                "name": "SURR.MODE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

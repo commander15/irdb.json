@@ -1,0 +1,69 @@
+{
+    "display_name": "Toshiba Unknown_SE-R0127",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "pause-step"
+            },
+            {
+                "address": "12",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "13",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "15",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "19",
+                "name": "rev"
+            },
+            {
+                "address": "22",
+                "name": "KEY_ENTER"
+            },
+            {
+                "address": "23",
+                "name": "skip-left"
+            },
+            {
+                "address": "24",
+                "name": "skip-right"
+            },
+            {
+                "address": "27",
+                "name": "KEY_AUDIO"
+            },
+            {
+                "address": "28",
+                "name": "KEY_SUBTITLE"
+            },
+            {
+                "address": "29",
+                "name": "KEY_ANGLE"
+            },
+            {
+                "address": "29",
+                "name": "KEY_ANGLE"
+            },
+            {
+                "address": "ef",
+                "name": "KEY_CLEAR"
+            },
+            {
+                "address": "f5",
+                "name": "KEY_OPEN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Toshiba",
+    "model": "",
+    "name": "",
+    "target": "Unknown_SE-R0127"
+}

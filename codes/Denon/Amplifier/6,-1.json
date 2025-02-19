@@ -1,0 +1,81 @@
+{
+    "display_name": "Denon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "VDP POWER"
+            },
+            {
+                "address": "81",
+                "name": "VDP1 POWER"
+            },
+            {
+                "address": "83",
+                "name": "VDP STOP []"
+            },
+            {
+                "address": "83",
+                "name": "VDP1 STOP []"
+            },
+            {
+                "address": "84",
+                "name": "VDP PLAY >"
+            },
+            {
+                "address": "84",
+                "name": "VDP1 PLAY >"
+            },
+            {
+                "address": "85",
+                "name": "VDP PAUSE "
+            },
+            {
+                "address": "85",
+                "name": "VDP1 PAUSE "
+            },
+            {
+                "address": "86",
+                "name": "VDP SEARCH >>"
+            },
+            {
+                "address": "86",
+                "name": "VDP1 SRCH >>"
+            },
+            {
+                "address": "87",
+                "name": "VDP SEARCH <<"
+            },
+            {
+                "address": "87",
+                "name": "VDP1 SRCH <<"
+            },
+            {
+                "address": "88",
+                "name": "VDP FF >>"
+            },
+            {
+                "address": "88",
+                "name": "VDP1 FF >>"
+            },
+            {
+                "address": "89",
+                "name": "VDP REW <<"
+            },
+            {
+                "address": "89",
+                "name": "VDP1 REW <<"
+            },
+            {
+                "address": "93",
+                "name": "VDP1 DISPLAY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

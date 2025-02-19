@@ -1,0 +1,77 @@
+{
+    "display_name": "NAD Unknown_SR8",
+    "ir": {
+        "commands": [
+            {
+                "address": "25",
+                "name": "KEY_POWER_ON"
+            },
+            {
+                "address": "85",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "88",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "89",
+                "name": "KEY_DISC"
+            },
+            {
+                "address": "8c",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "8d",
+                "name": "KEY_TAPE1"
+            },
+            {
+                "address": "91",
+                "name": "KEY_TAPE2"
+            },
+            {
+                "address": "94",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "9b",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "c0",
+                "name": "KEY_MP"
+            },
+            {
+                "address": "c2",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "c8",
+                "name": "KEY_POWER_OFF"
+            },
+            {
+                "address": "ce",
+                "name": "KEY_SPK_A"
+            },
+            {
+                "address": "cf",
+                "name": "KEY_SPK_B"
+            },
+            {
+                "address": "dc",
+                "name": "KEY_TONE_DFT"
+            },
+            {
+                "address": "dd",
+                "name": "KEY_TUNER"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Unknown_SR8"
+}

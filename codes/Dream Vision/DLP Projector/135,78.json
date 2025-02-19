@@ -1,0 +1,177 @@
+{
+    "display_name": "Dream Vision DLP Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "MENU"
+            },
+            {
+                "address": "3",
+                "name": "BRITE UP"
+            },
+            {
+                "address": "3",
+                "name": "BRITE +"
+            },
+            {
+                "address": "7",
+                "name": "BRITE DOWN"
+            },
+            {
+                "address": "7",
+                "name": "BRITE -"
+            },
+            {
+                "address": "e",
+                "name": "FREEZE"
+            },
+            {
+                "address": "10",
+                "name": "SOURCE SELECT"
+            },
+            {
+                "address": "10",
+                "name": "ENTER"
+            },
+            {
+                "address": "13",
+                "name": "UP"
+            },
+            {
+                "address": "14",
+                "name": "DOWN"
+            },
+            {
+                "address": "14",
+                "name": "DN"
+            },
+            {
+                "address": "17",
+                "name": "AUTO TRACKING"
+            },
+            {
+                "address": "17",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "17",
+                "name": "POWER ON"
+            },
+            {
+                "address": "20",
+                "name": "RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "LEFT"
+            },
+            {
+                "address": "2c",
+                "name": "PRESETS"
+            },
+            {
+                "address": "2c",
+                "name": "RESET"
+            },
+            {
+                "address": "2d",
+                "name": "SOURCE1"
+            },
+            {
+                "address": "2d",
+                "name": "DVI 1"
+            },
+            {
+                "address": "2e",
+                "name": "SOURCE2"
+            },
+            {
+                "address": "2e",
+                "name": "RGB 2"
+            },
+            {
+                "address": "2f",
+                "name": "SOURCE3"
+            },
+            {
+                "address": "2f",
+                "name": "COMPONENT 3"
+            },
+            {
+                "address": "30",
+                "name": "SOURCE4"
+            },
+            {
+                "address": "30",
+                "name": "SVHS 4"
+            },
+            {
+                "address": "31",
+                "name": "BLANK"
+            },
+            {
+                "address": "32",
+                "name": "SELECT"
+            },
+            {
+                "address": "33",
+                "name": "AUTO IMAGE"
+            },
+            {
+                "address": "34",
+                "name": "RESIZE"
+            },
+            {
+                "address": "35",
+                "name": "OVERSCAN"
+            },
+            {
+                "address": "36",
+                "name": "CONTRAST UP"
+            },
+            {
+                "address": "36",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "37",
+                "name": "CONTRAST DOWN"
+            },
+            {
+                "address": "37",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "39",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3b",
+                "name": "NATIVE"
+            },
+            {
+                "address": "3c",
+                "name": "16:9"
+            },
+            {
+                "address": "3d",
+                "name": "4:3"
+            },
+            {
+                "address": "3e",
+                "name": "LETTER BOX"
+            }
+        ],
+        "device_address": "21c000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Dream Vision",
+    "model": "",
+    "name": "",
+    "target": "DLP Projector"
+}

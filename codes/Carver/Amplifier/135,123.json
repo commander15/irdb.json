@@ -1,0 +1,145 @@
+{
+    "display_name": "Carver Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "PLAY >"
+            },
+            {
+                "address": "9",
+                "name": "PAUSE/STOP"
+            },
+            {
+                "address": "a",
+                "name": "SKIP +"
+            },
+            {
+                "address": "b",
+                "name": "SKIP -"
+            },
+            {
+                "address": "11",
+                "name": "REMOTE VOL UP"
+            },
+            {
+                "address": "12",
+                "name": "REMOTE VOL DOWN"
+            },
+            {
+                "address": "40",
+                "name": "POWER"
+            },
+            {
+                "address": "41",
+                "name": "HOLOGRAM"
+            },
+            {
+                "address": "42",
+                "name": "VOLUME MASTER UP"
+            },
+            {
+                "address": "43",
+                "name": "VOLUME MASTER DOWN"
+            },
+            {
+                "address": "45",
+                "name": "REMOTE"
+            },
+            {
+                "address": "46",
+                "name": "TUNING UP"
+            },
+            {
+                "address": "47",
+                "name": "TUNING DOWN"
+            },
+            {
+                "address": "48",
+                "name": "FM"
+            },
+            {
+                "address": "49",
+                "name": "AM"
+            },
+            {
+                "address": "4a",
+                "name": "1/11"
+            },
+            {
+                "address": "4b",
+                "name": "2/12"
+            },
+            {
+                "address": "4c",
+                "name": "3/13"
+            },
+            {
+                "address": "4d",
+                "name": "4/14"
+            },
+            {
+                "address": "4e",
+                "name": "5/15"
+            },
+            {
+                "address": "4f",
+                "name": "6/16"
+            },
+            {
+                "address": "50",
+                "name": "7/17"
+            },
+            {
+                "address": "51",
+                "name": "8/18"
+            },
+            {
+                "address": "52",
+                "name": "PHONO"
+            },
+            {
+                "address": "53",
+                "name": "CD"
+            },
+            {
+                "address": "54",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "55",
+                "name": "TUNER"
+            },
+            {
+                "address": "58",
+                "name": "9/19"
+            },
+            {
+                "address": "59",
+                "name": "10/20"
+            },
+            {
+                "address": "5b",
+                "name": "MUTE"
+            },
+            {
+                "address": "5c",
+                "name": "AUX"
+            },
+            {
+                "address": "5d",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "5f",
+                "name": "ACCD"
+            }
+        ],
+        "device_address": "38000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

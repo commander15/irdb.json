@@ -1,0 +1,25 @@
+{
+    "display_name": "Hitachi DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "9a",
+                "name": "DSS VOL V"
+            },
+            {
+                "address": "9b",
+                "name": "DSS VOL ^"
+            },
+            {
+                "address": "9c",
+                "name": "DSS2 MUTE"
+            }
+        ],
+        "device_address": "b8",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

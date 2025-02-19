@@ -1,0 +1,37 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1e",
+                "name": "CD DISC +/A"
+            },
+            {
+                "address": "1f",
+                "name": "CD DISC B/-"
+            },
+            {
+                "address": "3f",
+                "name": "CD"
+            },
+            {
+                "address": "3f",
+                "name": "CD INPUT"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT - CD"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT: CD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

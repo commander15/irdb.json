@@ -1,0 +1,173 @@
+{
+    "display_name": "Loewe DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "30",
+                "name": "POWER"
+            },
+            {
+                "address": "31",
+                "name": "PLAY"
+            },
+            {
+                "address": "32",
+                "name": "T"
+            },
+            {
+                "address": "33",
+                "name": "T"
+            },
+            {
+                "address": "34",
+                "name": "PROGRAM +"
+            },
+            {
+                "address": "35",
+                "name": "PROGRAM -"
+            },
+            {
+                "address": "36",
+                "name": "RECORD"
+            },
+            {
+                "address": "38",
+                "name": "PAUSE REC"
+            },
+            {
+                "address": "39",
+                "name": "STOPP"
+            },
+            {
+                "address": "3a",
+                "name": "INFO"
+            },
+            {
+                "address": "3b",
+                "name": "1"
+            },
+            {
+                "address": "3c",
+                "name": "2"
+            },
+            {
+                "address": "3d",
+                "name": "3"
+            },
+            {
+                "address": "3e",
+                "name": "4"
+            },
+            {
+                "address": "3f",
+                "name": "5"
+            },
+            {
+                "address": "40",
+                "name": "6"
+            },
+            {
+                "address": "41",
+                "name": "7"
+            },
+            {
+                "address": "42",
+                "name": "8"
+            },
+            {
+                "address": "43",
+                "name": "9"
+            },
+            {
+                "address": "44",
+                "name": "0"
+            },
+            {
+                "address": "45",
+                "name": "END"
+            },
+            {
+                "address": "47",
+                "name": "CURSOR UPP"
+            },
+            {
+                "address": "48",
+                "name": "CURSOR NER"
+            },
+            {
+                "address": "4a",
+                "name": "TITLE / CHAPTER"
+            },
+            {
+                "address": "4b",
+                "name": "DISC MENU"
+            },
+            {
+                "address": "4c",
+                "name": "CAMERA"
+            },
+            {
+                "address": "53",
+                "name": "REPEAT"
+            },
+            {
+                "address": "55",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "56",
+                "name": "MENU"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "59",
+                "name": "NSTER"
+            },
+            {
+                "address": "5a",
+                "name": "GER"
+            },
+            {
+                "address": "61",
+                "name": "SET MARKER"
+            },
+            {
+                "address": "64",
+                "name": "ZOOM"
+            },
+            {
+                "address": "69",
+                "name": "KNAPP/CARD"
+            },
+            {
+                "address": "b0",
+                "name": "NGAR"
+            },
+            {
+                "address": "b7",
+                "name": "REC MENU"
+            },
+            {
+                "address": "ba",
+                "name": "GUL KNAPP/TITLE"
+            },
+            {
+                "address": "bb",
+                "name": "D KNAPP/C-SET"
+            },
+            {
+                "address": "bc",
+                "name": "N KNAPP/SHOWVIEW"
+            }
+        ],
+        "device_address": "5a000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Loewe",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

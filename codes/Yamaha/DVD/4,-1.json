@@ -1,0 +1,513 @@
+{
+    "display_name": "Yamaha DVD",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0B"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1B"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2B"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3B"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4B"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5B"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6B"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7B"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8B"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9B"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "POWER B"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "f",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "f",
+                "name": "ON SCREEN B"
+            },
+            {
+                "address": "f",
+                "name": "OSD"
+            },
+            {
+                "address": "f",
+                "name": "OSD B"
+            },
+            {
+                "address": "13",
+                "name": "DIMMER"
+            },
+            {
+                "address": "13",
+                "name": "DIMMER B"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE B"
+            },
+            {
+                "address": "1d",
+                "name": "RPT"
+            },
+            {
+                "address": "1d",
+                "name": "RPT B"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >> B"
+            },
+            {
+                "address": "20",
+                "name": "CHAPTER +"
+            },
+            {
+                "address": "20",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": "SKIP << B"
+            },
+            {
+                "address": "21",
+                "name": "CHAPTER -"
+            },
+            {
+                "address": "21",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "2a",
+                "name": "SCAN"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY B"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "31",
+                "name": "STOP"
+            },
+            {
+                "address": "31",
+                "name": "STOP B"
+            },
+            {
+                "address": "3b",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "3b",
+                "name": "SIDE A/B B"
+            },
+            {
+                "address": "3b",
+                "name": "A-B"
+            },
+            {
+                "address": "3b",
+                "name": "A/B"
+            },
+            {
+                "address": "3f",
+                "name": "POWER ON"
+            },
+            {
+                "address": "48",
+                "name": "BIT 1"
+            },
+            {
+                "address": "4b",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "4b",
+                "name": "SUBTITLE B"
+            },
+            {
+                "address": "4b",
+                "name": "SUB-T"
+            },
+            {
+                "address": "4b",
+                "name": "SUB-T B"
+            },
+            {
+                "address": "4b",
+                "name": "SUBTILE"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO MODE B"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "SOUND MODE"
+            },
+            {
+                "address": "50",
+                "name": "SOUND MODE B"
+            },
+            {
+                "address": "50",
+                "name": "MODE"
+            },
+            {
+                "address": "50",
+                "name": "MODE B"
+            },
+            {
+                "address": "54",
+                "name": "MENU"
+            },
+            {
+                "address": "54",
+                "name": "MENU B"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP B"
+            },
+            {
+                "address": "58",
+                "name": "UP"
+            },
+            {
+                "address": "58",
+                "name": "UP B"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN B"
+            },
+            {
+                "address": "59",
+                "name": "DOWN"
+            },
+            {
+                "address": "59",
+                "name": "DOWN B"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT B"
+            },
+            {
+                "address": "5a",
+                "name": "LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "LEFT B"
+            },
+            {
+                "address": "5a",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "5a",
+                "name": "REWIND"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT B"
+            },
+            {
+                "address": "5b",
+                "name": "RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "RIGHT B"
+            },
+            {
+                "address": "5b",
+                "name": "FAST FOWARD"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER B"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR ENTER/"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR ENTER/OK"
+            },
+            {
+                "address": "5c",
+                "name": "OK"
+            },
+            {
+                "address": "7f",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "7f",
+                "name": "DISK SKIP B"
+            },
+            {
+                "address": "7f",
+                "name": "DISC SKIP B"
+            },
+            {
+                "address": "7f",
+                "name": "DISK SKIP"
+            },
+            {
+                "address": "82",
+                "name": "SETUP"
+            },
+            {
+                "address": "82",
+                "name": "SETUP B"
+            },
+            {
+                "address": "82",
+                "name": "SET UP"
+            },
+            {
+                "address": "82",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU B"
+            },
+            {
+                "address": "83",
+                "name": "RTRN"
+            },
+            {
+                "address": "83",
+                "name": "RTRN B"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU/RETURN"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU/RETURN B"
+            },
+            {
+                "address": "83",
+                "name": "RETURN/RESUME"
+            },
+            {
+                "address": "83",
+                "name": "RETURN"
+            },
+            {
+                "address": "85",
+                "name": "ANGLE"
+            },
+            {
+                "address": "85",
+                "name": "ANGLE B"
+            },
+            {
+                "address": "8c",
+                "name": "A-DIR"
+            },
+            {
+                "address": "8c",
+                "name": "AUDIO DIRECT"
+            },
+            {
+                "address": "8e",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c8",
+                "name": "T/C"
+            },
+            {
+                "address": "c8",
+                "name": "TITLE/CHAPTER"
+            },
+            {
+                "address": "cf",
+                "name": "PAGE"
+            },
+            {
+                "address": "cf",
+                "name": "PAGE B"
+            },
+            {
+                "address": "d5",
+                "name": "SCAN"
+            },
+            {
+                "address": "d5",
+                "name": "SCAN B"
+            },
+            {
+                "address": "ef",
+                "name": "BIT 2"
+            },
+            {
+                "address": "ef",
+                "name": "STATUS"
+            },
+            {
+                "address": "f7",
+                "name": "ZOOM"
+            },
+            {
+                "address": "f7",
+                "name": "ZOOM B"
+            },
+            {
+                "address": "fb",
+                "name": "PROGRAM"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD"
+}

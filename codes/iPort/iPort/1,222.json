@@ -1,0 +1,117 @@
+{
+    "display_name": "iPort iPort",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "NEXT SONG"
+            },
+            {
+                "address": "7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "b",
+                "name": "PREV SONG"
+            },
+            {
+                "address": "c",
+                "name": "NEXT ALBUM"
+            },
+            {
+                "address": "d",
+                "name": "PREV ALBUM"
+            },
+            {
+                "address": "e",
+                "name": "STOP"
+            },
+            {
+                "address": "10",
+                "name": "PAUSE"
+            },
+            {
+                "address": "14",
+                "name": "NEXT PLAY LIST"
+            },
+            {
+                "address": "15",
+                "name": "PREV PLAY LIST"
+            },
+            {
+                "address": "16",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "18",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1f",
+                "name": "PLAY"
+            },
+            {
+                "address": "1f",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "1f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1f",
+                "name": "POWER ON"
+            },
+            {
+                "address": "20",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "20",
+                "name": "NEXT BOOK CHAPTER"
+            },
+            {
+                "address": "21",
+                "name": "PREVIOUS BOOK CHAPTE"
+            },
+            {
+                "address": "21",
+                "name": "REWIND"
+            },
+            {
+                "address": "22",
+                "name": "BACKLIGHT"
+            },
+            {
+                "address": "22",
+                "name": "MENU"
+            },
+            {
+                "address": "23",
+                "name": "SELECT"
+            },
+            {
+                "address": "24",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "25",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "30",
+                "name": "LED"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "iPort",
+    "model": "",
+    "name": "",
+    "target": "iPort"
+}

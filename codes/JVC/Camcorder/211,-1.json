@@ -1,0 +1,101 @@
+{
+    "display_name": "JVC Camcorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "SLOW <"
+            },
+            {
+                "address": "6",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "7",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "8",
+                "name": "SLOW >"
+            },
+            {
+                "address": "c",
+                "name": "PLAY"
+            },
+            {
+                "address": "d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO MONITOR"
+            },
+            {
+                "address": "2f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "51",
+                "name": "ZOOM WIDE"
+            },
+            {
+                "address": "52",
+                "name": "ZOOM TELE"
+            },
+            {
+                "address": "58",
+                "name": "FADE / WIPE"
+            },
+            {
+                "address": "59",
+                "name": "START / STOP"
+            },
+            {
+                "address": "67",
+                "name": "EDIT - ON / OFF"
+            },
+            {
+                "address": "68",
+                "name": "EDIT - IN / OUT"
+            },
+            {
+                "address": "69",
+                "name": "EDIT - CANCEL"
+            },
+            {
+                "address": "97",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "98",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "99",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "9a",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "b8",
+                "name": "EFFECT ON / OFF"
+            },
+            {
+                "address": "b9",
+                "name": "EFFECT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Camcorder"
+}

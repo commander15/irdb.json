@@ -1,0 +1,125 @@
+{
+    "display_name": "Elan Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "ZONE POWER"
+            },
+            {
+                "address": "2",
+                "name": "MUTE"
+            },
+            {
+                "address": "3",
+                "name": "DND"
+            },
+            {
+                "address": "4",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "6",
+                "name": "BASS +"
+            },
+            {
+                "address": "7",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "7",
+                "name": "TREB +"
+            },
+            {
+                "address": "8",
+                "name": "SOURCE 1"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE 2"
+            },
+            {
+                "address": "a",
+                "name": "SOURCE 3"
+            },
+            {
+                "address": "b",
+                "name": "SOURCE 4"
+            },
+            {
+                "address": "c",
+                "name": "SOURCE 5"
+            },
+            {
+                "address": "f",
+                "name": "EQ FLAT"
+            },
+            {
+                "address": "11",
+                "name": "WHOLEHOUSE ON"
+            },
+            {
+                "address": "11",
+                "name": "WHM ON (GROUP)"
+            },
+            {
+                "address": "18",
+                "name": "LOUDNESS ON/OFF"
+            },
+            {
+                "address": "18",
+                "name": "LOUD"
+            },
+            {
+                "address": "19",
+                "name": "SPATIAL ON/OFF"
+            },
+            {
+                "address": "19",
+                "name": "SPATIAL ENHANCE"
+            },
+            {
+                "address": "24",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "26",
+                "name": "BASS -"
+            },
+            {
+                "address": "27",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "27",
+                "name": "TREB -"
+            },
+            {
+                "address": "28",
+                "name": "SOURCE 6"
+            },
+            {
+                "address": "31",
+                "name": "WHOLEHOUSE OFF"
+            },
+            {
+                "address": "31",
+                "name": "WHM OFF (UNGROUP)"
+            },
+            {
+                "address": "38",
+                "name": "SYSTEM ON/OFF"
+            },
+            {
+                "address": "38",
+                "name": "SYSTEM ALL OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

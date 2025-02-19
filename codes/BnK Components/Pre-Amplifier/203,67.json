@@ -1,0 +1,273 @@
+{
+    "display_name": "BnK Components Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "BK005 POWER OFF"
+            },
+            {
+                "address": "2",
+                "name": "BK005 POWER ON"
+            },
+            {
+                "address": "3",
+                "name": "BK005 MUTE"
+            },
+            {
+                "address": "5",
+                "name": "BK005 V1"
+            },
+            {
+                "address": "6",
+                "name": "BK005 TV"
+            },
+            {
+                "address": "9",
+                "name": "BK005 V2"
+            },
+            {
+                "address": "b",
+                "name": "BK005 TAPE"
+            },
+            {
+                "address": "d",
+                "name": "BK005 DVD"
+            },
+            {
+                "address": "f",
+                "name": "BK005 CD"
+            },
+            {
+                "address": "15",
+                "name": "BK005 CENTER-"
+            },
+            {
+                "address": "16",
+                "name": "BK005 CENTER+"
+            },
+            {
+                "address": "19",
+                "name": "BK005 REAR-"
+            },
+            {
+                "address": "1a",
+                "name": "BK005 REAR+"
+            },
+            {
+                "address": "1d",
+                "name": "BK005 SUB-"
+            },
+            {
+                "address": "1e",
+                "name": "BK005 SUB+"
+            },
+            {
+                "address": "1f",
+                "name": "BK005 LEFT"
+            },
+            {
+                "address": "20",
+                "name": "BK005 RIGHT"
+            },
+            {
+                "address": "23",
+                "name": "BK005 VOLUME-"
+            },
+            {
+                "address": "24",
+                "name": "BK005 VOLUME+"
+            },
+            {
+                "address": "29",
+                "name": "BK005 NUMBER +10"
+            },
+            {
+                "address": "2a",
+                "name": "BK005 EQ"
+            },
+            {
+                "address": "2b",
+                "name": "BK005 DVD-AUDIO"
+            },
+            {
+                "address": "2d",
+                "name": "BK005 DOWN"
+            },
+            {
+                "address": "2e",
+                "name": "BK005 UP"
+            },
+            {
+                "address": "2f",
+                "name": "BK005 MENU"
+            },
+            {
+                "address": "30",
+                "name": "BK005 ENTER/SELECT"
+            },
+            {
+                "address": "31",
+                "name": "BK005 NUMBER 1"
+            },
+            {
+                "address": "32",
+                "name": "BK005 NUMBER 2"
+            },
+            {
+                "address": "33",
+                "name": "BK005 NUMBER 3"
+            },
+            {
+                "address": "35",
+                "name": "BK005 NUMBER 4"
+            },
+            {
+                "address": "36",
+                "name": "BK005 NUMBER 5"
+            },
+            {
+                "address": "37",
+                "name": "BK005 NUMBER 6"
+            },
+            {
+                "address": "39",
+                "name": "BK005 NUMBER 7"
+            },
+            {
+                "address": "3a",
+                "name": "BK005 NUMBER 8"
+            },
+            {
+                "address": "3b",
+                "name": "BK005 NUMBER 9"
+            },
+            {
+                "address": "3e",
+                "name": "BK005 NUMBER 0"
+            },
+            {
+                "address": "3f",
+                "name": "BK005 Z"
+            },
+            {
+                "address": "40",
+                "name": "BK005 SAVE"
+            },
+            {
+                "address": "4a",
+                "name": "BK005 SAT"
+            },
+            {
+                "address": "4b",
+                "name": "BK005 PRESET+"
+            },
+            {
+                "address": "4e",
+                "name": "BK005 PANORAMA+"
+            },
+            {
+                "address": "53",
+                "name": "BK005 INFO"
+            },
+            {
+                "address": "65",
+                "name": "BK005 BASS-"
+            },
+            {
+                "address": "6a",
+                "name": "BK005 GAME"
+            },
+            {
+                "address": "72",
+                "name": "BK005 MOVIE"
+            },
+            {
+                "address": "76",
+                "name": "BK005 AM"
+            },
+            {
+                "address": "79",
+                "name": "BK005 TREBLE-"
+            },
+            {
+                "address": "7d",
+                "name": "BK005 EXIT"
+            },
+            {
+                "address": "81",
+                "name": "BK005 DIMENSION+"
+            },
+            {
+                "address": "8a",
+                "name": "BK005 CINEMA"
+            },
+            {
+                "address": "8e",
+                "name": "BK005 FM"
+            },
+            {
+                "address": "9a",
+                "name": "BK005 MONO"
+            },
+            {
+                "address": "9e",
+                "name": "BK005 IMAGE+"
+            },
+            {
+                "address": "aa",
+                "name": "BK005 NEO:6"
+            },
+            {
+                "address": "b2",
+                "name": "BK005 MUSIC"
+            },
+            {
+                "address": "b3",
+                "name": "BK005 SLEEP"
+            },
+            {
+                "address": "c6",
+                "name": "BK005 PRESET-"
+            },
+            {
+                "address": "ca",
+                "name": "BK005 SURROUND"
+            },
+            {
+                "address": "ce",
+                "name": "BK005 PANORAMA-"
+            },
+            {
+                "address": "e2",
+                "name": "BK005 STEREO"
+            },
+            {
+                "address": "e5",
+                "name": "BK005 BASS+"
+            },
+            {
+                "address": "ea",
+                "name": "BK005 PRO LOGIC IIX"
+            },
+            {
+                "address": "ee",
+                "name": "BK005 IMAGE-"
+            },
+            {
+                "address": "f9",
+                "name": "BK005 TREBLE+"
+            },
+            {
+                "address": "fe",
+                "name": "BK005 DIMENSION-"
+            }
+        ],
+        "device_address": "658",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "BnK Components",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

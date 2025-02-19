@@ -1,0 +1,273 @@
+{
+    "display_name": "Arcam Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INPUT SAT"
+            },
+            {
+                "address": "2",
+                "name": "INPUT AV"
+            },
+            {
+                "address": "3",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "4",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "5",
+                "name": "INPUT TAPE"
+            },
+            {
+                "address": "6",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "7",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "8",
+                "name": "INPUT AUX"
+            },
+            {
+                "address": "9",
+                "name": "INPUT DVD-A"
+            },
+            {
+                "address": "a",
+                "name": "DIRECT"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "e",
+                "name": "RESTORE (FAV)"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "13",
+                "name": "SAT VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "AV VIDEO"
+            },
+            {
+                "address": "16",
+                "name": "DVD VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "TAPE VIDEO"
+            },
+            {
+                "address": "18",
+                "name": "VCR VIDEO"
+            },
+            {
+                "address": "1c",
+                "name": "MODES"
+            },
+            {
+                "address": "20",
+                "name": "THX MODES"
+            },
+            {
+                "address": "25",
+                "name": "TRIM MENU"
+            },
+            {
+                "address": "32",
+                "name": "LIP SYNC"
+            },
+            {
+                "address": "33",
+                "name": "SUB TRIM"
+            },
+            {
+                "address": "37",
+                "name": "INFO"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3f",
+                "name": "EFFECT OFF"
+            },
+            {
+                "address": "40",
+                "name": "EFFECT: MUSIC"
+            },
+            {
+                "address": "41",
+                "name": "EFFECT: PARTY"
+            },
+            {
+                "address": "42",
+                "name": "EFFECT: CLUB"
+            },
+            {
+                "address": "43",
+                "name": "EFFECT: HALL"
+            },
+            {
+                "address": "44",
+                "name": "EFFECT: SPORT"
+            },
+            {
+                "address": "45",
+                "name": "EFFECT: CHURCH"
+            },
+            {
+                "address": "46",
+                "name": "EFFECTS MODES"
+            },
+            {
+                "address": "48",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "49",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "4a",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "4b",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "4c",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "4e",
+                "name": "DIRECT ON"
+            },
+            {
+                "address": "4f",
+                "name": "DIRECT OFF"
+            },
+            {
+                "address": "50",
+                "name": "NAV RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "NAV LEFT"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "NAV UP"
+            },
+            {
+                "address": "56",
+                "name": "NAV DOWN"
+            },
+            {
+                "address": "57",
+                "name": "OK"
+            },
+            {
+                "address": "6a",
+                "name": "MONO MODE"
+            },
+            {
+                "address": "6b",
+                "name": "STEREO MODE"
+            },
+            {
+                "address": "6c",
+                "name": "DOLBY PL2 MOVIE"
+            },
+            {
+                "address": "6d",
+                "name": "DOLBY PL2 MUSIC"
+            },
+            {
+                "address": "6e",
+                "name": "DOLBY PRO EMULATION"
+            },
+            {
+                "address": "6f",
+                "name": "DTS NEO:6 CINEMA"
+            },
+            {
+                "address": "70",
+                "name": "DTS NEO 6:MUSIC"
+            },
+            {
+                "address": "71",
+                "name": "THX OFF"
+            },
+            {
+                "address": "72",
+                "name": "THX CINEMA"
+            },
+            {
+                "address": "73",
+                "name": "THX ULTRA2 CINEMA"
+            },
+            {
+                "address": "74",
+                "name": "THX MUSIC"
+            },
+            {
+                "address": "75",
+                "name": "THX SURROUND"
+            },
+            {
+                "address": "77",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "78",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "STANDBY"
+            },
+            {
+                "address": "7e",
+                "name": "VIDEO TYPE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

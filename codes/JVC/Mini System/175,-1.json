@@ -1,0 +1,69 @@
+{
+    "display_name": "JVC Mini System",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "5",
+                "name": "TUNER SCAN UP"
+            },
+            {
+                "address": "6",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "6",
+                "name": "TUNER SCAN DOWN"
+            },
+            {
+                "address": "91",
+                "name": "SET/ENTER"
+            },
+            {
+                "address": "a8",
+                "name": "DOOR SLIDE"
+            },
+            {
+                "address": "c0",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "c0",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "c0",
+                "name": "TUNER PRESET +"
+            },
+            {
+                "address": "c1",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "c1",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "c1",
+                "name": "TUNER PRESET -"
+            },
+            {
+                "address": "c2",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "c3",
+                "name": "CURSOR LEFT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Mini System"
+}

@@ -1,0 +1,97 @@
+{
+    "display_name": "Audio Control Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "NUMBER 0 (TUNER) - R"
+            },
+            {
+                "address": "1",
+                "name": "NUMBER 1 (TUNER)"
+            },
+            {
+                "address": "1",
+                "name": "NUMBER 1 (TUNER) - R"
+            },
+            {
+                "address": "2",
+                "name": "NUMBER 2 (TUNER) - R"
+            },
+            {
+                "address": "3",
+                "name": "NUMBER 3 (TUNER) - R"
+            },
+            {
+                "address": "4",
+                "name": "NUMBER 4 (TUNER) - R"
+            },
+            {
+                "address": "5",
+                "name": "NUMBER 5 (TUNER) - R"
+            },
+            {
+                "address": "6",
+                "name": "NUMBER 6 (TUNER) - R"
+            },
+            {
+                "address": "7",
+                "name": "NUMBER 7 (TUNER) - R"
+            },
+            {
+                "address": "8",
+                "name": "NUMBER 8 (TUNER) - R"
+            },
+            {
+                "address": "9",
+                "name": "NUMBER 9 (TUNER) - R"
+            },
+            {
+                "address": "20",
+                "name": "PRE/SIRIUS + (T) - R"
+            },
+            {
+                "address": "21",
+                "name": "PRE/SIRIUS - (T) - R"
+            },
+            {
+                "address": "25",
+                "name": "PAGE DOWN (TUNE) - R"
+            },
+            {
+                "address": "26",
+                "name": "PAGE UP (TUNER) - R"
+            },
+            {
+                "address": "29",
+                "name": "DELETE PRESET - R"
+            },
+            {
+                "address": "32",
+                "name": "BAND (TUNER) - R"
+            },
+            {
+                "address": "4d",
+                "name": "TUNING + RIGHT - R"
+            },
+            {
+                "address": "4e",
+                "name": "TUNING - LEFT - R"
+            },
+            {
+                "address": "55",
+                "name": "PRESET DOWN (TUN - R"
+            },
+            {
+                "address": "56",
+                "name": "PRESET UP (TUNE) - R"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Control",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

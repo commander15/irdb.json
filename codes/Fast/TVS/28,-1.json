@@ -1,0 +1,53 @@
+{
+    "display_name": "Fast TVS",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "T_MUTE"
+            },
+            {
+                "address": "20",
+                "name": "T_PROG+"
+            },
+            {
+                "address": "20",
+                "name": "PROG+"
+            },
+            {
+                "address": "21",
+                "name": "PROG-"
+            },
+            {
+                "address": "21",
+                "name": "T_PROG-"
+            },
+            {
+                "address": "41",
+                "name": "T_VOL-"
+            },
+            {
+                "address": "41",
+                "name": "VOL-"
+            },
+            {
+                "address": "42",
+                "name": "T_VOL+"
+            },
+            {
+                "address": "42",
+                "name": "VOL+"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Fast",
+    "model": "",
+    "name": "",
+    "target": "TVS"
+}

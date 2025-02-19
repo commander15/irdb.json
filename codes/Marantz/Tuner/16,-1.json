@@ -1,0 +1,33 @@
+{
+    "display_name": "Marantz Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "16",
+                "name": "BASS ++"
+            },
+            {
+                "address": "17",
+                "name": "BASS--"
+            },
+            {
+                "address": "18",
+                "name": "TREB ++"
+            },
+            {
+                "address": "19",
+                "name": "TREB--"
+            },
+            {
+                "address": "26",
+                "name": "SLEEP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

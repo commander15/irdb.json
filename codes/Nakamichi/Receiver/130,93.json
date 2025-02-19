@@ -1,0 +1,393 @@
+{
+    "display_name": "Nakamichi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DVD"
+            },
+            {
+                "address": "0",
+                "name": "INPUT - DVD"
+            },
+            {
+                "address": "1",
+                "name": "VIDEO"
+            },
+            {
+                "address": "1",
+                "name": "INPUT - VIDEO"
+            },
+            {
+                "address": "3",
+                "name": "CD"
+            },
+            {
+                "address": "3",
+                "name": "INPUT - CD"
+            },
+            {
+                "address": "4",
+                "name": "POWER"
+            },
+            {
+                "address": "5",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "5",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "5",
+                "name": "VOLUME - UP"
+            },
+            {
+                "address": "7",
+                "name": "VCR 2"
+            },
+            {
+                "address": "7",
+                "name": "INPUT - VCR 2"
+            },
+            {
+                "address": "8",
+                "name": "TUNER"
+            },
+            {
+                "address": "8",
+                "name": "INPUT - TUNER"
+            },
+            {
+                "address": "a",
+                "name": "AUX"
+            },
+            {
+                "address": "a",
+                "name": "INPUT - AUX"
+            },
+            {
+                "address": "b",
+                "name": "VCR 1"
+            },
+            {
+                "address": "b",
+                "name": "VCR"
+            },
+            {
+                "address": "b",
+                "name": "INPUT - VCR 1"
+            },
+            {
+                "address": "c",
+                "name": "MUTE"
+            },
+            {
+                "address": "c",
+                "name": "VOLUME - MUTE"
+            },
+            {
+                "address": "f",
+                "name": "DTS"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME - DOWN"
+            },
+            {
+                "address": "11",
+                "name": "INPUT ATT."
+            },
+            {
+                "address": "11",
+                "name": "SURND - INPUT ATT."
+            },
+            {
+                "address": "12",
+                "name": "TAPE MONITOR"
+            },
+            {
+                "address": "12",
+                "name": "TAPE/MONITOR"
+            },
+            {
+                "address": "12",
+                "name": "INPUT - TAPE MONITOR"
+            },
+            {
+                "address": "1c",
+                "name": "DIGITAL INPUT"
+            },
+            {
+                "address": "1c",
+                "name": "INPUT - DIGITAL"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLY"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "40",
+                "name": "DOLBY DIGITAL"
+            },
+            {
+                "address": "40",
+                "name": "SURR - DIGITAL DOLBY"
+            },
+            {
+                "address": "41",
+                "name": "DOLBY PRO"
+            },
+            {
+                "address": "41",
+                "name": "SURROUND PRO LOGIC"
+            },
+            {
+                "address": "41",
+                "name": "SURR - PRO LOGIC"
+            },
+            {
+                "address": "42",
+                "name": "OFF"
+            },
+            {
+                "address": "42",
+                "name": "SURROUND OFF"
+            },
+            {
+                "address": "42",
+                "name": "SURR - OFF"
+            },
+            {
+                "address": "43",
+                "name": "SURROUND CENTER MODE"
+            },
+            {
+                "address": "44",
+                "name": "DYN RANGE COMP."
+            },
+            {
+                "address": "44",
+                "name": "SURND - D.RANG COMP"
+            },
+            {
+                "address": "45",
+                "name": "LFE ATT."
+            },
+            {
+                "address": "45",
+                "name": "SURND - LFE ATT."
+            },
+            {
+                "address": "46",
+                "name": "SURND - SPKR SELECT"
+            },
+            {
+                "address": "47",
+                "name": "SURND - SPKR MODE"
+            },
+            {
+                "address": "48",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "48",
+                "name": "SURROUND TEST TONE"
+            },
+            {
+                "address": "48",
+                "name": "SURND - TEST TONE"
+            },
+            {
+                "address": "4a",
+                "name": "CALIBRATION LEVEL +"
+            },
+            {
+                "address": "4a",
+                "name": "SURROUND CAL. +"
+            },
+            {
+                "address": "4a",
+                "name": "SURND - CAL ( + )"
+            },
+            {
+                "address": "4b",
+                "name": "CALIBRATION LEVEL -"
+            },
+            {
+                "address": "4b",
+                "name": "SURROUND CAL. -"
+            },
+            {
+                "address": "4b",
+                "name": "SURND - CAL ( - )"
+            },
+            {
+                "address": "4d",
+                "name": "SUB"
+            },
+            {
+                "address": "4d",
+                "name": "SURND - SW"
+            },
+            {
+                "address": "4e",
+                "name": "RIGHT REAR"
+            },
+            {
+                "address": "4e",
+                "name": "SURND - REAR ( R )"
+            },
+            {
+                "address": "4f",
+                "name": "REAR DELAY"
+            },
+            {
+                "address": "4f",
+                "name": "SURROUND DELAY"
+            },
+            {
+                "address": "4f",
+                "name": "SURND - DELAY (REAR)"
+            },
+            {
+                "address": "51",
+                "name": "CENTER"
+            },
+            {
+                "address": "51",
+                "name": "SURROUND CENTER"
+            },
+            {
+                "address": "51",
+                "name": "SURND - CENTER"
+            },
+            {
+                "address": "52",
+                "name": "LEFT REAR"
+            },
+            {
+                "address": "52",
+                "name": "SURROUND REAR"
+            },
+            {
+                "address": "52",
+                "name": "SURND - REAR ( L )"
+            },
+            {
+                "address": "53",
+                "name": "CENTER DELAY"
+            },
+            {
+                "address": "53",
+                "name": "SURND - DELAY (CNTR)"
+            },
+            {
+                "address": "54",
+                "name": "NATURAL"
+            },
+            {
+                "address": "54",
+                "name": "SURROUND NATURAL"
+            },
+            {
+                "address": "54",
+                "name": "SURR - NATURAL"
+            },
+            {
+                "address": "55",
+                "name": "HALL"
+            },
+            {
+                "address": "55",
+                "name": "SURROUND HALL"
+            },
+            {
+                "address": "55",
+                "name": "SURR - HALL"
+            },
+            {
+                "address": "56",
+                "name": "SURROUND STADIUM"
+            },
+            {
+                "address": "56",
+                "name": "SURR - STADIUM"
+            },
+            {
+                "address": "58",
+                "name": "TUNER FM"
+            },
+            {
+                "address": "58",
+                "name": "TUNER - FM"
+            },
+            {
+                "address": "59",
+                "name": "TUNER AM"
+            },
+            {
+                "address": "59",
+                "name": "TUNER - AM"
+            },
+            {
+                "address": "5a",
+                "name": "TUNER SHIFT"
+            },
+            {
+                "address": "5a",
+                "name": "TUNER - SHIFT"
+            },
+            {
+                "address": "5c",
+                "name": "TUNER PRESET ^"
+            },
+            {
+                "address": "5c",
+                "name": "TUNER - PRESET UP"
+            },
+            {
+                "address": "5d",
+                "name": "TUNER PRESET V"
+            },
+            {
+                "address": "5d",
+                "name": "TUNER - PRESET DOWN"
+            },
+            {
+                "address": "5e",
+                "name": "TUNER SEEK ^"
+            },
+            {
+                "address": "5e",
+                "name": "TUNER - SEEK UP"
+            },
+            {
+                "address": "5f",
+                "name": "TUNER SEEK V"
+            },
+            {
+                "address": "5f",
+                "name": "TUNER - SEEK DOWN"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,37 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "TV TV/VCR (CINEMA)"
+            },
+            {
+                "address": "12",
+                "name": "TV VOLUME ^ (CENTER)"
+            },
+            {
+                "address": "15",
+                "name": "TV VOLUME V (CENTER)"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER (AVSE)"
+            },
+            {
+                "address": "18",
+                "name": "TV CHANNEL V (DELAY)"
+            },
+            {
+                "address": "19",
+                "name": "TV CHANNEL ^ (DELAY)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,65 @@
+{
+    "display_name": "Comcast Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "RCA-38(Old)"
+            },
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "RCA(Old)"
+            },
+            {
+                "address": "2f",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "RCA-38(Old)"
+            },
+            {
+                "address": "2f",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "2f",
+                "device_address": "-80000000",
+                "name": "VOLUME+",
+                "protocol": "RCA(Old)"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "RCA-38(Old)"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "RCA-38"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "RCA(Old)"
+            }
+        ]
+    },
+    "manufacturer": "Comcast",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

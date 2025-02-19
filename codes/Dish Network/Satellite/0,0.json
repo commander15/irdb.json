@@ -1,0 +1,457 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "SAT POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "5",
+                "name": "ABC"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "6",
+                "name": "DEF"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "8",
+                "name": "GHI"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "9",
+                "name": "JKL"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "a",
+                "name": "MNO"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "c",
+                "name": "PQRS"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "d",
+                "name": "TUV"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "e",
+                "name": "WXYZ"
+            },
+            {
+                "address": "10",
+                "name": "SELECT"
+            },
+            {
+                "address": "10",
+                "name": "ENTER/SELECT"
+            },
+            {
+                "address": "10",
+                "name": "OK"
+            },
+            {
+                "address": "10",
+                "name": "ENTER"
+            },
+            {
+                "address": "10",
+                "name": "CUR / SELECT"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "10",
+                "name": "C SELECT"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": ">"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL - EXIT"
+            },
+            {
+                "address": "12",
+                "name": "LIVE"
+            },
+            {
+                "address": "13",
+                "name": "RED"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE *"
+            },
+            {
+                "address": "14",
+                "name": "LISTINGS"
+            },
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "16",
+                "name": "VIEW TV"
+            },
+            {
+                "address": "16",
+                "name": "LIVE TV"
+            },
+            {
+                "address": "16",
+                "name": "LIVETV"
+            },
+            {
+                "address": "16",
+                "name": "VIEW/LIVE TV"
+            },
+            {
+                "address": "17",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "HD"
+            },
+            {
+                "address": "17",
+                "name": "SD"
+            },
+            {
+                "address": "17",
+                "name": "TV / VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "INPUT"
+            },
+            {
+                "address": "18",
+                "name": "RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "CUR RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT(BROWSE)"
+            },
+            {
+                "address": "18",
+                "name": "C RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "BROWSE"
+            },
+            {
+                "address": "1a",
+                "name": "UP"
+            },
+            {
+                "address": "1a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1a",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "1a",
+                "name": "CUR UP"
+            },
+            {
+                "address": "1a",
+                "name": "CHAN UP"
+            },
+            {
+                "address": "1a",
+                "name": "C UP"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1b",
+                "name": "LCV"
+            },
+            {
+                "address": "1c",
+                "name": "LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "CUR LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT (THEMES)"
+            },
+            {
+                "address": "1c",
+                "name": "THEMES"
+            },
+            {
+                "address": "1c",
+                "name": "C LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "CUR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "CHAN DN"
+            },
+            {
+                "address": "1e",
+                "name": "DN"
+            },
+            {
+                "address": "1e",
+                "name": "C DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "ARROW DN"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "1f",
+                "name": "REC"
+            },
+            {
+                "address": "20",
+                "name": "PAUSE"
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            },
+            {
+                "address": "22",
+                "name": "YELLOW"
+            },
+            {
+                "address": "23",
+                "name": "BLUE"
+            },
+            {
+                "address": "24",
+                "name": "SYS INFO"
+            },
+            {
+                "address": "25",
+                "name": "*"
+            },
+            {
+                "address": "25",
+                "name": "<"
+            },
+            {
+                "address": "25",
+                "name": "ASPECT"
+            },
+            {
+                "address": "25",
+                "name": "FORMAT/*"
+            },
+            {
+                "address": "25",
+                "name": "*-FORMAT"
+            },
+            {
+                "address": "25",
+                "name": "FORMAT"
+            },
+            {
+                "address": "25",
+                "name": "SAT FORMAT"
+            },
+            {
+                "address": "25",
+                "name": "< / FORMAT"
+            },
+            {
+                "address": "26",
+                "name": "#"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH/#"
+            },
+            {
+                "address": "26",
+                "name": "#-SEARCH"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH #"
+            },
+            {
+                "address": "27",
+                "name": "OFF"
+            },
+            {
+                "address": "27",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "29",
+                "name": "SAT"
+            },
+            {
+                "address": "2d",
+                "name": "SEARCH"
+            },
+            {
+                "address": "2e",
+                "name": ""
+            },
+            {
+                "address": "2f",
+                "name": "GREEN R"
+            },
+            {
+                "address": "2f",
+                "name": "RECOVER"
+            },
+            {
+                "address": "35",
+                "name": "GREEN"
+            },
+            {
+                "address": "38",
+                "name": "0"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

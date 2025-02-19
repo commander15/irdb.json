@@ -1,0 +1,245 @@
+{
+    "display_name": "NAD Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CD PLAY/PAUSE"
+            },
+            {
+                "address": "2",
+                "name": "CD STOP"
+            },
+            {
+                "address": "5",
+                "name": "CD SKIP <<"
+            },
+            {
+                "address": "6",
+                "name": "CD SKIP >>"
+            },
+            {
+                "address": "17",
+                "name": "CD DISC"
+            },
+            {
+                "address": "26",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "27",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "28",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "29",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "2a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "2b",
+                "name": "CHANNEL"
+            },
+            {
+                "address": "2e",
+                "name": "5.1 EXT."
+            },
+            {
+                "address": "2f",
+                "name": "DYN. R."
+            },
+            {
+                "address": "30",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "31",
+                "name": "VIDEO 5"
+            },
+            {
+                "address": "32",
+                "name": "ENTER"
+            },
+            {
+                "address": "33",
+                "name": "PRESET/TUNE"
+            },
+            {
+                "address": "4a",
+                "name": "CD PAUSE"
+            },
+            {
+                "address": "52",
+                "name": "DECK A STOP"
+            },
+            {
+                "address": "53",
+                "name": "DECK A PLAY >"
+            },
+            {
+                "address": "54",
+                "name": "DECK A PLAY <"
+            },
+            {
+                "address": "55",
+                "name": "DECK A REC./PAUSE"
+            },
+            {
+                "address": "56",
+                "name": "DECK A FF"
+            },
+            {
+                "address": "57",
+                "name": "DECK A RW"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "81",
+                "name": "FM"
+            },
+            {
+                "address": "82",
+                "name": "AM"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO"
+            },
+            {
+                "address": "85",
+                "name": "CD"
+            },
+            {
+                "address": "86",
+                "name": "SCAN<<"
+            },
+            {
+                "address": "87",
+                "name": "SCAN>>"
+            },
+            {
+                "address": "88",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "8a",
+                "name": "1"
+            },
+            {
+                "address": "8b",
+                "name": "5"
+            },
+            {
+                "address": "8c",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8d",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "8d",
+                "name": "TAPE MON"
+            },
+            {
+                "address": "8e",
+                "name": "2"
+            },
+            {
+                "address": "8f",
+                "name": "6"
+            },
+            {
+                "address": "92",
+                "name": "3"
+            },
+            {
+                "address": "93",
+                "name": "7"
+            },
+            {
+                "address": "94",
+                "name": "LOW LEVEL"
+            },
+            {
+                "address": "94",
+                "name": "MUTE"
+            },
+            {
+                "address": "96",
+                "name": "4"
+            },
+            {
+                "address": "97",
+                "name": "BANK"
+            },
+            {
+                "address": "9a",
+                "name": "DECK B REC./PAUSE"
+            },
+            {
+                "address": "9a",
+                "name": "DECK B STOP"
+            },
+            {
+                "address": "9c",
+                "name": "DECK B PLAY >"
+            },
+            {
+                "address": "9d",
+                "name": "DECK B FF"
+            },
+            {
+                "address": "9e",
+                "name": "DECK B RW"
+            },
+            {
+                "address": "c0",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "c1",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "c2",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "cc",
+                "name": "MODE"
+            },
+            {
+                "address": "cd",
+                "name": "TEST"
+            },
+            {
+                "address": "d1",
+                "name": "TUNE -"
+            },
+            {
+                "address": "d2",
+                "name": "TUNE +"
+            },
+            {
+                "address": "de",
+                "name": "DECK B PLAY <"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

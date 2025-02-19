@@ -1,0 +1,157 @@
+{
+    "display_name": "JBL Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "83",
+                "name": "SET UP"
+            },
+            {
+                "address": "84",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "87",
+                "name": "STORE"
+            },
+            {
+                "address": "89",
+                "name": "PANORAMA NORMAL(1)"
+            },
+            {
+                "address": "8a",
+                "name": "PANORAMA WIDE(2)"
+            },
+            {
+                "address": "8b",
+                "name": "PANORAMA BINAURAL(3)"
+            },
+            {
+                "address": "8c",
+                "name": "BANK"
+            },
+            {
+                "address": "8d",
+                "name": "AMBIENCE SMALL(4)"
+            },
+            {
+                "address": "8e",
+                "name": "AMBIENCE MEDIUM(5)"
+            },
+            {
+                "address": "8f",
+                "name": "AMBIENCE LARGE(6)"
+            },
+            {
+                "address": "90",
+                "name": "PARAM"
+            },
+            {
+                "address": "91",
+                "name": "REVERB SMALL(7)"
+            },
+            {
+                "address": "92",
+                "name": "REVERB MEDIUM(8)"
+            },
+            {
+                "address": "93",
+                "name": "REVERB LARGE(9)"
+            },
+            {
+                "address": "94",
+                "name": "^"
+            },
+            {
+                "address": "95",
+                "name": "SRND TV(10)"
+            },
+            {
+                "address": "96",
+                "name": "SRND MUSIC(11)"
+            },
+            {
+                "address": "97",
+                "name": "SRND FULL(12)"
+            },
+            {
+                "address": "98",
+                "name": "V"
+            },
+            {
+                "address": "99",
+                "name": "SRND MONO(13)"
+            },
+            {
+                "address": "9a",
+                "name": "SRND PRO-LOGIC(14)"
+            },
+            {
+                "address": "9b",
+                "name": "SRND THX CINEMA(15)"
+            },
+            {
+                "address": "9e",
+                "name": "BALANCE ^"
+            },
+            {
+                "address": "a0",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "a1",
+                "name": "BALANCE <"
+            },
+            {
+                "address": "a3",
+                "name": "BALANCE >"
+            },
+            {
+                "address": "a4",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "a6",
+                "name": "BALANCE V"
+            },
+            {
+                "address": "a9",
+                "name": "EFFECTS V"
+            },
+            {
+                "address": "aa",
+                "name": "EFFECTS ^"
+            },
+            {
+                "address": "ab",
+                "name": "EFX MUTE"
+            },
+            {
+                "address": "ac",
+                "name": "MAIN MUTE"
+            },
+            {
+                "address": "ad",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "ae",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "af",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "b0",
+                "name": "INPUT 4"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "JBL",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

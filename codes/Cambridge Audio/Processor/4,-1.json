@@ -1,0 +1,101 @@
+{
+    "display_name": "Cambridge Audio Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "6 channel"
+            },
+            {
+                "address": "a3",
+                "name": "up arrow"
+            },
+            {
+                "address": "a4",
+                "name": "lleft arrow"
+            },
+            {
+                "address": "a5",
+                "name": "right arrow"
+            },
+            {
+                "address": "a6",
+                "name": "cinema EQ"
+            },
+            {
+                "address": "a7",
+                "name": "enter"
+            },
+            {
+                "address": "a8",
+                "name": "input setup"
+            },
+            {
+                "address": "a9",
+                "name": "channel select"
+            },
+            {
+                "address": "aa",
+                "name": "channel volume +"
+            },
+            {
+                "address": "ab",
+                "name": "channel volume -"
+            },
+            {
+                "address": "ac",
+                "name": "volume +"
+            },
+            {
+                "address": "ad",
+                "name": "volume -"
+            },
+            {
+                "address": "ae",
+                "name": "muting"
+            },
+            {
+                "address": "af",
+                "name": "down arrow"
+            },
+            {
+                "address": "b0",
+                "name": "panel"
+            },
+            {
+                "address": "b9",
+                "name": "mode"
+            },
+            {
+                "address": "ba",
+                "name": "stereo"
+            },
+            {
+                "address": "bb",
+                "name": "ac3 rf"
+            },
+            {
+                "address": "bc",
+                "name": "input coax 1"
+            },
+            {
+                "address": "bd",
+                "name": "input coax 2"
+            },
+            {
+                "address": "be",
+                "name": "input optical 1"
+            },
+            {
+                "address": "bf",
+                "name": "input optical 2"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "denon"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

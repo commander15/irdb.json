@@ -1,0 +1,73 @@
+{
+    "display_name": "NEC Unknown_TRB-968A",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "1",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "2",
+                "name": "SLOW_FORWARD"
+            },
+            {
+                "address": "3",
+                "name": "SLOW_REVERSE"
+            },
+            {
+                "address": "4",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "5",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "6",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "8",
+                "name": "OPERATE"
+            },
+            {
+                "address": "9",
+                "name": "RESET"
+            },
+            {
+                "address": "a",
+                "name": "VCR_V"
+            },
+            {
+                "address": "c",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "d",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "e",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "72",
+                "name": "T.RETURN"
+            },
+            {
+                "address": "85",
+                "name": "TIME/COUNTER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TRB-968A"
+}

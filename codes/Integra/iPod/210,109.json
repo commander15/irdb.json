@@ -1,0 +1,45 @@
+{
+    "display_name": "Integra iPod",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "STOP (PAUSE)"
+            },
+            {
+                "address": "15",
+                "name": "PLAY"
+            },
+            {
+                "address": "16",
+                "name": "REV PLAY (PLAYLIST)"
+            },
+            {
+                "address": "18",
+                "name": "REC PAUSE (BACKLIGHT"
+            },
+            {
+                "address": "19",
+                "name": "FF (TRACK +)"
+            },
+            {
+                "address": "1a",
+                "name": "REW (TRACK -)"
+            },
+            {
+                "address": "93",
+                "name": "TRACK -"
+            },
+            {
+                "address": "94",
+                "name": "TRACK +"
+            }
+        ],
+        "device_address": "1a4000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "iPod"
+}

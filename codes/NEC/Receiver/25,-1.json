@@ -1,0 +1,41 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "VCR STOP []"
+            },
+            {
+                "address": "5",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "VCR REC/PLAY"
+            },
+            {
+                "address": "8",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "c",
+                "name": "VCR FF >>"
+            },
+            {
+                "address": "d",
+                "name": "VCR REW <<"
+            },
+            {
+                "address": "e",
+                "name": "VCR PAUSE "
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

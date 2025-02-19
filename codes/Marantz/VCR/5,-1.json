@@ -1,0 +1,261 @@
+{
+    "display_name": "Marantz VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "QP START + 1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "QP STOP + 2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "QP DATE + 3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "QP START - 4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "QP STOP - 5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "QP DATE - 6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "QP DAILY 8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "QP WEEKLY 9"
+            },
+            {
+                "address": "a",
+                "name": "100"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "1c",
+                "name": "TURBO TIMER"
+            },
+            {
+                "address": "1d",
+                "name": "MENU"
+            },
+            {
+                "address": "20",
+                "name": "CH +"
+            },
+            {
+                "address": "20",
+                "name": "VCR CH +"
+            },
+            {
+                "address": "21",
+                "name": "CH -"
+            },
+            {
+                "address": "21",
+                "name": "VCR CH -"
+            },
+            {
+                "address": "23",
+                "name": "AUDIO/MUTE"
+            },
+            {
+                "address": "23",
+                "name": "AUDIO"
+            },
+            {
+                "address": "25",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "25",
+                "name": "PLAY SPEED DOWN"
+            },
+            {
+                "address": "26",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "26",
+                "name": "PLAY SPEED UP"
+            },
+            {
+                "address": "27",
+                "name": "OTR"
+            },
+            {
+                "address": "28",
+                "name": "VAR PLAY"
+            },
+            {
+                "address": "29",
+                "name": "PAUSE/SLOW"
+            },
+            {
+                "address": "29",
+                "name": "PAUSE/STILL"
+            },
+            {
+                "address": "2d",
+                "name": "EJECT"
+            },
+            {
+                "address": "31",
+                "name": "CLEAR"
+            },
+            {
+                "address": "32",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "34",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "3a",
+                "name": "QP SPEED"
+            },
+            {
+                "address": "3a",
+                "name": "SP/SLP"
+            },
+            {
+                "address": "3b",
+                "name": "MEMO"
+            },
+            {
+                "address": "3c",
+                "name": "CLK/CNT"
+            },
+            {
+                "address": "3e",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "45",
+                "name": "TIMER"
+            },
+            {
+                "address": "45",
+                "name": "VCR PLUS: DAILY"
+            },
+            {
+                "address": "46",
+                "name": "SMART PICTURE"
+            },
+            {
+                "address": "46",
+                "name": "PICT CTRL"
+            },
+            {
+                "address": "4d",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "4e",
+                "name": "TRACKING -"
+            },
+            {
+                "address": "4f",
+                "name": "TAPE MANAGER"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "57",
+                "name": "OK/STATUS"
+            },
+            {
+                "address": "6a",
+                "name": "SKIP/SEARCH"
+            },
+            {
+                "address": "6a",
+                "name": "SKIP"
+            },
+            {
+                "address": "70",
+                "name": "VISS FWD"
+            },
+            {
+                "address": "71",
+                "name": "VISS REV"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,85 @@
+{
+    "display_name": "Sony VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "2a",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "2a",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "2a",
+                "name": ""
+            },
+            {
+                "address": "2b",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "2b",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "35",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "35",
+                "name": "INPUT 1 VTR 1"
+            },
+            {
+                "address": "36",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "37",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "38",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "3c",
+                "name": "VIDEO 5"
+            },
+            {
+                "address": "43",
+                "name": "TUNER"
+            },
+            {
+                "address": "60",
+                "name": "VCR PLUS"
+            },
+            {
+                "address": "60",
+                "name": "VCR PLUS+"
+            },
+            {
+                "address": "61",
+                "name": "VCR PLUS: ONCE"
+            },
+            {
+                "address": "61",
+                "name": "SET"
+            },
+            {
+                "address": "62",
+                "name": "VCR PLUS: DAILY"
+            },
+            {
+                "address": "63",
+                "name": "VCR PLUS: WEEKLY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

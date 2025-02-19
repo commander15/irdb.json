@@ -1,0 +1,93 @@
+{
+    "display_name": "Philips DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "20",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "21",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "55",
+                "name": "EXIT"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER"
+            },
+            {
+                "address": "83",
+                "name": "JUMP"
+            },
+            {
+                "address": "cc",
+                "name": "GUIDE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

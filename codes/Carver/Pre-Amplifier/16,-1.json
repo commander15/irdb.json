@@ -1,0 +1,37 @@
+{
+    "display_name": "Carver Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "23",
+                "name": "OUTPUT"
+            },
+            {
+                "address": "25",
+                "name": "MODE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

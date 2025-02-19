@@ -1,0 +1,101 @@
+{
+    "display_name": "Symphonic TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "SET +"
+            },
+            {
+                "address": "7",
+                "name": "SET -"
+            },
+            {
+                "address": "8",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "b",
+                "name": "SLEEP"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1f",
+                "name": "1"
+            },
+            {
+                "address": "20",
+                "name": "POWER"
+            },
+            {
+                "address": "21",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "7"
+            },
+            {
+                "address": "27",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "0"
+            },
+            {
+                "address": "2e",
+                "name": "SELECT"
+            },
+            {
+                "address": "2f",
+                "name": "MENU"
+            },
+            {
+                "address": "30",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "31",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "33",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Emerson"
+    },
+    "manufacturer": "Symphonic",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,81 @@
+{
+    "display_name": "Escient MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "10",
+                "name": "ENTER"
+            },
+            {
+                "address": "12",
+                "name": "INPUT/SETUP"
+            },
+            {
+                "address": "18",
+                "name": "LEFT"
+            },
+            {
+                "address": "19",
+                "name": "RIGHT"
+            },
+            {
+                "address": "19",
+                "name": ""
+            },
+            {
+                "address": "1a",
+                "name": "OK/SELECT"
+            },
+            {
+                "address": "1a",
+                "name": "SELECT"
+            },
+            {
+                "address": "1c",
+                "name": "MENU/VIEW"
+            },
+            {
+                "address": "1c",
+                "name": "MENU"
+            },
+            {
+                "address": "21",
+                "name": "PLAY"
+            },
+            {
+                "address": "22",
+                "name": "SPACE/FOREWARD"
+            },
+            {
+                "address": "26",
+                "name": "MOVIES"
+            },
+            {
+                "address": "29",
+                "name": "SEEK BACK"
+            },
+            {
+                "address": "2f",
+                "name": "RAND"
+            },
+            {
+                "address": "32",
+                "name": "PREV"
+            },
+            {
+                "address": "34",
+                "name": "HOME"
+            }
+        ],
+        "device_address": "1000000",
+        "protocol": "MCE"
+    },
+    "manufacturer": "Escient",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

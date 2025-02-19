@@ -1,0 +1,73 @@
+{
+    "display_name": "Avex Unknown_AVEX-AV5609",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "1d",
+                "name": "timer"
+            },
+            {
+                "address": "20",
+                "name": "KEY_KPPLUS"
+            },
+            {
+                "address": "21",
+                "name": "KEY_KPMINUS"
+            },
+            {
+                "address": "29",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "2a",
+                "name": "x_right"
+            },
+            {
+                "address": "2c",
+                "name": "scan_left"
+            },
+            {
+                "address": "2e",
+                "name": "scan_right"
+            },
+            {
+                "address": "2f",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "31",
+                "name": "reset"
+            },
+            {
+                "address": "32",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "34",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "35",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "36",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "37",
+                "name": "KEY_RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Avex",
+    "model": "",
+    "name": "",
+    "target": "Unknown_AVEX-AV5609"
+}

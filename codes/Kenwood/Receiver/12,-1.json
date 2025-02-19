@@ -1,0 +1,93 @@
+{
+    "display_name": "Kenwood Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "LD 1"
+            },
+            {
+                "address": "2",
+                "name": "LD 2"
+            },
+            {
+                "address": "3",
+                "name": "LD 3"
+            },
+            {
+                "address": "4",
+                "name": "LD 4"
+            },
+            {
+                "address": "5",
+                "name": "LD 5"
+            },
+            {
+                "address": "6",
+                "name": "LD 6"
+            },
+            {
+                "address": "7",
+                "name": "LD 7"
+            },
+            {
+                "address": "8",
+                "name": "LD 8"
+            },
+            {
+                "address": "9",
+                "name": "LD 9"
+            },
+            {
+                "address": "a",
+                "name": "LD 0"
+            },
+            {
+                "address": "16",
+                "name": "LD POWER"
+            },
+            {
+                "address": "21",
+                "name": "LD >> (TUNING >>)"
+            },
+            {
+                "address": "22",
+                "name": "LD PLAY > (P.CALL)"
+            },
+            {
+                "address": "23",
+                "name": "LD << (TUNING <<)"
+            },
+            {
+                "address": "25",
+                "name": "LD PAUSE (AUTO)"
+            },
+            {
+                "address": "27",
+                "name": "LD STOP (BAND)"
+            },
+            {
+                "address": "2a",
+                "name": "LD SEARCH >> (ANY ^)"
+            },
+            {
+                "address": "2b",
+                "name": "LD SEARCH << (ANY V)"
+            },
+            {
+                "address": "33",
+                "name": "LD OPEN/CLOSE (REC)"
+            },
+            {
+                "address": "38",
+                "name": "LD +10"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

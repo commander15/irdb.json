@@ -1,0 +1,157 @@
+{
+    "display_name": "LiteOn DVD Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "3"
+            },
+            {
+                "address": "2",
+                "name": "6"
+            },
+            {
+                "address": "3",
+                "name": "9"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "5"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "1"
+            },
+            {
+                "address": "a",
+                "name": "4"
+            },
+            {
+                "address": "b",
+                "name": "7"
+            },
+            {
+                "address": "c",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "e",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "EDIT"
+            },
+            {
+                "address": "13",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "14",
+                "name": "TIMER"
+            },
+            {
+                "address": "17",
+                "name": "PAUSE/STEP"
+            },
+            {
+                "address": "18",
+                "name": "RECORD"
+            },
+            {
+                "address": "1c",
+                "name": "SOURCE"
+            },
+            {
+                "address": "1f",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "41",
+                "name": "MENU"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "43",
+                "name": "NAVI."
+            },
+            {
+                "address": "47",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "4a",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "4b",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "4c",
+                "name": "SETUP"
+            },
+            {
+                "address": "4d",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "4e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "4f",
+                "name": "GUIDER"
+            },
+            {
+                "address": "50",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "54",
+                "name": "PLAY"
+            },
+            {
+                "address": "55",
+                "name": "STOP"
+            },
+            {
+                "address": "5c",
+                "name": "SEARCH <<"
+            }
+        ],
+        "device_address": "5000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "LiteOn",
+    "model": "",
+    "name": "",
+    "target": "DVD Recorder"
+}

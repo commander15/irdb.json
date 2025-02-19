@@ -1,0 +1,25 @@
+{
+    "display_name": "Harman Kardon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "21",
+                "name": "POWER ON"
+            },
+            {
+                "address": "22",
+                "name": "AM/FM"
+            },
+            {
+                "address": "22",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "2080000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

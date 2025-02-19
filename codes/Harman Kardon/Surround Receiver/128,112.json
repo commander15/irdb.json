@@ -1,0 +1,117 @@
+{
+    "display_name": "Harman Kardon Surround Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "AM/FM"
+            },
+            {
+                "address": "84",
+                "name": "TUNER SCAN +"
+            },
+            {
+                "address": "85",
+                "name": "TUNER SCAN -"
+            },
+            {
+                "address": "87",
+                "name": "TUNER PRESET 1"
+            },
+            {
+                "address": "88",
+                "name": "TUNER PRESET 2"
+            },
+            {
+                "address": "89",
+                "name": "TUNER PRESET 3"
+            },
+            {
+                "address": "8a",
+                "name": "TUNER PRESET 4"
+            },
+            {
+                "address": "8b",
+                "name": "TUNER PRESET 5"
+            },
+            {
+                "address": "8c",
+                "name": "TUNER PRESET 6"
+            },
+            {
+                "address": "8d",
+                "name": "TUNER PRESET 7"
+            },
+            {
+                "address": "8e",
+                "name": "TUNER PRESET 8"
+            },
+            {
+                "address": "9c",
+                "name": "ON"
+            },
+            {
+                "address": "9d",
+                "name": "TUNER PRESET 9"
+            },
+            {
+                "address": "9f",
+                "name": "OFF"
+            },
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "c8",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "ca",
+                "name": "VID 1"
+            },
+            {
+                "address": "cb",
+                "name": "VID 2"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "cd",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "ce",
+                "name": "VID 3"
+            },
+            {
+                "address": "d0",
+                "name": "DVD"
+            },
+            {
+                "address": "d3",
+                "name": "TV"
+            },
+            {
+                "address": "db",
+                "name": "SLEEP"
+            },
+            {
+                "address": "dc",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Surround Receiver"
+}

@@ -1,0 +1,61 @@
+{
+    "display_name": "Sony Unknown_RM-X40",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "OFF"
+            },
+            {
+                "address": "11",
+                "name": "SEL"
+            },
+            {
+                "address": "12",
+                "name": "KEY_KPPLUS"
+            },
+            {
+                "address": "13",
+                "name": "KEY_KPMINUS"
+            },
+            {
+                "address": "14",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "1b",
+                "name": "SEEK_AMS-"
+            },
+            {
+                "address": "1c",
+                "name": "SEEK_AMS+"
+            },
+            {
+                "address": "28",
+                "name": "DSPL"
+            },
+            {
+                "address": "30",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "31",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "46",
+                "name": "KEY_CYCLEWINDOWS"
+            },
+            {
+                "address": "47",
+                "name": "KEY_MODE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-X40"
+}

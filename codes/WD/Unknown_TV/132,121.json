@@ -1,0 +1,81 @@
+{
+    "display_name": "WD Unknown_TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_DOWN"
+            },
+            {
+                "address": "1",
+                "name": "KEY_NEXT"
+            },
+            {
+                "address": "2",
+                "name": "KEY_PREVIOUS"
+            },
+            {
+                "address": "4",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "5",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "6",
+                "name": "KEY_HOME"
+            },
+            {
+                "address": "7",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "8",
+                "name": "KEY_OK"
+            },
+            {
+                "address": "9",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "a",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "f",
+                "name": "KEY_SEARCH"
+            },
+            {
+                "address": "10",
+                "name": "KEY_EJECTCLOSECD"
+            },
+            {
+                "address": "12",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_OPTION"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_BACK"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_REWIND"
+            }
+        ],
+        "device_address": "8000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "WD",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TV"
+}

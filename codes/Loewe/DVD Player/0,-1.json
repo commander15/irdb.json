@@ -1,0 +1,25 @@
+{
+    "display_name": "Loewe DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Loewe",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

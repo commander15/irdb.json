@@ -1,0 +1,371 @@
+{
+    "display_name": "Kenwood Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "170",
+                "name": "PROLOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "170",
+                "name": "PRO-LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "170",
+                "name": "PRO LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "170",
+                "name": "PRO LOGIC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "0",
+                "device_address": "170",
+                "name": "DOLBY PRO LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "170",
+                "name": "MIDNIGHT MODE-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "170",
+                "name": "PRESENCE LEVEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "170",
+                "name": "MIDNIGHT MODE +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "170",
+                "name": "PRESENCE LEVEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "170",
+                "name": "AUDIO STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "170",
+                "name": "AM/FM PRESET -",
+                "protocol": "NEC"
+            },
+            {
+                "address": "6",
+                "device_address": "170",
+                "name": "REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "170",
+                "name": "AM/FM PRESET+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "170",
+                "name": "FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "170",
+                "name": "DSP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "170",
+                "name": "3STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "170",
+                "name": "3 STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "170",
+                "name": "FREQUENCY-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "170",
+                "name": "RCVR TUNING <",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "170",
+                "name": "TUNE -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "170",
+                "name": "FREQUENCY+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "170",
+                "name": "RCVR TUNING >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "170",
+                "name": "TUNE +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "170",
+                "name": "AM/FM AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "170",
+                "name": "RCVR AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "170",
+                "name": "AUTO/MONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "170",
+                "name": "AUDIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "170",
+                "name": "MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "170",
+                "name": "ARENA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "170",
+                "name": "STADIUM 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "170",
+                "name": "CATHEDRAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "170",
+                "name": "THEATRE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "170",
+                "name": "N.B.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "170",
+                "name": "AUDIO PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "170",
+                "name": "MULTI LVL CTRL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "170",
+                "name": "RCVR ANY V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "170",
+                "name": "LEVEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "170",
+                "name": "MULTI LVL CTRL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "170",
+                "name": "RCVR ANY ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "170",
+                "name": "LEVEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "170",
+                "name": "SOUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "170",
+                "name": "LEVEL MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "83",
+                "device_address": "170",
+                "name": "THEATRE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "170",
+                "name": "DSP LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "170",
+                "name": "M 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "170",
+                "name": "VISUAL FIX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "170",
+                "name": "SURR MULTILEVEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "170",
+                "name": "LEVEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "170",
+                "name": "SURR MULTI LEVEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "170",
+                "name": "SURR MULTILEVEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "170",
+                "name": "LEVEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "170",
+                "name": "SURR MULTI LEVEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "170",
+                "name": "PTY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "170",
+                "name": "THX",
+                "protocol": "NEC"
+            },
+            {
+                "address": "c2",
+                "device_address": "170",
+                "name": "THX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "170",
+                "name": "INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "170",
+                "name": "INPUT ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "170",
+                "name": "TONE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "170",
+                "name": "INPUT V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "170",
+                "name": "PANEL OPEN-CLOSE",
+                "protocol": "NEC"
+            }
+        ]
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

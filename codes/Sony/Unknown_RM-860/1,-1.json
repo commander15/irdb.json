@@ -1,0 +1,61 @@
+{
+    "display_name": "Sony Unknown_RM-860",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "PorgramUp"
+            },
+            {
+                "address": "11",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "12",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "13",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "14",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "15",
+                "name": "Off"
+            },
+            {
+                "address": "25",
+                "name": "KEY_CYCLEWINDOWS"
+            },
+            {
+                "address": "31",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "32",
+                "name": "KEY_DOWN"
+            },
+            {
+                "address": "3f",
+                "name": "Display"
+            },
+            {
+                "address": "60",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "65",
+                "name": "KEY_OK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-860"
+}

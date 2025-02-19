@@ -1,0 +1,189 @@
+{
+    "display_name": "Harman Kardon Blu-Ray",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "POWER ON"
+            },
+            {
+                "address": "c1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c2",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "c3",
+                "name": "DISC MENU"
+            },
+            {
+                "address": "c4",
+                "name": "SETUP"
+            },
+            {
+                "address": "c5",
+                "name": "POPUP/TITLE MENU"
+            },
+            {
+                "address": "c6",
+                "name": "STATUS"
+            },
+            {
+                "address": "c9",
+                "name": "RETURN"
+            },
+            {
+                "address": "ca",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "cb",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "cc",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "cd",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "ce",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "cf",
+                "name": "COLOR A RED"
+            },
+            {
+                "address": "d0",
+                "name": "COLOR B GREEN"
+            },
+            {
+                "address": "d1",
+                "name": "COLOR D BLUE"
+            },
+            {
+                "address": "d2",
+                "name": "COLOR C YELLOW"
+            },
+            {
+                "address": "d3",
+                "name": "AUDIO"
+            },
+            {
+                "address": "d4",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "d5",
+                "name": "ANGLE"
+            },
+            {
+                "address": "d6",
+                "name": "REPEAT"
+            },
+            {
+                "address": "da",
+                "name": "TR SEARCH <<"
+            },
+            {
+                "address": "db",
+                "name": "TR SEARCH >>"
+            },
+            {
+                "address": "dc",
+                "name": "TR SKIP <<"
+            },
+            {
+                "address": "dd",
+                "name": "TR SKIP >>"
+            },
+            {
+                "address": "de",
+                "name": "TR PLAY"
+            },
+            {
+                "address": "df",
+                "name": "TR PAUSE"
+            },
+            {
+                "address": "e0",
+                "name": "0"
+            },
+            {
+                "address": "e1",
+                "name": "1"
+            },
+            {
+                "address": "e2",
+                "name": "2"
+            },
+            {
+                "address": "e3",
+                "name": "3"
+            },
+            {
+                "address": "e4",
+                "name": "4"
+            },
+            {
+                "address": "e5",
+                "name": "5"
+            },
+            {
+                "address": "e6",
+                "name": "6"
+            },
+            {
+                "address": "e7",
+                "name": "7"
+            },
+            {
+                "address": "e8",
+                "name": "8"
+            },
+            {
+                "address": "e9",
+                "name": "9"
+            },
+            {
+                "address": "ea",
+                "name": "TR STOP"
+            },
+            {
+                "address": "ee",
+                "name": "DIMMER"
+            },
+            {
+                "address": "f1",
+                "name": "CLEAR"
+            },
+            {
+                "address": "f2",
+                "name": "PIP"
+            },
+            {
+                "address": "f3",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "f4",
+                "name": "PIP AUDIO MONITOR"
+            },
+            {
+                "address": "f5",
+                "name": "FIND"
+            }
+        ],
+        "device_address": "8400000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Blu-Ray"
+}

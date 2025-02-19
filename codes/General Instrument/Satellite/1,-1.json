@@ -1,0 +1,25 @@
+{
+    "display_name": "General Instrument Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "SAT VOL ^"
+            },
+            {
+                "address": "13",
+                "name": "SAT VOL V"
+            },
+            {
+                "address": "14",
+                "name": "SAT MUTE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "General Instrument",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

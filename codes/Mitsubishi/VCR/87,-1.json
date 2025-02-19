@@ -1,0 +1,1961 @@
+{
+    "display_name": "Mitsubishi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1 SUN"
+            },
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "0",
+                "name": "VCR 1"
+            },
+            {
+                "address": "0",
+                "name": "VCRA 1"
+            },
+            {
+                "address": "0",
+                "name": "VCR-A"
+            },
+            {
+                "address": "1",
+                "name": "9"
+            },
+            {
+                "address": "1",
+                "name": "VCR 9"
+            },
+            {
+                "address": "1",
+                "name": "VCRA 9"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "2",
+                "name": "VCRA POWER"
+            },
+            {
+                "address": "3",
+                "name": "AUDIO MONITOR"
+            },
+            {
+                "address": "4",
+                "name": "PLAY >"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY>"
+            },
+            {
+                "address": "4",
+                "name": "PLAY/STOP"
+            },
+            {
+                "address": "4",
+                "name": "PLAY"
+            },
+            {
+                "address": "4",
+                "name": "ENTER"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY/STOP/ENTER"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY/STOP"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "4",
+                "name": "VCRA PLAY >"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO/TV"
+            },
+            {
+                "address": "5",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "5",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "5",
+                "name": "VCR VCR/TV"
+            },
+            {
+                "address": "5",
+                "name": "VCRA VCR/TV"
+            },
+            {
+                "address": "5",
+                "name": "VCRA VIDEO/TV"
+            },
+            {
+                "address": "7",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "8",
+                "name": "2 MON"
+            },
+            {
+                "address": "8",
+                "name": "2"
+            },
+            {
+                "address": "8",
+                "name": "VCR 2"
+            },
+            {
+                "address": "8",
+                "name": "VCRA 2"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "9",
+                "name": "VCR 0"
+            },
+            {
+                "address": "9",
+                "name": "VCRA 0"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "a",
+                "name": "SCAN + (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "ADJUST/SCAN +"
+            },
+            {
+                "address": "a",
+                "name": "VCR CHANNEL ^"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "a",
+                "name": "SCAN UP (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "CH ^ (SCAN ^)"
+            },
+            {
+                "address": "a",
+                "name": "SCAN ^ (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "VCR SCAN ^ (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "VCR SCAN ^(CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "VCRA SCAN ^ (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "VCRA CHANNEL ^"
+            },
+            {
+                "address": "b",
+                "name": "SELECT < DIGITAL CLE"
+            },
+            {
+                "address": "b",
+                "name": "CLEAR"
+            },
+            {
+                "address": "b",
+                "name": "CLEAR <"
+            },
+            {
+                "address": "b",
+                "name": "CANCEL"
+            },
+            {
+                "address": "b",
+                "name": "VCR CANCEL"
+            },
+            {
+                "address": "b",
+                "name": "VCRA CANCEL"
+            },
+            {
+                "address": "b",
+                "name": "CANCEL <"
+            },
+            {
+                "address": "c",
+                "name": "REC"
+            },
+            {
+                "address": "c",
+                "name": "RECORD"
+            },
+            {
+                "address": "c",
+                "name": "VCR RECORD"
+            },
+            {
+                "address": "c",
+                "name": "VCR REC"
+            },
+            {
+                "address": "c",
+                "name": "VCRA REC"
+            },
+            {
+                "address": "d",
+                "name": "ZERO STOP"
+            },
+            {
+                "address": "d",
+                "name": "ZERO-STOP TIME COU."
+            },
+            {
+                "address": "e",
+                "name": "SLOW +"
+            },
+            {
+                "address": "e",
+                "name": "INDEX SEARCH SLOW +"
+            },
+            {
+                "address": "e",
+                "name": "FR ADV SLOW +"
+            },
+            {
+                "address": "e",
+                "name": "INDEX SEARCH +"
+            },
+            {
+                "address": "e",
+                "name": "VCR JOG/ADJ+(IND SRC"
+            },
+            {
+                "address": "e",
+                "name": "JOG/ADJUST +"
+            },
+            {
+                "address": "e",
+                "name": "FS/+"
+            },
+            {
+                "address": "e",
+                "name": "INDEX SRCH +"
+            },
+            {
+                "address": "e",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "e",
+                "name": "INDEX +"
+            },
+            {
+                "address": "e",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "e",
+                "name": "VCR INDEX +"
+            },
+            {
+                "address": "e",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "e",
+                "name": "VCR JOG/INDEX S.+"
+            },
+            {
+                "address": "e",
+                "name": "VCRA INDEX +"
+            },
+            {
+                "address": "e",
+                "name": "VCRA INDEX SEARCH +"
+            },
+            {
+                "address": "e",
+                "name": "VCRA SRCH INDEX +"
+            },
+            {
+                "address": "e",
+                "name": "INDEX >>>"
+            },
+            {
+                "address": "e",
+                "name": "VCRA ADJUST >"
+            },
+            {
+                "address": "f",
+                "name": "ADDRESS ENTER"
+            },
+            {
+                "address": "f",
+                "name": "INDEX ENTER"
+            },
+            {
+                "address": "10",
+                "name": "3 TUE"
+            },
+            {
+                "address": "10",
+                "name": "3"
+            },
+            {
+                "address": "10",
+                "name": "VCR 3"
+            },
+            {
+                "address": "10",
+                "name": "VCRA 3"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "12",
+                "name": "SCAN - (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "ADJUST/SCAN -"
+            },
+            {
+                "address": "12",
+                "name": "VCR CHANNEL V"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "12",
+                "name": "SCAN DOWN (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "CH V (SCAN V)"
+            },
+            {
+                "address": "12",
+                "name": "SCAN V (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "VCR SCAN V (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "VCR SCAN V(CH V)"
+            },
+            {
+                "address": "12",
+                "name": "VCRA SCAN V (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "VCRA CHANNEL V"
+            },
+            {
+                "address": "13",
+                "name": "SET +"
+            },
+            {
+                "address": "13",
+                "name": "SET"
+            },
+            {
+                "address": "14",
+                "name": "STOP []"
+            },
+            {
+                "address": "14",
+                "name": "VCR STOP[]"
+            },
+            {
+                "address": "14",
+                "name": "STOP"
+            },
+            {
+                "address": "14",
+                "name": "VCR STOP"
+            },
+            {
+                "address": "14",
+                "name": "VCR STOP []"
+            },
+            {
+                "address": "14",
+                "name": "VCRA STOP []"
+            },
+            {
+                "address": "15",
+                "name": "RESET"
+            },
+            {
+                "address": "15",
+                "name": "RESET TIME COUNTER"
+            },
+            {
+                "address": "15",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "15",
+                "name": "VCR COUNTER RESET"
+            },
+            {
+                "address": "16",
+                "name": "SLOW -"
+            },
+            {
+                "address": "16",
+                "name": "INDEX SEARCH SLOW -"
+            },
+            {
+                "address": "16",
+                "name": "FR ADV SLOW -"
+            },
+            {
+                "address": "16",
+                "name": "INDEX SEARCH -"
+            },
+            {
+                "address": "16",
+                "name": "VCR JOG/ADJ-(IND SRC"
+            },
+            {
+                "address": "16",
+                "name": "JOG/ADJUST -"
+            },
+            {
+                "address": "16",
+                "name": "RS/-"
+            },
+            {
+                "address": "16",
+                "name": "INDEX SRCH -"
+            },
+            {
+                "address": "16",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "16",
+                "name": "INDEX -"
+            },
+            {
+                "address": "16",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "16",
+                "name": "VCR INDEX -"
+            },
+            {
+                "address": "16",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "16",
+                "name": "VCR JOG/INDEX S.-"
+            },
+            {
+                "address": "16",
+                "name": "VCRA INDEX -"
+            },
+            {
+                "address": "16",
+                "name": "VCRA INDEX SEARCH -"
+            },
+            {
+                "address": "16",
+                "name": "VCRA SRCH INDEX -"
+            },
+            {
+                "address": "16",
+                "name": "INDEX <<<"
+            },
+            {
+                "address": "16",
+                "name": "VCRA ADJUST <"
+            },
+            {
+                "address": "17",
+                "name": "REPEAT"
+            },
+            {
+                "address": "17",
+                "name": "VCRA REPEAT"
+            },
+            {
+                "address": "18",
+                "name": "4 WED"
+            },
+            {
+                "address": "18",
+                "name": "4"
+            },
+            {
+                "address": "18",
+                "name": "VCR 4"
+            },
+            {
+                "address": "18",
+                "name": "VCRA 4"
+            },
+            {
+                "address": "1a",
+                "name": "INPUT DOWN"
+            },
+            {
+                "address": "1b",
+                "name": "PROG LIST ON/OFF"
+            },
+            {
+                "address": "1b",
+                "name": "PROG.LIST ON/OFF"
+            },
+            {
+                "address": "1b",
+                "name": "DATA ON SCREEN"
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "1c",
+                "name": "STILL/PAUSE "
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE "
+            },
+            {
+                "address": "1c",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "VCR PAUSE "
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE / STILL"
+            },
+            {
+                "address": "1c",
+                "name": "VCRA PAUSE "
+            },
+            {
+                "address": "1c",
+                "name": "VCRA PAUSE/STILL "
+            },
+            {
+                "address": "1d",
+                "name": "SET"
+            },
+            {
+                "address": "1d",
+                "name": "SET TIME COUNTER"
+            },
+            {
+                "address": "1f",
+                "name": "PROG REC ON/OFF"
+            },
+            {
+                "address": "1f",
+                "name": "PROG.REC ON/OFF"
+            },
+            {
+                "address": "20",
+                "name": "5 THU"
+            },
+            {
+                "address": "20",
+                "name": "5"
+            },
+            {
+                "address": "20",
+                "name": "VCR 5"
+            },
+            {
+                "address": "20",
+                "name": "VCRA 5"
+            },
+            {
+                "address": "23",
+                "name": "ADDRESS SEARCH"
+            },
+            {
+                "address": "24",
+                "name": "FF/SRCH >>"
+            },
+            {
+                "address": "24",
+                "name": "FF >>"
+            },
+            {
+                "address": "24",
+                "name": "VCR FFWD>>"
+            },
+            {
+                "address": "24",
+                "name": "FF>> (ADJUST +)"
+            },
+            {
+                "address": "24",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "24",
+                "name": "VCR FF >>"
+            },
+            {
+                "address": "24",
+                "name": "FFWD >>"
+            },
+            {
+                "address": "24",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "24",
+                "name": "VCRA FF >>"
+            },
+            {
+                "address": "24",
+                "name": "VCRA FF/SRCH >>"
+            },
+            {
+                "address": "24",
+                "name": "VCRA FF/FWD >>"
+            },
+            {
+                "address": "25",
+                "name": "FAST PLAY"
+            },
+            {
+                "address": "25",
+                "name": "FAST PLAY X2"
+            },
+            {
+                "address": "25",
+                "name": "VCR QV"
+            },
+            {
+                "address": "25",
+                "name": "QV"
+            },
+            {
+                "address": "25",
+                "name": "Q.V."
+            },
+            {
+                "address": "25",
+                "name": "VCRA QV"
+            },
+            {
+                "address": "25",
+                "name": "VCRA Q.V."
+            },
+            {
+                "address": "25",
+                "name": "X2"
+            },
+            {
+                "address": "25",
+                "name": "VCRA SQV/QV"
+            },
+            {
+                "address": "27",
+                "name": "DATA ON SCREEN"
+            },
+            {
+                "address": "27",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "27",
+                "name": "VCR DISPLAY"
+            },
+            {
+                "address": "27",
+                "name": "VCRA DISPLAY"
+            },
+            {
+                "address": "27",
+                "name": "VCRA DATA ON SCREEN"
+            },
+            {
+                "address": "27",
+                "name": "VCRA INFO"
+            },
+            {
+                "address": "28",
+                "name": "6 FRI"
+            },
+            {
+                "address": "28",
+                "name": "6"
+            },
+            {
+                "address": "28",
+                "name": "VCR 6"
+            },
+            {
+                "address": "28",
+                "name": "VCRA 6"
+            },
+            {
+                "address": "2b",
+                "name": "PROG NBR"
+            },
+            {
+                "address": "2b",
+                "name": "V PROG.NBR"
+            },
+            {
+                "address": "2c",
+                "name": "REW/SRCH <<"
+            },
+            {
+                "address": "2c",
+                "name": "REW <<"
+            },
+            {
+                "address": "2c",
+                "name": "VCR REW<<"
+            },
+            {
+                "address": "2c",
+                "name": "REW<< (ADJUST -)"
+            },
+            {
+                "address": "2c",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "2c",
+                "name": "VCR REW <<"
+            },
+            {
+                "address": "2c",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "2c",
+                "name": "VCRA REW <<"
+            },
+            {
+                "address": "2c",
+                "name": "VCRA REW/SRCH <<"
+            },
+            {
+                "address": "2c",
+                "name": "VCRA REW/REV <<"
+            },
+            {
+                "address": "2d",
+                "name": "R PLAY <"
+            },
+            {
+                "address": "2d",
+                "name": "PLAY R. <"
+            },
+            {
+                "address": "2d",
+                "name": "REVERSE PLAY"
+            },
+            {
+                "address": "2e",
+                "name": "SEARCH"
+            },
+            {
+                "address": "2e",
+                "name": "SEARCH TIME COUNTER"
+            },
+            {
+                "address": "2f",
+                "name": "OFF-T OTR"
+            },
+            {
+                "address": "2f",
+                "name": "OFF-T/OTR"
+            },
+            {
+                "address": "2f",
+                "name": "OTR"
+            },
+            {
+                "address": "2f",
+                "name": "OTR RECORD TIME"
+            },
+            {
+                "address": "2f",
+                "name": "VCRA OFF-T OTR"
+            },
+            {
+                "address": "2f",
+                "name": "VCRA OFF-T/OTR"
+            },
+            {
+                "address": "2f",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "2f",
+                "name": "VCRA SLEEP"
+            },
+            {
+                "address": "30",
+                "name": "7 SAT"
+            },
+            {
+                "address": "30",
+                "name": "7"
+            },
+            {
+                "address": "30",
+                "name": "VCR 7"
+            },
+            {
+                "address": "30",
+                "name": "VCRA 7"
+            },
+            {
+                "address": "33",
+                "name": "SELECT > QUAD"
+            },
+            {
+                "address": "33",
+                "name": "SELECT >"
+            },
+            {
+                "address": "33",
+                "name": "QUICK PROGRAM"
+            },
+            {
+                "address": "33",
+                "name": "VCR QUI.PGM/PLUS+"
+            },
+            {
+                "address": "33",
+                "name": "VCR PLUS+"
+            },
+            {
+                "address": "33",
+                "name": "VCR Q.PROG/VCR PLUS+"
+            },
+            {
+                "address": "33",
+                "name": "VCRA QUICK PROGRAM"
+            },
+            {
+                "address": "33",
+                "name": "QUICK PROGRAM/VCR+"
+            },
+            {
+                "address": "33",
+                "name": "VCRA QUICKPRM/VCR+"
+            },
+            {
+                "address": "34",
+                "name": "SLOW >"
+            },
+            {
+                "address": "34",
+                "name": "INDEX SEARCH SLOW >"
+            },
+            {
+                "address": "34",
+                "name": "FR ADV SLOW >"
+            },
+            {
+                "address": "34",
+                "name": "SLOW/FR ADV >"
+            },
+            {
+                "address": "34",
+                "name": "SLOW"
+            },
+            {
+                "address": "34",
+                "name": "SLOW/FRAME ADV"
+            },
+            {
+                "address": "34",
+                "name": "SLOW / FRAME ADVANCE"
+            },
+            {
+                "address": "35",
+                "name": "CHANNEL SELECT"
+            },
+            {
+                "address": "35",
+                "name": "ENTER"
+            },
+            {
+                "address": "35",
+                "name": "ENTER SLOW/FR ADV"
+            },
+            {
+                "address": "35",
+                "name": "VCR ENTER"
+            },
+            {
+                "address": "35",
+                "name": "VCRA ENTER"
+            },
+            {
+                "address": "35",
+                "name": "ENTER >"
+            },
+            {
+                "address": "35",
+                "name": "VCRA ENTER (EXCH)"
+            },
+            {
+                "address": "36",
+                "name": "VCR EJECT"
+            },
+            {
+                "address": "36",
+                "name": "EJECT"
+            },
+            {
+                "address": "36",
+                "name": "VCRA EJECT"
+            },
+            {
+                "address": "38",
+                "name": "8 M-F"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "38",
+                "name": "VCR 8"
+            },
+            {
+                "address": "38",
+                "name": "VCRA 8"
+            },
+            {
+                "address": "39",
+                "name": "A"
+            },
+            {
+                "address": "39",
+                "name": "VCRA ANT A/B"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "3a",
+                "name": "VCR INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT X2"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT UP"
+            },
+            {
+                "address": "3a",
+                "name": "VCR INPUT(X2)"
+            },
+            {
+                "address": "3a",
+                "name": "VCRA INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT (X2)"
+            },
+            {
+                "address": "3a",
+                "name": "VCRA INPUT SELECT"
+            },
+            {
+                "address": "3b",
+                "name": "SET -"
+            },
+            {
+                "address": "3b",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "3c",
+                "name": "SLOW <"
+            },
+            {
+                "address": "3c",
+                "name": "SLOW/FR ADV <"
+            },
+            {
+                "address": "3d",
+                "name": "SKIP SEARCH"
+            },
+            {
+                "address": "3d",
+                "name": "INTRO"
+            },
+            {
+                "address": "3d",
+                "name": "VCRA SRCH SKIP"
+            },
+            {
+                "address": "3e",
+                "name": "SP/EP"
+            },
+            {
+                "address": "3f",
+                "name": "POWER ON"
+            },
+            {
+                "address": "40",
+                "name": "FUNCTION VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VCR AUDIO/VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "AUDIO/VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO UP"
+            },
+            {
+                "address": "40",
+                "name": "VCR FUNC.VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VCR VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO ^"
+            },
+            {
+                "address": "40",
+                "name": "VCRA FUNC VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VCRA VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "VCRA VIDEO ^"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST ^"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST UP"
+            },
+            {
+                "address": "41",
+                "name": "VCR ADJUST ^"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST +"
+            },
+            {
+                "address": "41",
+                "name": "VCRA ADJUST ^"
+            },
+            {
+                "address": "42",
+                "name": "POWER ON (ALT.)"
+            },
+            {
+                "address": "44",
+                "name": ""
+            },
+            {
+                "address": "45",
+                "name": "VCRA S.(QUICK VIEW)"
+            },
+            {
+                "address": "47",
+                "name": "TIME SEARCH"
+            },
+            {
+                "address": "48",
+                "name": "VIDEO DOWN"
+            },
+            {
+                "address": "48",
+                "name": "VIDEO V"
+            },
+            {
+                "address": "48",
+                "name": "VCRA VIDEO V"
+            },
+            {
+                "address": "49",
+                "name": "ADJUST V"
+            },
+            {
+                "address": "49",
+                "name": "ADJUST DOWN"
+            },
+            {
+                "address": "49",
+                "name": "VCR ADJUST V"
+            },
+            {
+                "address": "49",
+                "name": "ADJUST -"
+            },
+            {
+                "address": "49",
+                "name": "VCRA ADJUST V"
+            },
+            {
+                "address": "4a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "4b",
+                "name": "SCAN REV (NEW)"
+            },
+            {
+                "address": "4b",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "4b",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "4c",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "4c",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "4c",
+                "name": "VCRA SHUTTLE FWD"
+            },
+            {
+                "address": "4d",
+                "name": "VCRA S.(RE.SP.SRCH)"
+            },
+            {
+                "address": "4f",
+                "name": "STILL/STROBE"
+            },
+            {
+                "address": "50",
+                "name": "FUNCTION AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO UP"
+            },
+            {
+                "address": "50",
+                "name": "VCR FUNC.AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "VCR AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO ^"
+            },
+            {
+                "address": "50",
+                "name": "VCRA FUNC AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "VCRA AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "VCRA AUDIO ^"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "52",
+                "name": "VCR MENU"
+            },
+            {
+                "address": "52",
+                "name": "ENTER (MENU)"
+            },
+            {
+                "address": "52",
+                "name": "VCRA MENU"
+            },
+            {
+                "address": "55",
+                "name": "VCRA S.(F.SP.SRCH)"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "56",
+                "name": "VCRA JOG/SHUTTLE"
+            },
+            {
+                "address": "57",
+                "name": "CHANNEL"
+            },
+            {
+                "address": "58",
+                "name": "AUDIO DOWN"
+            },
+            {
+                "address": "58",
+                "name": "AUDIO V"
+            },
+            {
+                "address": "58",
+                "name": "VCRA AUDIO V"
+            },
+            {
+                "address": "5a",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "5b",
+                "name": ""
+            },
+            {
+                "address": "5b",
+                "name": "VCRA S(RE.PLAY BACK)"
+            },
+            {
+                "address": "5c",
+                "name": "VCRA SHU.FWD(NORMAL)"
+            },
+            {
+                "address": "5f",
+                "name": "ADDRESS SEARCH DIVID"
+            },
+            {
+                "address": "62",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "67",
+                "name": "FREEZE"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "6b",
+                "name": "VCRA S.(R.FAST P.B.)"
+            },
+            {
+                "address": "6c",
+                "name": ""
+            },
+            {
+                "address": "6f",
+                "name": "STROBE"
+            },
+            {
+                "address": "73",
+                "name": "ADJUST -"
+            },
+            {
+                "address": "73",
+                "name": "VCR ADJUST REV"
+            },
+            {
+                "address": "73",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "73",
+                "name": "JOG/SHUTTLE REV"
+            },
+            {
+                "address": "73",
+                "name": "VCRA JOG REV"
+            },
+            {
+                "address": "73",
+                "name": ""
+            },
+            {
+                "address": "73",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "73",
+                "name": "VCRA ADJUST-JOG"
+            },
+            {
+                "address": "74",
+                "name": "ADJUST +"
+            },
+            {
+                "address": "74",
+                "name": "VCR ADJUST FWD"
+            },
+            {
+                "address": "74",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "74",
+                "name": "JOG/SHUTTLE FF"
+            },
+            {
+                "address": "74",
+                "name": "VCRA JOG FWD"
+            },
+            {
+                "address": "74",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "74",
+                "name": "VCRA ADJUST+JOG"
+            },
+            {
+                "address": "75",
+                "name": "VCR ENTER FWD(F.SP)"
+            },
+            {
+                "address": "75",
+                "name": "VCRA S.(F.H.SP.SRCH)"
+            },
+            {
+                "address": "75",
+                "name": "VCRA SHUTTLE FWD"
+            },
+            {
+                "address": "77",
+                "name": "PIP"
+            },
+            {
+                "address": "7d",
+                "name": "VCR ENTER REV(F.SP)"
+            },
+            {
+                "address": "7d",
+                "name": "VCRA S.(R.H.SP.SRCH)"
+            },
+            {
+                "address": "7d",
+                "name": "VCRA SHUTTLE REW"
+            },
+            {
+                "address": "80",
+                "name": "VCRB 1"
+            },
+            {
+                "address": "80",
+                "name": "1"
+            },
+            {
+                "address": "80",
+                "name": "VCR-B"
+            },
+            {
+                "address": "81",
+                "name": "VCRB 9"
+            },
+            {
+                "address": "81",
+                "name": "9"
+            },
+            {
+                "address": "82",
+                "name": "VCRB POWER"
+            },
+            {
+                "address": "82",
+                "name": "POWER"
+            },
+            {
+                "address": "84",
+                "name": "VCRB PLAY"
+            },
+            {
+                "address": "84",
+                "name": "PLAY"
+            },
+            {
+                "address": "84",
+                "name": "VCRB PLAY >"
+            },
+            {
+                "address": "85",
+                "name": "VCRB VCR/TV"
+            },
+            {
+                "address": "85",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "85",
+                "name": "VCRB VIDEO/TV"
+            },
+            {
+                "address": "88",
+                "name": "VCRB 2"
+            },
+            {
+                "address": "88",
+                "name": "2"
+            },
+            {
+                "address": "89",
+                "name": "VCRB 0"
+            },
+            {
+                "address": "89",
+                "name": "0"
+            },
+            {
+                "address": "8a",
+                "name": "VCRB CHANNEL ^"
+            },
+            {
+                "address": "8a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "8a",
+                "name": "VCRB SCAN ^ (CH ^)"
+            },
+            {
+                "address": "8b",
+                "name": "VCRB CANCEL"
+            },
+            {
+                "address": "8b",
+                "name": "CANCEL"
+            },
+            {
+                "address": "8c",
+                "name": "VCRB RECORD"
+            },
+            {
+                "address": "8c",
+                "name": "RECORD"
+            },
+            {
+                "address": "8c",
+                "name": "VCRB REC"
+            },
+            {
+                "address": "8e",
+                "name": "VCRB INDEX +"
+            },
+            {
+                "address": "8e",
+                "name": "INDEX SEARCH +"
+            },
+            {
+                "address": "8e",
+                "name": "VCRB INDEX SEARCH +"
+            },
+            {
+                "address": "8e",
+                "name": "VCRB SRCH INDEX +"
+            },
+            {
+                "address": "8e",
+                "name": "VCRB ADJUST >"
+            },
+            {
+                "address": "90",
+                "name": "VCRB 3"
+            },
+            {
+                "address": "90",
+                "name": "3"
+            },
+            {
+                "address": "92",
+                "name": "VCRB CHANNEL V"
+            },
+            {
+                "address": "92",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "92",
+                "name": "VCRB SCAN V (CH V)"
+            },
+            {
+                "address": "94",
+                "name": "VCRB STOP"
+            },
+            {
+                "address": "94",
+                "name": "STOP"
+            },
+            {
+                "address": "94",
+                "name": "VCRB STOP []"
+            },
+            {
+                "address": "96",
+                "name": "VCRB INDEX -"
+            },
+            {
+                "address": "96",
+                "name": "INDEX SEARCH -"
+            },
+            {
+                "address": "96",
+                "name": "VCRB INDEX SEARCH -"
+            },
+            {
+                "address": "96",
+                "name": "VCRB SRCH INDEX -"
+            },
+            {
+                "address": "96",
+                "name": "VCRB ADJUST <"
+            },
+            {
+                "address": "97",
+                "name": "VCRB REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "VCRB 4"
+            },
+            {
+                "address": "98",
+                "name": "4"
+            },
+            {
+                "address": "9c",
+                "name": "VCRB PAUSE"
+            },
+            {
+                "address": "9c",
+                "name": "PAUSE"
+            },
+            {
+                "address": "9c",
+                "name": "VCRB PAUSE "
+            },
+            {
+                "address": "9c",
+                "name": "VCRB PAUSE/STILL "
+            },
+            {
+                "address": "a0",
+                "name": "VCRB 5"
+            },
+            {
+                "address": "a0",
+                "name": "5"
+            },
+            {
+                "address": "a4",
+                "name": "VCRB FF >>"
+            },
+            {
+                "address": "a4",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "a4",
+                "name": "VCRB FF/SRCH >>"
+            },
+            {
+                "address": "a4",
+                "name": "VCRB FF/FWD >>"
+            },
+            {
+                "address": "a5",
+                "name": "VCRB Q.V."
+            },
+            {
+                "address": "a5",
+                "name": "Q.V."
+            },
+            {
+                "address": "a5",
+                "name": "VCRB SQV/QV"
+            },
+            {
+                "address": "a7",
+                "name": "VCRB DISPLAY"
+            },
+            {
+                "address": "a7",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "a7",
+                "name": "VCRB DATA ON SCREEN"
+            },
+            {
+                "address": "a7",
+                "name": "VCRB INFO"
+            },
+            {
+                "address": "a8",
+                "name": "VCRB 6"
+            },
+            {
+                "address": "a8",
+                "name": "6"
+            },
+            {
+                "address": "ac",
+                "name": "VCRB REW <<"
+            },
+            {
+                "address": "ac",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "ac",
+                "name": "VCRB REW/SRCH <<"
+            },
+            {
+                "address": "ac",
+                "name": "VCRB REW/REV <<"
+            },
+            {
+                "address": "af",
+                "name": "VCRB OFF-T/OTR"
+            },
+            {
+                "address": "af",
+                "name": "VCRB OFF-T OTR"
+            },
+            {
+                "address": "af",
+                "name": "VCRB SLEEP"
+            },
+            {
+                "address": "b0",
+                "name": "VCRB 7"
+            },
+            {
+                "address": "b0",
+                "name": "7"
+            },
+            {
+                "address": "b3",
+                "name": "VCRB QUICK PROGRAM"
+            },
+            {
+                "address": "b3",
+                "name": "VCR PLUS+"
+            },
+            {
+                "address": "b3",
+                "name": "VCRB QUICKPRG/VCR+"
+            },
+            {
+                "address": "b5",
+                "name": "VCRB ENTER"
+            },
+            {
+                "address": "b5",
+                "name": "ENTER"
+            },
+            {
+                "address": "b5",
+                "name": "VCRB ENTER (EXCH)"
+            },
+            {
+                "address": "b6",
+                "name": "VCRB EJECT"
+            },
+            {
+                "address": "b6",
+                "name": "EJECT"
+            },
+            {
+                "address": "b8",
+                "name": "VCRB 8"
+            },
+            {
+                "address": "b8",
+                "name": "8"
+            },
+            {
+                "address": "b9",
+                "name": "VCRB ANT A/B"
+            },
+            {
+                "address": "ba",
+                "name": "VCBR INPUT"
+            },
+            {
+                "address": "ba",
+                "name": "INPUT"
+            },
+            {
+                "address": "ba",
+                "name": "VCRB INPUT"
+            },
+            {
+                "address": "ba",
+                "name": "VCRB INPUT SELECT"
+            },
+            {
+                "address": "bd",
+                "name": "VCRB SRCH SKIP"
+            },
+            {
+                "address": "c0",
+                "name": "VCRB VIDEO"
+            },
+            {
+                "address": "c0",
+                "name": "VIDEO"
+            },
+            {
+                "address": "c0",
+                "name": "VCRB FUNC VIDEO"
+            },
+            {
+                "address": "c0",
+                "name": "VCRB VIDEO ^"
+            },
+            {
+                "address": "c1",
+                "name": "VCRB ADJUST ^"
+            },
+            {
+                "address": "c2",
+                "name": "POWER ON"
+            },
+            {
+                "address": "c4",
+                "name": ""
+            },
+            {
+                "address": "c5",
+                "name": "VCRB S.(QUICH VIEW)"
+            },
+            {
+                "address": "c8",
+                "name": "VCRB VIDEO V"
+            },
+            {
+                "address": "c9",
+                "name": "VCRB ADJUST V"
+            },
+            {
+                "address": "ca",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "cb",
+                "name": "VCRB SHUTTLE REV"
+            },
+            {
+                "address": "cd",
+                "name": "VCRB S.(RE.SP.SRCH)"
+            },
+            {
+                "address": "ce",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "d0",
+                "name": "VCRB AUDIO"
+            },
+            {
+                "address": "d0",
+                "name": "AUDIO"
+            },
+            {
+                "address": "d0",
+                "name": "VCRB FUNC AUDIO"
+            },
+            {
+                "address": "d0",
+                "name": "VCRB AUDIO ^"
+            },
+            {
+                "address": "d2",
+                "name": "VCRB MENU"
+            },
+            {
+                "address": "d2",
+                "name": "MENU"
+            },
+            {
+                "address": "d5",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "d5",
+                "name": "VCRB S.(F.SP.SRCH)"
+            },
+            {
+                "address": "d8",
+                "name": "VCRB AUDIO V"
+            },
+            {
+                "address": "db",
+                "name": "VCRB S(RE.PLAY BACK)"
+            },
+            {
+                "address": "dc",
+                "name": "VCRB SHU.FWD(NORMAL)"
+            },
+            {
+                "address": "de",
+                "name": "VCRB JOG/SHUTTLE"
+            },
+            {
+                "address": "e2",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "ea",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "eb",
+                "name": "VCRB S.(R.FAST P.B.)"
+            },
+            {
+                "address": "f3",
+                "name": "VCRB JOG REV"
+            },
+            {
+                "address": "f3",
+                "name": "VCRB ADJUST-JOG"
+            },
+            {
+                "address": "f4",
+                "name": "VCRB JOG FWD"
+            },
+            {
+                "address": "f4",
+                "name": "VCRB ADJUST+JOG"
+            },
+            {
+                "address": "f5",
+                "name": "VCRB S.(F.H.SP.SRCH)"
+            },
+            {
+                "address": "f5",
+                "name": "VCRB SHUTTLE FWD"
+            },
+            {
+                "address": "fd",
+                "name": "VCRB S.(R.H.SP.SRCH)"
+            },
+            {
+                "address": "fd",
+                "name": "VCRB SHUTTLE REW"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

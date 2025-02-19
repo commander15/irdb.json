@@ -1,0 +1,233 @@
+{
+    "display_name": "Parasound Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "AUDIO 1"
+            },
+            {
+                "address": "81",
+                "name": "AUDIO 2"
+            },
+            {
+                "address": "82",
+                "name": "AUDIO 3"
+            },
+            {
+                "address": "83",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "85",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "87",
+                "name": "TUNER"
+            },
+            {
+                "address": "88",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "89",
+                "name": "TUNER"
+            },
+            {
+                "address": "8a",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "8d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "8e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8f",
+                "name": "MUTE"
+            },
+            {
+                "address": "91",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "92",
+                "name": "SURROUND"
+            },
+            {
+                "address": "93",
+                "name": "DIGITAL"
+            },
+            {
+                "address": "95",
+                "name": "MEMORY"
+            },
+            {
+                "address": "96",
+                "name": "9"
+            },
+            {
+                "address": "97",
+                "name": "10"
+            },
+            {
+                "address": "98",
+                "name": "AUDIO 1"
+            },
+            {
+                "address": "99",
+                "name": "AUDIO 2"
+            },
+            {
+                "address": "9a",
+                "name": "AUDIO3"
+            },
+            {
+                "address": "9b",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "9c",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "9d",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "9e",
+                "name": "FM/AM"
+            },
+            {
+                "address": "9f",
+                "name": "MONO"
+            },
+            {
+                "address": "c0",
+                "name": "ON"
+            },
+            {
+                "address": "c1",
+                "name": "TRIM"
+            },
+            {
+                "address": "c2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "c3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "c4",
+                "name": "TUNE +"
+            },
+            {
+                "address": "c5",
+                "name": "TUNE -"
+            },
+            {
+                "address": "c6",
+                "name": "INPUT LEVEL +"
+            },
+            {
+                "address": "c7",
+                "name": "INPUT LEVEL -"
+            },
+            {
+                "address": "c8",
+                "name": "MANUAL"
+            },
+            {
+                "address": "c9",
+                "name": "MUTE"
+            },
+            {
+                "address": "cb",
+                "name": "PRESET +"
+            },
+            {
+                "address": "cc",
+                "name": "PRESET -"
+            },
+            {
+                "address": "cd",
+                "name": "CAL"
+            },
+            {
+                "address": "cf",
+                "name": "OFF"
+            },
+            {
+                "address": "d2",
+                "name": "5.1"
+            },
+            {
+                "address": "d3",
+                "name": "DYN"
+            },
+            {
+                "address": "d4",
+                "name": "TONE"
+            },
+            {
+                "address": "d6",
+                "name": "DELAY"
+            },
+            {
+                "address": "d7",
+                "name": "RE-EQ"
+            },
+            {
+                "address": "d8",
+                "name": "1"
+            },
+            {
+                "address": "d9",
+                "name": "2"
+            },
+            {
+                "address": "da",
+                "name": "3"
+            },
+            {
+                "address": "db",
+                "name": "4"
+            },
+            {
+                "address": "dc",
+                "name": "5"
+            },
+            {
+                "address": "dd",
+                "name": "6"
+            },
+            {
+                "address": "de",
+                "name": "7"
+            },
+            {
+                "address": "df",
+                "name": "8"
+            }
+        ],
+        "device_address": "30000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Parasound",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,215 @@
+{
+    "display_name": "InFocus Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "device_address": "21c000",
+                "name": "MENU",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3",
+                "device_address": "21c000",
+                "name": "BRIGHTNESS +",
+                "protocol": "NEC"
+            },
+            {
+                "address": "7",
+                "device_address": "21c000",
+                "name": "BRIGHTNESS -",
+                "protocol": "NEC"
+            },
+            {
+                "address": "e",
+                "device_address": "21c000",
+                "name": "FREEZE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "10",
+                "device_address": "21c000",
+                "name": "SOURSE SELECT",
+                "protocol": "NEC"
+            },
+            {
+                "address": "13",
+                "device_address": "21c000",
+                "name": "CURSOR UP",
+                "protocol": "NEC"
+            },
+            {
+                "address": "14",
+                "device_address": "21c000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "17",
+                "device_address": "21c000",
+                "name": "POWER",
+                "protocol": "NEC"
+            },
+            {
+                "address": "20",
+                "device_address": "21c000",
+                "name": "KEYSTONE +",
+                "protocol": "NEC"
+            },
+            {
+                "address": "21",
+                "device_address": "21c000",
+                "name": "KEYSTONE -",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2c",
+                "device_address": "21c000",
+                "name": "PRESETS",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2d",
+                "device_address": "21c000",
+                "name": "SOURCE 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2e",
+                "device_address": "21c000",
+                "name": "SOURCE 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2f",
+                "device_address": "21c000",
+                "name": "SOURCE 3",
+                "protocol": "NEC"
+            },
+            {
+                "address": "30",
+                "device_address": "21c000",
+                "name": "SOURCE 4",
+                "protocol": "NEC"
+            },
+            {
+                "address": "31",
+                "device_address": "21c000",
+                "name": "BLANK",
+                "protocol": "NEC"
+            },
+            {
+                "address": "32",
+                "device_address": "21c000",
+                "name": "SELECT",
+                "protocol": "NEC"
+            },
+            {
+                "address": "33",
+                "device_address": "21c000",
+                "name": "AUTO IMAGE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "34",
+                "device_address": "21c000",
+                "name": "RESIZE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "35",
+                "device_address": "21c000",
+                "name": "OVERSCAN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "36",
+                "device_address": "21c000",
+                "name": "CONTRAST +",
+                "protocol": "NEC"
+            },
+            {
+                "address": "37",
+                "device_address": "21c000",
+                "name": "CONTRAST -",
+                "protocol": "NEC"
+            },
+            {
+                "address": "39",
+                "device_address": "21c000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "21c000",
+                "name": "POWER OFF",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3a",
+                "device_address": "21c000",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "21c000",
+                "name": "POWER ON",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3b",
+                "device_address": "21c000",
+                "name": "NATIVE RESIZE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3c",
+                "device_address": "21c000",
+                "name": "16:9",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3d",
+                "device_address": "21c000",
+                "name": "4:3",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3e",
+                "device_address": "21c000",
+                "name": "LETTERBOX",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3f",
+                "device_address": "21c000",
+                "name": "NATURAL WIDE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "40",
+                "device_address": "21c000",
+                "name": "USER PRESET 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "41",
+                "device_address": "21c000",
+                "name": "USER PRESET 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "42",
+                "device_address": "21c000",
+                "name": "USER PRESET 3",
+                "protocol": "NEC"
+            }
+        ]
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

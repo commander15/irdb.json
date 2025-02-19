@@ -1,0 +1,65 @@
+{
+    "display_name": "CIS BOX HDTV ALL",
+    "ir": {
+        "commands": [
+            {
+                "address": "e",
+                "name": "GUIDE"
+            },
+            {
+                "address": "25",
+                "name": "VIDEO"
+            },
+            {
+                "address": "2a",
+                "name": "TV ANT"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "41",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "47",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "48",
+                "name": "VIDEO5"
+            },
+            {
+                "address": "5b",
+                "name": "QUARTER"
+            },
+            {
+                "address": "65",
+                "name": "RETURN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "HDTV ALL"
+}

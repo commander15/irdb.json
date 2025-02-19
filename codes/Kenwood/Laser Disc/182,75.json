@@ -1,0 +1,213 @@
+{
+    "display_name": "Kenwood Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "+10"
+            },
+            {
+                "address": "f",
+                "name": "AUDIO MONI."
+            },
+            {
+                "address": "10",
+                "name": "EJECT"
+            },
+            {
+                "address": "11",
+                "name": "STOP []"
+            },
+            {
+                "address": "12",
+                "name": "PAUSE "
+            },
+            {
+                "address": "14",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "15",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "16",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "17",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "18",
+                "name": "TIME"
+            },
+            {
+                "address": "19",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1a",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1b",
+                "name": "CHECK"
+            },
+            {
+                "address": "1f",
+                "name": "P.MODE"
+            },
+            {
+                "address": "40",
+                "name": "AUTO DIGITAL"
+            },
+            {
+                "address": "41",
+                "name": "TV/DISC"
+            },
+            {
+                "address": "42",
+                "name": "SPACE"
+            },
+            {
+                "address": "43",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "4a",
+                "name": "EDIT"
+            },
+            {
+                "address": "4e",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "4f",
+                "name": "RANDOM"
+            },
+            {
+                "address": "57",
+                "name": "FRAME/TIME"
+            },
+            {
+                "address": "58",
+                "name": "STILL/STEP <"
+            },
+            {
+                "address": "59",
+                "name": "STILL/STEP >"
+            },
+            {
+                "address": "5a",
+                "name": "MULTI SPEED <"
+            },
+            {
+                "address": "5b",
+                "name": "MULTI SPEED >"
+            },
+            {
+                "address": "5c",
+                "name": "MULTI SPEED -"
+            },
+            {
+                "address": "5d",
+                "name": "MULTI SPEED +"
+            },
+            {
+                "address": "5f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "80",
+                "name": "JOG FWD >>"
+            },
+            {
+                "address": "88",
+                "name": "JOG REV <<"
+            },
+            {
+                "address": "97",
+                "name": "MNT/HIT MASTER"
+            },
+            {
+                "address": "97",
+                "name": "MIDNIGHT THEATER"
+            },
+            {
+                "address": "98",
+                "name": "A"
+            },
+            {
+                "address": "99",
+                "name": "B"
+            },
+            {
+                "address": "9a",
+                "name": "PLAY >"
+            },
+            {
+                "address": "9b",
+                "name": "M-STOP"
+            },
+            {
+                "address": "9c",
+                "name": "M-SHOT"
+            },
+            {
+                "address": "9d",
+                "name": "POWER"
+            },
+            {
+                "address": "9f",
+                "name": "CX"
+            }
+        ],
+        "device_address": "5b000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

@@ -1,0 +1,53 @@
+{
+    "display_name": "Samsung Air Conditioner",
+    "ir": {
+        "commands": [
+            {
+                "address": "27",
+                "name": "SLEEP"
+            },
+            {
+                "address": "29",
+                "name": "AIR SWING"
+            },
+            {
+                "address": "31",
+                "name": "TEMP -"
+            },
+            {
+                "address": "32",
+                "name": "TEMP +"
+            },
+            {
+                "address": "34",
+                "name": "FAN SPEED"
+            },
+            {
+                "address": "39",
+                "name": "FAN"
+            },
+            {
+                "address": "3c",
+                "name": "COOL"
+            },
+            {
+                "address": "3f",
+                "name": "POWER"
+            },
+            {
+                "address": "3f",
+                "name": "POWER LONG"
+            },
+            {
+                "address": "3f",
+                "name": "POWER SUSTAIN"
+            }
+        ],
+        "device_address": "100",
+        "protocol": "Samsung20"
+    },
+    "manufacturer": "Samsung",
+    "model": "",
+    "name": "",
+    "target": "Air Conditioner"
+}

@@ -1,0 +1,133 @@
+{
+    "display_name": "Harman Kardon CD Changer",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "STOP"
+            },
+            {
+                "address": "2",
+                "name": "PLAY"
+            },
+            {
+                "address": "3",
+                "name": "PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "<<SEARCH"
+            },
+            {
+                "address": "6",
+                "name": "SEARCH>>"
+            },
+            {
+                "address": "a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "d",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "e",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1c",
+                "name": "TIME"
+            },
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "4d",
+                "name": "RANDOM"
+            },
+            {
+                "address": "50",
+                "name": "SKIP UP"
+            },
+            {
+                "address": "51",
+                "name": "DISC 1"
+            },
+            {
+                "address": "52",
+                "name": "DISC 2"
+            },
+            {
+                "address": "53",
+                "name": "DISC 3"
+            },
+            {
+                "address": "54",
+                "name": "DISC 4"
+            },
+            {
+                "address": "55",
+                "name": "DISC 5"
+            },
+            {
+                "address": "56",
+                "name": "ON"
+            },
+            {
+                "address": "57",
+                "name": "OFF"
+            },
+            {
+                "address": "5b",
+                "name": "SKIP DN"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "CD Changer"
+}

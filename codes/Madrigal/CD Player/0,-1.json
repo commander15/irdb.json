@@ -1,0 +1,45 @@
+{
+    "display_name": "Madrigal CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "21",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "22",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "23",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "24",
+                "name": "INPUT 5"
+            },
+            {
+                "address": "25",
+                "name": "INPUT 6"
+            },
+            {
+                "address": "2a",
+                "name": "OPERATE"
+            },
+            {
+                "address": "2b",
+                "name": "STANDBY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Madrigal",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

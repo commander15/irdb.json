@@ -1,0 +1,77 @@
+{
+    "display_name": "Kenwood Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DOLBY PRO LOGIC"
+            },
+            {
+                "address": "0",
+                "name": "DOLBY PROLOGIC"
+            },
+            {
+                "address": "4",
+                "name": "PRESENCE LEVEL V"
+            },
+            {
+                "address": "4",
+                "name": "PRESENCE LEVEL DWN"
+            },
+            {
+                "address": "5",
+                "name": "PRESENCE LEVEL ^"
+            },
+            {
+                "address": "5",
+                "name": "PRESENCE LEVEL UP"
+            },
+            {
+                "address": "e",
+                "name": "DOLBY 3 STEREO"
+            },
+            {
+                "address": "e",
+                "name": "DOLBY 3STEREO"
+            },
+            {
+                "address": "85",
+                "name": "DSP LOGIC"
+            },
+            {
+                "address": "8f",
+                "name": "VISUAL FIX"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL LEVEL V"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL LEVEL DWN"
+            },
+            {
+                "address": "9f",
+                "name": "CHANNEL LEVEL ^"
+            },
+            {
+                "address": "9f",
+                "name": "CHANNEL LEVEL UP"
+            },
+            {
+                "address": "c2",
+                "name": "THX CINEMA"
+            },
+            {
+                "address": "c3",
+                "name": "MONO"
+            }
+        ],
+        "device_address": "170",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

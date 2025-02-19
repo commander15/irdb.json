@@ -1,0 +1,77 @@
+{
+    "display_name": "3M Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "8",
+                "name": "RGB"
+            },
+            {
+                "address": "15",
+                "name": "FOCUS +"
+            },
+            {
+                "address": "16",
+                "name": "FOCUS -"
+            },
+            {
+                "address": "17",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "18",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "21",
+                "name": "MENU"
+            },
+            {
+                "address": "2a",
+                "name": "BLANK"
+            },
+            {
+                "address": "30",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "31",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "3f",
+                "name": "MAGNIFY"
+            },
+            {
+                "address": "56",
+                "name": "TIMER"
+            },
+            {
+                "address": "63",
+                "name": "FREEZE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "3M",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

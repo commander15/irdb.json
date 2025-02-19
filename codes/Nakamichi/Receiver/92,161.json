@@ -1,0 +1,105 @@
+{
+    "display_name": "Nakamichi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "TAPE1 FF >>"
+            },
+            {
+                "address": "c",
+                "name": "TAPE FF >>"
+            },
+            {
+                "address": "c",
+                "name": "TAPE1 FFWD >>"
+            },
+            {
+                "address": "d",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "d",
+                "name": "TAPE REW <<"
+            },
+            {
+                "address": "e",
+                "name": "TAPE1 CUE"
+            },
+            {
+                "address": "11",
+                "name": "TAPE1 REV PLAY <"
+            },
+            {
+                "address": "14",
+                "name": "TAPE1 REC"
+            },
+            {
+                "address": "14",
+                "name": "TAPE REC"
+            },
+            {
+                "address": "15",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "16",
+                "name": "TAPE PAUSE "
+            },
+            {
+                "address": "17",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "17",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "8c",
+                "name": "TAPE2 FFWD >>"
+            },
+            {
+                "address": "8d",
+                "name": "TAPE2 REW <<"
+            },
+            {
+                "address": "8e",
+                "name": "TAPE2 CUE"
+            },
+            {
+                "address": "91",
+                "name": "TAPE2 REV PLAY <"
+            },
+            {
+                "address": "94",
+                "name": "TAPE2 REC"
+            },
+            {
+                "address": "95",
+                "name": "TAPE2 PLAY >"
+            },
+            {
+                "address": "96",
+                "name": "TAPE2 PAUSE "
+            },
+            {
+                "address": "97",
+                "name": "TAPE2 STOP []"
+            }
+        ],
+        "device_address": "b8",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

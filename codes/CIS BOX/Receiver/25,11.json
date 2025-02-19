@@ -1,0 +1,29 @@
+{
+    "display_name": "CIS BOX Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "42",
+                "name": "VID 3"
+            },
+            {
+                "address": "6a",
+                "name": "TV SAT"
+            }
+        ],
+        "device_address": "c800",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

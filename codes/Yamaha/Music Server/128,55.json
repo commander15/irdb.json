@@ -1,0 +1,353 @@
+{
+    "display_name": "Yamaha Music Server",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "POWER"
+            },
+            {
+                "address": "21",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "22",
+                "name": "PLAY"
+            },
+            {
+                "address": "23",
+                "name": "PAUSE"
+            },
+            {
+                "address": "25",
+                "name": "STOP"
+            },
+            {
+                "address": "26",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "27",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "28",
+                "name": "CHAPTER <<"
+            },
+            {
+                "address": "29",
+                "name": "CHAPTER >>"
+            },
+            {
+                "address": "2a",
+                "name": "GOUP -"
+            },
+            {
+                "address": "2b",
+                "name": "GROUP +"
+            },
+            {
+                "address": "30",
+                "name": "TIMER"
+            },
+            {
+                "address": "31",
+                "name": "BROADCAST"
+            },
+            {
+                "address": "32",
+                "name": "RANDOM"
+            },
+            {
+                "address": "33",
+                "name": "REPEAT"
+            },
+            {
+                "address": "3d",
+                "name": "FUNCTION 3"
+            },
+            {
+                "address": "3d",
+                "name": "RECEIVER MUTE"
+            },
+            {
+                "address": "3e",
+                "name": "FUNCTION 1"
+            },
+            {
+                "address": "3e",
+                "name": "RECEIVER VOL -"
+            },
+            {
+                "address": "3f",
+                "name": "FUNCTION 2"
+            },
+            {
+                "address": "3f",
+                "name": "RECEIVER VOL +"
+            },
+            {
+                "address": "40",
+                "name": "ARTIST"
+            },
+            {
+                "address": "41",
+                "name": "ALBUM"
+            },
+            {
+                "address": "42",
+                "name": "GENRES"
+            },
+            {
+                "address": "43",
+                "name": "ALL SONGS"
+            },
+            {
+                "address": "44",
+                "name": "PLAYLIST"
+            },
+            {
+                "address": "45",
+                "name": "SONG STATS."
+            },
+            {
+                "address": "46",
+                "name": "BOOKMARKS"
+            },
+            {
+                "address": "47",
+                "name": "CD"
+            },
+            {
+                "address": "48",
+                "name": "RECORDING"
+            },
+            {
+                "address": "49",
+                "name": "AV RECIEVER"
+            },
+            {
+                "address": "4a",
+                "name": "CLIENT PLAYBACK"
+            },
+            {
+                "address": "4b",
+                "name": "EXT. INPUTS"
+            },
+            {
+                "address": "4e",
+                "name": "PLAY INFO"
+            },
+            {
+                "address": "4f",
+                "name": "BOOKMARK ON/OFF"
+            },
+            {
+                "address": "50",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "51",
+                "name": "MENU"
+            },
+            {
+                "address": "52",
+                "name": "UP"
+            },
+            {
+                "address": "53",
+                "name": "DOWN"
+            },
+            {
+                "address": "54",
+                "name": "LEFT"
+            },
+            {
+                "address": "55",
+                "name": "RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "SELECT"
+            },
+            {
+                "address": "57",
+                "name": "BACK"
+            },
+            {
+                "address": "58",
+                "name": "SUB MENU"
+            },
+            {
+                "address": "59",
+                "name": "PAGE +"
+            },
+            {
+                "address": "5a",
+                "name": "PAGE -"
+            },
+            {
+                "address": "61",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "2"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "85",
+                "name": "5"
+            },
+            {
+                "address": "85",
+                "name": "STOP"
+            },
+            {
+                "address": "86",
+                "name": "4"
+            },
+            {
+                "address": "86",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "87",
+                "name": "6"
+            },
+            {
+                "address": "87",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "88",
+                "name": "1"
+            },
+            {
+                "address": "88",
+                "name": "CHAPTER -"
+            },
+            {
+                "address": "89",
+                "name": "3"
+            },
+            {
+                "address": "89",
+                "name": "CHAPTER +"
+            },
+            {
+                "address": "8a",
+                "name": "7"
+            },
+            {
+                "address": "8a",
+                "name": "GROUP -"
+            },
+            {
+                "address": "8b",
+                "name": "GROUP +"
+            },
+            {
+                "address": "8c",
+                "name": "FAVORITE 1"
+            },
+            {
+                "address": "8d",
+                "name": "FAVORITE 2"
+            },
+            {
+                "address": "8e",
+                "name": "FAVORITE 3"
+            },
+            {
+                "address": "8f",
+                "name": "FAVORITE 4"
+            },
+            {
+                "address": "91",
+                "name": "BOOKMARK"
+            },
+            {
+                "address": "92",
+                "name": "RANDOM"
+            },
+            {
+                "address": "93",
+                "name": "REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "INPUT"
+            },
+            {
+                "address": "9d",
+                "name": "MUTE"
+            },
+            {
+                "address": "9e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "9f",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "ae",
+                "name": "PLAY INFO"
+            },
+            {
+                "address": "b1",
+                "name": "MENU"
+            },
+            {
+                "address": "b2",
+                "name": "UP"
+            },
+            {
+                "address": "b3",
+                "name": "DOWN"
+            },
+            {
+                "address": "b4",
+                "name": "LEFT"
+            },
+            {
+                "address": "b5",
+                "name": "RIGHT"
+            },
+            {
+                "address": "b6",
+                "name": "SELECT/ENTER"
+            },
+            {
+                "address": "bd",
+                "name": "LIBRARY"
+            },
+            {
+                "address": "be",
+                "name": "OFF TIMER"
+            },
+            {
+                "address": "bf",
+                "name": "ON TIMER"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Music Server"
+}

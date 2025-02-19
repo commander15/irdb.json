@@ -1,0 +1,185 @@
+{
+    "display_name": "Intervideo VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CH/TRACKING ^"
+            },
+            {
+                "address": "2",
+                "name": "CH/TRACKING V"
+            },
+            {
+                "address": "3",
+                "name": "AUDIO OUT"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "7",
+                "name": "4"
+            },
+            {
+                "address": "8",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "c",
+                "name": "5"
+            },
+            {
+                "address": "d",
+                "name": "6"
+            },
+            {
+                "address": "e",
+                "name": "7"
+            },
+            {
+                "address": "f",
+                "name": "8"
+            },
+            {
+                "address": "10",
+                "name": "STOP []"
+            },
+            {
+                "address": "11",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "12",
+                "name": "REW/SRCH <<"
+            },
+            {
+                "address": "13",
+                "name": "FF/SRCH >>"
+            },
+            {
+                "address": "14",
+                "name": "PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "REC"
+            },
+            {
+                "address": "19",
+                "name": "INDEX"
+            },
+            {
+                "address": "1a",
+                "name": "SLOW"
+            },
+            {
+                "address": "1b",
+                "name": "1--"
+            },
+            {
+                "address": "1c",
+                "name": "9"
+            },
+            {
+                "address": "1d",
+                "name": "0"
+            },
+            {
+                "address": "1e",
+                "name": "INPUT"
+            },
+            {
+                "address": "1f",
+                "name": "AUTO TRACKING"
+            },
+            {
+                "address": "40",
+                "name": "OTR OFF"
+            },
+            {
+                "address": "41",
+                "name": "OTR ON"
+            },
+            {
+                "address": "43",
+                "name": "MEMORY"
+            },
+            {
+                "address": "44",
+                "name": "RESET"
+            },
+            {
+                "address": "46",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "47",
+                "name": "SLOW ^"
+            },
+            {
+                "address": "48",
+                "name": "SLOW V"
+            },
+            {
+                "address": "49",
+                "name": "AUDIO DUB"
+            },
+            {
+                "address": "4a",
+                "name": "CLEAR"
+            },
+            {
+                "address": "4c",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "51",
+                "name": "TV MONITOR"
+            },
+            {
+                "address": "5b",
+                "name": "POWER"
+            },
+            {
+                "address": "5c",
+                "name": "CHANNEL SCAN"
+            },
+            {
+                "address": "5e",
+                "name": "TAPE SPEED"
+            },
+            {
+                "address": "99",
+                "name": "ADD"
+            },
+            {
+                "address": "9e",
+                "name": "CH PROG AUTO"
+            },
+            {
+                "address": "9f",
+                "name": "ERASE"
+            },
+            {
+                "address": "d0",
+                "name": "BLANK SEARCH"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Intervideo",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,21 @@
+{
+    "display_name": "LG DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "f8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "f9",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "100000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "LG",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

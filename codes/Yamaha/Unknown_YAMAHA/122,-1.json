@@ -1,0 +1,145 @@
+{
+    "display_name": "Yamaha Unknown_YAMAHA",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE_PLAY"
+            },
+            {
+                "address": "1",
+                "name": "TAPE_REW"
+            },
+            {
+                "address": "2",
+                "name": "TAPE_FWD"
+            },
+            {
+                "address": "3",
+                "name": "TAPE_STOP"
+            },
+            {
+                "address": "4",
+                "name": "TAPE_REC_PAUSE"
+            },
+            {
+                "address": "5",
+                "name": "TAPE_REC_MUTE"
+            },
+            {
+                "address": "6",
+                "name": "TAPE_DECK_AB"
+            },
+            {
+                "address": "7",
+                "name": "TAPE_DIR_A"
+            },
+            {
+                "address": "8",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "9",
+                "name": "CD_PAUSE_STOP"
+            },
+            {
+                "address": "a",
+                "name": "CD_TRK_+"
+            },
+            {
+                "address": "b",
+                "name": "CD_TRK_-"
+            },
+            {
+                "address": "c",
+                "name": "CD_FWD"
+            },
+            {
+                "address": "d",
+                "name": "CD_REW"
+            },
+            {
+                "address": "e",
+                "name": "PHONO_PLAY_CUT"
+            },
+            {
+                "address": "10",
+                "name": "TUNER_PRESET_+"
+            },
+            {
+                "address": "11",
+                "name": "TUNER_PRESET_-"
+            },
+            {
+                "address": "12",
+                "name": "TUNER_ABCDE"
+            },
+            {
+                "address": "14",
+                "name": "PHONO"
+            },
+            {
+                "address": "15",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "16",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "17",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "18",
+                "name": "TAPE1"
+            },
+            {
+                "address": "19",
+                "name": "TAPE2"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "40",
+                "name": "TAPE_DIR_B"
+            },
+            {
+                "address": "4f",
+                "name": "CD_DISC_SKIP"
+            },
+            {
+                "address": "57",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "5a",
+                "name": "EQ_ON_FLAT"
+            },
+            {
+                "address": "5b",
+                "name": "EQ_PRESET_+"
+            },
+            {
+                "address": "5c",
+                "name": "EQ_PRESET_-"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_YAMAHA"
+}

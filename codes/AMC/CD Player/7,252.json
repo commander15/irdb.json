@@ -1,0 +1,105 @@
+{
+    "display_name": "AMC CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "RANDOM"
+            },
+            {
+                "address": "1",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2",
+                "name": "TIME"
+            },
+            {
+                "address": "3",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "6",
+                "name": "A-B"
+            },
+            {
+                "address": "9",
+                "name": "1"
+            },
+            {
+                "address": "a",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "TRACK <"
+            },
+            {
+                "address": "f",
+                "name": "STOP"
+            },
+            {
+                "address": "11",
+                "name": "7"
+            },
+            {
+                "address": "12",
+                "name": "10"
+            },
+            {
+                "address": "13",
+                "name": "PLAY"
+            },
+            {
+                "address": "15",
+                "name": "8"
+            },
+            {
+                "address": "16",
+                "name": "+10"
+            },
+            {
+                "address": "17",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "5"
+            },
+            {
+                "address": "1a",
+                "name": "TRACK >"
+            },
+            {
+                "address": "1b",
+                "name": "6"
+            },
+            {
+                "address": "1d",
+                "name": "2"
+            },
+            {
+                "address": "1e",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "1f",
+                "name": "3"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AMC",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

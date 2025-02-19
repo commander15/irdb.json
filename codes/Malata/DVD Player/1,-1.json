@@ -1,0 +1,177 @@
+{
+    "display_name": "Malata DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "8",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "c",
+                "name": "TITLE"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "11",
+                "name": "3"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "19",
+                "name": "SEARCH"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "40",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "41",
+                "name": "7"
+            },
+            {
+                "address": "42",
+                "name": "PREV TRACK <<"
+            },
+            {
+                "address": "43",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "44",
+                "name": "ANGLE"
+            },
+            {
+                "address": "45",
+                "name": "8"
+            },
+            {
+                "address": "46",
+                "name": "PAUSE"
+            },
+            {
+                "address": "48",
+                "name": "SETUP"
+            },
+            {
+                "address": "49",
+                "name": "+10"
+            },
+            {
+                "address": "4a",
+                "name": "NEXT TRACK >>"
+            },
+            {
+                "address": "4b",
+                "name": "OK"
+            },
+            {
+                "address": "4c",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "4d",
+                "name": "0"
+            },
+            {
+                "address": "4e",
+                "name": "RETURN"
+            },
+            {
+                "address": "4f",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "50",
+                "name": "SUBPICTURE"
+            },
+            {
+                "address": "51",
+                "name": "9"
+            },
+            {
+                "address": "52",
+                "name": "STOP"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "54",
+                "name": "SLOW <"
+            },
+            {
+                "address": "55",
+                "name": "CLEAR"
+            },
+            {
+                "address": "56",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "57",
+                "name": "POWER"
+            },
+            {
+                "address": "58",
+                "name": "FEATURE"
+            },
+            {
+                "address": "59",
+                "name": "A-B"
+            },
+            {
+                "address": "5a",
+                "name": "PLAY"
+            },
+            {
+                "address": "5c",
+                "name": "SLOW >"
+            },
+            {
+                "address": "5d",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "5e",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "5f",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Malata",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

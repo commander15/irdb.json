@@ -1,0 +1,145 @@
+{
+    "display_name": "Harman Kardon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "4",
+                "name": "SOURCE CABLE/SAT"
+            },
+            {
+                "address": "5",
+                "name": "SOURCE DVD"
+            },
+            {
+                "address": "6",
+                "name": "SOURCE THE BRIDGE"
+            },
+            {
+                "address": "8",
+                "name": "SOURCE RADIO"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE TV"
+            },
+            {
+                "address": "a",
+                "name": "SOURCE GAME"
+            },
+            {
+                "address": "b",
+                "name": "SOURCE MEDIA SERVR"
+            },
+            {
+                "address": "c",
+                "name": "SOURCE AUX"
+            },
+            {
+                "address": "1b",
+                "name": "LAST"
+            },
+            {
+                "address": "1c",
+                "name": "BACK/EXIT"
+            },
+            {
+                "address": "1d",
+                "name": "MENU"
+            },
+            {
+                "address": "1f",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "20",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "22",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "23",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "28",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "29",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME MUTE"
+            },
+            {
+                "address": "2b",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2c",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2d",
+                "name": "TR SKIP <<"
+            },
+            {
+                "address": "2e",
+                "name": "TR PAUSE"
+            },
+            {
+                "address": "2f",
+                "name": "TR SKIP >>"
+            },
+            {
+                "address": "30",
+                "name": "TR SCAN <<"
+            },
+            {
+                "address": "31",
+                "name": "TR PLAY"
+            },
+            {
+                "address": "32",
+                "name": "TR SCAN >>"
+            },
+            {
+                "address": "33",
+                "name": "TR STOP"
+            },
+            {
+                "address": "34",
+                "name": "TR REC"
+            },
+            {
+                "address": "36",
+                "name": "INFO"
+            },
+            {
+                "address": "38",
+                "name": "SLEEP"
+            }
+        ],
+        "device_address": "21800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

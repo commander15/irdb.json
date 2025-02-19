@@ -1,0 +1,325 @@
+{
+    "display_name": "Axonix MediaMax",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "8",
+                "name": "ARROW LEFT B"
+            },
+            {
+                "address": "a",
+                "name": "DEL"
+            },
+            {
+                "address": "a",
+                "name": "DEL B"
+            },
+            {
+                "address": "d",
+                "name": "OK"
+            },
+            {
+                "address": "d",
+                "name": "OK B"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME - B"
+            },
+            {
+                "address": "26",
+                "name": "TV"
+            },
+            {
+                "address": "26",
+                "name": "TV B"
+            },
+            {
+                "address": "29",
+                "name": "REC"
+            },
+            {
+                "address": "29",
+                "name": "REC B"
+            },
+            {
+                "address": "2d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2d",
+                "name": "VOLUME + B"
+            },
+            {
+                "address": "3d",
+                "name": "EPG"
+            },
+            {
+                "address": "3d",
+                "name": "EPG B"
+            },
+            {
+                "address": "88",
+                "name": "?"
+            },
+            {
+                "address": "88",
+                "name": "? B"
+            },
+            {
+                "address": "8c",
+                "name": "B"
+            },
+            {
+                "address": "8c",
+                "name": "B B"
+            },
+            {
+                "address": "99",
+                "name": "C"
+            },
+            {
+                "address": "99",
+                "name": "C B"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL + B"
+            },
+            {
+                "address": "9f",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "9f",
+                "name": "CHANNEL - B"
+            },
+            {
+                "address": "a8",
+                "name": "UP"
+            },
+            {
+                "address": "a8",
+                "name": "UP B"
+            },
+            {
+                "address": "a9",
+                "name": "DOWN"
+            },
+            {
+                "address": "a9",
+                "name": "DOWN B"
+            },
+            {
+                "address": "aa",
+                "name": "LEFT"
+            },
+            {
+                "address": "aa",
+                "name": "LEFT B"
+            },
+            {
+                "address": "ab",
+                "name": "RIGHT"
+            },
+            {
+                "address": "ab",
+                "name": "RIGHT B"
+            },
+            {
+                "address": "b7",
+                "name": "PIP"
+            },
+            {
+                "address": "b7",
+                "name": "PIP B"
+            },
+            {
+                "address": "d0",
+                "name": "A"
+            },
+            {
+                "address": "d0",
+                "name": "A B"
+            },
+            {
+                "address": "d1",
+                "name": "P"
+            },
+            {
+                "address": "d1",
+                "name": "P B"
+            },
+            {
+                "address": "d2",
+                "name": "POWER"
+            },
+            {
+                "address": "d2",
+                "name": "POWER B"
+            },
+            {
+                "address": "d3",
+                "name": "PAUSE"
+            },
+            {
+                "address": "d3",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "d4",
+                "name": "STOP"
+            },
+            {
+                "address": "d4",
+                "name": "STOP B"
+            },
+            {
+                "address": "d5",
+                "name": "REW"
+            },
+            {
+                "address": "d5",
+                "name": "REW B"
+            },
+            {
+                "address": "d6",
+                "name": "FF"
+            },
+            {
+                "address": "d6",
+                "name": "FF B"
+            },
+            {
+                "address": "db",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "db",
+                "name": "SKIP << B"
+            },
+            {
+                "address": "dc",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "dc",
+                "name": "SKIP >> B"
+            },
+            {
+                "address": "e1",
+                "name": "STAR"
+            },
+            {
+                "address": "e1",
+                "name": "STAR B"
+            },
+            {
+                "address": "f1",
+                "name": "0"
+            },
+            {
+                "address": "f1",
+                "name": "0 B"
+            },
+            {
+                "address": "f2",
+                "name": "1"
+            },
+            {
+                "address": "f2",
+                "name": "1B"
+            },
+            {
+                "address": "f3",
+                "name": "2"
+            },
+            {
+                "address": "f3",
+                "name": "2B"
+            },
+            {
+                "address": "f4",
+                "name": "3"
+            },
+            {
+                "address": "f4",
+                "name": "3B"
+            },
+            {
+                "address": "f5",
+                "name": "4"
+            },
+            {
+                "address": "f5",
+                "name": "4B"
+            },
+            {
+                "address": "f6",
+                "name": "5"
+            },
+            {
+                "address": "f6",
+                "name": "5B"
+            },
+            {
+                "address": "f7",
+                "name": "6"
+            },
+            {
+                "address": "f7",
+                "name": "6B"
+            },
+            {
+                "address": "f8",
+                "name": "7"
+            },
+            {
+                "address": "f8",
+                "name": "7B"
+            },
+            {
+                "address": "f9",
+                "name": "8"
+            },
+            {
+                "address": "f9",
+                "name": "8B"
+            },
+            {
+                "address": "fa",
+                "name": "9"
+            },
+            {
+                "address": "fa",
+                "name": "9 B"
+            },
+            {
+                "address": "fc",
+                "name": "C/N"
+            },
+            {
+                "address": "fc",
+                "name": "C/NB"
+            }
+        ],
+        "device_address": "1100000",
+        "protocol": "MCE"
+    },
+    "manufacturer": "Axonix",
+    "model": "",
+    "name": "",
+    "target": "MediaMax"
+}

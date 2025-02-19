@@ -1,0 +1,733 @@
+{
+    "display_name": "Mitsubishi TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "0",
+                "name": "TV 1"
+            },
+            {
+                "address": "1",
+                "name": "9"
+            },
+            {
+                "address": "1",
+                "name": "TV 9"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "TV POWER"
+            },
+            {
+                "address": "3",
+                "name": "ST/SAP/MONO"
+            },
+            {
+                "address": "4",
+                "name": "COLOR +"
+            },
+            {
+                "address": "5",
+                "name": "EXTERNAL 1"
+            },
+            {
+                "address": "7",
+                "name": "CANCEL"
+            },
+            {
+                "address": "7",
+                "name": "TV CANCEL"
+            },
+            {
+                "address": "7",
+                "name": "TV"
+            },
+            {
+                "address": "8",
+                "name": "2"
+            },
+            {
+                "address": "8",
+                "name": "TV 2"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "9",
+                "name": "TV 0"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "a",
+                "name": "SCAN ^ (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "a",
+                "name": "SCAN ^(CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "b",
+                "name": "RESET"
+            },
+            {
+                "address": "c",
+                "name": "COLOR -"
+            },
+            {
+                "address": "d",
+                "name": "EXTERNAL 2"
+            },
+            {
+                "address": "f",
+                "name": "QUICK VIEW"
+            },
+            {
+                "address": "f",
+                "name": "Q/V"
+            },
+            {
+                "address": "f",
+                "name": "QV"
+            },
+            {
+                "address": "f",
+                "name": "TV QV"
+            },
+            {
+                "address": "f",
+                "name": "Q.V."
+            },
+            {
+                "address": "f",
+                "name": "Q / V"
+            },
+            {
+                "address": "f",
+                "name": "RCL"
+            },
+            {
+                "address": "10",
+                "name": "3"
+            },
+            {
+                "address": "10",
+                "name": "TV 3"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "12",
+                "name": "SCAN V (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "12",
+                "name": "SCAN V(CH V)"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "13",
+                "name": "EXP"
+            },
+            {
+                "address": "13",
+                "name": "AUDIO EXPANSION"
+            },
+            {
+                "address": "17",
+                "name": "OFF-T"
+            },
+            {
+                "address": "17",
+                "name": "TIMER"
+            },
+            {
+                "address": "17",
+                "name": "OFF-T/OTR"
+            },
+            {
+                "address": "17",
+                "name": "TV SLEEP"
+            },
+            {
+                "address": "17",
+                "name": "SLEEP"
+            },
+            {
+                "address": "18",
+                "name": "4"
+            },
+            {
+                "address": "18",
+                "name": "TV 4"
+            },
+            {
+                "address": "1a",
+                "name": "INPUT -"
+            },
+            {
+                "address": "1a",
+                "name": "ANT A/B"
+            },
+            {
+                "address": "1a",
+                "name": "INPUT V"
+            },
+            {
+                "address": "1a",
+                "name": "ANTENNA"
+            },
+            {
+                "address": "1b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1b",
+                "name": "DISP"
+            },
+            {
+                "address": "1b",
+                "name": "TV INFO"
+            },
+            {
+                "address": "1b",
+                "name": "INFO"
+            },
+            {
+                "address": "1b",
+                "name": "DISPLAY RECALL"
+            },
+            {
+                "address": "1f",
+                "name": "CHANNEL LOCK"
+            },
+            {
+                "address": "20",
+                "name": "5"
+            },
+            {
+                "address": "20",
+                "name": "TV 5"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "22",
+                "name": "VOL ^"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "23",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "28",
+                "name": "6"
+            },
+            {
+                "address": "28",
+                "name": "TV 6"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "2a",
+                "name": "VOL V"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "2b",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "2f",
+                "name": "MONO"
+            },
+            {
+                "address": "30",
+                "name": "7"
+            },
+            {
+                "address": "30",
+                "name": "TV 7"
+            },
+            {
+                "address": "31",
+                "name": "INPUT; VGA"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "32",
+                "name": "MUTING"
+            },
+            {
+                "address": "33",
+                "name": "AV MEMORY"
+            },
+            {
+                "address": "33",
+                "name": "TINT +"
+            },
+            {
+                "address": "35",
+                "name": "ENTER"
+            },
+            {
+                "address": "35",
+                "name": "ENTER/EXCH"
+            },
+            {
+                "address": "35",
+                "name": "TV ENTER"
+            },
+            {
+                "address": "35",
+                "name": "EXCH"
+            },
+            {
+                "address": "36",
+                "name": "SUB"
+            },
+            {
+                "address": "37",
+                "name": "SAP"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "38",
+                "name": "TV 8"
+            },
+            {
+                "address": "39",
+                "name": "ANT A/B"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT +"
+            },
+            {
+                "address": "3a",
+                "name": "TV/EXT1/2"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT ^"
+            },
+            {
+                "address": "3a",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "DEVICE"
+            },
+            {
+                "address": "3a",
+                "name": "INPUT SOURCE"
+            },
+            {
+                "address": "3b",
+                "name": "TINT -"
+            },
+            {
+                "address": "3e",
+                "name": "FORMAT"
+            },
+            {
+                "address": "3f",
+                "name": "STEREO"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO ^"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "TV VIDEO"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST ^"
+            },
+            {
+                "address": "41",
+                "name": "UP"
+            },
+            {
+                "address": "41",
+                "name": "TV ADJUST ^"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST"
+            },
+            {
+                "address": "41",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "42",
+                "name": "ON"
+            },
+            {
+                "address": "42",
+                "name": "POWER ON"
+            },
+            {
+                "address": "43",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "45",
+                "name": "FUNCTION <"
+            },
+            {
+                "address": "48",
+                "name": "VIDEO V"
+            },
+            {
+                "address": "49",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "49",
+                "name": "ADJUST V"
+            },
+            {
+                "address": "49",
+                "name": "DOWN"
+            },
+            {
+                "address": "49",
+                "name": "TV EXCH V"
+            },
+            {
+                "address": "49",
+                "name": "TV ADJUST V"
+            },
+            {
+                "address": "49",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "4a",
+                "name": "OFF"
+            },
+            {
+                "address": "4a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "4c",
+                "name": "ANT B"
+            },
+            {
+                "address": "4c",
+                "name": "INPUT: ANTENNA B"
+            },
+            {
+                "address": "4e",
+                "name": "SQV"
+            },
+            {
+                "address": "4e",
+                "name": "TV SQV"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO ^"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "TV AUDIO"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "52",
+                "name": "TV MENU"
+            },
+            {
+                "address": "52",
+                "name": "MUNU"
+            },
+            {
+                "address": "54",
+                "name": "UNKNOWN #2"
+            },
+            {
+                "address": "58",
+                "name": "AUDIO V"
+            },
+            {
+                "address": "59",
+                "name": "INPUT; VIDEO 5"
+            },
+            {
+                "address": "5a",
+                "name": "ANT A"
+            },
+            {
+                "address": "5a",
+                "name": "INPUT: ANTENNA A"
+            },
+            {
+                "address": "5c",
+                "name": "FUNCTION >"
+            },
+            {
+                "address": "5c",
+                "name": "UNKNOWN #1"
+            },
+            {
+                "address": "5f",
+                "name": "PIP SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "TV SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "PIP INPUT"
+            },
+            {
+                "address": "61",
+                "name": "INPUT; COMP 2"
+            },
+            {
+                "address": "62",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "62",
+                "name": "INPUT: VIDEO 1"
+            },
+            {
+                "address": "63",
+                "name": "TV GUIDE"
+            },
+            {
+                "address": "63",
+                "name": "GUIDE"
+            },
+            {
+                "address": "65",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "65",
+                "name": "LEFT"
+            },
+            {
+                "address": "65",
+                "name": "TV <"
+            },
+            {
+                "address": "65",
+                "name": "TV ADJUST <"
+            },
+            {
+                "address": "65",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "67",
+                "name": "FREEZE (PAUSE)"
+            },
+            {
+                "address": "69",
+                "name": "INPUT; COMP 1"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT: VIDEO 2"
+            },
+            {
+                "address": "6d",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "6d",
+                "name": "RIGHT"
+            },
+            {
+                "address": "6d",
+                "name": "TV >"
+            },
+            {
+                "address": "6d",
+                "name": "TV ADJUST >"
+            },
+            {
+                "address": "6d",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "6e",
+                "name": "POSITION"
+            },
+            {
+                "address": "6f",
+                "name": "PIP AUDIO"
+            },
+            {
+                "address": "71",
+                "name": "INPUT: DTV ANT"
+            },
+            {
+                "address": "72",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "72",
+                "name": "INPUT: VIDEO 3"
+            },
+            {
+                "address": "76",
+                "name": "PIP CHAN +"
+            },
+            {
+                "address": "76",
+                "name": "PIP CHANNEL +"
+            },
+            {
+                "address": "77",
+                "name": "PIP"
+            },
+            {
+                "address": "77",
+                "name": "PIP ON/OFF"
+            },
+            {
+                "address": "77",
+                "name": "TV PIP"
+            },
+            {
+                "address": "77",
+                "name": "PIP/POP"
+            },
+            {
+                "address": "79",
+                "name": "INPUT: DTV"
+            },
+            {
+                "address": "7a",
+                "name": "INPUT; VIDEO 4"
+            },
+            {
+                "address": "7d",
+                "name": "HOME"
+            },
+            {
+                "address": "7d",
+                "name": "TV HOME"
+            },
+            {
+                "address": "7e",
+                "name": "PIP CHAN -"
+            },
+            {
+                "address": "7e",
+                "name": "PIP CHANNEL -"
+            },
+            {
+                "address": "7f",
+                "name": "EXCH"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

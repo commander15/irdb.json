@@ -1,0 +1,193 @@
+{
+    "display_name": "Digital Projection Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "1",
+                "name": "AUTO"
+            },
+            {
+                "address": "2",
+                "name": "INFO"
+            },
+            {
+                "address": "3",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "4",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "5",
+                "name": "COLOR +"
+            },
+            {
+                "address": "6",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "7",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "8",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "9",
+                "name": "COLOR -"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "b",
+                "name": "VGA"
+            },
+            {
+                "address": "c",
+                "name": "DVI"
+            },
+            {
+                "address": "d",
+                "name": "COMPOSITE"
+            },
+            {
+                "address": "e",
+                "name": "AV-MUTE"
+            },
+            {
+                "address": "f",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "10",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "11",
+                "name": "STILL"
+            },
+            {
+                "address": "12",
+                "name": "TIME"
+            },
+            {
+                "address": "13",
+                "name": "ASPECT"
+            },
+            {
+                "address": "14",
+                "name": "MENU"
+            },
+            {
+                "address": "15",
+                "name": "LEFT KEY"
+            },
+            {
+                "address": "16",
+                "name": "RIGHT KEY"
+            },
+            {
+                "address": "17",
+                "name": "GAMMA -"
+            },
+            {
+                "address": "18",
+                "name": "GAMMA +"
+            },
+            {
+                "address": "19",
+                "name": "* (STAR)"
+            },
+            {
+                "address": "1a",
+                "name": "1"
+            },
+            {
+                "address": "1b",
+                "name": "2"
+            },
+            {
+                "address": "1c",
+                "name": "3"
+            },
+            {
+                "address": "1d",
+                "name": "4"
+            },
+            {
+                "address": "1e",
+                "name": "5"
+            },
+            {
+                "address": "1f",
+                "name": "6"
+            },
+            {
+                "address": "20",
+                "name": "7"
+            },
+            {
+                "address": "21",
+                "name": "8"
+            },
+            {
+                "address": "22",
+                "name": "9"
+            },
+            {
+                "address": "23",
+                "name": "STORE"
+            },
+            {
+                "address": "24",
+                "name": "0"
+            },
+            {
+                "address": "25",
+                "name": "RECALL"
+            },
+            {
+                "address": "26",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "27",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "28",
+                "name": "OK"
+            },
+            {
+                "address": "29",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "2a",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "80",
+                "name": "POWER ON"
+            },
+            {
+                "address": "81",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Digital Projection",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

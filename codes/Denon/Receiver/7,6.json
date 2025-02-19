@@ -1,0 +1,265 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "ON"
+            },
+            {
+                "address": "3",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3",
+                "name": "OFF"
+            },
+            {
+                "address": "6",
+                "name": "MAIN ON"
+            },
+            {
+                "address": "7",
+                "name": "MAIN OFF"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "1b",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "30",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "30",
+                "name": "PHONO"
+            },
+            {
+                "address": "31",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "32",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "32",
+                "name": "CD"
+            },
+            {
+                "address": "33",
+                "name": "INPUT CD-R"
+            },
+            {
+                "address": "3b",
+                "name": "INPUT IPOD"
+            },
+            {
+                "address": "3b",
+                "name": "IPOD"
+            },
+            {
+                "address": "40",
+                "name": "INPUT DVD/VDP"
+            },
+            {
+                "address": "40",
+                "name": "DVD/VDP"
+            },
+            {
+                "address": "45",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "49",
+                "name": "INPUT V.AUX"
+            },
+            {
+                "address": "50",
+                "name": "TUNE +"
+            },
+            {
+                "address": "50",
+                "name": "TUNING +"
+            },
+            {
+                "address": "51",
+                "name": "TUNE -"
+            },
+            {
+                "address": "51",
+                "name": "TUNING -"
+            },
+            {
+                "address": "52",
+                "name": "CHAN +"
+            },
+            {
+                "address": "52",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "53",
+                "name": "CHAN -"
+            },
+            {
+                "address": "53",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "54",
+                "name": "TUNER SHIFT"
+            },
+            {
+                "address": "54",
+                "name": "SHIFT"
+            },
+            {
+                "address": "57",
+                "name": "TUNER FM/AM"
+            },
+            {
+                "address": "57",
+                "name": "FM/AM"
+            },
+            {
+                "address": "58",
+                "name": "BAND"
+            },
+            {
+                "address": "5b",
+                "name": "TUNER XM RADIO"
+            },
+            {
+                "address": "5b",
+                "name": "XM RADIO"
+            },
+            {
+                "address": "5c",
+                "name": "TUNER BAND"
+            },
+            {
+                "address": "5c",
+                "name": "TUNER MODE"
+            },
+            {
+                "address": "60",
+                "name": "TUNE MEMORY"
+            },
+            {
+                "address": "60",
+                "name": "TUNER MEMORY"
+            },
+            {
+                "address": "76",
+                "name": "MENU"
+            },
+            {
+                "address": "78",
+                "name": "+10 SEARCH"
+            },
+            {
+                "address": "78",
+                "name": "+10"
+            },
+            {
+                "address": "103",
+                "name": "PURE DIRECT"
+            },
+            {
+                "address": "110",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "111",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "112",
+                "name": "VOLUME MUTE"
+            },
+            {
+                "address": "112",
+                "name": "MUTE"
+            },
+            {
+                "address": "170",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "190",
+                "name": "STATUS"
+            },
+            {
+                "address": "1a0",
+                "name": "DIMMER"
+            }
+        ],
+        "device_address": "1c0",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

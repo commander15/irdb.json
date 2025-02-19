@@ -1,0 +1,25 @@
+{
+    "display_name": "JVC Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "14",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

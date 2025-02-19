@@ -1,0 +1,293 @@
+{
+    "display_name": "Harman Kardon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "2080000",
+                "name": "CASS FAST FORWARD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "2080000",
+                "name": "CASS REWIND",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "2080000",
+                "name": "CASS DECK STOP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "2080000",
+                "name": "CASS SEARCH>>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "2080000",
+                "name": "CASS SEARCH<<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "2080000",
+                "name": "CASS RECORD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "2080000",
+                "name": "CASS SELECT A/B",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "24",
+                "device_address": "2080000",
+                "name": "SPKR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2a",
+                "device_address": "2080000",
+                "name": "SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "2080000",
+                "name": "SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "2080000",
+                "name": "SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "2080000",
+                "name": "PRESET -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "2080000",
+                "name": "PRESET +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "2080000",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "2080000",
+                "name": "DOLBY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "2080000",
+                "name": "DELAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "2080000",
+                "name": "SPEAKER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "2080000",
+                "name": "DIGITAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "2080000",
+                "name": "SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "2080000",
+                "name": "OSD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "2080000",
+                "name": "CHANNEL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "2080000",
+                "name": "CH.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "2080000",
+                "name": "SET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "2080000",
+                "name": "OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8a",
+                "device_address": "2080000",
+                "name": "DELAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8c",
+                "device_address": "2080000",
+                "name": "TEST",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8c",
+                "device_address": "2080000",
+                "name": "TEST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "2080000",
+                "name": "CENT MODE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "92",
+                "device_address": "2080000",
+                "name": "THEATER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "94",
+                "device_address": "2080000",
+                "name": "STADIUM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "99",
+                "device_address": "2080000",
+                "name": "CORSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9a",
+                "device_address": "2080000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "2080000",
+                "name": "STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "2080000",
+                "name": "3-CH",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9f",
+                "device_address": "2080000",
+                "name": "PRO-LOGIC",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "a0",
+                "device_address": "2080000",
+                "name": "DTS SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a1",
+                "device_address": "2080000",
+                "name": "DTS NEO6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a2",
+                "device_address": "2080000",
+                "name": "LOGIC7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "2080000",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "2080000",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "2080000",
+                "name": "TONE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "2080000",
+                "name": "PSET UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "2080000",
+                "name": "PRESET +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "2080000",
+                "name": "PSET DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "2080000",
+                "name": "PRESET -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "2080000",
+                "name": "6 CH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "2080000",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

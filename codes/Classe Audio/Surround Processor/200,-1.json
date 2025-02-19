@@ -1,0 +1,85 @@
+{
+    "display_name": "Classe Audio Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE T0"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE T1"
+            },
+            {
+                "address": "10",
+                "name": "VOL UP T0"
+            },
+            {
+                "address": "10",
+                "name": "VOL UP T1"
+            },
+            {
+                "address": "11",
+                "name": "VOL DOWN T0"
+            },
+            {
+                "address": "11",
+                "name": "VOL DOWN T1"
+            },
+            {
+                "address": "38",
+                "name": "F1 T0"
+            },
+            {
+                "address": "38",
+                "name": "F1 T1"
+            },
+            {
+                "address": "39",
+                "name": "F2 T0"
+            },
+            {
+                "address": "39",
+                "name": "F2 T1"
+            },
+            {
+                "address": "86",
+                "name": "F3 T0"
+            },
+            {
+                "address": "86",
+                "name": "F3 T1"
+            },
+            {
+                "address": "87",
+                "name": "F4 T0"
+            },
+            {
+                "address": "87",
+                "name": "F4 T1"
+            },
+            {
+                "address": "98",
+                "name": "MUTE T0"
+            },
+            {
+                "address": "98",
+                "name": "MUTE T1"
+            },
+            {
+                "address": "99",
+                "name": "UNMUTE T0"
+            },
+            {
+                "address": "99",
+                "name": "UNMUTE T1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

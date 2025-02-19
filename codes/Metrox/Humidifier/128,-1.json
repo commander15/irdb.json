@@ -1,0 +1,41 @@
+{
+    "display_name": "Metrox Humidifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "HEATER"
+            },
+            {
+                "address": "3",
+                "name": "MIST_LVL"
+            },
+            {
+                "address": "4",
+                "name": "TIMER"
+            },
+            {
+                "address": "5",
+                "name": "HUMIDITY_SET"
+            },
+            {
+                "address": "6",
+                "name": "IONIZER"
+            },
+            {
+                "address": "9",
+                "name": "NIGHT_MODE"
+            },
+            {
+                "address": "1e",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Metrox",
+    "model": "",
+    "name": "",
+    "target": "Humidifier"
+}

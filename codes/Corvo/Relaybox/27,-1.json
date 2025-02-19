@@ -1,0 +1,45 @@
+{
+    "display_name": "Corvo Relaybox",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "RELAY 8"
+            },
+            {
+                "address": "1",
+                "name": "RELAY 1"
+            },
+            {
+                "address": "2",
+                "name": "RELAY 2"
+            },
+            {
+                "address": "3",
+                "name": "RELAY 3"
+            },
+            {
+                "address": "4",
+                "name": "RELAY 4"
+            },
+            {
+                "address": "5",
+                "name": "RELAY 5"
+            },
+            {
+                "address": "6",
+                "name": "RELAY 6"
+            },
+            {
+                "address": "7",
+                "name": "RELAY 7"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Corvo",
+    "model": "",
+    "name": "",
+    "target": "Relaybox"
+}

@@ -1,0 +1,165 @@
+{
+    "display_name": "NAD Unknown_SR712",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CD-Pause"
+            },
+            {
+                "address": "1",
+                "name": "CD-Play"
+            },
+            {
+                "address": "2",
+                "name": "CD-Stop"
+            },
+            {
+                "address": "5",
+                "name": "CD-Previous"
+            },
+            {
+                "address": "6",
+                "name": "CD-Next"
+            },
+            {
+                "address": "17",
+                "name": "CD-Disc"
+            },
+            {
+                "address": "24",
+                "name": "Tuner-Bank"
+            },
+            {
+                "address": "52",
+                "name": "TapeA-Stop"
+            },
+            {
+                "address": "53",
+                "name": "TapeA-Play"
+            },
+            {
+                "address": "54",
+                "name": "TapeA-Rev"
+            },
+            {
+                "address": "55",
+                "name": "TapeA-Record"
+            },
+            {
+                "address": "56",
+                "name": "TapeA-FastForward"
+            },
+            {
+                "address": "57",
+                "name": "TapeA-Rewind"
+            },
+            {
+                "address": "80",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "81",
+                "name": "Input-TunerFM"
+            },
+            {
+                "address": "82",
+                "name": "Input-TunerAM"
+            },
+            {
+                "address": "85",
+                "name": "Input-CD"
+            },
+            {
+                "address": "86",
+                "name": "Tuner-SearchDown"
+            },
+            {
+                "address": "87",
+                "name": "Tuner-SearchUp"
+            },
+            {
+                "address": "88",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "89",
+                "name": "Input-Phono"
+            },
+            {
+                "address": "8c",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "8d",
+                "name": "Input-Tape1"
+            },
+            {
+                "address": "91",
+                "name": "Input-Tape2"
+            },
+            {
+                "address": "94",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "9a",
+                "name": "TapeB-Record"
+            },
+            {
+                "address": "9b",
+                "name": "Input-Aux"
+            },
+            {
+                "address": "9c",
+                "name": "TapeB-Play"
+            },
+            {
+                "address": "9d",
+                "name": "TapeB-FastForward"
+            },
+            {
+                "address": "9e",
+                "name": "TapeB-Rewind"
+            },
+            {
+                "address": "9f",
+                "name": "TapeB-Stop"
+            },
+            {
+                "address": "c0",
+                "name": "Input-VCR1"
+            },
+            {
+                "address": "c2",
+                "name": "Input-LD"
+            },
+            {
+                "address": "d1",
+                "name": "Tuner-PresetDown"
+            },
+            {
+                "address": "d2",
+                "name": "Tuner-PresetUp"
+            },
+            {
+                "address": "d3",
+                "name": "Tuner-TuneDown"
+            },
+            {
+                "address": "d4",
+                "name": "Tuner-TuneUp"
+            },
+            {
+                "address": "de",
+                "name": "TapeB-Rev"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Unknown_SR712"
+}

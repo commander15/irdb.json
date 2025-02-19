@@ -1,0 +1,29 @@
+{
+    "display_name": "DirecTV Unknown",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "DISCRETE ON"
+            },
+            {
+                "address": "80",
+                "name": "POWER ON"
+            },
+            {
+                "address": "81",
+                "name": "DISCRETE OFF"
+            },
+            {
+                "address": "81",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "DirecTV"
+    },
+    "manufacturer": "DirecTV",
+    "model": "",
+    "name": "",
+    "target": "Unknown"
+}

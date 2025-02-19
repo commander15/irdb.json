@@ -1,0 +1,349 @@
+{
+    "display_name": "Krell DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": ""
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": ""
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": ""
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": ""
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": ""
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": ""
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": ""
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": ""
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": ""
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": ""
+            },
+            {
+                "address": "a",
+                "name": "MENU"
+            },
+            {
+                "address": "a",
+                "name": ""
+            },
+            {
+                "address": "b",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b",
+                "name": ""
+            },
+            {
+                "address": "b",
+                "name": "DOWN ARROW"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "d",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "RIGHT ARROW"
+            },
+            {
+                "address": "e",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "e",
+                "name": ""
+            },
+            {
+                "address": "e",
+                "name": "ENTER"
+            },
+            {
+                "address": "f",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "f",
+                "name": ""
+            },
+            {
+                "address": "f",
+                "name": "LEFT ARROW"
+            },
+            {
+                "address": "10",
+                "name": "SETUP"
+            },
+            {
+                "address": "10",
+                "name": ""
+            },
+            {
+                "address": "11",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "11",
+                "name": ""
+            },
+            {
+                "address": "11",
+                "name": "UP ARROW"
+            },
+            {
+                "address": "12",
+                "name": "RET"
+            },
+            {
+                "address": "12",
+                "name": ""
+            },
+            {
+                "address": "12",
+                "name": "RETURN"
+            },
+            {
+                "address": "13",
+                "name": "TITLE"
+            },
+            {
+                "address": "13",
+                "name": ""
+            },
+            {
+                "address": "15",
+                "name": "CLR"
+            },
+            {
+                "address": "15",
+                "name": ""
+            },
+            {
+                "address": "15",
+                "name": "CLEAR"
+            },
+            {
+                "address": "16",
+                "name": "AUDIO"
+            },
+            {
+                "address": "16",
+                "name": ""
+            },
+            {
+                "address": "17",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "17",
+                "name": ""
+            },
+            {
+                "address": "18",
+                "name": "ANGLE"
+            },
+            {
+                "address": "18",
+                "name": ""
+            },
+            {
+                "address": "1a",
+                "name": "DISP"
+            },
+            {
+                "address": "1a",
+                "name": ""
+            },
+            {
+                "address": "1a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": ""
+            },
+            {
+                "address": "20",
+                "name": "SKIP >"
+            },
+            {
+                "address": "20",
+                "name": ""
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <"
+            },
+            {
+                "address": "21",
+                "name": ""
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "29",
+                "name": "PROG"
+            },
+            {
+                "address": "29",
+                "name": ""
+            },
+            {
+                "address": "29",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "2f",
+                "name": "EJECT"
+            },
+            {
+                "address": "2f",
+                "name": ""
+            },
+            {
+                "address": "2f",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": ""
+            },
+            {
+                "address": "32",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "32",
+                "name": ""
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": ""
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "35",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "36",
+                "name": ""
+            },
+            {
+                "address": "3f",
+                "name": "A-B"
+            },
+            {
+                "address": "3f",
+                "name": ""
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

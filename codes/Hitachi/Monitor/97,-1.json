@@ -1,0 +1,25 @@
+{
+    "display_name": "Hitachi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "REC"
+            },
+            {
+                "address": "14",
+                "name": "VTR RECORD"
+            },
+            {
+                "address": "40",
+                "name": "PL"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

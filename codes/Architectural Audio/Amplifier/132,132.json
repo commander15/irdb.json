@@ -1,0 +1,29 @@
+{
+    "display_name": "Architectural Audio Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1c",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1e",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "840",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Architectural Audio",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

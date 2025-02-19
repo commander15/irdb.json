@@ -1,0 +1,37 @@
+{
+    "display_name": "Harman Kardon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "CASSETTE FF >>"
+            },
+            {
+                "address": "11",
+                "name": "CASSETTE REW <<"
+            },
+            {
+                "address": "12",
+                "name": "CASSETTE POWER"
+            },
+            {
+                "address": "16",
+                "name": "CASSETTE STOP []"
+            },
+            {
+                "address": "17",
+                "name": "CASSETTE PLAY >"
+            },
+            {
+                "address": "18",
+                "name": "CASSETTE PAUSE "
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

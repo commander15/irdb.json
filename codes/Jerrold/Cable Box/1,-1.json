@@ -1,0 +1,29 @@
+{
+    "display_name": "Jerrold Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOL ^"
+            },
+            {
+                "address": "13",
+                "name": "VOL V"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            },
+            {
+                "address": "15",
+                "name": "TV POWER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Jerrold",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

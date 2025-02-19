@@ -1,0 +1,45 @@
+{
+    "display_name": "Classe Audio DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "38",
+                "name": "F1"
+            },
+            {
+                "address": "39",
+                "name": "F2"
+            },
+            {
+                "address": "86",
+                "name": "F3"
+            },
+            {
+                "address": "87",
+                "name": "F4"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

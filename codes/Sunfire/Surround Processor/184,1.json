@@ -1,0 +1,35 @@
+{
+    "display_name": "Sunfire Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "device_address": "170",
+                "name": "CHANNEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "170",
+                "name": "CHANNEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "170",
+                "name": "-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "170",
+                "name": "+",
+                "protocol": "NEC2"
+            }
+        ]
+    },
+    "manufacturer": "Sunfire",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

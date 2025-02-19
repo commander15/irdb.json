@@ -1,0 +1,45 @@
+{
+    "display_name": "Electrocompaniet Integrated Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "14",
+                "name": "CD"
+            },
+            {
+                "address": "15",
+                "name": "TUNER"
+            },
+            {
+                "address": "38",
+                "name": "TAPE"
+            },
+            {
+                "address": "39",
+                "name": "DVD"
+            },
+            {
+                "address": "3d",
+                "name": "VCR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Electrocompaniet",
+    "model": "",
+    "name": "",
+    "target": "Integrated Amplifier"
+}

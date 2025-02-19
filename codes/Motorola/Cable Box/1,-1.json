@@ -1,0 +1,33 @@
+{
+    "display_name": "Motorola Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            },
+            {
+                "address": "15",
+                "name": "TV"
+            },
+            {
+                "address": "25",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Motorola",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

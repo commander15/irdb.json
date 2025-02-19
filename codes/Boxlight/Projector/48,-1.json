@@ -1,0 +1,107 @@
+{
+    "display_name": "Boxlight Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "D ZOOM+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "D ZOOM-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "0",
+                "name": "COMPUTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "NORMAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "0",
+                "name": "FREEZE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "ZOOM-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "ZOOM+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "0",
+                "name": "FOCUS+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "0",
+                "name": "FOCUS-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "0",
+                "name": "AUTP IMAGE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "NO SHOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "KEYSTONE+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "KEYSTONE-",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Boxlight",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

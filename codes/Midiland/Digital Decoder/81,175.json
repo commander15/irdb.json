@@ -1,0 +1,97 @@
+{
+    "display_name": "Midiland Digital Decoder",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "3",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "4",
+                "name": "SPEAKER SETUP"
+            },
+            {
+                "address": "5",
+                "name": "FRONT"
+            },
+            {
+                "address": "8",
+                "name": "CANCEL"
+            },
+            {
+                "address": "9",
+                "name": "REAR"
+            },
+            {
+                "address": "a",
+                "name": "FL VOL"
+            },
+            {
+                "address": "c",
+                "name": "OK"
+            },
+            {
+                "address": "d",
+                "name": "CENTRE"
+            },
+            {
+                "address": "e",
+                "name": "RL VOL"
+            },
+            {
+                "address": "f",
+                "name": "SW VOL"
+            },
+            {
+                "address": "10",
+                "name": "FR VOL"
+            },
+            {
+                "address": "11",
+                "name": "SUB"
+            },
+            {
+                "address": "12",
+                "name": "RR VOL"
+            },
+            {
+                "address": "14",
+                "name": "C VOL"
+            },
+            {
+                "address": "15",
+                "name": "VOL+"
+            },
+            {
+                "address": "17",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "19",
+                "name": "POWER"
+            },
+            {
+                "address": "1b",
+                "name": "VOLUME SETUP"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1f",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "288000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Midiland",
+    "model": "",
+    "name": "",
+    "target": "Digital Decoder"
+}

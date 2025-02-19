@@ -1,0 +1,25 @@
+{
+    "display_name": "General Instrument Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "1a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "General Instrument",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

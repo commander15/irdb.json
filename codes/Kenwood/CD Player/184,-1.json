@@ -1,0 +1,33 @@
+{
+    "display_name": "Kenwood CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "c9",
+                "name": "STOP"
+            },
+            {
+                "address": "cb",
+                "name": "PAUSE"
+            },
+            {
+                "address": "cb",
+                "name": "PLAY"
+            },
+            {
+                "address": "ce",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "cf",
+                "name": "SKIP >>"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

@@ -1,0 +1,117 @@
+{
+    "display_name": "Arcam Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "ZONE 2 VOL. UP"
+            },
+            {
+                "address": "2",
+                "name": "ZONE 2 VOL. DOWN"
+            },
+            {
+                "address": "3",
+                "name": "ZONE 2 MUTE TOG."
+            },
+            {
+                "address": "4",
+                "name": "ZONE 2 MUTE ON"
+            },
+            {
+                "address": "5",
+                "name": "ZONE 2 MUTE OFF"
+            },
+            {
+                "address": "6",
+                "name": "ZONE 2 CD"
+            },
+            {
+                "address": "7",
+                "name": "ZONE 2 DVD"
+            },
+            {
+                "address": "8",
+                "name": "ZONE 2 SAT"
+            },
+            {
+                "address": "9",
+                "name": "ZONE 2 AV"
+            },
+            {
+                "address": "a",
+                "name": "ZONE 2 TAPE"
+            },
+            {
+                "address": "b",
+                "name": "ZONE 2 VCR"
+            },
+            {
+                "address": "c",
+                "name": "ZONE 2 DVR"
+            },
+            {
+                "address": "d",
+                "name": "ZONE 2 AUX"
+            },
+            {
+                "address": "e",
+                "name": "ZONE 2 FM"
+            },
+            {
+                "address": "f",
+                "name": "ZONE 2 AM"
+            },
+            {
+                "address": "10",
+                "name": "ZONE 2 SIRIUS"
+            },
+            {
+                "address": "13",
+                "name": "ZONE 2 NET"
+            },
+            {
+                "address": "14",
+                "name": "ZONE 3 VOL. UP"
+            },
+            {
+                "address": "15",
+                "name": "ZONE 3 VOL. DOWN"
+            },
+            {
+                "address": "16",
+                "name": "ZONE 3 MUTE"
+            },
+            {
+                "address": "17",
+                "name": "ZONE 3 MUTE ON"
+            },
+            {
+                "address": "18",
+                "name": "ZONE 3 MUTE OFF"
+            },
+            {
+                "address": "79",
+                "name": "ZONE 3 POWER ON"
+            },
+            {
+                "address": "7a",
+                "name": "ZONE 3 POWER OFF"
+            },
+            {
+                "address": "7b",
+                "name": "ZONE 2 PWR ON"
+            },
+            {
+                "address": "7c",
+                "name": "ZONE 2 PWR OFF"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,61 @@
+{
+    "display_name": "DBPower Projector_T20",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "down"
+            },
+            {
+                "address": "2",
+                "name": "mute"
+            },
+            {
+                "address": "8",
+                "name": "right"
+            },
+            {
+                "address": "9",
+                "name": "up"
+            },
+            {
+                "address": "a",
+                "name": "left"
+            },
+            {
+                "address": "b",
+                "name": "OK"
+            },
+            {
+                "address": "d",
+                "name": "back"
+            },
+            {
+                "address": "11",
+                "name": "vol up"
+            },
+            {
+                "address": "15",
+                "name": "vol down"
+            },
+            {
+                "address": "1d",
+                "name": "power on off toggle"
+            },
+            {
+                "address": "1e",
+                "name": "Menu"
+            },
+            {
+                "address": "1f",
+                "name": "source"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "DBPower",
+    "model": "",
+    "name": "",
+    "target": "Projector_T20"
+}

@@ -1,0 +1,37 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "TV/AV"
+            },
+            {
+                "address": "20",
+                "name": "TV VOL +"
+            },
+            {
+                "address": "21",
+                "name": "TV VOL -"
+            },
+            {
+                "address": "34",
+                "name": "TV CH +"
+            },
+            {
+                "address": "35",
+                "name": "TV CH -"
+            },
+            {
+                "address": "3d",
+                "name": "TV POWER"
+            }
+        ],
+        "device_address": "80",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

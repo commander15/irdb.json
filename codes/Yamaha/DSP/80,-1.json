@@ -1,0 +1,29 @@
+{
+    "display_name": "Yamaha DSP",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "b",
+                "name": "TV MUTE"
+            },
+            {
+                "address": "12",
+                "name": "TV VOL +"
+            },
+            {
+                "address": "15",
+                "name": "TV VOL -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DSP"
+}

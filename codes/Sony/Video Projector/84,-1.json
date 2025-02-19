@@ -1,0 +1,489 @@
+{
+    "display_name": "Sony Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "SWITCHER 1"
+            },
+            {
+                "address": "a",
+                "name": "SW 1"
+            },
+            {
+                "address": "a",
+                "name": "1"
+            },
+            {
+                "address": "b",
+                "name": "SWITCHER 2"
+            },
+            {
+                "address": "b",
+                "name": "SW 2"
+            },
+            {
+                "address": "b",
+                "name": "2"
+            },
+            {
+                "address": "c",
+                "name": "SWITCHER 3"
+            },
+            {
+                "address": "c",
+                "name": "SW 3"
+            },
+            {
+                "address": "c",
+                "name": "3"
+            },
+            {
+                "address": "d",
+                "name": "SWITCHER 4"
+            },
+            {
+                "address": "d",
+                "name": "SW 4"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "SWITCHER 5"
+            },
+            {
+                "address": "e",
+                "name": "SW 5"
+            },
+            {
+                "address": "e",
+                "name": "5"
+            },
+            {
+                "address": "f",
+                "name": "SWITCHER 6"
+            },
+            {
+                "address": "f",
+                "name": "SW 6"
+            },
+            {
+                "address": "f",
+                "name": "6"
+            },
+            {
+                "address": "10",
+                "name": "SWITCHER 7"
+            },
+            {
+                "address": "10",
+                "name": "SW 7"
+            },
+            {
+                "address": "10",
+                "name": "7"
+            },
+            {
+                "address": "11",
+                "name": "SWITCHER 8"
+            },
+            {
+                "address": "11",
+                "name": "SW 8"
+            },
+            {
+                "address": "11",
+                "name": "8"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME+"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME-"
+            },
+            {
+                "address": "14",
+                "name": "AUDIO MUTE"
+            },
+            {
+                "address": "14",
+                "name": "AUDIO MUTING"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "19",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "1a",
+                "name": "COLOR +"
+            },
+            {
+                "address": "1b",
+                "name": "COLOR -"
+            },
+            {
+                "address": "1d",
+                "name": "PICTURE -"
+            },
+            {
+                "address": "1e",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "1f",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "20",
+                "name": "TINT +"
+            },
+            {
+                "address": "20",
+                "name": "HUE +"
+            },
+            {
+                "address": "21",
+                "name": "TINT -"
+            },
+            {
+                "address": "21",
+                "name": "HUE -"
+            },
+            {
+                "address": "22",
+                "name": "SHARPNESS +"
+            },
+            {
+                "address": "23",
+                "name": "SHARPNESS -"
+            },
+            {
+                "address": "24",
+                "name": "PICTURE MUTE"
+            },
+            {
+                "address": "24",
+                "name": "PIC"
+            },
+            {
+                "address": "24",
+                "name": "PIC-MUTING"
+            },
+            {
+                "address": "24",
+                "name": "VIDEO MUTING"
+            },
+            {
+                "address": "24",
+                "name": "PICTURE MUTING"
+            },
+            {
+                "address": "25",
+                "name": "STATUS ON"
+            },
+            {
+                "address": "26",
+                "name": "STATUS OFF"
+            },
+            {
+                "address": "29",
+                "name": "MENU"
+            },
+            {
+                "address": "29",
+                "name": "PAGE"
+            },
+            {
+                "address": "2a",
+                "name": "VIDEO"
+            },
+            {
+                "address": "2a",
+                "name": "VIDEO INPUT"
+            },
+            {
+                "address": "2a",
+                "name": "INPUT:VIDEO"
+            },
+            {
+                "address": "2a",
+                "name": "INPUT - VIDEO"
+            },
+            {
+                "address": "2b",
+                "name": "INPUT A"
+            },
+            {
+                "address": "2b",
+                "name": "A"
+            },
+            {
+                "address": "2b",
+                "name": "INPUT:A"
+            },
+            {
+                "address": "2b",
+                "name": "INPUT - A"
+            },
+            {
+                "address": "2c",
+                "name": "INPUT B"
+            },
+            {
+                "address": "2c",
+                "name": "B"
+            },
+            {
+                "address": "2c",
+                "name": "INPUT:B"
+            },
+            {
+                "address": "2c",
+                "name": "INPUT - B"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2e",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2e",
+                "name": "ON"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2f",
+                "name": "STANDBY POWER OFF"
+            },
+            {
+                "address": "2f",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2f",
+                "name": "OFF"
+            },
+            {
+                "address": "31",
+                "name": "POSITION +"
+            },
+            {
+                "address": "32",
+                "name": "POSITION -"
+            },
+            {
+                "address": "33",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "33",
+                "name": "RT"
+            },
+            {
+                "address": "33",
+                "name": "RIGHT"
+            },
+            {
+                "address": "33",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "34",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "34",
+                "name": "LEFT"
+            },
+            {
+                "address": "34",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "35",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "35",
+                "name": "UP"
+            },
+            {
+                "address": "35",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "35",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "36",
+                "name": "DN"
+            },
+            {
+                "address": "36",
+                "name": "DOWN"
+            },
+            {
+                "address": "36",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "47",
+                "name": "RGB SIZE"
+            },
+            {
+                "address": "48",
+                "name": "RGB SHIFT"
+            },
+            {
+                "address": "49",
+                "name": "CENTER RED"
+            },
+            {
+                "address": "4b",
+                "name": "CENTER BLUE"
+            },
+            {
+                "address": "57",
+                "name": "INPUT"
+            },
+            {
+                "address": "57",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "58",
+                "name": "BLANKING"
+            },
+            {
+                "address": "5a",
+                "name": "ENTER"
+            },
+            {
+                "address": "5a",
+                "name": "LT"
+            },
+            {
+                "address": "5e",
+                "name": "MEMORY"
+            },
+            {
+                "address": "5f",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "5f",
+                "name": "SVIDEO"
+            },
+            {
+                "address": "5f",
+                "name": "VIDEO SELECT (VID/S)"
+            },
+            {
+                "address": "5f",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "5f",
+                "name": "INPUT:S VIDEO"
+            },
+            {
+                "address": "5f",
+                "name": "S VIDEO"
+            },
+            {
+                "address": "5f",
+                "name": "INPUT - SVIDEO"
+            },
+            {
+                "address": "60",
+                "name": "0"
+            },
+            {
+                "address": "61",
+                "name": "1"
+            },
+            {
+                "address": "62",
+                "name": "2"
+            },
+            {
+                "address": "63",
+                "name": "3"
+            },
+            {
+                "address": "64",
+                "name": "4"
+            },
+            {
+                "address": "65",
+                "name": "5"
+            },
+            {
+                "address": "66",
+                "name": "6"
+            },
+            {
+                "address": "67",
+                "name": "7"
+            },
+            {
+                "address": "68",
+                "name": "8"
+            },
+            {
+                "address": "69",
+                "name": "9"
+            },
+            {
+                "address": "6f",
+                "name": "C"
+            },
+            {
+                "address": "70",
+                "name": "D"
+            },
+            {
+                "address": "7b",
+                "name": "RESET"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

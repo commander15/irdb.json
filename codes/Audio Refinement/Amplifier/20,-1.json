@@ -1,0 +1,89 @@
+{
+    "display_name": "Audio Refinement Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "AMP"
+            },
+            {
+                "address": "d",
+                "name": "POWER"
+            },
+            {
+                "address": "10",
+                "name": "CD SEARCH +"
+            },
+            {
+                "address": "10",
+                "name": "TUNER SEARCH +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "CD SEARCH -"
+            },
+            {
+                "address": "11",
+                "name": "TUNER SEARCH -"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1d",
+                "name": "MUTE"
+            },
+            {
+                "address": "2b",
+                "name": "TUNER"
+            },
+            {
+                "address": "2d",
+                "name": "CD"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "3c",
+                "name": "LISTEN -"
+            },
+            {
+                "address": "3c",
+                "name": "PRESET -"
+            },
+            {
+                "address": "3c",
+                "name": "TRACK -"
+            },
+            {
+                "address": "3f",
+                "name": "LISTEN +"
+            },
+            {
+                "address": "3f",
+                "name": "PRESET +"
+            },
+            {
+                "address": "3f",
+                "name": "TRACK +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Refinement",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

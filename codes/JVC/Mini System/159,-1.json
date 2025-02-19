@@ -1,0 +1,97 @@
+{
+    "display_name": "JVC Mini System",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "VOL +"
+            },
+            {
+                "address": "2",
+                "name": "VOL -"
+            },
+            {
+                "address": "b",
+                "name": "TUNER INPUT"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "2a",
+                "name": "0"
+            },
+            {
+                "address": "2a",
+                "name": "10"
+            },
+            {
+                "address": "2e",
+                "name": "+10"
+            },
+            {
+                "address": "32",
+                "name": "SLEEP"
+            },
+            {
+                "address": "3d",
+                "name": "CD SKIP +"
+            },
+            {
+                "address": "3e",
+                "name": "CD SKIP -"
+            },
+            {
+                "address": "70",
+                "name": "CD PLAY/INPUT/PAUSE"
+            },
+            {
+                "address": "71",
+                "name": "CD STOPP"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Mini System"
+}

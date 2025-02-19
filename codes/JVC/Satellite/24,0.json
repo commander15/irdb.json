@@ -1,0 +1,69 @@
+{
+    "display_name": "JVC Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "15",
+                "name": "MUTE"
+            },
+            {
+                "address": "18",
+                "name": "RIGHT"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "22",
+                "name": "PAGE+"
+            },
+            {
+                "address": "23",
+                "name": "PAGE-"
+            },
+            {
+                "address": "2c",
+                "name": "AUX"
+            }
+        ],
+        "device_address": "18",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

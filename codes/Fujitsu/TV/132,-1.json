@@ -1,0 +1,65 @@
+{
+    "display_name": "Fujitsu TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER - ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER - OFF"
+            },
+            {
+                "address": "5",
+                "name": "INPUT - VIDEO"
+            },
+            {
+                "address": "8",
+                "name": "INPUT - RGB"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME - UP"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME - DOWN"
+            },
+            {
+                "address": "3e",
+                "name": "CURSOR - LEFT"
+            },
+            {
+                "address": "3f",
+                "name": "CURSOR - RIGHT"
+            },
+            {
+                "address": "40",
+                "name": "MENU"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR - UP"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR - DOWN"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR - ENTER"
+            },
+            {
+                "address": "80",
+                "name": "WIDE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

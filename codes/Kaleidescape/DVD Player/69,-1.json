@@ -1,0 +1,301 @@
+{
+    "display_name": "Kaleidescape DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "PAUSE_TOGGLE"
+            },
+            {
+                "address": "1",
+                "name": "DIGIT_1"
+            },
+            {
+                "address": "2",
+                "name": "DIGIT_2"
+            },
+            {
+                "address": "3",
+                "name": "DIGIT_3"
+            },
+            {
+                "address": "4",
+                "name": "DIGIT_4"
+            },
+            {
+                "address": "5",
+                "name": "DIGIT_5"
+            },
+            {
+                "address": "6",
+                "name": "DIGIT_6"
+            },
+            {
+                "address": "7",
+                "name": "DIGIT_7"
+            },
+            {
+                "address": "8",
+                "name": "DIGIT_8"
+            },
+            {
+                "address": "9",
+                "name": "DIGIT_9"
+            },
+            {
+                "address": "a",
+                "name": "DIGIT_0"
+            },
+            {
+                "address": "12",
+                "name": "POWER_TOGGLE"
+            },
+            {
+                "address": "13",
+                "name": "SCAN_FORWARD"
+            },
+            {
+                "address": "14",
+                "name": "STOP_OR_CANCEL"
+            },
+            {
+                "address": "15",
+                "name": "PLAY"
+            },
+            {
+                "address": "16",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "19",
+                "name": "SCAN_REVERSE"
+            },
+            {
+                "address": "20",
+                "name": "DVD_TOP_MENU"
+            },
+            {
+                "address": "21",
+                "name": "SELECT"
+            },
+            {
+                "address": "22",
+                "name": "DVD_RESUME"
+            },
+            {
+                "address": "23",
+                "name": "PAGE_UP_OR_PREVIOUS"
+            },
+            {
+                "address": "24",
+                "name": "PAGE_DOWN_OR_NEXT"
+            },
+            {
+                "address": "27",
+                "name": "AUDIO"
+            },
+            {
+                "address": "29",
+                "name": "NEXT_ANGLE"
+            },
+            {
+                "address": "2f",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "4d",
+                "name": "ARROW_RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "ARROW_LEFT"
+            },
+            {
+                "address": "60",
+                "name": "MUSIC_REPEAT_ON"
+            },
+            {
+                "address": "61",
+                "name": "MUSIC_REPEAT_OFF"
+            },
+            {
+                "address": "62",
+                "name": "MUSIC_REPEAT_TOGGLE"
+            },
+            {
+                "address": "63",
+                "name": "GO_MUSIC_LIST"
+            },
+            {
+                "address": "64",
+                "name": "GO_ALBUM_COVERS"
+            },
+            {
+                "address": "65",
+                "name": "GO_MUSIC_COLLECTIONS"
+            },
+            {
+                "address": "66",
+                "name": "GO_NOW_PLAYING"
+            },
+            {
+                "address": "80",
+                "name": "ARROW_UP"
+            },
+            {
+                "address": "81",
+                "name": "ARROW_DOWN"
+            },
+            {
+                "address": "84",
+                "name": "DVD_OR_KALEIDESCAPE"
+            },
+            {
+                "address": "a0",
+                "name": "REPLAY"
+            },
+            {
+                "address": "a1",
+                "name": "SHUFFLE_COVER_ART"
+            },
+            {
+                "address": "a2",
+                "name": "SHOW_DETAILS"
+            },
+            {
+                "address": "a4",
+                "name": "PARENTAL_SAFE_LVL"
+            },
+            {
+                "address": "a5",
+                "name": "PARENTAL_DEFAULT_LVL"
+            },
+            {
+                "address": "a6",
+                "name": "SET_FAV_SCENE_START"
+            },
+            {
+                "address": "a7",
+                "name": "SET_FAV_SCENE_END"
+            },
+            {
+                "address": "a8",
+                "name": "GO_MOVIE_COVER_ART"
+            },
+            {
+                "address": "a9",
+                "name": "GO_MOVIE_LIST"
+            },
+            {
+                "address": "aa",
+                "name": "GO_MOVIE_COLLECTIONS"
+            },
+            {
+                "address": "ab",
+                "name": "GO_SYSTEM_STATUS"
+            },
+            {
+                "address": "ac",
+                "name": "GO_PARENTAL_CONTROL"
+            },
+            {
+                "address": "ad",
+                "name": "INTERMISSION_TOGGLE"
+            },
+            {
+                "address": "ae",
+                "name": "INTERMISSION_ON"
+            },
+            {
+                "address": "af",
+                "name": "INTERMISSION_OFF"
+            },
+            {
+                "address": "b1",
+                "name": "GO_SCREEN_SAVER"
+            },
+            {
+                "address": "b2",
+                "name": "STOP_SCREEN_SAVER"
+            },
+            {
+                "address": "b3",
+                "name": "SHOW_DEMO"
+            },
+            {
+                "address": "b4",
+                "name": "SHOW_DEMO_LOOP"
+            },
+            {
+                "address": "b5",
+                "name": "PAUSE_ON"
+            },
+            {
+                "address": "b6",
+                "name": "PAUSE_OFF"
+            },
+            {
+                "address": "b7",
+                "name": "DISPLAY_OFF"
+            },
+            {
+                "address": "b8",
+                "name": "K_MENU_ON"
+            },
+            {
+                "address": "b9",
+                "name": "K_MENU_OFF"
+            },
+            {
+                "address": "ba",
+                "name": "PAGE_UP"
+            },
+            {
+                "address": "bb",
+                "name": "PAGE_DOWN"
+            },
+            {
+                "address": "bc",
+                "name": "DISPLAY_TOGGLE"
+            },
+            {
+                "address": "bd",
+                "name": "MUSIC_RANDOM_ON"
+            },
+            {
+                "address": "be",
+                "name": "MUSIC_RANDOM_OFF"
+            },
+            {
+                "address": "bf",
+                "name": "MUSIC_RANDOM_TOGGLE"
+            },
+            {
+                "address": "cb",
+                "name": "DVD_MENU"
+            },
+            {
+                "address": "de",
+                "name": "TITLE"
+            },
+            {
+                "address": "f3",
+                "name": "POWER_ON"
+            },
+            {
+                "address": "f4",
+                "name": "POWER_STANDBY"
+            },
+            {
+                "address": "f5",
+                "name": "K_MENU_TOGGLE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kaleidescape",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

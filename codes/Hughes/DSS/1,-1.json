@@ -1,0 +1,59 @@
+{
+    "display_name": "Hughes DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "Sony12"
+            },
+            {
+                "address": "12",
+                "device_address": "-80000000",
+                "name": "VOL. UP",
+                "protocol": "Sony12"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "Sony12"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "VOL. DOWN",
+                "protocol": "Sony12"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "Sony12"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "Sharp"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "Sharp"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "MUTE",
+                "protocol": "Sharp"
+            }
+        ]
+    },
+    "manufacturer": "Hughes",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

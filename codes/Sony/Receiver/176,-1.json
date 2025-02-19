@@ -1,0 +1,57 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "2 CH"
+            },
+            {
+                "address": "42",
+                "name": "AFD"
+            },
+            {
+                "address": "43",
+                "name": "MOVIE"
+            },
+            {
+                "address": "49",
+                "name": "MUSIC"
+            },
+            {
+                "address": "4a",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "4d",
+                "name": "BASS BOOST"
+            },
+            {
+                "address": "50",
+                "name": "BASS UP"
+            },
+            {
+                "address": "51",
+                "name": "BASS DOWN"
+            },
+            {
+                "address": "56",
+                "name": "TREB UP"
+            },
+            {
+                "address": "57",
+                "name": "TREB DOWN"
+            },
+            {
+                "address": "71",
+                "name": "SHIFT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

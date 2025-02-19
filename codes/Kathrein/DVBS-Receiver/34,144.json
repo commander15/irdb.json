@@ -1,0 +1,309 @@
+{
+    "display_name": "Kathrein DVBS-Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0 B"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1 B"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2 B"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3 B"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4 B"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5 B"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6 B"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7 B"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8 B"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9 B"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "POWER B"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "MUTE B"
+            },
+            {
+                "address": "f",
+                "name": "I"
+            },
+            {
+                "address": "f",
+                "name": "I B"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP B"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN B"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL UP B"
+            },
+            {
+                "address": "1f",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "CHANNEL DOWN B"
+            },
+            {
+                "address": "20",
+                "name": "FFW >>"
+            },
+            {
+                "address": "20",
+                "name": "FFW >> B"
+            },
+            {
+                "address": "21",
+                "name": "REW <<"
+            },
+            {
+                "address": "21",
+                "name": "REW << B"
+            },
+            {
+                "address": "31",
+                "name": "STOP"
+            },
+            {
+                "address": "31",
+                "name": "STOP B"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "37",
+                "name": "RECORD B"
+            },
+            {
+                "address": "38",
+                "name": "PLAY"
+            },
+            {
+                "address": "38",
+                "name": "PLAY B"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "3c",
+                "name": "TEXT"
+            },
+            {
+                "address": "3c",
+                "name": "TEXT B"
+            },
+            {
+                "address": "54",
+                "name": "MENU"
+            },
+            {
+                "address": "54",
+                "name": "MENU B"
+            },
+            {
+                "address": "55",
+                "name": "EXIT"
+            },
+            {
+                "address": "55",
+                "name": "EXIT B"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP B"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN B"
+            },
+            {
+                "address": "5a",
+                "name": "LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT B"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT B"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR CENTER/OK"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR CENTER/OK B"
+            },
+            {
+                "address": "6d",
+                "name": "FAV/RED/ROT"
+            },
+            {
+                "address": "6d",
+                "name": "FAV/RED/ROT B"
+            },
+            {
+                "address": "6e",
+                "name": "N"
+            },
+            {
+                "address": "6e",
+                "name": "N B"
+            },
+            {
+                "address": "6f",
+                "name": "OPT/YELLOW/GELB"
+            },
+            {
+                "address": "6f",
+                "name": "OPT/YELLOW/GELB B"
+            },
+            {
+                "address": "70",
+                "name": "TV/R/BLUE/BLAU"
+            },
+            {
+                "address": "70",
+                "name": "TV/R/BLUE/BLAU B"
+            },
+            {
+                "address": "cc",
+                "name": "EPG"
+            },
+            {
+                "address": "cc",
+                "name": "EPG B"
+            }
+        ],
+        "device_address": "220000",
+        "protocol": "Nokia32"
+    },
+    "manufacturer": "Kathrein",
+    "model": "",
+    "name": "",
+    "target": "DVBS-Receiver"
+}

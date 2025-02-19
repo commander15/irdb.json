@@ -1,0 +1,37 @@
+{
+    "display_name": "Hughes Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "LIVE TV"
+            },
+            {
+                "address": "13",
+                "name": "INFO"
+            },
+            {
+                "address": "36",
+                "name": "GUIDE"
+            },
+            {
+                "address": "44",
+                "name": "WINDOW"
+            },
+            {
+                "address": "45",
+                "name": "EXIT"
+            },
+            {
+                "address": "46",
+                "name": "LIST"
+            }
+        ],
+        "device_address": "850000",
+        "protocol": "Tivo unit=0"
+    },
+    "manufacturer": "Hughes",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

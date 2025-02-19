@@ -1,0 +1,335 @@
+{
+    "display_name": "Yamaha CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "-80000000",
+                "name": "D-MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "-80000000",
+                "name": "OPEN/CLOSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "-80000000",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "-80000000",
+                "name": "SKIP <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "-80000000",
+                "name": "SEARCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "SEARCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "-80000000",
+                "name": "SKIP >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "-80000000",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "-80000000",
+                "name": "TIME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "-80000000",
+                "name": "TIME MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "-80000000",
+                "name": "INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PROGRAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "DELETE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "-80000000",
+                "name": "+10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "-80000000",
+                "name": "SHUFFLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "-80000000",
+                "name": "RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "-80000000",
+                "name": "OUTPUT LEVEL -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "-80000000",
+                "name": "OUTPUT LEVEL +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "FILE MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "20",
+                "device_address": "-80000000",
+                "name": "DISC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2b",
+                "device_address": "-80000000",
+                "name": "TEXT MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "-80000000",
+                "name": "TEXT SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2d",
+                "device_address": "-80000000",
+                "name": "CAPS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "-80000000",
+                "name": "INTRO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "-80000000",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "-80000000",
+                "name": "DISC +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "-80000000",
+                "name": "DISC SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "CONTINUE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DISC -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "-80000000",
+                "name": "DISC SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "-80000000",
+                "name": "+1 DISC",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "55",
+                "device_address": "-80000000",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "-80000000",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5b",
+                "device_address": "-80000000",
+                "name": "ALL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "-80000000",
+                "name": "POWER ON/OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "61",
+                "device_address": "-80000000",
+                "name": "ACTIVE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "62",
+                "device_address": "-80000000",
+                "name": "GROUP A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "-80000000",
+                "name": "GROUP B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "-80000000",
+                "name": "GROUP C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "-80000000",
+                "name": "GROUP D",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "66",
+                "device_address": "-80000000",
+                "name": "GROUP E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "-80000000",
+                "name": "FILE EDIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "-80000000",
+                "name": "GROUP EDIT",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

@@ -1,0 +1,89 @@
+{
+    "display_name": "Grundig Unknown_UMS9V",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "TUNE_DOWN"
+            },
+            {
+                "address": "5",
+                "name": "MODE_remain"
+            },
+            {
+                "address": "6",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "7",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "c",
+                "name": "TUNE_UP"
+            },
+            {
+                "address": "d",
+                "name": "RANDOM"
+            },
+            {
+                "address": "e",
+                "name": "BAND"
+            },
+            {
+                "address": "f",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "13",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "14",
+                "name": "MEMORY_clock"
+            },
+            {
+                "address": "15",
+                "name": "INTRO"
+            },
+            {
+                "address": "17",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "1c",
+                "name": "REPEAT_PRESET"
+            },
+            {
+                "address": "1d",
+                "name": "BASS"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "1f",
+                "name": "TIMER"
+            },
+            {
+                "address": "20",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "60",
+                "name": "KEY_VOLUMEDOWN"
+            }
+        ],
+        "device_address": "288",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Grundig",
+    "model": "",
+    "name": "",
+    "target": "Unknown_UMS9V"
+}

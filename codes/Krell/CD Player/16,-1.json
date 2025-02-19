@@ -1,0 +1,37 @@
+{
+    "display_name": "Krell CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "PRE AMP INPUT E"
+            },
+            {
+                "address": "21",
+                "name": "PRE AMP INPUT F"
+            },
+            {
+                "address": "22",
+                "name": "PRE AMP INPUT A"
+            },
+            {
+                "address": "23",
+                "name": "PRE AMP INPUT B"
+            },
+            {
+                "address": "24",
+                "name": "PRE AMP INPUT C"
+            },
+            {
+                "address": "25",
+                "name": "PRE AMP INPUT D"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

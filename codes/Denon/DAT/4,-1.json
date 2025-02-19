@@ -1,0 +1,141 @@
+{
+    "display_name": "Denon DAT",
+    "ir": {
+        "commands": [
+            {
+                "address": "c1",
+                "name": "0"
+            },
+            {
+                "address": "c2",
+                "name": "1"
+            },
+            {
+                "address": "c3",
+                "name": "2"
+            },
+            {
+                "address": "c4",
+                "name": "3"
+            },
+            {
+                "address": "c5",
+                "name": "4"
+            },
+            {
+                "address": "c6",
+                "name": "5"
+            },
+            {
+                "address": "c7",
+                "name": "6"
+            },
+            {
+                "address": "c8",
+                "name": "7"
+            },
+            {
+                "address": "c9",
+                "name": "8"
+            },
+            {
+                "address": "ca",
+                "name": "9"
+            },
+            {
+                "address": "d0",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "d4",
+                "name": "REPEAT"
+            },
+            {
+                "address": "d8",
+                "name": "SRCH >>"
+            },
+            {
+                "address": "d9",
+                "name": "SRCH <<"
+            },
+            {
+                "address": "da",
+                "name": "FF >>"
+            },
+            {
+                "address": "db",
+                "name": "REW <<"
+            },
+            {
+                "address": "dc",
+                "name": "PLAY >"
+            },
+            {
+                "address": "dd",
+                "name": "PAUSE "
+            },
+            {
+                "address": "de",
+                "name": "STOP []"
+            },
+            {
+                "address": "df",
+                "name": "REC/MUTE"
+            },
+            {
+                "address": "e1",
+                "name": "MODE COUNTER"
+            },
+            {
+                "address": "e2",
+                "name": "RESET COUNTER"
+            },
+            {
+                "address": "e7",
+                "name": "RENUMBER"
+            },
+            {
+                "address": "ea",
+                "name": "END"
+            },
+            {
+                "address": "eb",
+                "name": "ID MODE"
+            },
+            {
+                "address": "ec",
+                "name": "WRITE"
+            },
+            {
+                "address": "ed",
+                "name": "ERASE"
+            },
+            {
+                "address": "f1",
+                "name": "DIGITAL FADE IN"
+            },
+            {
+                "address": "f2",
+                "name": "DIGITAL FADE OUT"
+            },
+            {
+                "address": "f3",
+                "name": "FINE CUE <"
+            },
+            {
+                "address": "f4",
+                "name": "FINE CUE >"
+            },
+            {
+                "address": "f5",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "DAT"
+}

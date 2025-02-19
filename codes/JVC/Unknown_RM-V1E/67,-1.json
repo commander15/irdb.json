@@ -1,0 +1,53 @@
+{
+    "display_name": "JVC Unknown_RM-V1E",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "6",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "7",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "b",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "c",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "d",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "18",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "19",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "96",
+                "name": "KEY_SEARCH"
+            },
+            {
+                "address": "cc",
+                "name": "KEY_RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-V1E"
+}

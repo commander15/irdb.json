@@ -1,0 +1,157 @@
+{
+    "display_name": "Yamaha DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "f",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "11",
+                "name": "PRESET1"
+            },
+            {
+                "address": "12",
+                "name": "PRESET2"
+            },
+            {
+                "address": "13",
+                "name": "PRESET3"
+            },
+            {
+                "address": "14",
+                "name": "PRESET4"
+            },
+            {
+                "address": "15",
+                "name": "PRESET5"
+            },
+            {
+                "address": "16",
+                "name": "PRESET6"
+            },
+            {
+                "address": "17",
+                "name": "PRESET7"
+            },
+            {
+                "address": "18",
+                "name": "PRESET8"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET UP"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET +"
+            },
+            {
+                "address": "1c",
+                "name": "PRESET DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "49",
+                "name": "VCR"
+            },
+            {
+                "address": "4a",
+                "name": "DVD/CD"
+            },
+            {
+                "address": "4b",
+                "name": "TUNER"
+            },
+            {
+                "address": "4c",
+                "name": "SUBWOOF +"
+            },
+            {
+                "address": "4d",
+                "name": "SUBWOOF -"
+            },
+            {
+                "address": "4f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "50",
+                "name": "STEREO"
+            },
+            {
+                "address": "5f",
+                "name": "TEST"
+            },
+            {
+                "address": "86",
+                "name": "CENTER +"
+            },
+            {
+                "address": "87",
+                "name": "CENTER -"
+            },
+            {
+                "address": "88",
+                "name": "SURROUND +"
+            },
+            {
+                "address": "89",
+                "name": "SURROUND -"
+            },
+            {
+                "address": "90",
+                "name": "MATRIX 6.1"
+            },
+            {
+                "address": "99",
+                "name": "DOLBY/DTS"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "SET MENU"
+            },
+            {
+                "address": "d9",
+                "name": "MOVIE"
+            },
+            {
+                "address": "da",
+                "name": "MUSIC"
+            },
+            {
+                "address": "db",
+                "name": "SPORTS"
+            },
+            {
+                "address": "dc",
+                "name": "GAME"
+            },
+            {
+                "address": "df",
+                "name": "VIDEO"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVR"
+}

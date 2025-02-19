@@ -1,0 +1,93 @@
+{
+    "display_name": "Knoll Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "VIDEO"
+            },
+            {
+                "address": "4",
+                "name": "RGB"
+            },
+            {
+                "address": "8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "14",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "17",
+                "name": "SELECT"
+            },
+            {
+                "address": "25",
+                "name": "R-CLICK"
+            },
+            {
+                "address": "46",
+                "name": "MENU"
+            },
+            {
+                "address": "47",
+                "name": "MUTE"
+            },
+            {
+                "address": "48",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "49",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4c",
+                "name": "FREEZE"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5d",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5e",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "5f",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "89",
+                "name": "MAGNIFY +"
+            },
+            {
+                "address": "8a",
+                "name": "MAGNIFY -"
+            },
+            {
+                "address": "8b",
+                "name": "KEYSTONE +"
+            },
+            {
+                "address": "8c",
+                "name": "KEYSTONE -"
+            },
+            {
+                "address": "c6",
+                "name": "S VIDEO"
+            }
+        ],
+        "device_address": "3000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Knoll",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

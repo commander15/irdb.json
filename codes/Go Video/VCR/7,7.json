@@ -1,0 +1,21 @@
+{
+    "display_name": "Go Video VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "7",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME V"
+            }
+        ],
+        "device_address": "380",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Go Video",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,109 @@
+{
+    "display_name": "Camera Camera Multi Plex",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "81",
+                "name": "6"
+            },
+            {
+                "address": "82",
+                "name": "5"
+            },
+            {
+                "address": "83",
+                "name": "4"
+            },
+            {
+                "address": "84",
+                "name": "3"
+            },
+            {
+                "address": "85",
+                "name": "9"
+            },
+            {
+                "address": "86",
+                "name": "8"
+            },
+            {
+                "address": "87",
+                "name": "7"
+            },
+            {
+                "address": "88",
+                "name": "2"
+            },
+            {
+                "address": "89",
+                "name": "PIP ON"
+            },
+            {
+                "address": "8a",
+                "name": "0"
+            },
+            {
+                "address": "8b",
+                "name": "ENTER"
+            },
+            {
+                "address": "8c",
+                "name": "IR OP"
+            },
+            {
+                "address": "8d",
+                "name": "PG DWN"
+            },
+            {
+                "address": "8e",
+                "name": "PG UP"
+            },
+            {
+                "address": "8f",
+                "name": "BELL MT"
+            },
+            {
+                "address": "90",
+                "name": "1"
+            },
+            {
+                "address": "91",
+                "name": "MAIN +"
+            },
+            {
+                "address": "92",
+                "name": "SUB +"
+            },
+            {
+                "address": "93",
+                "name": "PIP"
+            },
+            {
+                "address": "95",
+                "name": "MAIN -"
+            },
+            {
+                "address": "96",
+                "name": "SUB -"
+            },
+            {
+                "address": "97",
+                "name": "EXIT"
+            },
+            {
+                "address": "98",
+                "name": "MUENU"
+            }
+        ],
+        "device_address": "4280000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Camera",
+    "model": "",
+    "name": "",
+    "target": "Camera Multi Plex"
+}

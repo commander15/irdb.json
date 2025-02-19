@@ -1,0 +1,65 @@
+{
+    "display_name": "Sony TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "29",
+                "name": "MENU"
+            },
+            {
+                "address": "2a",
+                "name": "VIDEO INPUT"
+            },
+            {
+                "address": "2b",
+                "name": "INPUT A"
+            },
+            {
+                "address": "2c",
+                "name": "INPUT B"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "33",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "34",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "35",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "36",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "5f",
+                "name": "S VIDEO INPUT"
+            },
+            {
+                "address": "7b",
+                "name": "RESET"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

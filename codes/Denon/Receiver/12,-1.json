@@ -1,0 +1,537 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "42",
+                "name": "1 / 9"
+            },
+            {
+                "address": "43",
+                "name": "2 / 10"
+            },
+            {
+                "address": "44",
+                "name": "3 / 11"
+            },
+            {
+                "address": "45",
+                "name": "4 / 12"
+            },
+            {
+                "address": "46",
+                "name": "5 / 13"
+            },
+            {
+                "address": "47",
+                "name": "6 / 14"
+            },
+            {
+                "address": "48",
+                "name": "7 / 15"
+            },
+            {
+                "address": "49",
+                "name": "8 / 16"
+            },
+            {
+                "address": "4a",
+                "name": "SHIFT"
+            },
+            {
+                "address": "4b",
+                "name": "MUTING / MUTE TOGGLE"
+            },
+            {
+                "address": "4c",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "4e",
+                "name": "PRESET CHANNEL UP"
+            },
+            {
+                "address": "4f",
+                "name": "PRESET CHANNEL DOWN"
+            },
+            {
+                "address": "50",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "52",
+                "name": "INPUT VCR1"
+            },
+            {
+                "address": "53",
+                "name": "INPUT VIDEO1"
+            },
+            {
+                "address": "54",
+                "name": "INPUT DVD/VDP"
+            },
+            {
+                "address": "57",
+                "name": "INPUT VCR2"
+            },
+            {
+                "address": "58",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "59",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "5a",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "5b",
+                "name": "INPUT V.AUX"
+            },
+            {
+                "address": "5c",
+                "name": "INPUT CDR/TAPE"
+            },
+            {
+                "address": "5d",
+                "name": "INPUT DAT/TAPE1"
+            },
+            {
+                "address": "5e",
+                "name": "INPUT DAT/TAPE2"
+            },
+            {
+                "address": "62",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "68",
+                "name": "POWER ON"
+            },
+            {
+                "address": "69",
+                "name": "SPEAKER B"
+            },
+            {
+                "address": "6a",
+                "name": "SPEAKER A"
+            },
+            {
+                "address": "6b",
+                "name": "CENTER UP"
+            },
+            {
+                "address": "6c",
+                "name": "CENTER DOWN"
+            },
+            {
+                "address": "6d",
+                "name": "REAR UP"
+            },
+            {
+                "address": "6e",
+                "name": "REAR DOWN"
+            },
+            {
+                "address": "70",
+                "name": "CENTER"
+            },
+            {
+                "address": "71",
+                "name": "REAR"
+            },
+            {
+                "address": "73",
+                "name": "DBS/BS"
+            },
+            {
+                "address": "74",
+                "name": "VIDEO"
+            },
+            {
+                "address": "75",
+                "name": "AUDIO MULTI"
+            },
+            {
+                "address": "77",
+                "name": "DELAY UP"
+            },
+            {
+                "address": "78",
+                "name": "DELAY DOWN"
+            },
+            {
+                "address": "79",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "7a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7b",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "7c",
+                "name": "3CH.LOGIC"
+            },
+            {
+                "address": "7d",
+                "name": "BYPASS"
+            },
+            {
+                "address": "7e",
+                "name": "STATUS / OSD / PANEL"
+            },
+            {
+                "address": "7f",
+                "name": "CURSOR/ARROW LEFT"
+            },
+            {
+                "address": "80",
+                "name": "LEVEL ALL BASS DOWN"
+            },
+            {
+                "address": "81",
+                "name": "SURROUND MODE DTS"
+            },
+            {
+                "address": "82",
+                "name": "SB SPEAKER TOGGLE ON/OFF"
+            },
+            {
+                "address": "83",
+                "name": "VOLUME PRESET 1 (0DB)"
+            },
+            {
+                "address": "85",
+                "name": "VOLUME PRESET 2 (-20DB)"
+            },
+            {
+                "address": "86",
+                "name": "VOLUME PRESET 3 (-40DB)"
+            },
+            {
+                "address": "87",
+                "name": "ZONE2 VOLUME PRESET 1 (0DB)"
+            },
+            {
+                "address": "88",
+                "name": "ZONE2 VOLUME PRESET 2 (-20DB)"
+            },
+            {
+                "address": "89",
+                "name": "ZONE2 VOLUME PRESET 3 (-40DB)"
+            },
+            {
+                "address": "8a",
+                "name": "ZONE2 DBS/SAT/CABLE"
+            },
+            {
+                "address": "8b",
+                "name": "SURROUND MODE HOME THX CINEMA"
+            },
+            {
+                "address": "8c",
+                "name": "ZONE3 VOLUME PRESET 1 (0DB)"
+            },
+            {
+                "address": "8d",
+                "name": "ZONE2 VOLUME UP"
+            },
+            {
+                "address": "8e",
+                "name": "ZONE2 VOLUME DOWN"
+            },
+            {
+                "address": "8f",
+                "name": "ZONE2 INPUT PHONO"
+            },
+            {
+                "address": "90",
+                "name": "ZONE2 INPUT CD/IPOD"
+            },
+            {
+                "address": "91",
+                "name": "ZONE2 INPUT TUNER/HD RADIO"
+            },
+            {
+                "address": "92",
+                "name": "ZONE2 INPUT BD/HDP/DVD/VDP"
+            },
+            {
+                "address": "93",
+                "name": "ZONE2 INPUT V.AUX"
+            },
+            {
+                "address": "94",
+                "name": "ZONE2 INPUT GAME/VCR1"
+            },
+            {
+                "address": "95",
+                "name": "ZONE2 INPUT CDR/TAPE2"
+            },
+            {
+                "address": "96",
+                "name": "ZONE2 MULTI PRESET UP"
+            },
+            {
+                "address": "97",
+                "name": "ZONE2 MULTI PRESET DOWN"
+            },
+            {
+                "address": "98",
+                "name": "ZONE2 INPUT AUX"
+            },
+            {
+                "address": "99",
+                "name": "ZONE2 INPUT DVR/VCR2/AUX"
+            },
+            {
+                "address": "9a",
+                "name": "ZONE2 INPUT VCR3"
+            },
+            {
+                "address": "9b",
+                "name": "ZONE2 INPUT TV/DBS/CABLE"
+            },
+            {
+                "address": "9c",
+                "name": "ZONE2 INPUT CDR/TAPE"
+            },
+            {
+                "address": "9d",
+                "name": "SURROUND MODE STEREO"
+            },
+            {
+                "address": "9e",
+                "name": "SURROUND MODE DIRECT"
+            },
+            {
+                "address": "9f",
+                "name": "ZONE3 VOLUME PRESET 2 (-20DB)"
+            },
+            {
+                "address": "a0",
+                "name": "MENU / SYSTEM SETUP"
+            },
+            {
+                "address": "a1",
+                "name": "SURROUND PARAMETER"
+            },
+            {
+                "address": "a2",
+                "name": "ZONE3 VOLUME PRESET 3 (-40DB)"
+            },
+            {
+                "address": "a3",
+                "name": "CURSOR/ARROW UP"
+            },
+            {
+                "address": "a4",
+                "name": "CURSOR/ARROW DOWN"
+            },
+            {
+                "address": "a5",
+                "name": "OUTPUT"
+            },
+            {
+                "address": "a6",
+                "name": "RCVR EFFECT"
+            },
+            {
+                "address": "a7",
+                "name": "INPUT ADJ (V)"
+            },
+            {
+                "address": "a8",
+                "name": "SURROUND MODE 5/7/MULTI CH STEREO"
+            },
+            {
+                "address": "a9",
+                "name": "SURROUND MODE 2CH STEREO"
+            },
+            {
+                "address": "aa",
+                "name": "SURROUND MODE MULTI CH STEREO"
+            },
+            {
+                "address": "ab",
+                "name": "TUNER SHIFT F"
+            },
+            {
+                "address": "ac",
+                "name": "AUDIO FUNCTION"
+            },
+            {
+                "address": "ad",
+                "name": "VIDEO FUNCTION"
+            },
+            {
+                "address": "ae",
+                "name": "TUNER SHIFT G"
+            },
+            {
+                "address": "af",
+                "name": "SPEAKER CH LEVEL/SELECT"
+            },
+            {
+                "address": "b0",
+                "name": "SPEAKER CH VOLUME UP"
+            },
+            {
+                "address": "b1",
+                "name": "SPEAKER CH VOLUME DOWN"
+            },
+            {
+                "address": "b2",
+                "name": "VIDEO OFF"
+            },
+            {
+                "address": "b5",
+                "name": "INPUT MODE EXT IN"
+            },
+            {
+                "address": "b6",
+                "name": "INPUT MODE TOGGLE ANALOG/DIGITAL"
+            },
+            {
+                "address": "b7",
+                "name": "LEVEL ALL TREBLE UP"
+            },
+            {
+                "address": "b8",
+                "name": "LEVEL ALL TREBLE DOWN"
+            },
+            {
+                "address": "b9",
+                "name": "TUNER SHIFT A"
+            },
+            {
+                "address": "ba",
+                "name": "TUNER SHIFT B"
+            },
+            {
+                "address": "bb",
+                "name": "TUNER SHIFT C"
+            },
+            {
+                "address": "bc",
+                "name": "TUNER SHIFT D"
+            },
+            {
+                "address": "bd",
+                "name": "TUNER SHIFT E"
+            },
+            {
+                "address": "be",
+                "name": "ZONE2 INPUT DVD/VDP"
+            },
+            {
+                "address": "bf",
+                "name": "LEVEL ALL BASS UP"
+            },
+            {
+                "address": "c1",
+                "name": "TUNER PRESET/CHANNEL/XM 1"
+            },
+            {
+                "address": "c2",
+                "name": "TUNER PRESET/CHANNEL/XM 2"
+            },
+            {
+                "address": "c3",
+                "name": "TUNER PRESET/CHANNEL/XM 3"
+            },
+            {
+                "address": "c4",
+                "name": "TUNER PRESET/CHANNEL/XM 4"
+            },
+            {
+                "address": "c5",
+                "name": "TUNER PRESET/CHANNEL/XM 5"
+            },
+            {
+                "address": "c6",
+                "name": "TUNER PRESET/CHANNEL/XM 6"
+            },
+            {
+                "address": "c7",
+                "name": "TUNER PRESET/CHANNEL/XM 7"
+            },
+            {
+                "address": "c8",
+                "name": "TUNER PRESET/CHANNEL/XM 8"
+            },
+            {
+                "address": "c9",
+                "name": "TUNER PRESET/CHANNEL/XM 9"
+            },
+            {
+                "address": "ca",
+                "name": "TUNER PRESET/CHANNEL/XM 0"
+            },
+            {
+                "address": "cc",
+                "name": "TUNER MEMORY"
+            },
+            {
+                "address": "cd",
+                "name": "TUNER SHIFT"
+            },
+            {
+                "address": "ce",
+                "name": "TUNER RT"
+            },
+            {
+                "address": "d2",
+                "name": "TUNER DIRECT/RDS SEARCH"
+            },
+            {
+                "address": "d4",
+                "name": "TUNER PTY"
+            },
+            {
+                "address": "d5",
+                "name": "TUNER PRESET/CHANNEL DOWN"
+            },
+            {
+                "address": "d6",
+                "name": "TUNER PRESET/CHANNEL UP"
+            },
+            {
+                "address": "d7",
+                "name": "TUNER BAND TOGGLE"
+            },
+            {
+                "address": "d8",
+                "name": "TUNER TUNING MODE AUTO/MANUAL"
+            },
+            {
+                "address": "d9",
+                "name": "TUNER TUNING/SCAN UP"
+            },
+            {
+                "address": "da",
+                "name": "TUNER TUNING/SCAN DOWN"
+            },
+            {
+                "address": "df",
+                "name": "DIMMER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

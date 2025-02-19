@@ -1,0 +1,49 @@
+{
+    "display_name": "LiteTouch Lighting Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "7f",
+                "name": "8"
+            },
+            {
+                "address": "bf",
+                "name": "7"
+            },
+            {
+                "address": "df",
+                "name": "6"
+            },
+            {
+                "address": "ef",
+                "name": "5"
+            },
+            {
+                "address": "f7",
+                "name": "4"
+            },
+            {
+                "address": "fb",
+                "name": "3"
+            },
+            {
+                "address": "fd",
+                "name": "2"
+            },
+            {
+                "address": "fe",
+                "name": "1"
+            },
+            {
+                "address": "ff",
+                "name": "9"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1-f16"
+    },
+    "manufacturer": "LiteTouch",
+    "model": "",
+    "name": "",
+    "target": "Lighting Controller"
+}

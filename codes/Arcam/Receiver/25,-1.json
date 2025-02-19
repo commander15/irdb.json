@@ -1,0 +1,41 @@
+{
+    "display_name": "Arcam Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "TUNER + A"
+            },
+            {
+                "address": "20",
+                "name": "TUNER + B"
+            },
+            {
+                "address": "20",
+                "name": "CH +"
+            },
+            {
+                "address": "21",
+                "name": "TUNER - A"
+            },
+            {
+                "address": "21",
+                "name": "TUNER - B"
+            },
+            {
+                "address": "21",
+                "name": "CH -"
+            },
+            {
+                "address": "2d",
+                "name": "EXIT / OPEN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

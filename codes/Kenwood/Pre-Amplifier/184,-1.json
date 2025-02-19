@@ -1,0 +1,365 @@
+{
+    "display_name": "Kenwood Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "CD SCAN <<"
+            },
+            {
+                "address": "7",
+                "name": "CD SCAN >>"
+            },
+            {
+                "address": "8",
+                "name": "CD DISC"
+            },
+            {
+                "address": "d",
+                "name": "TUNER/CD +10"
+            },
+            {
+                "address": "d",
+                "name": "10+"
+            },
+            {
+                "address": "f",
+                "name": "EQ.EFFECT"
+            },
+            {
+                "address": "1d",
+                "name": "MENU"
+            },
+            {
+                "address": "4c",
+                "name": "DELAY TIME V"
+            },
+            {
+                "address": "4c",
+                "name": "DELAY TIME DWN"
+            },
+            {
+                "address": "4d",
+                "name": "DELAY TIME ^"
+            },
+            {
+                "address": "4d",
+                "name": "DELAY TIME UP"
+            },
+            {
+                "address": "56",
+                "name": "TEST TONE ON/OFF"
+            },
+            {
+                "address": "57",
+                "name": "TEST TONE MODE"
+            },
+            {
+                "address": "58",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "59",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "80",
+                "name": "TUNER/CD 0"
+            },
+            {
+                "address": "80",
+                "name": "0"
+            },
+            {
+                "address": "81",
+                "name": "TUNER/CD 1"
+            },
+            {
+                "address": "81",
+                "name": "1"
+            },
+            {
+                "address": "82",
+                "name": "TUNER/CD 2"
+            },
+            {
+                "address": "83",
+                "name": "TUNER/CD 3"
+            },
+            {
+                "address": "83",
+                "name": "3"
+            },
+            {
+                "address": "84",
+                "name": "TUNER/CD 4"
+            },
+            {
+                "address": "84",
+                "name": "4"
+            },
+            {
+                "address": "85",
+                "name": "TUNER/CD 5"
+            },
+            {
+                "address": "85",
+                "name": "5"
+            },
+            {
+                "address": "86",
+                "name": "TUNER/CD 6"
+            },
+            {
+                "address": "86",
+                "name": "6"
+            },
+            {
+                "address": "87",
+                "name": "TUNER/CD 7"
+            },
+            {
+                "address": "87",
+                "name": "7"
+            },
+            {
+                "address": "88",
+                "name": "TUNER/CD 8"
+            },
+            {
+                "address": "88",
+                "name": "8"
+            },
+            {
+                "address": "89",
+                "name": "TUNER/CD 9"
+            },
+            {
+                "address": "89",
+                "name": "9"
+            },
+            {
+                "address": "8a",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "8c",
+                "name": "TUNER P.CALL V"
+            },
+            {
+                "address": "8c",
+                "name": "TUNER DWN"
+            },
+            {
+                "address": "8f",
+                "name": "TUNER BAND"
+            },
+            {
+                "address": "8f",
+                "name": "BAND"
+            },
+            {
+                "address": "90",
+                "name": "PHONO"
+            },
+            {
+                "address": "91",
+                "name": "TUNER"
+            },
+            {
+                "address": "92",
+                "name": "CD"
+            },
+            {
+                "address": "93",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "94",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "95",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "96",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "99",
+                "name": "TUNER P.CALL ^"
+            },
+            {
+                "address": "99",
+                "name": "TUNER UP"
+            },
+            {
+                "address": "9a",
+                "name": "VOL CONTROL V"
+            },
+            {
+                "address": "9a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "9b",
+                "name": "VOL CONTROL ^"
+            },
+            {
+                "address": "9b",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "POWER"
+            },
+            {
+                "address": "9e",
+                "name": "TUNER DIRECT"
+            },
+            {
+                "address": "9e",
+                "name": "DIRECT"
+            },
+            {
+                "address": "c5",
+                "name": "EQ.M.CALL"
+            },
+            {
+                "address": "c9",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "cb",
+                "name": "CD PLAY/PAUSE >/"
+            },
+            {
+                "address": "ce",
+                "name": "CD SKIP <<"
+            },
+            {
+                "address": "cf",
+                "name": "CD SKIP >>"
+            },
+            {
+                "address": "d0",
+                "name": "TAPEA REV PLAY <"
+            },
+            {
+                "address": "d0",
+                "name": "TAPE A R PLAY"
+            },
+            {
+                "address": "d1",
+                "name": "TAPEA PLAY >"
+            },
+            {
+                "address": "d1",
+                "name": "TAPE A PLAY"
+            },
+            {
+                "address": "d2",
+                "name": "TAPEA REW <<"
+            },
+            {
+                "address": "d2",
+                "name": "TAPE A REW"
+            },
+            {
+                "address": "d3",
+                "name": "TAPEA FF >>"
+            },
+            {
+                "address": "d3",
+                "name": "TAPE A FF"
+            },
+            {
+                "address": "d4",
+                "name": "TAPEA PAUSE "
+            },
+            {
+                "address": "d5",
+                "name": "TAPEA STOP []"
+            },
+            {
+                "address": "d5",
+                "name": "TAPE A STOP"
+            },
+            {
+                "address": "d6",
+                "name": "TAPEA REC"
+            },
+            {
+                "address": "d6",
+                "name": "TAPE A REC"
+            },
+            {
+                "address": "d7",
+                "name": "BYPASS"
+            },
+            {
+                "address": "d8",
+                "name": "TAPEB REV PLAY <"
+            },
+            {
+                "address": "d8",
+                "name": "TAPE B R PLAY"
+            },
+            {
+                "address": "d9",
+                "name": "TAPEB PLAY >"
+            },
+            {
+                "address": "d9",
+                "name": "TAPE B PLAY"
+            },
+            {
+                "address": "da",
+                "name": "TAPEB REW <<"
+            },
+            {
+                "address": "da",
+                "name": "TAPE B REW"
+            },
+            {
+                "address": "db",
+                "name": "TAPEB FF >>"
+            },
+            {
+                "address": "db",
+                "name": "TAPE B FF"
+            },
+            {
+                "address": "dc",
+                "name": "TAPEB PAUSE "
+            },
+            {
+                "address": "dd",
+                "name": "TAPEB STOP []"
+            },
+            {
+                "address": "dd",
+                "name": "TAPE B STOP"
+            },
+            {
+                "address": "de",
+                "name": "TAPEB REC"
+            },
+            {
+                "address": "de",
+                "name": "TAPE B REC"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

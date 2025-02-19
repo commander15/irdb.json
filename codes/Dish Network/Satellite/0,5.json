@@ -1,0 +1,193 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": ""
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "10",
+                "name": "ENTER"
+            },
+            {
+                "address": "10",
+                "name": "SELECT/OK"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": ">"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "16",
+                "name": "VIEW TV"
+            },
+            {
+                "address": "17",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "SD/HD/INPUT"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "BROWSE"
+            },
+            {
+                "address": "1a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1a",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "THEMES"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "20",
+                "name": "PAUSE"
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            },
+            {
+                "address": "25",
+                "name": "* FORMAT"
+            },
+            {
+                "address": "25",
+                "name": "</FORMAT"
+            },
+            {
+                "address": "26",
+                "name": "# SEARCH"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH"
+            },
+            {
+                "address": "27",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2f",
+                "name": "R"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

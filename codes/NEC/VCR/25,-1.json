@@ -1,0 +1,549 @@
+{
+    "display_name": "NEC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCR CHANNEL ^"
+            },
+            {
+                "address": "0",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "0",
+                "name": "VCR CH ^ (SET +)"
+            },
+            {
+                "address": "0",
+                "name": "CH/SET ^"
+            },
+            {
+                "address": "0",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "0",
+                "name": "VCR CH ^"
+            },
+            {
+                "address": "1",
+                "name": "VCR CHANNEL V"
+            },
+            {
+                "address": "1",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "1",
+                "name": "VCR CH V (SET -)"
+            },
+            {
+                "address": "1",
+                "name": "CH/SET V"
+            },
+            {
+                "address": "1",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "1",
+                "name": "VCR CH V"
+            },
+            {
+                "address": "2",
+                "name": "VCR SLOW +"
+            },
+            {
+                "address": "2",
+                "name": "VCR SLOW ^"
+            },
+            {
+                "address": "2",
+                "name": "SLOW +"
+            },
+            {
+                "address": "3",
+                "name": "VCR SLOW -"
+            },
+            {
+                "address": "3",
+                "name": "VCR SLOW V"
+            },
+            {
+                "address": "3",
+                "name": "SLOW -"
+            },
+            {
+                "address": "4",
+                "name": "VCR STOP []"
+            },
+            {
+                "address": "4",
+                "name": "STOP []"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "5",
+                "name": "PLAY >"
+            },
+            {
+                "address": "5",
+                "name": "PLAY"
+            },
+            {
+                "address": "6",
+                "name": "VCR REC"
+            },
+            {
+                "address": "6",
+                "name": "REC"
+            },
+            {
+                "address": "6",
+                "name": "RECORD"
+            },
+            {
+                "address": "6",
+                "name": "VCR RECORD"
+            },
+            {
+                "address": "7",
+                "name": "VCR SR"
+            },
+            {
+                "address": "7",
+                "name": "SR"
+            },
+            {
+                "address": "8",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "9",
+                "name": "VCR RESET"
+            },
+            {
+                "address": "9",
+                "name": "RESET COUNTER"
+            },
+            {
+                "address": "9",
+                "name": "RESET"
+            },
+            {
+                "address": "a",
+                "name": "VCR VCR/TV"
+            },
+            {
+                "address": "a",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "a",
+                "name": "VCR TV/VCR"
+            },
+            {
+                "address": "a",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "b",
+                "name": "VCR COUNTER MEMORY"
+            },
+            {
+                "address": "b",
+                "name": "MEMORY COUNTER"
+            },
+            {
+                "address": "b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "c",
+                "name": "VCR FF/SRCH >>"
+            },
+            {
+                "address": "c",
+                "name": "FF/PICTURE SRCH >>"
+            },
+            {
+                "address": "c",
+                "name": "FF >>"
+            },
+            {
+                "address": "c",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "VCR REW/SRCH <<"
+            },
+            {
+                "address": "d",
+                "name": "REW/PICTURE SRCH <<"
+            },
+            {
+                "address": "d",
+                "name": "REW <<"
+            },
+            {
+                "address": "d",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "e",
+                "name": "VCR PAUSE/STILL "
+            },
+            {
+                "address": "e",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "e",
+                "name": "VCR PAUSE/STILL"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE/STILL  / ><"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE"
+            },
+            {
+                "address": "f",
+                "name": "VCR EJECT"
+            },
+            {
+                "address": "f",
+                "name": "EJECT"
+            },
+            {
+                "address": "10",
+                "name": "VCR 1"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "10",
+                "name": "VCR 1 (AM/SUN)"
+            },
+            {
+                "address": "11",
+                "name": "VCR 2"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "11",
+                "name": "VCR 2 (PM/MON)"
+            },
+            {
+                "address": "12",
+                "name": "VCR 3"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "12",
+                "name": "VCR 3 (TUE)"
+            },
+            {
+                "address": "13",
+                "name": "VCR 4"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "13",
+                "name": "VCR 4 (WED)"
+            },
+            {
+                "address": "14",
+                "name": "VCR 5"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "14",
+                "name": "VCR 5 (THU)"
+            },
+            {
+                "address": "15",
+                "name": "VCR 6"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "15",
+                "name": "VCR 6 (FRI)"
+            },
+            {
+                "address": "16",
+                "name": "VCR 7"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "16",
+                "name": "VCR 7 (SAT)"
+            },
+            {
+                "address": "17",
+                "name": "VCR 8"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "VCR 9"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "VCR INPUT"
+            },
+            {
+                "address": "1a",
+                "name": "VCR 0"
+            },
+            {
+                "address": "1a",
+                "name": "0"
+            },
+            {
+                "address": "1b",
+                "name": "VCR REC MODE"
+            },
+            {
+                "address": "1b",
+                "name": "REC MODE"
+            },
+            {
+                "address": "1b",
+                "name": "SP/EP RECORD MODE"
+            },
+            {
+                "address": "1e",
+                "name": "VCR SHIFT +"
+            },
+            {
+                "address": "1e",
+                "name": "SHIFT"
+            },
+            {
+                "address": "60",
+                "name": "FWD >"
+            },
+            {
+                "address": "61",
+                "name": "REV <"
+            },
+            {
+                "address": "62",
+                "name": "INDEX SEARCH"
+            },
+            {
+                "address": "63",
+                "name": "VCR TRACKING +"
+            },
+            {
+                "address": "63",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "64",
+                "name": "VCR TRACKING -"
+            },
+            {
+                "address": "64",
+                "name": "TRACKING -"
+            },
+            {
+                "address": "65",
+                "name": "REAL/NORM. COUNTER"
+            },
+            {
+                "address": "68",
+                "name": "NAT.SL"
+            },
+            {
+                "address": "69",
+                "name": "PRGM CHECK"
+            },
+            {
+                "address": "6f",
+                "name": "VCR MONITOR"
+            },
+            {
+                "address": "82",
+                "name": "VCR TIMER MODE"
+            },
+            {
+                "address": "82",
+                "name": "OSD PRGM"
+            },
+            {
+                "address": "82",
+                "name": "TIMER MODE"
+            },
+            {
+                "address": "83",
+                "name": "TIMER REC"
+            },
+            {
+                "address": "83",
+                "name": "VCR TIMER REC"
+            },
+            {
+                "address": "83",
+                "name": "VCR TIMER RECORD"
+            },
+            {
+                "address": "84",
+                "name": "VCR ON SCREEN"
+            },
+            {
+                "address": "84",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "85",
+                "name": "VCR CLOCK/COUNTER"
+            },
+            {
+                "address": "85",
+                "name": "VCR COUNTER/TIMER"
+            },
+            {
+                "address": "85",
+                "name": "TIMER/COUNTER"
+            },
+            {
+                "address": "85",
+                "name": "VCR ANT/AUX"
+            },
+            {
+                "address": "86",
+                "name": "VCR F ADV"
+            },
+            {
+                "address": "86",
+                "name": "VCR STILL ADV."
+            },
+            {
+                "address": "88",
+                "name": "VCR SHIFT -"
+            },
+            {
+                "address": "88",
+                "name": "VCR BACK"
+            },
+            {
+                "address": "90",
+                "name": "DIGITAL MEM."
+            },
+            {
+                "address": "91",
+                "name": "ST/SAP"
+            },
+            {
+                "address": "92",
+                "name": "HI-FI/NORM"
+            },
+            {
+                "address": "93",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "94",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "9a",
+                "name": "STROBE"
+            },
+            {
+                "address": "9c",
+                "name": "DIGITAL NR"
+            },
+            {
+                "address": "9d",
+                "name": "VCR TIME SEARCH"
+            },
+            {
+                "address": "9d",
+                "name": "REAL SEARCH"
+            },
+            {
+                "address": "9e",
+                "name": "VCR DSR"
+            },
+            {
+                "address": "9e",
+                "name": "D.S.R."
+            },
+            {
+                "address": "9f",
+                "name": "VCR X2"
+            },
+            {
+                "address": "c5",
+                "name": "VCR SLOW"
+            },
+            {
+                "address": "c6",
+                "name": "VCR ADD/ERASE"
+            },
+            {
+                "address": "c7",
+                "name": "VCR REPEAT"
+            },
+            {
+                "address": "c8",
+                "name": "VCR CH SEARCH"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

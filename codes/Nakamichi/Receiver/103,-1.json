@@ -1,0 +1,133 @@
+{
+    "display_name": "Nakamichi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "8f",
+                "name": "CD DISC"
+            },
+            {
+                "address": "8f",
+                "name": "CD DISC ^"
+            },
+            {
+                "address": "8f",
+                "name": "CD DISC 1-6"
+            },
+            {
+                "address": "8f",
+                "name": "DISC"
+            },
+            {
+                "address": "90",
+                "name": "CD DISC V"
+            },
+            {
+                "address": "93",
+                "name": "CD DISC SCAN"
+            },
+            {
+                "address": "93",
+                "name": "DISC SCAN"
+            },
+            {
+                "address": "9a",
+                "name": "CD SINGLE"
+            },
+            {
+                "address": "c1",
+                "name": "CD SCAN <<"
+            },
+            {
+                "address": "c1",
+                "name": "CD SEARCH <<"
+            },
+            {
+                "address": "c1",
+                "name": "CD <<"
+            },
+            {
+                "address": "c2",
+                "name": "CD SKIP <"
+            },
+            {
+                "address": "c2",
+                "name": "CD TRACK <"
+            },
+            {
+                "address": "c2",
+                "name": "CD <"
+            },
+            {
+                "address": "c2",
+                "name": "CD SKIP I<"
+            },
+            {
+                "address": "c5",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "c5",
+                "name": "CD STOP"
+            },
+            {
+                "address": "c6",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "c6",
+                "name": "CD PLAY"
+            },
+            {
+                "address": "c7",
+                "name": "CD SCAN >>"
+            },
+            {
+                "address": "c7",
+                "name": "CD SEARCH >>"
+            },
+            {
+                "address": "c7",
+                "name": "CD >>"
+            },
+            {
+                "address": "c8",
+                "name": "CD SKIP >"
+            },
+            {
+                "address": "c8",
+                "name": "CD TRACK >"
+            },
+            {
+                "address": "c8",
+                "name": "CD >"
+            },
+            {
+                "address": "c8",
+                "name": "CD SKIP >I"
+            },
+            {
+                "address": "cb",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "cb",
+                "name": "CD PAUSE"
+            },
+            {
+                "address": "db",
+                "name": "CD RANDOM"
+            },
+            {
+                "address": "db",
+                "name": "RANDOM"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

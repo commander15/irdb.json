@@ -1,0 +1,653 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV/VCR",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV TV/VCR",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "MONITOR TV/VIDEO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "A MONITOR TV/VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV TV/VIDEO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV INPUT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV MONITOR (TV/VIDEO",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "MONITOR (TV/VIDEO)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "13",
+                "device_address": "-80000000",
+                "name": "TV/VIDEO MONITOR",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "TV POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "(TV) POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "POWER (TV)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "A TV POWER",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "TV OPERATE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "TV OPERATE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "POWER (TV)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CH V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "(TV) CHANNEL V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CH -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CHANNEL V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "A TV CH -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CH - (TV PROG)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CH/SET -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CH --",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV PROG/(2)SET -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV PROG - (CH -)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "CHANNEL DOWN",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "TV CHANNEL -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CH ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "(TV) CHANNEL ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CH +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CHANNEL ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "A TV CH +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CH + (2 SET )",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CH/SET +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV PROG/(2)SET +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV PROG + (CH +)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "CHANNEL UP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "TV CHANNEL +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1c",
+                "device_address": "-80000000",
+                "name": "TV AUDIO MONITOR",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "TV VOL +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "(TV) VOLUME +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOLUME +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "A TV VOL +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOL +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "TV VOLUME +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOL +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VCR VOLUME +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOLUME UP",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOL+",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1e",
+                "device_address": "-80000000",
+                "name": "VOLUME UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "TV VOL -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "(TV) VOLUME -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VOLUME -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "A TV VOL -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VOL -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "TV VOLUME -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "TV VOL --",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VOL -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VCR VOLUME -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VOLUME DOWN",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1f",
+                "device_address": "-80000000",
+                "name": "VOLUME DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "20",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "JVC"
+            },
+            {
+                "address": "20",
+                "device_address": "-80000000",
+                "name": "TV 0 (AUX)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "20",
+                "device_address": "-80000000",
+                "name": "TV 0 (AUX)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "20",
+                "device_address": "-80000000",
+                "name": "TV 0/AUX",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "TV 1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "TV 1",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "TV 1 (ABC)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "TV 2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "TV 2",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "TV 2 (DEF)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "TV 3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "TV 3",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "TV 3 (GHI)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "TV 4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "TV 4",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "TV 4 (JKL)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "TV 5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "TV 5",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "TV 5 (MNO)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "TV 6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "TV 6",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "TV 6 (PQR)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "TV 7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "TV 7",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "TV 7 (STU)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "TV 8 (DAILY)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "TV 8 (DAILY M-F)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "TV 8 (DAILY)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "TV 8 (VWX)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "TV 8/DAILY (M-F)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "TV 9 (WEEKLY)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "TV 9 (WEEKLY)",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "TV 9/WEEKLY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "9d",
+                "device_address": "-80000000",
+                "name": "TV ///",
+                "protocol": "JVC{2}"
+            }
+        ]
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

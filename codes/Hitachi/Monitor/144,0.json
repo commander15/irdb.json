@@ -1,0 +1,93 @@
+{
+    "display_name": "Hitachi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCR STOP []"
+            },
+            {
+                "address": "2",
+                "name": "VCR <<"
+            },
+            {
+                "address": "3",
+                "name": "VCR >>"
+            },
+            {
+                "address": "6",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "VCR REC"
+            },
+            {
+                "address": "a",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "10",
+                "name": "VCR 1"
+            },
+            {
+                "address": "11",
+                "name": "VCR 2"
+            },
+            {
+                "address": "12",
+                "name": "VCR 3"
+            },
+            {
+                "address": "13",
+                "name": "VCR 4"
+            },
+            {
+                "address": "14",
+                "name": "VCR 5"
+            },
+            {
+                "address": "15",
+                "name": "VCR 6"
+            },
+            {
+                "address": "16",
+                "name": "VCR 7"
+            },
+            {
+                "address": "17",
+                "name": "VCR 8"
+            },
+            {
+                "address": "18",
+                "name": "VCR 9"
+            },
+            {
+                "address": "19",
+                "name": "VCR 0"
+            },
+            {
+                "address": "34",
+                "name": "VCR CH ^"
+            },
+            {
+                "address": "35",
+                "name": "VCR CH V"
+            },
+            {
+                "address": "36",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "3d",
+                "name": "VCR POWER"
+            }
+        ],
+        "device_address": "90",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

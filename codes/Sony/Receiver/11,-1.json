@@ -1,0 +1,49 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "15",
+                "name": "VISUAL I/O"
+            },
+            {
+                "address": "2e",
+                "name": ""
+            },
+            {
+                "address": "2f",
+                "name": ""
+            },
+            {
+                "address": "42",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "43",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "MENU"
+            },
+            {
+                "address": "51",
+                "name": "ENTER/OK"
+            },
+            {
+                "address": "61",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "62",
+                "name": "ARROW LEFT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

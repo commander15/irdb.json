@@ -1,0 +1,29 @@
+{
+    "display_name": "Denon Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "125",
+                "name": "USER 2"
+            },
+            {
+                "address": "126",
+                "name": "USER 3"
+            },
+            {
+                "address": "131",
+                "name": "SURR DIRECT MAIN"
+            },
+            {
+                "address": "2c7",
+                "name": "AUX MAIN"
+            }
+        ],
+        "device_address": "8",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

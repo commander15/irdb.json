@@ -1,0 +1,65 @@
+{
+    "display_name": "Elan Master Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "TUNER"
+            },
+            {
+                "address": "21",
+                "name": "CD"
+            },
+            {
+                "address": "22",
+                "name": "TAPE"
+            },
+            {
+                "address": "23",
+                "name": "VCR"
+            },
+            {
+                "address": "24",
+                "name": "LASER"
+            },
+            {
+                "address": "26",
+                "name": "CABLE"
+            },
+            {
+                "address": "27",
+                "name": "TV"
+            },
+            {
+                "address": "28",
+                "name": "AUX 1"
+            },
+            {
+                "address": "29",
+                "name": "AUX 2"
+            },
+            {
+                "address": "2a",
+                "name": "AUX 3"
+            },
+            {
+                "address": "2b",
+                "name": "AUX 4"
+            },
+            {
+                "address": "2c",
+                "name": "AUX 5"
+            },
+            {
+                "address": "2e",
+                "name": "DBS"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Master Controller"
+}

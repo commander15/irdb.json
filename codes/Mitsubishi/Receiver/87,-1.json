@@ -1,0 +1,337 @@
+{
+    "display_name": "Mitsubishi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCRA 1"
+            },
+            {
+                "address": "1",
+                "name": "VCRA 9"
+            },
+            {
+                "address": "2",
+                "name": "VCRA POWER"
+            },
+            {
+                "address": "4",
+                "name": "VCRA PLAY >"
+            },
+            {
+                "address": "8",
+                "name": "VCRA 2"
+            },
+            {
+                "address": "9",
+                "name": "VCRA 0"
+            },
+            {
+                "address": "a",
+                "name": "VCRA CH ^ (SCAN ^)"
+            },
+            {
+                "address": "b",
+                "name": "VCRA CANCEL"
+            },
+            {
+                "address": "c",
+                "name": "VCRA REC"
+            },
+            {
+                "address": "e",
+                "name": "VCRA FS/+"
+            },
+            {
+                "address": "10",
+                "name": "VCRA 3"
+            },
+            {
+                "address": "12",
+                "name": "VCRA CH V (SCAN V)"
+            },
+            {
+                "address": "14",
+                "name": "VCRA STOP []"
+            },
+            {
+                "address": "16",
+                "name": "VCRA RS/-"
+            },
+            {
+                "address": "17",
+                "name": "VCRA REPEAT"
+            },
+            {
+                "address": "18",
+                "name": "VCRA 4"
+            },
+            {
+                "address": "1a",
+                "name": "VCRA INPUT V"
+            },
+            {
+                "address": "1c",
+                "name": "VCRA PAUSE "
+            },
+            {
+                "address": "20",
+                "name": "VCRA 5"
+            },
+            {
+                "address": "24",
+                "name": "VCRA FF >>"
+            },
+            {
+                "address": "25",
+                "name": "VCRA QV"
+            },
+            {
+                "address": "27",
+                "name": "VCRA DISPLAY"
+            },
+            {
+                "address": "28",
+                "name": "VCRA 6"
+            },
+            {
+                "address": "2c",
+                "name": "VCRA REW <<"
+            },
+            {
+                "address": "2d",
+                "name": "VCRA R.PLAY <"
+            },
+            {
+                "address": "2f",
+                "name": "VCRA OTR"
+            },
+            {
+                "address": "30",
+                "name": "VCRA 7"
+            },
+            {
+                "address": "34",
+                "name": "VCRA SLOW"
+            },
+            {
+                "address": "35",
+                "name": "VCRA ENTER"
+            },
+            {
+                "address": "38",
+                "name": "VCRA 8"
+            },
+            {
+                "address": "39",
+                "name": "VCRA A"
+            },
+            {
+                "address": "3a",
+                "name": "VCRA INPUT ^"
+            },
+            {
+                "address": "3d",
+                "name": "VCRA INTRO"
+            },
+            {
+                "address": "40",
+                "name": "VCRA VIDEO ^"
+            },
+            {
+                "address": "41",
+                "name": "VCRA ADJUST ^"
+            },
+            {
+                "address": "48",
+                "name": "VCRA VIDEO V"
+            },
+            {
+                "address": "49",
+                "name": "VCRA ADJUST V"
+            },
+            {
+                "address": "50",
+                "name": "VCRA AUDIO ^"
+            },
+            {
+                "address": "52",
+                "name": "VCRA MENU"
+            },
+            {
+                "address": "58",
+                "name": "VCRA AUDIO V"
+            },
+            {
+                "address": "80",
+                "name": "VCRB 1"
+            },
+            {
+                "address": "81",
+                "name": "VCRB 9"
+            },
+            {
+                "address": "82",
+                "name": "VCRB POWER"
+            },
+            {
+                "address": "84",
+                "name": "VCRB PLAY >"
+            },
+            {
+                "address": "88",
+                "name": "VCRB 2"
+            },
+            {
+                "address": "89",
+                "name": "VCRB 0"
+            },
+            {
+                "address": "8a",
+                "name": "VCRB CH ^ (SCAN ^)"
+            },
+            {
+                "address": "8b",
+                "name": "VCRB CANCEL"
+            },
+            {
+                "address": "8c",
+                "name": "VCRB REC"
+            },
+            {
+                "address": "8e",
+                "name": "VCRB FS/+"
+            },
+            {
+                "address": "90",
+                "name": "VCRB 3"
+            },
+            {
+                "address": "92",
+                "name": "VCRB CH V (SCAN V)"
+            },
+            {
+                "address": "94",
+                "name": "VCRB STOP []"
+            },
+            {
+                "address": "96",
+                "name": "VCRB RS/-"
+            },
+            {
+                "address": "97",
+                "name": "VCRB REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "VCRB 4"
+            },
+            {
+                "address": "9a",
+                "name": "VCRB INPUT V"
+            },
+            {
+                "address": "9c",
+                "name": "VCRB PAUSE "
+            },
+            {
+                "address": "a0",
+                "name": "VCRB 5"
+            },
+            {
+                "address": "a4",
+                "name": "VCRB FF >>"
+            },
+            {
+                "address": "a5",
+                "name": "VCRB QV"
+            },
+            {
+                "address": "a7",
+                "name": "VCRB DISPLAY"
+            },
+            {
+                "address": "a8",
+                "name": "VCRB 6"
+            },
+            {
+                "address": "ac",
+                "name": "VCRB REW <<"
+            },
+            {
+                "address": "ad",
+                "name": "VCRB R.PLAY <"
+            },
+            {
+                "address": "ad",
+                "name": "VCRB PLAY R. <"
+            },
+            {
+                "address": "af",
+                "name": "VCRB OTR"
+            },
+            {
+                "address": "b0",
+                "name": "VCRB 7"
+            },
+            {
+                "address": "b4",
+                "name": "VCRB SLOW"
+            },
+            {
+                "address": "b5",
+                "name": "VCRB ENTER"
+            },
+            {
+                "address": "b8",
+                "name": "VCRB 8"
+            },
+            {
+                "address": "b9",
+                "name": "VCRB A"
+            },
+            {
+                "address": "ba",
+                "name": "VCRB INPUT ^"
+            },
+            {
+                "address": "bd",
+                "name": "VCRB INTRO"
+            },
+            {
+                "address": "c0",
+                "name": "VCRB VIDEO ^"
+            },
+            {
+                "address": "c1",
+                "name": "VCRB ADJUST ^"
+            },
+            {
+                "address": "c8",
+                "name": "VCRB VIDEO V"
+            },
+            {
+                "address": "c9",
+                "name": "VCRB ADJUST V"
+            },
+            {
+                "address": "d0",
+                "name": "VCRB AUDIO ^"
+            },
+            {
+                "address": "d2",
+                "name": "VCRB MENU"
+            },
+            {
+                "address": "d8",
+                "name": "VCRB AUDIO V"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

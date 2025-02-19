@@ -1,0 +1,61 @@
+{
+    "display_name": "Panasonic TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TELETEXT SELECT"
+            },
+            {
+                "address": "1",
+                "name": "TELETEXT MIX"
+            },
+            {
+                "address": "3",
+                "name": "TELETEXT TIME TEXT"
+            },
+            {
+                "address": "4",
+                "name": "TELETEXT CANCEL"
+            },
+            {
+                "address": "5",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "8",
+                "name": "TELETEXT INDEX / TIMER"
+            },
+            {
+                "address": "9",
+                "name": "TELETEXT HOLD"
+            },
+            {
+                "address": "a",
+                "name": "TELETEXT STORE LIST"
+            },
+            {
+                "address": "c",
+                "name": "TELETEXT SIZE"
+            },
+            {
+                "address": "1c",
+                "name": "TELETEXT REVEAL"
+            },
+            {
+                "address": "1d",
+                "name": "TELETEXT LIST"
+            },
+            {
+                "address": "1e",
+                "name": "TELETEXT RESET"
+            }
+        ],
+        "device_address": "100",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

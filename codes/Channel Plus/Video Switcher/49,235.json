@@ -1,0 +1,33 @@
+{
+    "display_name": "Channel Plus Video Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "83",
+                "name": "INPUT 1 (A)"
+            },
+            {
+                "address": "84",
+                "name": "INPUT 2 (A)"
+            },
+            {
+                "address": "85",
+                "name": "INPUT 3 (A)"
+            },
+            {
+                "address": "86",
+                "name": "INPUT 4 (A)"
+            },
+            {
+                "address": "87",
+                "name": "INPUT 5 (A)"
+            }
+        ],
+        "device_address": "18800",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Channel Plus",
+    "model": "",
+    "name": "",
+    "target": "Video Switcher"
+}

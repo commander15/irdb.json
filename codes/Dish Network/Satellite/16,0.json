@@ -1,0 +1,29 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "19",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "28",
+                "name": ""
+            },
+            {
+                "address": "2a",
+                "name": "TV"
+            }
+        ],
+        "device_address": "10",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

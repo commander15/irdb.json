@@ -1,0 +1,105 @@
+{
+    "display_name": "Grundig Video Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "PLAY"
+            },
+            {
+                "address": "3",
+                "name": "PAUSE"
+            },
+            {
+                "address": "d",
+                "name": "EJECT"
+            },
+            {
+                "address": "14",
+                "name": "0"
+            },
+            {
+                "address": "15",
+                "name": "1"
+            },
+            {
+                "address": "16",
+                "name": "2"
+            },
+            {
+                "address": "17",
+                "name": "3"
+            },
+            {
+                "address": "18",
+                "name": "4"
+            },
+            {
+                "address": "19",
+                "name": "5"
+            },
+            {
+                "address": "1a",
+                "name": "6"
+            },
+            {
+                "address": "1b",
+                "name": "7"
+            },
+            {
+                "address": "1c",
+                "name": "8"
+            },
+            {
+                "address": "1d",
+                "name": "9"
+            },
+            {
+                "address": "2a",
+                "name": "STOP"
+            },
+            {
+                "address": "47",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "47",
+                "name": "UP"
+            },
+            {
+                "address": "48",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "48",
+                "name": "DOWN"
+            },
+            {
+                "address": "4a",
+                "name": "RIGHT"
+            },
+            {
+                "address": "4b",
+                "name": "LEFT"
+            },
+            {
+                "address": "53",
+                "name": "-/--"
+            },
+            {
+                "address": "55",
+                "name": "RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Grundig16-30"
+    },
+    "manufacturer": "Grundig",
+    "model": "",
+    "name": "",
+    "target": "Video Recorder"
+}

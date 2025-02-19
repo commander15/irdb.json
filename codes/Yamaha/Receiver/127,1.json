@@ -1,0 +1,6089 @@
+{
+    "display_name": "Yamaha Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "fe",
+                "name": "SRCH MODE PRESET",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "0",
+                "device_address": "fe",
+                "name": "HDRADIO: PRES MOD",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "1",
+                "device_address": "fe",
+                "name": "SRCH MODE TUNING",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "1",
+                "device_address": "fe",
+                "name": "HDRADIO: MAN MOD",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2",
+                "device_address": "fe",
+                "name": "OPERATION 11",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2",
+                "device_address": "fe",
+                "name": "SRCE: MZ PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "3",
+                "device_address": "fe",
+                "name": "SRCE: Z2 PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "3",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 11",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "3",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 11",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "4",
+                "device_address": "fe",
+                "name": "SRCE: Z3 PRESET -",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "4",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 11",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 11",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "5",
+                "device_address": "fe",
+                "name": "SRCE: Z4 PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 11",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 11",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "6",
+                "device_address": "fe",
+                "name": "OPERATION 12",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "6",
+                "device_address": "fe",
+                "name": "SRCE: MZ PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "7",
+                "device_address": "fe",
+                "name": "SRCE: Z2 PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "7",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 12",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "7",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 12",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "8",
+                "device_address": "fe",
+                "name": "SRCE: Z3 PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "8",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 12",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "8",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 12",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "9",
+                "device_address": "fe",
+                "name": "SRCE: Z4 PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 12",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 12",
+                "protocol": "NEC1-f16"
+            },
+            {
+                "address": "a",
+                "device_address": "fe",
+                "name": "A",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "a",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET A",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "a",
+                "device_address": "fe",
+                "name": "SIRIUS: A",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "b",
+                "device_address": "fe",
+                "name": "B",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "b",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET B",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "b",
+                "device_address": "fe",
+                "name": "SIRIUS: B",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "b",
+                "device_address": "fe",
+                "name": "SIRIUS: B",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "c",
+                "device_address": "fe",
+                "name": "C",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "c",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET C",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "c",
+                "device_address": "fe",
+                "name": "SIRIUS: C",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "c",
+                "device_address": "fe",
+                "name": "SIRIUS: C",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "d",
+                "device_address": "fe",
+                "name": "DOCK BLUETOOTH PAIR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "fe",
+                "name": "D",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "d",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET D",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "d",
+                "device_address": "fe",
+                "name": "SIRIUS: D",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "d",
+                "device_address": "fe",
+                "name": "SIRIUS: D",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD: CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD MENU UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "DOCK NAV UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "E",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "DOCK: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET E",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "DOCK MENU UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "SIRIUS: E",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "IPOD: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e",
+                "device_address": "fe",
+                "name": "SIRIUS: E",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "IPOD MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "IPOD: MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "SEARCH ALL CH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "SIRIUS:ALL CH SEARCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "SIRIUS MODE ALL",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "f",
+                "device_address": "fe",
+                "name": "SIRIUS ALL CH SRCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "IPOD MENU LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "IPOD CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "IPOD: CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "SEARCH CATEGORY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "DOCK: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "SIRIUS:CATEG. SEARCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "SIRIUS MODE CATEGOR",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "DOCK MENU LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "SIRIUS CAT SRCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "IPOD: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "fe",
+                "name": "IPOD: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "IPOD ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "IPOD CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "IPOD: CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "DOCK NAV ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "SEARCH PRESET",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "DOCK: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "SIRIUS:PRESET SEARCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "IPOD: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "SIRIUS MODE PRESET",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "DOCK MENU ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET SRCH",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "11",
+                "device_address": "fe",
+                "name": "IPOD: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "IPOD MENU RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "IPOD CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "IPOD: CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "DOCK NAV RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "DOCK: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "DOCK MENU RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "IPOD: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "IPOD: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "12",
+                "device_address": "fe",
+                "name": "NET: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "13",
+                "device_address": "fe",
+                "name": "IPOD BLUETOOTH OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD: CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD MENU DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "DOCK NAV DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "DOCK: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "DOCK MENU DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "fe",
+                "name": "IPOD: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "IPOD DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "IPOD: DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "DOCK: DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "fe",
+                "name": "DOCK DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD REW(SEARCH)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD: REWIND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD: REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD REWIND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "DOCK REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "DOCK: REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "REWIND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD: SCAN DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD SEARCH DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "DOCK CONT REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "fe",
+                "name": "IPOD: REWIND",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD FF(SEARCH)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD: FAST FORWARD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD: FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD FAST FORWARD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "DOCK FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "DOCK NAV LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "DOCK: FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "FAST FORWARD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD: SCAN UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD SEARCH UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "DOCK CONT FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "fe",
+                "name": "IPOD: FAST FORWARD",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "IPOD PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "IPOD: PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "DOCK PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "DOCK: PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "DOCK CONT PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "fe",
+                "name": "IPOD: PAUSE",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD CHP/SKIP-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD: SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD: SKIP-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "DOCK SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "DOCK: SKIP-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "PREV TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD: SKIP DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD SKIP BACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "DOCK CONT SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "IPOD: SKIP-",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1b",
+                "device_address": "fe",
+                "name": "NET: SKIP-",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD CHP/SKIP+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD: SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD: SKIP+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "DOCK SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "DOCK: SKIP+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "NEXT TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD: SKIP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD SKIP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "DOCK CONT SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "IPOD: SKIP+",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1c",
+                "device_address": "fe",
+                "name": "NET: SKIP+",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "IPOD STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "IPOD: STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "DOCK STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "DOCK: STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "DOCK CONT STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "IPOD: STOP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1d",
+                "device_address": "fe",
+                "name": "NET: STOP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "IPOD PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "IPOD: PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "DOCK PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "DOCK: PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "DOCK CONT PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "fe",
+                "name": "IPOD: PLAY",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "NET 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "NET: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "1",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "NET/USB 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "HD RADIO: 1",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "NET: 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "21",
+                "device_address": "fe",
+                "name": "HD RADIO: 1",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "NET 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "NET: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "2",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "NET/USB 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "HD RADIO: 2",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "NET: 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "22",
+                "device_address": "fe",
+                "name": "HD RADIO: 2",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "NET 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "NET: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "3",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "NET/USB 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "HD RADIO: 3",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "NET: 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "23",
+                "device_address": "fe",
+                "name": "HD RADIO: 3",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "NET 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "NET: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "4",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "NET/USB 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "HD RADIO: 4",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "NET: 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "24",
+                "device_address": "fe",
+                "name": "HD RADIO: 4",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "NET 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "NET: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "5",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "NET/USB 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "HD RADIO: 5",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "NET: 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "25",
+                "device_address": "fe",
+                "name": "HD RADIO: 5",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "NET 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "NET: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "6",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "NET/USB 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "HD RADIO: 6",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "NET: 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "26",
+                "device_address": "fe",
+                "name": "HD RADIO: 6",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "NET 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "NET: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "7",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "NET/USB 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "HD RADIO: 7",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "NET: 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "27",
+                "device_address": "fe",
+                "name": "HD RADIO: 7",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "NET 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "NET: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "8",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "NET/USB 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "HD RADIO: 8",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "NET: 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "28",
+                "device_address": "fe",
+                "name": "HD RADIO: 8",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "29",
+                "device_address": "fe",
+                "name": "9",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "29",
+                "device_address": "fe",
+                "name": "HD RADIO: 9",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "29",
+                "device_address": "fe",
+                "name": "HD RADIO: 9",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "2a",
+                "device_address": "fe",
+                "name": "0",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2a",
+                "device_address": "fe",
+                "name": "HD RADIO: 0",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2a",
+                "device_address": "fe",
+                "name": "HD RADIO: 0",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "NET NUM ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "NET: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "NET: ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "ENT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "NET/USB ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "HD RADIO: ENTER",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "NET SETUP: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "2c",
+                "device_address": "fe",
+                "name": "HD RADIO: ENTER",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "2d",
+                "device_address": "fe",
+                "name": "NET TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2d",
+                "device_address": "fe",
+                "name": "NET: TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "NET CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "NET: CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "IPOD MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "NET/USB NAV UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "USB MENU UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "NET: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "NET: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "2e",
+                "device_address": "fe",
+                "name": "SETUP: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "2f",
+                "device_address": "fe",
+                "name": "NET MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2f",
+                "device_address": "fe",
+                "name": "NET: MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2f",
+                "device_address": "fe",
+                "name": "MEMORY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2f",
+                "device_address": "fe",
+                "name": "HD RADIO: MEMORY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "2f",
+                "device_address": "fe",
+                "name": "HD RADIO: MEMORY",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "NET CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "NET: CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "NET/USB NAV LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "USB MENU LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "NET: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "NET: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "30",
+                "device_address": "fe",
+                "name": "SETUP: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NET CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NET: CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NAV UP",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NET/USB NAV ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "USB ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NET SETUP: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "NET: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "31",
+                "device_address": "fe",
+                "name": "SETUP: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "NET CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "NET: CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "NAV LEFT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "NET/USB NAV RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "USB MENU RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "NET: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "32",
+                "device_address": "fe",
+                "name": "SETUP: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "NET MEM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "NET: MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "ENTER",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "NET/USB MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "USB RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "HD RAD SETUP: ENT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "NET: MEMORY",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "33",
+                "device_address": "fe",
+                "name": "HD RAD SETUP: ENT",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NET CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NET: CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NAV RIGHT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NET/USB NAV DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "USB MENU DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NET: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "NET: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "34",
+                "device_address": "fe",
+                "name": "SETUP: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "35",
+                "device_address": "fe",
+                "name": "NET DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "35",
+                "device_address": "fe",
+                "name": "NET: DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "35",
+                "device_address": "fe",
+                "name": "NAV DOWN",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "35",
+                "device_address": "fe",
+                "name": "USB DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "36",
+                "device_address": "fe",
+                "name": "NET REC(PC/MCX)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "36",
+                "device_address": "fe",
+                "name": "NET INPUT: PC/MCX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "36",
+                "device_address": "fe",
+                "name": "NET: PC/MCX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "36",
+                "device_address": "fe",
+                "name": "NET: REC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "37",
+                "device_address": "fe",
+                "name": "NET REW (RADIO)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "37",
+                "device_address": "fe",
+                "name": "NET INPUT: NET RADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "37",
+                "device_address": "fe",
+                "name": "NET: IRADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "37",
+                "device_address": "fe",
+                "name": "NET: REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "fe",
+                "name": "NET FF(USB)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "fe",
+                "name": "NET INPUT: USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "fe",
+                "name": "NET: FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "fe",
+                "name": "NET: USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "fe",
+                "name": "NET PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "fe",
+                "name": "NET: PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "fe",
+                "name": "NET: PAUSE",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "3b",
+                "device_address": "fe",
+                "name": "NET SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "fe",
+                "name": "NET: SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "fe",
+                "name": "NET: SKIP-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "fe",
+                "name": "NET/USB SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "fe",
+                "name": "USB SKIP BACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "NET SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "NET: SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "NET: SKIP+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "PROGRAM SELECT -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "NET/USB SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3c",
+                "device_address": "fe",
+                "name": "USB SKIP FORWARD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3d",
+                "device_address": "fe",
+                "name": "NET STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3d",
+                "device_address": "fe",
+                "name": "NET: STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3d",
+                "device_address": "fe",
+                "name": "PROGRAM SELECT +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "3d",
+                "device_address": "fe",
+                "name": "NET/USB STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3d",
+                "device_address": "fe",
+                "name": "USB STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "fe",
+                "name": "NET PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "fe",
+                "name": "NET: PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "fe",
+                "name": "NET/USB PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "fe",
+                "name": "USB PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "fe",
+                "name": "NET: PLAY",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "INPUT NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "INPUT USB-NET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "MZ IN: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "Z2 IN: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "MZ: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "USB INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3f",
+                "device_address": "fe",
+                "name": "MZ: INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z2 IN NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "ZONE2 INPUT USB-NET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z3 IN: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z2: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "DOCK SIMPL REMOTE",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "DOCK SIMPLE REMOT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z2: INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z2 INP: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "fe",
+                "name": "Z2 INP: NET/USB",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "Z3 IN NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "ZONE3 INPUT USB-NET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "Z3: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "DOCK MENU BROWSE",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "Z3: INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "Z3 INP: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "fe",
+                "name": "Z3 INP: NET/USB",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "42",
+                "device_address": "fe",
+                "name": "DOCK PAGE UP",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "42",
+                "device_address": "fe",
+                "name": "IPOD: PAGE UP",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "42",
+                "device_address": "fe",
+                "name": "IPOD: PAGE UP",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "43",
+                "device_address": "fe",
+                "name": "DOCK PAGE DOWN",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "43",
+                "device_address": "fe",
+                "name": "IPOD: PAGE DOWN",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "43",
+                "device_address": "fe",
+                "name": "IPOD: PAGE DOWN",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "44",
+                "device_address": "fe",
+                "name": "NET PAGE UP",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "44",
+                "device_address": "fe",
+                "name": "NET: PAGE UP",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "44",
+                "device_address": "fe",
+                "name": "NET: PAGE UP",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "45",
+                "device_address": "fe",
+                "name": "NET PAGE DOWN",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "45",
+                "device_address": "fe",
+                "name": "NET: PAGE DOWN",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "45",
+                "device_address": "fe",
+                "name": "NET: PAGE DOWN",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "46",
+                "device_address": "fe",
+                "name": "NET BOOK MARK ON",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "46",
+                "device_address": "fe",
+                "name": "NET: BOOKMARK ON",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "46",
+                "device_address": "fe",
+                "name": "NET: BOOKMARK ON",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "47",
+                "device_address": "fe",
+                "name": "NET BOOK MARK OFF",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "47",
+                "device_address": "fe",
+                "name": "NET: BOOKMARK OFF",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "47",
+                "device_address": "fe",
+                "name": "NET: BOOKMARK OFF",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "48",
+                "device_address": "fe",
+                "name": "INPUT RHAPSODY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "fe",
+                "name": "INP RHAPSODY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "48",
+                "device_address": "fe",
+                "name": "MZ INP: RHAPSODY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "48",
+                "device_address": "fe",
+                "name": "MZ INP: RHAPSODY",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "INP SIRIUS INTERNET",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "Z4: INP NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "MZ INP: SIRIUS INTER",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "MZ INP: SIRIUS INTER",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "Z4 INP: NET/USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "fe",
+                "name": "Z4 INP: NET/USB",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "INPUT DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "STEREO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "DOCK INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "MZ: INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "MZ INP: DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "fe",
+                "name": "MZ INP: DOCK",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "MONO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "Z2: DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "Z2 INPUT DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "Z2: INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "Z2 INP: DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "fe",
+                "name": "Z2 INP: DOCK",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4c",
+                "device_address": "fe",
+                "name": "STEREO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4c",
+                "device_address": "fe",
+                "name": "INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "fe",
+                "name": "Z3: INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "fe",
+                "name": "Z3 INP: DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "fe",
+                "name": "Z3 INP: DOCK",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "4d",
+                "device_address": "fe",
+                "name": "MONO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4d",
+                "device_address": "fe",
+                "name": "Z4: INP DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "fe",
+                "name": "Z4 INP: DOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "fe",
+                "name": "DOCK PAIRING",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4f",
+                "device_address": "fe",
+                "name": "DOCK PAIRING CANCL",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "4f",
+                "device_address": "fe",
+                "name": "DOCK PARING CANCEL",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "50",
+                "device_address": "fe",
+                "name": "DOCK CONNECT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "51",
+                "device_address": "fe",
+                "name": "DOCK DISCONNECT",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "51",
+                "device_address": "fe",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "fe",
+                "name": "SRCE: MZ 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "INPUT PC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "INP PC/MCX",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "SRCE: MZ 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "MZ INP: PC/MCX",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "52",
+                "device_address": "fe",
+                "name": "MZ INP: PC/MCX",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "INPUT NET RADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "INP NET RADIO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "SRCE: MZ 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "MZ INP: NET RADIO",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "MZ INP: NET RADIO",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "53",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "INPUT USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "INP USB",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "SRCE: MZ 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "MZ INP: USB",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "54",
+                "device_address": "fe",
+                "name": "MZ INP: USB",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "SOURCE: CAT./BAND+",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "MZ OP-CAT BAND +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "SRCE: MZ 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "fe",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "fe",
+                "name": "Z2:SOURC: CAT/BAND +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "56",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "56",
+                "device_address": "fe",
+                "name": "Z2 OP-CAT BAND +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "56",
+                "device_address": "fe",
+                "name": "SRCE: MZ 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "fe",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "fe",
+                "name": "SRCE: MZ 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "fe",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "fe",
+                "name": "SOURCE: CAT./BAND-",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "58",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "58",
+                "device_address": "fe",
+                "name": "MZ OP-CAT BAND -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "58",
+                "device_address": "fe",
+                "name": "SRCE: MZ 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "59",
+                "device_address": "fe",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "59",
+                "device_address": "fe",
+                "name": "Z2:SOURC: CAT/BAND -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "59",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "59",
+                "device_address": "fe",
+                "name": "Z2 OP-CAT BAND -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "59",
+                "device_address": "fe",
+                "name": "SRCE: MZ 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "fe",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "fe",
+                "name": "SRCE: MZ 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5b",
+                "device_address": "fe",
+                "name": "SOURCE: PRESET+",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5b",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "5b",
+                "device_address": "fe",
+                "name": "MZ OP-PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5c",
+                "device_address": "fe",
+                "name": "Z2: SOURCE:PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5c",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "5c",
+                "device_address": "fe",
+                "name": "Z2 OP-PRESET +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5c",
+                "device_address": "fe",
+                "name": "TUNER: MZ ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "fe",
+                "name": "XM: MZ ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "fe",
+                "name": "PARENTAL LOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "fe",
+                "name": "MODE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "fe",
+                "name": "TUNER: MZ BAND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "fe",
+                "name": "XM: MZ TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "MODE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "SOURCE: PRESET-",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "MZ OP-PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "DOCK: MZ MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "NETUSB: MZ MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "TUNER: MZ SRCHM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "fe",
+                "name": "XM: MZ SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "fe",
+                "name": "MODE 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "fe",
+                "name": "Z2: SOURCE:PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5f",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "5f",
+                "device_address": "fe",
+                "name": "Z2 OP-PRESET -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "5f",
+                "device_address": "fe",
+                "name": "SRCE: MZ MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "fe",
+                "name": "MODE 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "fe",
+                "name": "SOURCE: DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "60",
+                "device_address": "fe",
+                "name": "MZ SOURCE DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "fe",
+                "name": "SRCE: MZ DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "SETUP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "SOURCE:TUNING/CH+",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "MZ OP-TUNING +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "SRCE: MZ CURS UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "61",
+                "device_address": "fe",
+                "name": "SETUP: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "62",
+                "device_address": "fe",
+                "name": "SETUP LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "62",
+                "device_address": "fe",
+                "name": "Z2:SOURCE:TUNING/CH+",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "62",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "62",
+                "device_address": "fe",
+                "name": "Z2 OP-TUNING +",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "62",
+                "device_address": "fe",
+                "name": "SRCE: MZ CURS LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "fe",
+                "name": "SETUP ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "fe",
+                "name": "SRCE: MZ CURS ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "fe",
+                "name": "SETUP: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "SETUP RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "SOURCE:TUNING/CH-",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "MZ OP-TUNING -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "SRCE: MZ CURS RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "fe",
+                "name": "SETUP: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "SETUP DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "Z2:SOURCE:TUNING/CH-",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "Z2 OP-TUNING -",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "SRCE: MZ CURS DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "SETUP: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "fe",
+                "name": "SETUP: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "66",
+                "device_address": "fe",
+                "name": "NETUSB: MZ PC/MC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "fe",
+                "name": "OPERATION 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "fe",
+                "name": "SOURCE: MEMORY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "67",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y3"
+            },
+            {
+                "address": "67",
+                "device_address": "fe",
+                "name": "MZ SOURCE MEMORY",
+                "protocol": "NEC1-y1"
+            },
+            {
+                "address": "67",
+                "device_address": "fe",
+                "name": "DOCK: MZ PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "fe",
+                "name": "OPERATION 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "fe",
+                "name": "DOCK: MZ PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "fe",
+                "name": "NETUSB: MZ PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "fe",
+                "name": "OPERATION 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "fe",
+                "name": "DOCK: MZ STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "fe",
+                "name": "NETUSB: MZ STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "fe",
+                "name": "OPERATION 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "fe",
+                "name": "DOCK: MZ REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "fe",
+                "name": "NETUSB: MZ NRADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6b",
+                "device_address": "fe",
+                "name": "OPERATION 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6b",
+                "device_address": "fe",
+                "name": "DOCK: MZ FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6b",
+                "device_address": "fe",
+                "name": "NETUSB: MZ USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6c",
+                "device_address": "fe",
+                "name": "OPERATION 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6c",
+                "device_address": "fe",
+                "name": "DOCK: MZ SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6c",
+                "device_address": "fe",
+                "name": "HDRADIO: MZ PROG-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6c",
+                "device_address": "fe",
+                "name": "NETUSB: MZ SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "fe",
+                "name": "OPERATION 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "fe",
+                "name": "DOCK: MZ SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "fe",
+                "name": "HDRADIO: MZPROG+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "fe",
+                "name": "NETUSB: MZ SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6e",
+                "device_address": "fe",
+                "name": "OPERATION 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "fe",
+                "name": "SRCE: Z2 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "72",
+                "device_address": "fe",
+                "name": "SRCE: Z2 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "73",
+                "device_address": "fe",
+                "name": "SRCE: Z2 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "73",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "74",
+                "device_address": "fe",
+                "name": "SRCE: Z2 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "74",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "74",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "75",
+                "device_address": "fe",
+                "name": "SRCE: Z2 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "75",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "76",
+                "device_address": "fe",
+                "name": "SRCE: Z2 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "76",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "76",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "77",
+                "device_address": "fe",
+                "name": "SRCE: Z2 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "77",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "78",
+                "device_address": "fe",
+                "name": "SRCE: Z2 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "78",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "78",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "79",
+                "device_address": "fe",
+                "name": "SRCE: Z2 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "79",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "79",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "7a",
+                "device_address": "fe",
+                "name": "SRCE: Z2 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7a",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7a",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: 0",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "7c",
+                "device_address": "fe",
+                "name": "TUNER: Z2 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7c",
+                "device_address": "fe",
+                "name": "XM: Z2 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7c",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7c",
+                "device_address": "fe",
+                "name": "Z2 SOURCE: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "7d",
+                "device_address": "fe",
+                "name": "TUNER: Z2 BAND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7d",
+                "device_address": "fe",
+                "name": "XM: Z2 TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "fe",
+                "name": "DOCK: Z2 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "fe",
+                "name": "TUNER: Z2 SRCHM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "fe",
+                "name": "XM: Z2 SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7f",
+                "device_address": "fe",
+                "name": "SRCE: Z2 MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "80",
+                "device_address": "fe",
+                "name": "SRCE: Z2 DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "81",
+                "device_address": "fe",
+                "name": "SRCE: Z2 CURS UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "82",
+                "device_address": "fe",
+                "name": "SRCE: Z2 CURS LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "82",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "83",
+                "device_address": "fe",
+                "name": "SRCE: Z2 CURS ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "fe",
+                "name": "SRCE: Z2 CURS RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "fe",
+                "name": "SRCE: Z2 CURS DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "86",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 PC/MC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "fe",
+                "name": "DOCK: Z2 PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "88",
+                "device_address": "fe",
+                "name": "DOCK: Z2 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "89",
+                "device_address": "fe",
+                "name": "DOCK: Z2 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "8a",
+                "device_address": "fe",
+                "name": "DOCK: Z2 REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 NRADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "8b",
+                "device_address": "fe",
+                "name": "DOCK: Z2 FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "8c",
+                "device_address": "fe",
+                "name": "DOCK: Z2 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "fe",
+                "name": "HDRADIO: Z2 PROG -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "8d",
+                "device_address": "fe",
+                "name": "DOCK: Z2 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "fe",
+                "name": "HDRADIO: Z2 PROG+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "fe",
+                "name": "NETUSB: Z2 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "8e",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "fe",
+                "name": "Z2 OPERATION 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "91",
+                "device_address": "fe",
+                "name": "SRCE: Z3 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "92",
+                "device_address": "fe",
+                "name": "SRCE: Z3 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "93",
+                "device_address": "fe",
+                "name": "SRCE: Z3 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "93",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "93",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "94",
+                "device_address": "fe",
+                "name": "SRCE: Z3 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "94",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "94",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "95",
+                "device_address": "fe",
+                "name": "SRCE: Z3 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "95",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "95",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "96",
+                "device_address": "fe",
+                "name": "SRCE: Z3 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "96",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "96",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "97",
+                "device_address": "fe",
+                "name": "SRCE: Z3 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "97",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "97",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "98",
+                "device_address": "fe",
+                "name": "SRCE: Z3 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "98",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "98",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "99",
+                "device_address": "fe",
+                "name": "SRCE: Z3 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9a",
+                "device_address": "fe",
+                "name": "SRCE: Z3 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9a",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9a",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: 0",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9c",
+                "device_address": "fe",
+                "name": "TUNER: Z3 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "fe",
+                "name": "XM: Z3 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "fe",
+                "name": "Z3: SOURCE ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9c",
+                "device_address": "fe",
+                "name": "Z3: SOURCE ENT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9d",
+                "device_address": "fe",
+                "name": "TUNER: Z3 BAND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "fe",
+                "name": "XM: Z3 TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "DOCK: Z3 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "TUNER: Z3 SRCHM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "XM: Z3 SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "9f",
+                "device_address": "fe",
+                "name": "SRCE: Z3 MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a0",
+                "device_address": "fe",
+                "name": "SRCE: Z3 DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a0",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a0",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: MODE 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a1",
+                "device_address": "fe",
+                "name": "SRCE: Z3 CURS UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a1",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a1",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a2",
+                "device_address": "fe",
+                "name": "SRCE: Z3 CURS LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a2",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a3",
+                "device_address": "fe",
+                "name": "SRCE: Z3 CURS ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a4",
+                "device_address": "fe",
+                "name": "SRCE: Z3 CURS RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a4",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a4",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a5",
+                "device_address": "fe",
+                "name": "SRCE: Z3 CURS DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a5",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a5",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a6",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 PC/MC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a7",
+                "device_address": "fe",
+                "name": "DOCK: Z3 PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a7",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a7",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a8",
+                "device_address": "fe",
+                "name": "DOCK: Z3 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "a9",
+                "device_address": "fe",
+                "name": "DOCK: Z3 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a9",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a9",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a9",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "aa",
+                "device_address": "fe",
+                "name": "DOCK: Z3 REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 NRADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ab",
+                "device_address": "fe",
+                "name": "DOCK: Z3 FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ab",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ab",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ab",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ac",
+                "device_address": "fe",
+                "name": "DOCK: Z3 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "fe",
+                "name": "HDRADIO: Z3 PROG -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ad",
+                "device_address": "fe",
+                "name": "DOCK: Z3 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "fe",
+                "name": "HDRADIO: Z3 PROG+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "fe",
+                "name": "NETUSB: Z3 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ae",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ae",
+                "device_address": "fe",
+                "name": "Z3 SOURCE: OP 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b1",
+                "device_address": "fe",
+                "name": "SRCE: Z4 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b1",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b1",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b2",
+                "device_address": "fe",
+                "name": "SRCE: Z4 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b3",
+                "device_address": "fe",
+                "name": "SRCE: Z4 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b4",
+                "device_address": "fe",
+                "name": "SRCE: Z4 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b5",
+                "device_address": "fe",
+                "name": "SRCE: Z4 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b6",
+                "device_address": "fe",
+                "name": "SRCE: Z4 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b7",
+                "device_address": "fe",
+                "name": "SRCE: Z4 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b8",
+                "device_address": "fe",
+                "name": "SRCE: Z4 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b8",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b8",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "b9",
+                "device_address": "fe",
+                "name": "SRCE: Z4 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ba",
+                "device_address": "fe",
+                "name": "SRCE: Z4 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ba",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ba",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: 0",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "bc",
+                "device_address": "fe",
+                "name": "TUNER: Z4 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "fe",
+                "name": "XM: Z4 ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "fe",
+                "name": "Z4: SOURCE ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "fe",
+                "name": "Z4: SOURCE ENT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "bd",
+                "device_address": "fe",
+                "name": "TUNER: Z4 BAND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bd",
+                "device_address": "fe",
+                "name": "XM: Z4 TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bd",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bd",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "DOCK: Z4 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "TUNER: Z4 SRCHM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "XM: Z4 SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "be",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "bf",
+                "device_address": "fe",
+                "name": "SRCE: Z4 MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bf",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bf",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c0",
+                "device_address": "fe",
+                "name": "SRCE: Z4 DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: MODE 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c1",
+                "device_address": "fe",
+                "name": "SRCE: Z4 CURS UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c2",
+                "device_address": "fe",
+                "name": "SRCE: Z4 CURS LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c3",
+                "device_address": "fe",
+                "name": "SRCE: Z4 CURS ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c4",
+                "device_address": "fe",
+                "name": "SRCE: Z4 CURS RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c5",
+                "device_address": "fe",
+                "name": "SRCE: Z4 CURS DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c6",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 PC/MC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "fe",
+                "name": "DOCK: Z4 PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c8",
+                "device_address": "fe",
+                "name": "DOCK: Z4 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "c9",
+                "device_address": "fe",
+                "name": "DOCK: Z4 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ca",
+                "device_address": "fe",
+                "name": "DOCK: Z4 REW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 NRADIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "cb",
+                "device_address": "fe",
+                "name": "DOCK: Z4 FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "cc",
+                "device_address": "fe",
+                "name": "DOCK: Z4 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "fe",
+                "name": "HDRADIO: Z4 PROG -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 SKIP -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "cd",
+                "device_address": "fe",
+                "name": "DOCK: Z4 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "fe",
+                "name": "HDRADIO: Z4 PROG+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "fe",
+                "name": "NETUSB: Z4 SKIP +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ce",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "fe",
+                "name": "Z4 SOURCE: OP 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d0",
+                "device_address": "fe",
+                "name": "SIRIUS 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "SIRIUS 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "SIRIUS: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "fe",
+                "name": "SIRIUS: 1",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "SIRIUS 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "SIRIUS: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "fe",
+                "name": "SIRIUS: 2",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "SIRIUS 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "SIRIUS: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "fe",
+                "name": "SIRIUS: 3",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "SIRIUS 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "SIRIUS: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "fe",
+                "name": "SIRIUS: 4",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "SIRIUS 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "SIRIUS: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "fe",
+                "name": "SIRIUS: 5",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "SIRIUS 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "SIRIUS: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "fe",
+                "name": "SIRIUS: 6",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "SIRIUS 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "SIRIUS: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "fe",
+                "name": "SIRIUS: 7",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "SIRIUS 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "SIRIUS: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "fe",
+                "name": "SIRIUS: 8",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "SIRIUS 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "SIRIUS: 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "fe",
+                "name": "SIRIUS: 9",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "SIRIUS: 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "SIRIUS 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "SIRIUS NUM 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "fe",
+                "name": "SIRIUS: 0",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "SIRIUS ENT NO INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "SIRIUS: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "SIRIUS ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "fe",
+                "name": "SIRIUS NUM ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "fe",
+                "name": "SIRIUS SEARCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "fe",
+                "name": "SIRIUS:SEARCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "de",
+                "device_address": "fe",
+                "name": "SIRIUS SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "fe",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "fe",
+                "name": "SIRIUS MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "df",
+                "device_address": "fe",
+                "name": "SIRIUS: MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "fe",
+                "name": "SIRIUS: MEMORY",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e0",
+                "device_address": "fe",
+                "name": "SIRIUS DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e0",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "NAV UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET CH UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS:CH/PRESET UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS CH/PR NO UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "fe",
+                "name": "SIRIUS: UP",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "NAV LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIUS CATEGORY -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIU:CAT/PST GRP DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIUS CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIUS CAT/PR GRP DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIUS: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "fe",
+                "name": "SIRIUS: LEFT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "SIRIUS ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "SIRIUS SETUP: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "SIRIUS SETUP: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e3",
+                "device_address": "fe",
+                "name": "SIRIUS: ENTER",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "NAV RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIUS CATEGORY +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIU:CAT/PST GRP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIUS CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIUS CAT/PR GRP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIUS: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "fe",
+                "name": "SIRIUS: RIGHT",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "NAV DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS PRESET CH DW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS:CH/PRESET DWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS CH/PR NO DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "fe",
+                "name": "SIRIUS: DOWN",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ea",
+                "device_address": "fe",
+                "name": "SIRIUS INFO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ea",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f0",
+                "device_address": "fe",
+                "name": "A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f0",
+                "device_address": "fe",
+                "name": "HDRADIO: PRESET A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f0",
+                "device_address": "fe",
+                "name": "HD RADIO: A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f0",
+                "device_address": "fe",
+                "name": "HD RADIO: A",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f1",
+                "device_address": "fe",
+                "name": "B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f1",
+                "device_address": "fe",
+                "name": "HDRADIO: PRESET B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f1",
+                "device_address": "fe",
+                "name": "HD RADIO: B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f1",
+                "device_address": "fe",
+                "name": "HD RADIO: B",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f2",
+                "device_address": "fe",
+                "name": "C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f2",
+                "device_address": "fe",
+                "name": "HDRADIO: PRESET C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f2",
+                "device_address": "fe",
+                "name": "HD RADIO: C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f2",
+                "device_address": "fe",
+                "name": "HD RADIO: C",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f3",
+                "device_address": "fe",
+                "name": "D",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "fe",
+                "name": "HDRADIO: PRESET D",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "fe",
+                "name": "HD RADIO: D",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "fe",
+                "name": "HD RADIO: D",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f4",
+                "device_address": "fe",
+                "name": "E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f4",
+                "device_address": "fe",
+                "name": "HDRADIO: PRESET E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f4",
+                "device_address": "fe",
+                "name": "HD RADIO: E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f4",
+                "device_address": "fe",
+                "name": "HD RADIO: E",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "f5",
+                "device_address": "fe",
+                "name": "INP AM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f5",
+                "device_address": "fe",
+                "name": "HDRADIO: AM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f6",
+                "device_address": "fe",
+                "name": "INP FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f6",
+                "device_address": "fe",
+                "name": "HDRADIO: FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f7",
+                "device_address": "fe",
+                "name": "AUTO TUNE -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f7",
+                "device_address": "fe",
+                "name": "HDRADIO: AUTO DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f8",
+                "device_address": "fe",
+                "name": "AUTO TUNE +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f8",
+                "device_address": "fe",
+                "name": "HDRADIO: AUTO UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fb",
+                "device_address": "fe",
+                "name": "DISPLAY ON",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "fc",
+                "device_address": "fe",
+                "name": "DISPLAY OFF",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "SRCH MODE PRESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "TUNER: SEARCH PRESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "TUNER MODE PRESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "TUNER SRCH MODE PRES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "fe",
+                "name": "TUNER: PRES MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "SRCH MODE TUNING",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "TUNER: SEARCH MANUAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "TUNER MODE MANUAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "TUNER SRCH MODE MANU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fe",
+                "device_address": "fe",
+                "name": "TUNER: MANL MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ff",
+                "device_address": "fe",
+                "name": "TUNER: SEARCH AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ff",
+                "device_address": "fe",
+                "name": "",
+                "protocol": "NEC1-y2"
+            },
+            {
+                "address": "ff",
+                "device_address": "fe",
+                "name": "TUNER MODE AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ff",
+                "device_address": "fe",
+                "name": "TUNER SRCH MODE AUTO",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,205 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4",
+                "name": "ACTIVE HYPER-BASS"
+            },
+            {
+                "address": "b",
+                "name": "TUNER/BAND"
+            },
+            {
+                "address": "d",
+                "name": "AUX"
+            },
+            {
+                "address": "11",
+                "name": "(SHIFT)ENTER"
+            },
+            {
+                "address": "13",
+                "name": "(SHIFT)AUTO PRESET"
+            },
+            {
+                "address": "14",
+                "name": "CD UNKNOWN"
+            },
+            {
+                "address": "15",
+                "name": "PRESET TUNING"
+            },
+            {
+                "address": "1c",
+                "name": "(SHIFT)DISPLAY"
+            },
+            {
+                "address": "1f",
+                "name": "(SHIFT)MODE"
+            },
+            {
+                "address": "21",
+                "name": "CD 1"
+            },
+            {
+                "address": "22",
+                "name": "CD 2"
+            },
+            {
+                "address": "23",
+                "name": "CD 3"
+            },
+            {
+                "address": "24",
+                "name": "CD 4"
+            },
+            {
+                "address": "25",
+                "name": "CD 5"
+            },
+            {
+                "address": "26",
+                "name": "CD 6"
+            },
+            {
+                "address": "27",
+                "name": "CD 7"
+            },
+            {
+                "address": "28",
+                "name": "CD 8"
+            },
+            {
+                "address": "29",
+                "name": "CD 9"
+            },
+            {
+                "address": "2a",
+                "name": "CD 10"
+            },
+            {
+                "address": "2e",
+                "name": "CD +10"
+            },
+            {
+                "address": "30",
+                "name": "(SHIFT)TIMER"
+            },
+            {
+                "address": "32",
+                "name": "SLEEP"
+            },
+            {
+                "address": "33",
+                "name": "(SHIFT)CLOCK"
+            },
+            {
+                "address": "36",
+                "name": "(SHIFT)TIMER ON/OFF"
+            },
+            {
+                "address": "3d",
+                "name": "CD SRCH >>(UP)"
+            },
+            {
+                "address": "3e",
+                "name": "CD SRCH <<(DOWN)"
+            },
+            {
+                "address": "41",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "44",
+                "name": "TAPE MUSIC SCAN >>"
+            },
+            {
+                "address": "45",
+                "name": "TAPE MUSIC SCAN <<"
+            },
+            {
+                "address": "4b",
+                "name": "TAPE REC/PAUSE"
+            },
+            {
+                "address": "4c",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "4d",
+                "name": "TAPE REV PLAY <"
+            },
+            {
+                "address": "56",
+                "name": "(SHIFT)SYNCHRO REC"
+            },
+            {
+                "address": "70",
+                "name": "CD PLAY/PAUSE >/"
+            },
+            {
+                "address": "71",
+                "name": "CD STOP/CLEAR []"
+            },
+            {
+                "address": "74",
+                "name": "(SHIFT)PROGRAM"
+            },
+            {
+                "address": "75",
+                "name": "(SHIFT)EDIT"
+            },
+            {
+                "address": "76",
+                "name": "(SHIFT)INTRO"
+            },
+            {
+                "address": "77",
+                "name": "(SHIFT)RANDOM"
+            },
+            {
+                "address": "78",
+                "name": "(SHIFT)REPEAT"
+            },
+            {
+                "address": "7b",
+                "name": "CD DOOR"
+            },
+            {
+                "address": "87",
+                "name": "BASS +"
+            },
+            {
+                "address": "88",
+                "name": "BASS -"
+            },
+            {
+                "address": "89",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "8a",
+                "name": "TREBLE -"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

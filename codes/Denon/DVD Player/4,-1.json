@@ -1,0 +1,53 @@
+{
+    "display_name": "Denon DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "9e",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "9e",
+                "name": ""
+            },
+            {
+                "address": "9f",
+                "name": "ZOOM"
+            },
+            {
+                "address": "a0",
+                "name": "PICTURE ADJUST"
+            },
+            {
+                "address": "a0",
+                "name": "PICT. ADJUST"
+            },
+            {
+                "address": "a0",
+                "name": "PICADJ"
+            },
+            {
+                "address": "a0",
+                "name": "PIC ADJ"
+            },
+            {
+                "address": "a1",
+                "name": "DIMMER"
+            },
+            {
+                "address": "a2",
+                "name": "PURE DIRECT MEMORY"
+            },
+            {
+                "address": "a2",
+                "name": "P.D. MEMORY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

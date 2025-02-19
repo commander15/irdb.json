@@ -1,0 +1,53 @@
+{
+    "display_name": "Yamaha Unknown_RX-450",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "tuner+"
+            },
+            {
+                "address": "11",
+                "name": "tuner-"
+            },
+            {
+                "address": "12",
+                "name": "tuner-toggle"
+            },
+            {
+                "address": "15",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "16",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "18",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "19",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_POWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RX-450"
+}

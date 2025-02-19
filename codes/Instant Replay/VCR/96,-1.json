@@ -1,0 +1,141 @@
+{
+    "display_name": "Instant Replay VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "S.TRACKING +"
+            },
+            {
+                "address": "1",
+                "name": "S.TRACKING -"
+            },
+            {
+                "address": "2",
+                "name": "S.SPEED +"
+            },
+            {
+                "address": "3",
+                "name": "S.SPEED -"
+            },
+            {
+                "address": "4",
+                "name": "8 (AM)"
+            },
+            {
+                "address": "5",
+                "name": "9 (PM)"
+            },
+            {
+                "address": "9",
+                "name": "F.FWD/VI.SRCH >>"
+            },
+            {
+                "address": "a",
+                "name": "REW/VI.SRCH <<"
+            },
+            {
+                "address": "b",
+                "name": "STOP []"
+            },
+            {
+                "address": "c",
+                "name": "0"
+            },
+            {
+                "address": "d",
+                "name": "1"
+            },
+            {
+                "address": "e",
+                "name": "2"
+            },
+            {
+                "address": "f",
+                "name": "3"
+            },
+            {
+                "address": "10",
+                "name": "F.ADV >"
+            },
+            {
+                "address": "11",
+                "name": "SLOW >"
+            },
+            {
+                "address": "12",
+                "name": "X2 FAST"
+            },
+            {
+                "address": "14",
+                "name": "PLAY >"
+            },
+            {
+                "address": "14",
+                "name": "REC/PLAY"
+            },
+            {
+                "address": "17",
+                "name": "OPERATE"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "REC/PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "4"
+            },
+            {
+                "address": "1d",
+                "name": "5"
+            },
+            {
+                "address": "1e",
+                "name": "6"
+            },
+            {
+                "address": "1f",
+                "name": "7 (WKL/DLY)"
+            },
+            {
+                "address": "40",
+                "name": "TRANS"
+            },
+            {
+                "address": "41",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "44",
+                "name": "COUNTER MEMORY"
+            },
+            {
+                "address": "45",
+                "name": "UNKNOWN"
+            },
+            {
+                "address": "47",
+                "name": "REPEAT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Instant Replay",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

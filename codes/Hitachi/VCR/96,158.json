@@ -1,0 +1,1445 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "AUTO TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR2 TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR2 AUTO TRK ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VCR2 MANUAL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "VTR2 TRACKING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "AUTO TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR2 TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR2 AUTO TRK V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VCR2 MANUAL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "VTR2 TRACKING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR2 SLOW +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR2 SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR2 SLOW ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VTR2 SLOW SPEED +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VCR2 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR2 SLOW -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR2 SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VCR2 SLOW V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VTR2 SLOW SPEED -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR2 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR2 8 (AM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "CAM 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VTR2 8 (T U V)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VCR2 8 AM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR2 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR2 9 (PM)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "CAM 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VTR2 9 (W X Y)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "VCR2 9 PM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "VCR2 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "CAM 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "FFWD/VISUAL SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 FFWD>>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 FFWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 FF/V.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 F.FWD/VI.SRCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "CAM F.FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 F.FWD/SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VCR2 F.FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "F.FWD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "VTR2 FF/VI.SRCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW/VISUAL SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR2 REW<<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR2 REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR2 REW/V.SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR2 REW/VISUAL SRCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "CAM REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VCR2 REW/SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "REW <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VTR2 REW/VI.SRCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VCR2 STOP[]",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VCR2 STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "CAM STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "VTR2 STOP []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VCR2 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "CAM 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "VTR2 0 (? !)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VCR2 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "CAM 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "VTR2 1 (Q Z)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VCR2 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "CAM 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "0",
+                "name": "VTR2 2 (A B C)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VCR2 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "CAM 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "VTR2 3 (D E F)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR2 F.ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR2 F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VCR2 SKIP/F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "F.ADV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "VTR2 F.ADV >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "SLOW >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VCR2 SLOW >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VCR2 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "VTR2 SLOW",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VCR2 PLAY>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VCR2 PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "CAM PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "VTR2 PLAY >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR2 AUDIO MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VTR2 UNKNOWN 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR2 CH1/2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VCR2 MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR2 VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "CAM VCR/TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VTR2 UNKNOWN 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "VCR2 TV/VCR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VCR2 OPERATE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VCR2 POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "CAM POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "VTR2 OPERATE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR2 CHANNEL V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VCR2 CH V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "CAM CH V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "VTR2 TV PROGRAMME V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR2 CHANNEL ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VCR2 CH ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "CAM CH ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "VTR2 TV PROGRAMME ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR2 PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR2 PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VCR2 PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "CAM PAUSE ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "0",
+                "name": "VTR2 PAUSE/STILL ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VCR2 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "CAM 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VTR2 4 (G H I)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "VCR2 4 (DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR2 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR2 5 (DAILY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "CAM 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VTR2 5 (J K L)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "VCR2 5 DAILY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6 PL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6 (CL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6 PL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6 (WEEKLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "CAM 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6 (PL)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VTR2 6 (M N O)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VCR2 6 WEEKLY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VCR2 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "CAM 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VTR2 7 (P R S)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VCR2 7 (WEEKLY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2c",
+                "device_address": "0",
+                "name": "VCR2 A.DUB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR2 T.SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR2 TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VCR2 SP/EP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "30",
+                "device_address": "0",
+                "name": "VTR2 TAPE SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR2 AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR2 AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VCR2 INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "CAM AVX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "34",
+                "device_address": "0",
+                "name": "VTR2 TRANS AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "38",
+                "device_address": "0",
+                "name": "VCR2 MTS MONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "VCR2 EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "39",
+                "device_address": "0",
+                "name": "VTR2 EJECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3a",
+                "device_address": "0",
+                "name": "VCR2 V.DUB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "VCR2 GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3b",
+                "device_address": "0",
+                "name": "TV GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR2 AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR2 TRACKING AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VTR2 AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "VCR2 AUTO TRACKING",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VCR2 MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VCR2 GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "CAM GUIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "0",
+                "name": "VTR2 MENU OSD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "CLEAR/COUNT RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR2 0000",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR2 CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR2 CLEAR CNT RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR2 RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "CAM CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VTR2 COUNTER 0000",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "0",
+                "name": "VCR2 T-160 RESET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "VCR2 DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "CAM DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "0",
+                "name": "VTR2 DISP OSD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VCR2 MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VCR2 TAPE RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "0",
+                "name": "VTR2 COUNTER MEMO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR2 INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR2 GO-TO INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "GO-TO INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VTR2 INDEX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "0",
+                "name": "VCR2 INDEX GO-TO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "COUNTER REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR2 COUNT CLOCK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR2 COUNTER REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR2 REMAIN MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VTR2 COUNT REMAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "VCR2 MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "VCR2 REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "63",
+                "device_address": "0",
+                "name": "VCR2 TV MONITOR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "0",
+                "name": "VCR2 EDIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "64",
+                "device_address": "0",
+                "name": "EDIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "65",
+                "device_address": "0",
+                "name": "VCR2 SET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "VCR2 JOG/SHUTTLE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR2 SHUTTLE FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR2 SHUT FWD (F.S.)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR2 SHUT FFWD >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "CAM SHUT FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VCR2 SHU.FWD(F.S)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR2 SHUTTLE REW",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR2 SHUT REV (F.S.)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR2 SHUT REV <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "CAM SHUT REV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "VCR2 SHU.REV(F.S)",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "VCR2 JOG FWD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "VCR2 JOG/SHU.FORWARD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR2 JOG REW",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR2 JOG REV",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "VCR2 JOG/SHU.REVERSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "86",
+                "device_address": "0",
+                "name": "VCR2 GO-TO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "VCR2 TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR2 100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR2 +100",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "VCR2 +100/ENT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "0",
+                "name": "VCR2 MTS SA SET",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "VCR2 PRINT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "VCR2 SPECTRA SONIC",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

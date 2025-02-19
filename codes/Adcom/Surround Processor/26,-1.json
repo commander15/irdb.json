@@ -1,0 +1,77 @@
+{
+    "display_name": "Adcom Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "4f",
+                "name": "REAR/CTR RESET"
+            },
+            {
+                "address": "50",
+                "name": "BAL CHECK(LEVEL ADJ)"
+            },
+            {
+                "address": "51",
+                "name": "SUBWOOFER - (LVL ADJ"
+            },
+            {
+                "address": "52",
+                "name": "CENTER - (LEVEL ADJ)"
+            },
+            {
+                "address": "53",
+                "name": "REAR - (LEVEL ADJ)"
+            },
+            {
+                "address": "54",
+                "name": "BASS EQ"
+            },
+            {
+                "address": "55",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "56",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "57",
+                "name": "SURROUND"
+            },
+            {
+                "address": "58",
+                "name": "TAPE MON"
+            },
+            {
+                "address": "59",
+                "name": "SUBWOOFER + (LVL ADJ"
+            },
+            {
+                "address": "5a",
+                "name": "CENTER + (LEVEL ADJ)"
+            },
+            {
+                "address": "5b",
+                "name": "REAR + (LEVEL ADJ)"
+            },
+            {
+                "address": "5c",
+                "name": "DELAY"
+            },
+            {
+                "address": "5e",
+                "name": "POWER"
+            },
+            {
+                "address": "5f",
+                "name": "MUTING"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

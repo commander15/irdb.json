@@ -1,0 +1,49 @@
+{
+    "display_name": "Yamaha Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "GROUP 1-8/9-16/17-24"
+            },
+            {
+                "address": "e",
+                "name": "1/9/17"
+            },
+            {
+                "address": "f",
+                "name": "2/10/18"
+            },
+            {
+                "address": "10",
+                "name": "3/11/19"
+            },
+            {
+                "address": "11",
+                "name": "4/12/20"
+            },
+            {
+                "address": "12",
+                "name": "5/13/21"
+            },
+            {
+                "address": "13",
+                "name": "6/14/22"
+            },
+            {
+                "address": "14",
+                "name": "7/15/23"
+            },
+            {
+                "address": "15",
+                "name": "8/16/24"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

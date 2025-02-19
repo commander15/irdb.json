@@ -1,0 +1,53 @@
+{
+    "display_name": "Philips TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "2c",
+                "name": "TV GUIDE + ON/OFF"
+            },
+            {
+                "address": "2c",
+                "name": ""
+            },
+            {
+                "address": "2d",
+                "name": "TV GUIDE + INFO"
+            },
+            {
+                "address": "2d",
+                "name": ""
+            },
+            {
+                "address": "3c",
+                "name": "TV GUIDE + RECORD"
+            },
+            {
+                "address": "3c",
+                "name": ""
+            },
+            {
+                "address": "76",
+                "name": "ANALOG TV"
+            },
+            {
+                "address": "76",
+                "name": ""
+            },
+            {
+                "address": "77",
+                "name": "DTV"
+            },
+            {
+                "address": "77",
+                "name": ""
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

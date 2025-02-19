@@ -1,0 +1,53 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "TUNER 1"
+            },
+            {
+                "address": "11",
+                "name": "TUNER 2"
+            },
+            {
+                "address": "12",
+                "name": "TUNER 3"
+            },
+            {
+                "address": "13",
+                "name": "TUNER 4"
+            },
+            {
+                "address": "14",
+                "name": "TUNER 5"
+            },
+            {
+                "address": "15",
+                "name": "TUNER 6"
+            },
+            {
+                "address": "16",
+                "name": "TUNER 7"
+            },
+            {
+                "address": "17",
+                "name": "TUNER 8"
+            },
+            {
+                "address": "18",
+                "name": "TUNER 9"
+            },
+            {
+                "address": "1a",
+                "name": "TUNER 0"
+            }
+        ],
+        "device_address": "34",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

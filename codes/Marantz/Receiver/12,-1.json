@@ -1,0 +1,33 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3f",
+                "name": "LD"
+            },
+            {
+                "address": "3f",
+                "name": "LASER DISC"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT: LD"
+            },
+            {
+                "address": "72",
+                "name": "LD DISC B/-"
+            },
+            {
+                "address": "73",
+                "name": "LD DISC +/A"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

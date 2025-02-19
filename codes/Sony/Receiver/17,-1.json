@@ -1,0 +1,33 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2e",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "CH/PRESET -"
+            },
+            {
+                "address": "37",
+                "name": "CH/PRESET +"
+            },
+            {
+                "address": "3e",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "56",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

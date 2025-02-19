@@ -1,0 +1,169 @@
+{
+    "display_name": "Yamaha Unknown_RAV14",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE_PLAY"
+            },
+            {
+                "address": "1",
+                "name": "TAPE_REV"
+            },
+            {
+                "address": "2",
+                "name": "TAPE_FF"
+            },
+            {
+                "address": "3",
+                "name": "TAPE_STOP"
+            },
+            {
+                "address": "4",
+                "name": "TAPE_REC"
+            },
+            {
+                "address": "6",
+                "name": "TAPE_DECK"
+            },
+            {
+                "address": "7",
+                "name": "TAPE_DIRA"
+            },
+            {
+                "address": "8",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "9",
+                "name": "CD_PAUSE_STOP"
+            },
+            {
+                "address": "a",
+                "name": "CD_NEXT"
+            },
+            {
+                "address": "b",
+                "name": "CD_PREV"
+            },
+            {
+                "address": "c",
+                "name": "CD_FF"
+            },
+            {
+                "address": "d",
+                "name": "CD_REV"
+            },
+            {
+                "address": "f",
+                "name": "KEY_VCR"
+            },
+            {
+                "address": "10",
+                "name": "PRESET+"
+            },
+            {
+                "address": "11",
+                "name": "PRESET-"
+            },
+            {
+                "address": "12",
+                "name": "A/B/C/D/E"
+            },
+            {
+                "address": "14",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "15",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "16",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "17",
+                "name": "KEY_DVD"
+            },
+            {
+                "address": "18",
+                "name": "MD/CD-R"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "40",
+                "name": "TAPE_DIRB"
+            },
+            {
+                "address": "4f",
+                "name": "CD_DISC_SKIP"
+            },
+            {
+                "address": "52",
+                "name": "KEY_KPPLUS"
+            },
+            {
+                "address": "53",
+                "name": "KEY_KPMINUS"
+            },
+            {
+                "address": "54",
+                "name": "D-TV/CBL"
+            },
+            {
+                "address": "55",
+                "name": "V-AUX"
+            },
+            {
+                "address": "56",
+                "name": "EFFECT"
+            },
+            {
+                "address": "57",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "58",
+                "name": "PRG+"
+            },
+            {
+                "address": "59",
+                "name": "PRG-"
+            },
+            {
+                "address": "85",
+                "name": "TEST"
+            },
+            {
+                "address": "86",
+                "name": "TIME/LEVEL"
+            },
+            {
+                "address": "87",
+                "name": "KEY_6CH_INPUT"
+            },
+            {
+                "address": "9c",
+                "name": "SET_MENU"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RAV14"
+}

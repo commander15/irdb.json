@@ -1,0 +1,245 @@
+{
+    "display_name": "Audio Control Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INPUT: SAT"
+            },
+            {
+                "address": "2",
+                "name": "INPUT: AV"
+            },
+            {
+                "address": "3",
+                "name": "INPUT: TUNER"
+            },
+            {
+                "address": "4",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "5",
+                "name": "INPUT: TAPE"
+            },
+            {
+                "address": "6",
+                "name": "INPUT: VCR"
+            },
+            {
+                "address": "7",
+                "name": "INPUT: CD"
+            },
+            {
+                "address": "8",
+                "name": "INPUT: AUX"
+            },
+            {
+                "address": "9",
+                "name": "INPUT: MULTI-CHANNEL"
+            },
+            {
+                "address": "a",
+                "name": "DIRECT (TOGGLE)"
+            },
+            {
+                "address": "c",
+                "name": "POWER (TOGGLE)"
+            },
+            {
+                "address": "d",
+                "name": "MUTE (TOGGLE)"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "1c",
+                "name": "MODES (TOGGLE)"
+            },
+            {
+                "address": "20",
+                "name": "THX MODES"
+            },
+            {
+                "address": "25",
+                "name": "TRIM MENU"
+            },
+            {
+                "address": "32",
+                "name": "LIP SYNC"
+            },
+            {
+                "address": "33",
+                "name": "SUB TRIM"
+            },
+            {
+                "address": "37",
+                "name": "INFO"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3f",
+                "name": "EFFECTS: OFF"
+            },
+            {
+                "address": "40",
+                "name": "EFFECTS: MUSIC"
+            },
+            {
+                "address": "41",
+                "name": "EFFECTS: PARTY"
+            },
+            {
+                "address": "42",
+                "name": "EFFECTS: CLUB"
+            },
+            {
+                "address": "43",
+                "name": "EFFECTS: HALL"
+            },
+            {
+                "address": "44",
+                "name": "EFFECTS: SPORT"
+            },
+            {
+                "address": "45",
+                "name": "EFFECTS: CHURCH"
+            },
+            {
+                "address": "46",
+                "name": "EFFECTS (TOGGLE)"
+            },
+            {
+                "address": "48",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "49",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "4a",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "4b",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "4c",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "4e",
+                "name": "DIRECT ON"
+            },
+            {
+                "address": "4f",
+                "name": "DIRECT OFF"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "6a",
+                "name": "MONO MODE"
+            },
+            {
+                "address": "6b",
+                "name": "STEREO MODE"
+            },
+            {
+                "address": "6c",
+                "name": "DOLBY PL2 MOVIE"
+            },
+            {
+                "address": "6d",
+                "name": "DOLBY PL2 MUSIC"
+            },
+            {
+                "address": "6e",
+                "name": "DOLBY PROLOGIC"
+            },
+            {
+                "address": "6f",
+                "name": "DTS NEO 6 CINEMA"
+            },
+            {
+                "address": "70",
+                "name": "DTS NEO 6 MUSIC"
+            },
+            {
+                "address": "71",
+                "name": "THX OFF"
+            },
+            {
+                "address": "72",
+                "name": "THX CINEMA"
+            },
+            {
+                "address": "73",
+                "name": "THX ULTRA2 CINEMA"
+            },
+            {
+                "address": "74",
+                "name": "THX MUSIC"
+            },
+            {
+                "address": "75",
+                "name": "THX SURROUND EX"
+            },
+            {
+                "address": "77",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "78",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Control",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

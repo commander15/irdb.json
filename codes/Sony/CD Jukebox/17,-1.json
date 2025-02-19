@@ -1,0 +1,557 @@
+{
+    "display_name": "Sony CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TRACK 1 (F)"
+            },
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "TRACK 2 (G)"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "TRACK 3 (H)"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "TRACK 4 (I)"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "3",
+                "name": ""
+            },
+            {
+                "address": "4",
+                "name": "TRACK 5 (J)"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "TRACK 6 (K)"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "TRACK 7 (L)"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "TRACK 8 (M)"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "TRACK 9 (N)"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "d",
+                "name": "CHECK (-)"
+            },
+            {
+                "address": "d",
+                "name": "CHECK"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "10",
+                "name": "TRACK 17 (V)"
+            },
+            {
+                "address": "11",
+                "name": "TRACK 18 (W)"
+            },
+            {
+                "address": "12",
+                "name": "LINE OUT LEVEL +"
+            },
+            {
+                "address": "13",
+                "name": "LINE OUT LEVEL -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "TRACK 19 (X)"
+            },
+            {
+                "address": "19",
+                "name": "FILE"
+            },
+            {
+                "address": "1a",
+                "name": "BANK"
+            },
+            {
+                "address": "1c",
+                "name": "SORT"
+            },
+            {
+                "address": "1d",
+                "name": "CONTINUE"
+            },
+            {
+                "address": "1f",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "20",
+                "name": "TRACK 10 (O)"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "20",
+                "name": "10/0"
+            },
+            {
+                "address": "21",
+                "name": "TRACK 11 (P)"
+            },
+            {
+                "address": "22",
+                "name": "TRACK 12 (Q)"
+            },
+            {
+                "address": "23",
+                "name": "TRACK 13 (R)"
+            },
+            {
+                "address": "24",
+                "name": "TRACK 14 (S)"
+            },
+            {
+                "address": "25",
+                "name": "TRACK 15 (T)"
+            },
+            {
+                "address": "26",
+                "name": "TRACK 16 (U)"
+            },
+            {
+                "address": "27",
+                "name": "TRACK >20 (Z)"
+            },
+            {
+                "address": "27",
+                "name": ">10"
+            },
+            {
+                "address": "27",
+                "name": "> 10"
+            },
+            {
+                "address": "28",
+                "name": "TIME"
+            },
+            {
+                "address": "28",
+                "name": "TIME/TEXT"
+            },
+            {
+                "address": "29",
+                "name": "TRACK 20 (Y)"
+            },
+            {
+                "address": "2c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON (CD-1)"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF (CD-1)"
+            },
+            {
+                "address": "30",
+                "name": "AMS <<"
+            },
+            {
+                "address": "30",
+                "name": "<< SKIP"
+            },
+            {
+                "address": "30",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "30",
+                "name": "TRACK -"
+            },
+            {
+                "address": "30",
+                "name": "<<AMS"
+            },
+            {
+                "address": "30",
+                "name": "Z - TRACK ( - )"
+            },
+            {
+                "address": "31",
+                "name": "AMS >>"
+            },
+            {
+                "address": "31",
+                "name": ">> SKIP"
+            },
+            {
+                "address": "31",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "31",
+                "name": "TRACK +"
+            },
+            {
+                "address": "31",
+                "name": "AMS>>"
+            },
+            {
+                "address": "31",
+                "name": "Z - TRACK ( + )"
+            },
+            {
+                "address": "32",
+                "name": "PLAY >"
+            },
+            {
+                "address": "32",
+                "name": "PLAY"
+            },
+            {
+                "address": "32",
+                "name": "Z - PLAY"
+            },
+            {
+                "address": "33",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "33",
+                "name": "<< SEARCH"
+            },
+            {
+                "address": "33",
+                "name": "REW"
+            },
+            {
+                "address": "33",
+                "name": "<<"
+            },
+            {
+                "address": "33",
+                "name": "Z - FAST REWIND"
+            },
+            {
+                "address": "34",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "34",
+                "name": ">> SEARCH"
+            },
+            {
+                "address": "34",
+                "name": "FF"
+            },
+            {
+                "address": "34",
+                "name": ">>"
+            },
+            {
+                "address": "34",
+                "name": "Z - FAST FORWARD"
+            },
+            {
+                "address": "35",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "38",
+                "name": "STOP []"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            },
+            {
+                "address": "38",
+                "name": "Z - STOP"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE "
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "39",
+                "name": "Z - PAUSE"
+            },
+            {
+                "address": "3c",
+                "name": "MUSIC SCAN"
+            },
+            {
+                "address": "3d",
+                "name": "DISC -"
+            },
+            {
+                "address": "3d",
+                "name": "DISC SKIP -"
+            },
+            {
+                "address": "3d",
+                "name": "Z - DISC SKIP ( - )"
+            },
+            {
+                "address": "3e",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "3e",
+                "name": "DISC +"
+            },
+            {
+                "address": "3e",
+                "name": "DISC SKIP+"
+            },
+            {
+                "address": "3e",
+                "name": "Z - DISC SKIP ( + )"
+            },
+            {
+                "address": "3f",
+                "name": "EXTRA"
+            },
+            {
+                "address": "3f",
+                "name": "HIGH LIGHT"
+            },
+            {
+                "address": "40",
+                "name": "DISC 1"
+            },
+            {
+                "address": "41",
+                "name": "DISC 2"
+            },
+            {
+                "address": "42",
+                "name": "DISC 3"
+            },
+            {
+                "address": "43",
+                "name": "DISC 4"
+            },
+            {
+                "address": "44",
+                "name": "DISC 5"
+            },
+            {
+                "address": "45",
+                "name": "DISC 6 (A)"
+            },
+            {
+                "address": "46",
+                "name": "DISC 7 (B)"
+            },
+            {
+                "address": "47",
+                "name": "DISC 8 (C)"
+            },
+            {
+                "address": "48",
+                "name": "DISC 9 (D)"
+            },
+            {
+                "address": "49",
+                "name": "DISC 10 (E)"
+            },
+            {
+                "address": "4a",
+                "name": "DISC"
+            },
+            {
+                "address": "4a",
+                "name": "DISC -"
+            },
+            {
+                "address": "4b",
+                "name": "TRACK"
+            },
+            {
+                "address": "4c",
+                "name": "BLOCK"
+            },
+            {
+                "address": "4c",
+                "name": "GROUP"
+            },
+            {
+                "address": "5c",
+                "name": "HIT LIST"
+            },
+            {
+                "address": "5f",
+                "name": "FADER"
+            },
+            {
+                "address": "68",
+                "name": "LEVEL FILE"
+            },
+            {
+                "address": "69",
+                "name": "MEMO INPUT"
+            },
+            {
+                "address": "6b",
+                "name": "MEMO SCAN"
+            },
+            {
+                "address": "6b",
+                "name": "NAME SCAN"
+            },
+            {
+                "address": "6e",
+                "name": "CHAIN MODE"
+            },
+            {
+                "address": "6e",
+                "name": "NO DELAY"
+            },
+            {
+                "address": "6e",
+                "name": "MEGA - NO DELAY"
+            },
+            {
+                "address": "6f",
+                "name": "PLAYER SELECT"
+            },
+            {
+                "address": "71",
+                "name": "X-FADE"
+            },
+            {
+                "address": "71",
+                "name": "MEGA - X-FADE"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR - UP"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR - DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR - LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR - RIGHT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "7d",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "7d",
+                "name": "CURSOR - ENTER"
+            },
+            {
+                "address": "7d",
+                "name": "SELECT"
+            },
+            {
+                "address": "7e",
+                "name": "SCROLL"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

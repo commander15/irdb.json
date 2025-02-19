@@ -1,0 +1,25 @@
+{
+    "display_name": "Humax Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "EXIT"
+            },
+            {
+                "address": "1c",
+                "name": "D"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Humax",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

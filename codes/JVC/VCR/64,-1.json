@@ -1,0 +1,49 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "TV TV/VIDEO"
+            },
+            {
+                "address": "12",
+                "name": "TV SELECT (IN/OUT)"
+            },
+            {
+                "address": "12",
+                "name": "TV POWER"
+            },
+            {
+                "address": "1a",
+                "name": "VCR VOLUME +"
+            },
+            {
+                "address": "1a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1b",
+                "name": "TV CH/SET +"
+            },
+            {
+                "address": "1e",
+                "name": "VCR VOLUME -"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "TV CH/SET -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

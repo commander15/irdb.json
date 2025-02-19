@@ -1,0 +1,53 @@
+{
+    "display_name": "Sharp Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "INPUT SELECT"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "16",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "MUTE"
+            },
+            {
+                "address": "39",
+                "name": "STATUS"
+            },
+            {
+                "address": "57",
+                "name": "ENTER"
+            },
+            {
+                "address": "9c",
+                "name": "ADJUSTMENT +"
+            },
+            {
+                "address": "9d",
+                "name": "ADJUSTMENT -"
+            },
+            {
+                "address": "c4",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Sharp",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

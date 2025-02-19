@@ -1,0 +1,49 @@
+{
+    "display_name": "Onkyo Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "STOP []"
+            },
+            {
+                "address": "15",
+                "name": "PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "PLAY REV <"
+            },
+            {
+                "address": "18",
+                "name": "REC/PAUSE O/"
+            },
+            {
+                "address": "19",
+                "name": "FFWD >>"
+            },
+            {
+                "address": "1a",
+                "name": "REW <<"
+            },
+            {
+                "address": "1b",
+                "name": "REC MUTE"
+            },
+            {
+                "address": "1d",
+                "name": "MUSIC SEARCH >>"
+            },
+            {
+                "address": "5d",
+                "name": "RESET"
+            }
+        ],
+        "device_address": "1a4000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Onkyo",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

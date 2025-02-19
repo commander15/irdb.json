@@ -1,0 +1,113 @@
+{
+    "display_name": "Mintek DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "EXIT"
+            },
+            {
+                "address": "8",
+                "name": "ENTER"
+            },
+            {
+                "address": "9",
+                "name": "1"
+            },
+            {
+                "address": "c",
+                "name": "MENU"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "f",
+                "name": "STOP"
+            },
+            {
+                "address": "11",
+                "name": "7"
+            },
+            {
+                "address": "12",
+                "name": "0"
+            },
+            {
+                "address": "13",
+                "name": "PAUSE"
+            },
+            {
+                "address": "14",
+                "name": "PLAY"
+            },
+            {
+                "address": "15",
+                "name": "8"
+            },
+            {
+                "address": "17",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "5"
+            },
+            {
+                "address": "1a",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "1b",
+                "name": "6"
+            },
+            {
+                "address": "1d",
+                "name": "2"
+            },
+            {
+                "address": "1e",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "1f",
+                "name": "3"
+            },
+            {
+                "address": "4d",
+                "name": "SETUP"
+            },
+            {
+                "address": "5b",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "5d",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "5e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5f",
+                "name": "CURSOR RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mintek",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

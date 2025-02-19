@@ -1,0 +1,65 @@
+{
+    "display_name": "Marantz TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "INPUT: VIDEO"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1d",
+                "name": "MONO"
+            },
+            {
+                "address": "1e",
+                "name": "OF-T"
+            },
+            {
+                "address": "1e",
+                "name": "OFF TIME"
+            },
+            {
+                "address": "55",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "56",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "57",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "58",
+                "name": "INPUT: PC"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

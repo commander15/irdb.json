@@ -1,0 +1,45 @@
+{
+    "display_name": "Zenith TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "19",
+                "name": "INFO"
+            },
+            {
+                "address": "1c",
+                "name": "PICTURE"
+            },
+            {
+                "address": "32",
+                "name": "CLEAR"
+            },
+            {
+                "address": "4a",
+                "name": "INPUT - DBS"
+            },
+            {
+                "address": "69",
+                "name": "VCR PLUS +"
+            },
+            {
+                "address": "78",
+                "name": "RECORD"
+            },
+            {
+                "address": "7d",
+                "name": "GUIDE"
+            },
+            {
+                "address": "7e",
+                "name": "QUIT"
+            }
+        ],
+        "device_address": "7",
+        "protocol": "Zenith"
+    },
+    "manufacturer": "Zenith",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

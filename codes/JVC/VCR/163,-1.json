@@ -1,0 +1,113 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "SURR REAR ON/OFF(-)"
+            },
+            {
+                "address": "b",
+                "name": "FM/AM"
+            },
+            {
+                "address": "10",
+                "name": "TV SOUND"
+            },
+            {
+                "address": "11",
+                "name": "VCR"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "1c",
+                "name": "FADE MUTE"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "21",
+                "name": "FM/AM 1"
+            },
+            {
+                "address": "22",
+                "name": "FM/AM 2"
+            },
+            {
+                "address": "23",
+                "name": "FM/AM 3"
+            },
+            {
+                "address": "24",
+                "name": "FM/AM 4"
+            },
+            {
+                "address": "25",
+                "name": "FM/AM 5"
+            },
+            {
+                "address": "26",
+                "name": "FM/AM 6"
+            },
+            {
+                "address": "27",
+                "name": "FM/AM 7/P"
+            },
+            {
+                "address": "28",
+                "name": "FM/AM 8"
+            },
+            {
+                "address": "29",
+                "name": "FM/AM 9"
+            },
+            {
+                "address": "2a",
+                "name": "FM/AM 10"
+            },
+            {
+                "address": "2f",
+                "name": "FM/AM 10+"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO"
+            },
+            {
+                "address": "3d",
+                "name": "CD"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE"
+            },
+            {
+                "address": "48",
+                "name": "SURR DELAY (+)"
+            },
+            {
+                "address": "58",
+                "name": "SURR CENTER MODE (-)"
+            },
+            {
+                "address": "d7",
+                "name": "SURR TEST (+)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

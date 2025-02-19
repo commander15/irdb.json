@@ -1,0 +1,461 @@
+{
+    "display_name": "Yamaha Sound Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "67",
+                "device_address": "0",
+                "name": "DSP PLII MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "0",
+                "name": "PL II MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "0",
+                "name": "DSP: PLII MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "DSP PLII MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "PL II MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "DSP: PLII MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "0",
+                "name": "DSP NEO:6 CIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "0",
+                "name": "NEO:6 MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "69",
+                "device_address": "0",
+                "name": "DSP: NEO6 MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "0",
+                "name": "DSP NEO:6 MUS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "0",
+                "name": "NEO:6 MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "0",
+                "name": "DSP: NEO6 MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "0",
+                "name": "INPUT MODE TOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "NIGHT MODE ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "NIGHT MODE CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "NIGHT MODE: CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "DSP: NIGHT CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "NIGHT/TV MODE: OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "DSP: NIGHT/TV M OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a2",
+                "device_address": "0",
+                "name": "MUTE ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "MUTE OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a6",
+                "device_address": "0",
+                "name": "INPUT MODE AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a6",
+                "device_address": "0",
+                "name": "INPUT MODE: AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "0",
+                "name": "INPUT MODE DTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "0",
+                "name": "INPUT MODE: DTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "0",
+                "name": "INPUT MODE ANALOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "0",
+                "name": "INPUT MODE: ANALOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "0",
+                "name": "SLEEP OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "0",
+                "name": "SLEEP: OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "0",
+                "name": "SLEEP 120",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "0",
+                "name": "SLEEP TIMER: 120 MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "0",
+                "name": "SLEEP: 120MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "0",
+                "name": "SLEEP 90",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "0",
+                "name": "SLEEP TIMER: 90 MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "0",
+                "name": "SLEEP: 90MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "0",
+                "name": "SLEEP 60",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "0",
+                "name": "SLEEP TIMER: 60 MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "0",
+                "name": "SLEEP: 60MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "0",
+                "name": "SLEEP 30",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "0",
+                "name": "SLEEP TIMER: 30 MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "0",
+                "name": "SLEEP: 30MIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "0",
+                "name": "DSP PLII GAME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "0",
+                "name": "PL II GAME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "0",
+                "name": "DSP: PLII GAME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "0",
+                "name": "NEURAL SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "0",
+                "name": "DSP: NEURAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "0",
+                "name": "NIGHT MODE MUS",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "cf",
+                "device_address": "0",
+                "name": "NIGHT MODE: MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "0",
+                "name": "DSP: NIGHT MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "MUSIC ENHANCER: ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "DSP: M ENHAN ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "MUSIC ENHANCER: OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "DSP: M ENHAN OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "INPUT MODE DTS",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "MUTE -20DB",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "MUTE -20DB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "0",
+                "name": "DSP CONC. HALL",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "e1",
+                "device_address": "0",
+                "name": "DSP: CONCERT HALL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ec",
+                "device_address": "0",
+                "name": "DSP JAZZ CLUB",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "ec",
+                "device_address": "0",
+                "name": "DSP: JAZZ CLUB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "0",
+                "name": "DSP MUSIC VIDEO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f3",
+                "device_address": "0",
+                "name": "DSP: MUSIC VIDEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f8",
+                "device_address": "0",
+                "name": "DSP SPORTS",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f8",
+                "device_address": "0",
+                "name": "DSP: SPORTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f9",
+                "device_address": "0",
+                "name": "DSP SPECTACLE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f9",
+                "device_address": "0",
+                "name": "DSP: SPECTACLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fa",
+                "device_address": "0",
+                "name": "DSP SCI-FI",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "fa",
+                "device_address": "0",
+                "name": "DSP: SCI-FI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fb",
+                "device_address": "0",
+                "name": "DSP ADVENTURE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "fb",
+                "device_address": "0",
+                "name": "DSP: ADVENTURE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "0",
+                "name": "DSP PROLOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "0",
+                "name": "PROLOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fd",
+                "device_address": "0",
+                "name": "DSP: PRO-LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ff",
+                "device_address": "0",
+                "name": "5 CH STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ff",
+                "device_address": "0",
+                "name": "DSP: BM 5CHSTEREO",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Sound Projector"
+}

@@ -1,0 +1,413 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "PHONO"
+            },
+            {
+                "address": "42",
+                "name": "CD"
+            },
+            {
+                "address": "43",
+                "name": "TUNER"
+            },
+            {
+                "address": "44",
+                "name": "AUX/VIDEO 1"
+            },
+            {
+                "address": "45",
+                "name": "AUX/VIDEO 2"
+            },
+            {
+                "address": "48",
+                "name": "ZONE3 INPUT TUNER"
+            },
+            {
+                "address": "49",
+                "name": "ZONE3 INPUT PHONO"
+            },
+            {
+                "address": "4a",
+                "name": "ZONE3 INPUT CD"
+            },
+            {
+                "address": "4b",
+                "name": "MUTING"
+            },
+            {
+                "address": "4c",
+                "name": "VOL -"
+            },
+            {
+                "address": "4d",
+                "name": "VOL +"
+            },
+            {
+                "address": "4e",
+                "name": "ZONE3 INPUT DVD"
+            },
+            {
+                "address": "4f",
+                "name": "ZONE3 INPUT VDP"
+            },
+            {
+                "address": "50",
+                "name": "POWER"
+            },
+            {
+                "address": "52",
+                "name": "ZONE3 INPUT TV"
+            },
+            {
+                "address": "53",
+                "name": "ZONE3 INPUT DBS/SAT"
+            },
+            {
+                "address": "54",
+                "name": "ZONE3 INPUT VCR1"
+            },
+            {
+                "address": "55",
+                "name": "ZONE3 INPUT VCR2"
+            },
+            {
+                "address": "56",
+                "name": "ZONE 1 VCR-3"
+            },
+            {
+                "address": "56",
+                "name": "MZ-1 VCR-3"
+            },
+            {
+                "address": "57",
+                "name": "ZONE3 INPUT V.AUX"
+            },
+            {
+                "address": "5b",
+                "name": "ZONE3 INPUT CDR/TAPE"
+            },
+            {
+                "address": "5c",
+                "name": "ZONE 1 TAPE-2"
+            },
+            {
+                "address": "5d",
+                "name": "ZONE2 POWER TOGGLE"
+            },
+            {
+                "address": "60",
+                "name": "DIRECT DIGITAL"
+            },
+            {
+                "address": "61",
+                "name": "OPTICAL DIGITAL 1"
+            },
+            {
+                "address": "62",
+                "name": "DIGITAL 2"
+            },
+            {
+                "address": "63",
+                "name": "DIGITAL 3"
+            },
+            {
+                "address": "65",
+                "name": "ZONE3 VOLUME DOWN"
+            },
+            {
+                "address": "66",
+                "name": "ZONE3 VOLUME UP"
+            },
+            {
+                "address": "67",
+                "name": "DAT MONITOR"
+            },
+            {
+                "address": "6a",
+                "name": "SURROUND MODE PURE DIRECT"
+            },
+            {
+                "address": "73",
+                "name": "INPUT MODE AUTO"
+            },
+            {
+                "address": "74",
+                "name": "INPUT MODE PCM"
+            },
+            {
+                "address": "75",
+                "name": "INPUT MODE DTS"
+            },
+            {
+                "address": "79",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7b",
+                "name": "ZONE2 POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "ZONE2 POWER OFF"
+            },
+            {
+                "address": "7d",
+                "name": "ZONE3 POWER ON"
+            },
+            {
+                "address": "7e",
+                "name": "ZONE3 POWER OFF"
+            },
+            {
+                "address": "c1",
+                "name": "ALL POWER TOGGLE"
+            },
+            {
+                "address": "c2",
+                "name": "FL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "c3",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "c4",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "c5",
+                "name": "INPUT TUNER / HD RADIO"
+            },
+            {
+                "address": "c6",
+                "name": "INPUT AUX"
+            },
+            {
+                "address": "c7",
+                "name": "FL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "c8",
+                "name": "INPUT CABLE/SAT/DBS"
+            },
+            {
+                "address": "c9",
+                "name": "INPUT TV/DBS"
+            },
+            {
+                "address": "ca",
+                "name": "INPUT BDP/HDP/DVP"
+            },
+            {
+                "address": "cb",
+                "name": "FR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "cc",
+                "name": "INPUT V.AUX"
+            },
+            {
+                "address": "cd",
+                "name": "INPUT GAME/VCR1"
+            },
+            {
+                "address": "ce",
+                "name": "INPUT MEDIA PLAYER/DVR1/VCR2"
+            },
+            {
+                "address": "cf",
+                "name": "INPUT DVR2/VCR3"
+            },
+            {
+                "address": "d0",
+                "name": "FR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "d1",
+                "name": "AMP DAT/TAPE MONITOR"
+            },
+            {
+                "address": "d2",
+                "name": "INPUT CDR/DAT/TAPE"
+            },
+            {
+                "address": "d3",
+                "name": "INPUT TAPE2"
+            },
+            {
+                "address": "d5",
+                "name": "CINEMA EQ ON"
+            },
+            {
+                "address": "d6",
+                "name": "SR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "d7",
+                "name": "SR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "d8",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "d9",
+                "name": "CINEMA EQ OFF"
+            },
+            {
+                "address": "da",
+                "name": "AMP VIDEO"
+            },
+            {
+                "address": "db",
+                "name": "MODE MULTI CHANNEL"
+            },
+            {
+                "address": "dc",
+                "name": "INPUT MODE ANALOG"
+            },
+            {
+                "address": "dd",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "de",
+                "name": "STATUS"
+            },
+            {
+                "address": "df",
+                "name": "INFO / OSD"
+            },
+            {
+                "address": "e0",
+                "name": "ENTER / SELECT"
+            },
+            {
+                "address": "e1",
+                "name": "ALL POWER ON"
+            },
+            {
+                "address": "e2",
+                "name": "ALL POWER OFF"
+            },
+            {
+                "address": "e3",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "e4",
+                "name": "SURROUND MODE STANDARD (DOLBY/DTS)"
+            },
+            {
+                "address": "e5",
+                "name": "SW SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "e6",
+                "name": "SURROUND MODE DSP SIMULATION"
+            },
+            {
+                "address": "e7",
+                "name": "SB/SBL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "e8",
+                "name": "AMP DELAY V"
+            },
+            {
+                "address": "e9",
+                "name": "AMP DELAY ^"
+            },
+            {
+                "address": "ea",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "eb",
+                "name": "SB/SBL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "ec",
+                "name": "SUBWOOFER LEVEL UP"
+            },
+            {
+                "address": "ed",
+                "name": "SPEAKER"
+            },
+            {
+                "address": "f0",
+                "name": "MUTING / MUTE TOGGLE"
+            },
+            {
+                "address": "f1",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "f2",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "f3",
+                "name": "SL SPEAKER LEVEL UP"
+            },
+            {
+                "address": "f4",
+                "name": "SL SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "f5",
+                "name": "CENTER SPEAKER LEVEL UP"
+            },
+            {
+                "address": "f6",
+                "name": "CENTER SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "f7",
+                "name": "SBR SPEAKER LEVEL UP"
+            },
+            {
+                "address": "f8",
+                "name": "SBR SPEAKER LEVEL DOWN"
+            },
+            {
+                "address": "f9",
+                "name": "TONE CONTROL OFF / DEFEAT ON"
+            },
+            {
+                "address": "fa",
+                "name": "TONE CONTROL ON / DEFEAT OFF"
+            },
+            {
+                "address": "fb",
+                "name": "SB SPEAKER MATRIX ON"
+            },
+            {
+                "address": "fc",
+                "name": "SB SPEAKER MATRIX OFF"
+            },
+            {
+                "address": "fd",
+                "name": "SB SPEAKER OFF"
+            },
+            {
+                "address": "fe",
+                "name": "AMP K-O"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

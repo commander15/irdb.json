@@ -1,0 +1,93 @@
+{
+    "display_name": "Yamaha Stereo Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "32",
+                "name": "DC1 TRG CTRL Z1"
+            },
+            {
+                "address": "33",
+                "name": "DC1 TRG CTRL Z2"
+            },
+            {
+                "address": "34",
+                "name": "DC1 TRG CTRL ALL"
+            },
+            {
+                "address": "71",
+                "name": "DC1 TRG Z2 ON"
+            },
+            {
+                "address": "72",
+                "name": "DC1 TRG Z2 OFF"
+            },
+            {
+                "address": "73",
+                "name": "DC1 TRG Z1 ON"
+            },
+            {
+                "address": "74",
+                "name": "DC1 TRG Z1 OFF"
+            },
+            {
+                "address": "a0",
+                "name": "Z2 MUTE ON"
+            },
+            {
+                "address": "a1",
+                "name": "Z2 MUTE OFF"
+            },
+            {
+                "address": "a2",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "a3",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "ab",
+                "name": "SP RELAY A ON"
+            },
+            {
+                "address": "ac",
+                "name": "SP RELAY A OFF"
+            },
+            {
+                "address": "ad",
+                "name": "SP RELAY B ON"
+            },
+            {
+                "address": "ae",
+                "name": "SP RELAY B OFF"
+            },
+            {
+                "address": "b3",
+                "name": "SLEEP OFF"
+            },
+            {
+                "address": "b4",
+                "name": "SLEEP 120"
+            },
+            {
+                "address": "b5",
+                "name": "SLEEP 90"
+            },
+            {
+                "address": "b6",
+                "name": "SLEEP 60"
+            },
+            {
+                "address": "b7",
+                "name": "SLEEP 30"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Stereo Receiver"
+}

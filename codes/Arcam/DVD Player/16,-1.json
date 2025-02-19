@@ -1,0 +1,29 @@
+{
+    "display_name": "Arcam DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "+"
+            },
+            {
+                "address": "10",
+                "name": "+A"
+            },
+            {
+                "address": "11",
+                "name": "-"
+            },
+            {
+                "address": "11",
+                "name": "-A"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

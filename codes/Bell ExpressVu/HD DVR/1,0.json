@@ -1,0 +1,73 @@
+{
+    "display_name": "Bell ExpressVu HD DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE -"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "f",
+                "name": "PAGE +"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "31",
+                "name": "REW"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "32",
+                "name": "FWD"
+            },
+            {
+                "address": "34",
+                "name": "I TV"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FWD"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            },
+            {
+                "address": "3a",
+                "name": "PIP"
+            },
+            {
+                "address": "3b",
+                "name": "POSITION"
+            },
+            {
+                "address": "3d",
+                "name": "SWAP"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Bell ExpressVu",
+    "model": "",
+    "name": "",
+    "target": "HD DVR"
+}

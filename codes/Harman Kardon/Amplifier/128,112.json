@@ -1,0 +1,53 @@
+{
+    "display_name": "Harman Kardon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "AVR"
+            },
+            {
+                "address": "c1",
+                "name": "MUTE"
+            },
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "c8",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "ca",
+                "name": "VID1"
+            },
+            {
+                "address": "cb",
+                "name": "VID2"
+            },
+            {
+                "address": "cc",
+                "name": "TAPE"
+            },
+            {
+                "address": "ce",
+                "name": "VID3"
+            },
+            {
+                "address": "d0",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

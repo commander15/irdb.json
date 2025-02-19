@@ -1,0 +1,181 @@
+{
+    "display_name": "Dish Network Satelite DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "10",
+                "name": "CUR / SELECT"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "10",
+                "name": "SELECT"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL - EXIT"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE *"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "16",
+                "name": "VIEW TV"
+            },
+            {
+                "address": "18",
+                "name": "CUR RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "1a",
+                "name": "CUR UP"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "CUR LEFT"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CUR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "20",
+                "name": "PAUSE"
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            },
+            {
+                "address": "25",
+                "name": "*"
+            },
+            {
+                "address": "25",
+                "name": "FORMAT/*"
+            },
+            {
+                "address": "25",
+                "name": "FORMAT"
+            },
+            {
+                "address": "26",
+                "name": "#"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH/#"
+            },
+            {
+                "address": "2f",
+                "name": "R BUTTON"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satelite DVR"
+}

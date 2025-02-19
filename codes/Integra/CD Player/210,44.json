@@ -1,0 +1,281 @@
+{
+    "display_name": "Integra CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "d2000",
+                "name": "SEARCH >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "0",
+                "device_address": "d2000",
+                "name": "FOLDER DOWN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "d2000",
+                "name": "SEARCH <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "d2000",
+                "name": "FOLDER UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "d2000",
+                "name": "NEXT SELECTION",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "d2000",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "d2000",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "d2000",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "d2000",
+                "name": "OPEN/CLOSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "d2000",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "d2000",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "d2000",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "d2000",
+                "name": "+10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "d2000",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "d2000",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "d2000",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "d2000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "d2000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "d2000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "d2000",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "d2000",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "d2000",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "d2000",
+                "name": "SKIP >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "d2000",
+                "name": "FOLDER RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "d2000",
+                "name": "SKIP <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "d2000",
+                "name": "FOLDER LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "d2000",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "d2000",
+                "name": "INTRO SCAN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "d2000",
+                "name": "RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "d2000",
+                "name": "DISC +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "d2000",
+                "name": "DISK -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "d2000",
+                "name": "ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "d2000",
+                "name": "OFF (STANDBY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "d2000",
+                "name": "DISC1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "d2000",
+                "name": "DISC 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "d2000",
+                "name": "DISC2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "d2000",
+                "name": "DISC 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "d2000",
+                "name": "DISC3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "d2000",
+                "name": "DISC 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "d2000",
+                "name": "DISC4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "d2000",
+                "name": "DISC 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "d2000",
+                "name": "DISC5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "d2000",
+                "name": "DISC 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "d2000",
+                "name": "DISC6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "d2000",
+                "name": "DISC 6",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

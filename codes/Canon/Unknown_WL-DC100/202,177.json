@@ -1,0 +1,45 @@
+{
+    "display_name": "Canon Unknown_WL-DC100",
+    "ir": {
+        "commands": [
+            {
+                "address": "1f",
+                "name": "Snap"
+            },
+            {
+                "address": "40",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "41",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "42",
+                "name": "KEY_ZOOMOUT"
+            },
+            {
+                "address": "43",
+                "name": "KEY_ZOOMIN"
+            },
+            {
+                "address": "44",
+                "name": "Multi"
+            },
+            {
+                "address": "46",
+                "name": "Magnify"
+            },
+            {
+                "address": "47",
+                "name": "Display"
+            }
+        ],
+        "device_address": "1940000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Canon",
+    "model": "",
+    "name": "",
+    "target": "Unknown_WL-DC100"
+}

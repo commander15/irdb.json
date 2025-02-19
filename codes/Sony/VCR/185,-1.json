@@ -1,0 +1,61 @@
+{
+    "display_name": "Sony VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "35",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "36",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "37",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "38",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "3c",
+                "name": "VIDEO 5"
+            },
+            {
+                "address": "43",
+                "name": "TUNER"
+            },
+            {
+                "address": "60",
+                "name": "VCR PLUS"
+            },
+            {
+                "address": "60",
+                "name": "VCR PLUS+"
+            },
+            {
+                "address": "61",
+                "name": "VCR PLUS: ONCE"
+            },
+            {
+                "address": "61",
+                "name": "SET"
+            },
+            {
+                "address": "62",
+                "name": "VCR PLUS: DAILY"
+            },
+            {
+                "address": "63",
+                "name": "VCR PLUS: WEEKLY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

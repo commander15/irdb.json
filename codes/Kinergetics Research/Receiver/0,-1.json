@@ -1,0 +1,117 @@
+{
+    "display_name": "Kinergetics Research Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CD-A"
+            },
+            {
+                "address": "0",
+                "name": "CD-B"
+            },
+            {
+                "address": "1",
+                "name": "ON -A"
+            },
+            {
+                "address": "1",
+                "name": "ON -B"
+            },
+            {
+                "address": "2",
+                "name": "AM/FM-A"
+            },
+            {
+                "address": "2",
+                "name": "AM/FM-B"
+            },
+            {
+                "address": "3",
+                "name": "MUTE-A"
+            },
+            {
+                "address": "3",
+                "name": "MUTE-B"
+            },
+            {
+                "address": "4",
+                "name": "TAPE -A"
+            },
+            {
+                "address": "4",
+                "name": "TAPE -B"
+            },
+            {
+                "address": "5",
+                "name": "AUX-A"
+            },
+            {
+                "address": "5",
+                "name": "AUX-B"
+            },
+            {
+                "address": "6",
+                "name": "TUNER -A"
+            },
+            {
+                "address": "6",
+                "name": "TUNER -B"
+            },
+            {
+                "address": "7",
+                "name": "PRESET UP -A"
+            },
+            {
+                "address": "7",
+                "name": "PRESET UP -B"
+            },
+            {
+                "address": "8",
+                "name": "PRESET DOWN -A"
+            },
+            {
+                "address": "8",
+                "name": "PRESET DOWN -B"
+            },
+            {
+                "address": "9",
+                "name": "SEEK UP -A"
+            },
+            {
+                "address": "9",
+                "name": "SEEK UP -B"
+            },
+            {
+                "address": "a",
+                "name": "SEEK DOWN -A"
+            },
+            {
+                "address": "a",
+                "name": "SEEK DOWN -B"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME DOWN -A"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME DOWN -B"
+            },
+            {
+                "address": "c",
+                "name": "VOLUME UP -A"
+            },
+            {
+                "address": "c",
+                "name": "VOLUME UP -B"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Kinergetics Research",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

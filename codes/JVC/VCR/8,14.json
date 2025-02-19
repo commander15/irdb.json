@@ -1,0 +1,73 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "4",
+                "name": "INDEX LEFT"
+            },
+            {
+                "address": "6",
+                "name": "INDEX RIGHT"
+            },
+            {
+                "address": "7",
+                "name": "REWIND"
+            },
+            {
+                "address": "8",
+                "name": "SKIP LEFT"
+            },
+            {
+                "address": "9",
+                "name": "AUTOTRACK"
+            },
+            {
+                "address": "a",
+                "name": "SKIP RIGHT"
+            },
+            {
+                "address": "c",
+                "name": "REW/BROWSE"
+            },
+            {
+                "address": "e",
+                "name": "FF/BROWSE"
+            },
+            {
+                "address": "f",
+                "name": "FORWARD"
+            },
+            {
+                "address": "10",
+                "name": "SELECT"
+            },
+            {
+                "address": "1b",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "20",
+                "name": "PAUSE"
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "20000",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

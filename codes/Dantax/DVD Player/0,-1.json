@@ -1,0 +1,185 @@
+{
+    "display_name": "Dantax DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "FRAME <"
+            },
+            {
+                "address": "9",
+                "name": "SLOW"
+            },
+            {
+                "address": "a",
+                "name": "4"
+            },
+            {
+                "address": "b",
+                "name": "AUDIO"
+            },
+            {
+                "address": "c",
+                "name": "EQ"
+            },
+            {
+                "address": "d",
+                "name": "CLEAR"
+            },
+            {
+                "address": "10",
+                "name": "ZOOM"
+            },
+            {
+                "address": "11",
+                "name": "TITLE"
+            },
+            {
+                "address": "12",
+                "name": "1"
+            },
+            {
+                "address": "13",
+                "name": "L/R"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "15",
+                "name": "MENU"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "SUB TITLE"
+            },
+            {
+                "address": "18",
+                "name": "ENTER"
+            },
+            {
+                "address": "19",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1b",
+                "name": "ANGLE"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1d",
+                "name": "SETUP"
+            },
+            {
+                "address": "1e",
+                "name": "0"
+            },
+            {
+                "address": "1f",
+                "name": "SUB TITLE ON/OFF"
+            },
+            {
+                "address": "47",
+                "name": "PLAY"
+            },
+            {
+                "address": "48",
+                "name": "5"
+            },
+            {
+                "address": "49",
+                "name": "6"
+            },
+            {
+                "address": "4a",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "4b",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "4e",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "4f",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "50",
+                "name": "2"
+            },
+            {
+                "address": "51",
+                "name": "3"
+            },
+            {
+                "address": "53",
+                "name": "RETURN"
+            },
+            {
+                "address": "54",
+                "name": "8"
+            },
+            {
+                "address": "55",
+                "name": "9"
+            },
+            {
+                "address": "57",
+                "name": "SELECT"
+            },
+            {
+                "address": "58",
+                "name": "A-B"
+            },
+            {
+                "address": "59",
+                "name": "POWER"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5c",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "5d",
+                "name": "GO TO"
+            },
+            {
+                "address": "5f",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Dantax",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

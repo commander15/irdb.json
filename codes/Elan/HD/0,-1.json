@@ -1,0 +1,77 @@
+{
+    "display_name": "Elan HD",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "MUTE",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "DND",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VOLUME UP",
+                "protocol": "RECS80"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "BASS+",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "BRIGHTNESS -",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "TREBLE+",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "24",
+                "device_address": "0",
+                "name": "VOLUME DOWN",
+                "protocol": "RECS80"
+            },
+            {
+                "address": "24",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "26",
+                "device_address": "0",
+                "name": "BASS-",
+                "protocol": "Velleman"
+            },
+            {
+                "address": "27",
+                "device_address": "0",
+                "name": "TREBLE -",
+                "protocol": "Velleman"
+            }
+        ]
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "HD"
+}

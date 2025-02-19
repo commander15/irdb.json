@@ -1,0 +1,97 @@
+{
+    "display_name": "Dwin Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "73",
+                "name": "MENU"
+            },
+            {
+                "address": "74",
+                "name": "EXIT"
+            },
+            {
+                "address": "75",
+                "name": "POWER"
+            },
+            {
+                "address": "75",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "77",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "0 - DVI 2"
+            },
+            {
+                "address": "7d",
+                "name": "1 - COMPOSITE 1"
+            },
+            {
+                "address": "7e",
+                "name": "2 - COMPOSITE 2"
+            },
+            {
+                "address": "7f",
+                "name": "3 - S-VIDEO 1"
+            },
+            {
+                "address": "80",
+                "name": "4 - S-VIDEO 2"
+            },
+            {
+                "address": "81",
+                "name": "5 - COMPONENT 1"
+            },
+            {
+                "address": "82",
+                "name": "6 - COMPONENT 2"
+            },
+            {
+                "address": "83",
+                "name": "7 - RGB 1"
+            },
+            {
+                "address": "84",
+                "name": "8 - RGB 2"
+            },
+            {
+                "address": "85",
+                "name": "9 - DVI 1"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "8a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "8b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "8c",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "8d",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "8e",
+                "name": "INFO"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA(Old)"
+    },
+    "manufacturer": "Dwin",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

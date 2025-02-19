@@ -1,0 +1,33 @@
+{
+    "display_name": "JVC LCD",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "TEXT"
+            },
+            {
+                "address": "3c",
+                "name": "D"
+            },
+            {
+                "address": "3d",
+                "name": "3D SOUND / GREEN"
+            },
+            {
+                "address": "3e",
+                "name": "PIP SOUND / YELLOW"
+            },
+            {
+                "address": "3f",
+                "name": "PIP / BLUE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "LCD"
+}

@@ -1,0 +1,109 @@
+{
+    "display_name": "MAGIC LIGHTING Lighting",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "BRIGHT-"
+            },
+            {
+                "address": "5",
+                "name": "BRIGHT+"
+            },
+            {
+                "address": "6",
+                "name": "OFF"
+            },
+            {
+                "address": "7",
+                "name": "ON"
+            },
+            {
+                "address": "8",
+                "name": "G"
+            },
+            {
+                "address": "9",
+                "name": "R"
+            },
+            {
+                "address": "a",
+                "name": "B"
+            },
+            {
+                "address": "b",
+                "name": "W"
+            },
+            {
+                "address": "c",
+                "name": "G2"
+            },
+            {
+                "address": "d",
+                "name": "R2"
+            },
+            {
+                "address": "e",
+                "name": "G3"
+            },
+            {
+                "address": "f",
+                "name": "FLASH"
+            },
+            {
+                "address": "10",
+                "name": "G5"
+            },
+            {
+                "address": "11",
+                "name": "R5"
+            },
+            {
+                "address": "12",
+                "name": "B5"
+            },
+            {
+                "address": "13",
+                "name": "SMOOTH"
+            },
+            {
+                "address": "14",
+                "name": "G3"
+            },
+            {
+                "address": "15",
+                "name": "R3"
+            },
+            {
+                "address": "16",
+                "name": "B3"
+            },
+            {
+                "address": "17",
+                "name": "STROBE"
+            },
+            {
+                "address": "18",
+                "name": "G4"
+            },
+            {
+                "address": "19",
+                "name": "R4"
+            },
+            {
+                "address": "1a",
+                "name": "B4"
+            },
+            {
+                "address": "1b",
+                "name": "FADE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "MAGIC LIGHTING",
+    "model": "",
+    "name": "",
+    "target": "Lighting"
+}

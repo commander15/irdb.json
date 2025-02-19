@@ -1,0 +1,253 @@
+{
+    "display_name": "TELEFUNKEN VCR_FB1550",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "4",
+                "name": "KEY_EJECTCD"
+            },
+            {
+                "address": "6",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "7",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "b",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "c",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "d",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "13",
+                "name": "MENU/TEXT"
+            },
+            {
+                "address": "14",
+                "name": "SEARCHFWD"
+            },
+            {
+                "address": "15",
+                "name": "KEY_GREEN"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO-MONITOR"
+            },
+            {
+                "address": "18",
+                "name": "CURSORLEFT"
+            },
+            {
+                "address": "19",
+                "name": "CURSORRIGHT"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "21",
+                "name": "KEY_1"
+            },
+            {
+                "address": "22",
+                "name": "KEY_2"
+            },
+            {
+                "address": "23",
+                "name": "KEY_3"
+            },
+            {
+                "address": "24",
+                "name": "KEY_4"
+            },
+            {
+                "address": "25",
+                "name": "KEY_5"
+            },
+            {
+                "address": "26",
+                "name": "KEY_6"
+            },
+            {
+                "address": "27",
+                "name": "KEY_7"
+            },
+            {
+                "address": "28",
+                "name": "KEY_8"
+            },
+            {
+                "address": "29",
+                "name": "KEY_9"
+            },
+            {
+                "address": "31",
+                "name": "SP/LP"
+            },
+            {
+                "address": "33",
+                "name": "KEY_0"
+            },
+            {
+                "address": "34",
+                "name": "VPS/CHANNEL"
+            },
+            {
+                "address": "36",
+                "name": "KEY_DELETE"
+            },
+            {
+                "address": "37",
+                "name": "PROGR"
+            },
+            {
+                "address": "38",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "39",
+                "name": "KEY_0"
+            },
+            {
+                "address": "3b",
+                "name": "TARGET"
+            },
+            {
+                "address": "3c",
+                "name": "KEY_SELECT"
+            },
+            {
+                "address": "3e",
+                "name": "D/W/MEMORY"
+            },
+            {
+                "address": "80",
+                "name": "RINGRIGHTPROG"
+            },
+            {
+                "address": "84",
+                "name": "RINGLEFTPROG"
+            },
+            {
+                "address": "91",
+                "name": "INDEX"
+            },
+            {
+                "address": "93",
+                "name": "SETMARKE"
+            },
+            {
+                "address": "94",
+                "name": "ERASEMARK"
+            },
+            {
+                "address": "96",
+                "name": "SEEK-INTERVAL/-EMPTY"
+            },
+            {
+                "address": "97",
+                "name": "SEEKMARK"
+            },
+            {
+                "address": "af",
+                "name": "JOGTAPE-1"
+            },
+            {
+                "address": "b1",
+                "name": "RINGTAPE-6"
+            },
+            {
+                "address": "b2",
+                "name": "RINGTAPE-5"
+            },
+            {
+                "address": "b3",
+                "name": "RINGTAPE-4"
+            },
+            {
+                "address": "b4",
+                "name": "RINGTAPE-3"
+            },
+            {
+                "address": "b5",
+                "name": "RINGTAPE-2"
+            },
+            {
+                "address": "b6",
+                "name": "RINGTAPE-1"
+            },
+            {
+                "address": "b9",
+                "name": "RINGTAPE+1"
+            },
+            {
+                "address": "ba",
+                "name": "RINGTAPE+2"
+            },
+            {
+                "address": "bb",
+                "name": "RINGTAPE+3"
+            },
+            {
+                "address": "bc",
+                "name": "RINGTAPE+4"
+            },
+            {
+                "address": "bd",
+                "name": "RINGTAPE+5"
+            },
+            {
+                "address": "be",
+                "name": "RINGTAPE+6"
+            },
+            {
+                "address": "cc",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "d5",
+                "name": "SEARCHBWD"
+            },
+            {
+                "address": "d8",
+                "name": "JOGTAPE-3"
+            },
+            {
+                "address": "d9",
+                "name": "JOGTAPE-2"
+            },
+            {
+                "address": "da",
+                "name": "JOGTAPE+2"
+            },
+            {
+                "address": "db",
+                "name": "JOGTAPE+3"
+            },
+            {
+                "address": "ed",
+                "name": "JOGTAPE+1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC{2}"
+    },
+    "manufacturer": "TELEFUNKEN",
+    "model": "",
+    "name": "",
+    "target": "VCR_FB1550"
+}

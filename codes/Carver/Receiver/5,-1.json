@@ -1,0 +1,45 @@
+{
+    "display_name": "Carver Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "5",
+                "name": "VCR 5"
+            },
+            {
+                "address": "6",
+                "name": "VCR 6"
+            },
+            {
+                "address": "7",
+                "name": "VCR 7"
+            },
+            {
+                "address": "8",
+                "name": "VCR 8"
+            },
+            {
+                "address": "9",
+                "name": "VCR 9"
+            },
+            {
+                "address": "c",
+                "name": "VCR STANDBY"
+            },
+            {
+                "address": "21",
+                "name": "VCR CH V (PRESET)"
+            },
+            {
+                "address": "36",
+                "name": "VCR STOP []"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

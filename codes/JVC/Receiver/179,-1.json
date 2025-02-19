@@ -1,0 +1,753 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PHONO STOP []"
+            },
+            {
+                "address": "3",
+                "name": "PHONO STOP [] (4)"
+            },
+            {
+                "address": "3",
+                "name": "PHONO STOP"
+            },
+            {
+                "address": "3",
+                "name": "STOP []"
+            },
+            {
+                "address": "c",
+                "name": "PHONO PLAY >"
+            },
+            {
+                "address": "c",
+                "name": "PHONO PLAY > (1)"
+            },
+            {
+                "address": "c",
+                "name": "PHONO PLAY"
+            },
+            {
+                "address": "43",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "43",
+                "name": "CD STOP [] (4)"
+            },
+            {
+                "address": "43",
+                "name": "CD STOP[]"
+            },
+            {
+                "address": "43",
+                "name": "CD STOP (- [])"
+            },
+            {
+                "address": "43",
+                "name": "CD STOP"
+            },
+            {
+                "address": "44",
+                "name": "CD EJECT (10)"
+            },
+            {
+                "address": "44",
+                "name": "CD OPEN/CLOSE"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY > (1)"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY>"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY (+ >)"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY"
+            },
+            {
+                "address": "4d",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "4d",
+                "name": "CD PAUSE (5)"
+            },
+            {
+                "address": "4d",
+                "name": "CD PAUSE ()"
+            },
+            {
+                "address": "4d",
+                "name": "CD PAUSE"
+            },
+            {
+                "address": "58",
+                "name": "CD SKIP <<"
+            },
+            {
+                "address": "58",
+                "name": "CD << (2)"
+            },
+            {
+                "address": "58",
+                "name": "CD A.SEARCH REV <<"
+            },
+            {
+                "address": "58",
+                "name": "CD SKIP REV <<"
+            },
+            {
+                "address": "58",
+                "name": "CD SKIP <"
+            },
+            {
+                "address": "58",
+                "name": "CD AUTO SEARCH <<"
+            },
+            {
+                "address": "58",
+                "name": "AUTO SEARCH <<"
+            },
+            {
+                "address": "58",
+                "name": "CD <<"
+            },
+            {
+                "address": "58",
+                "name": "CD REW/<<"
+            },
+            {
+                "address": "59",
+                "name": "CD SKIP >>"
+            },
+            {
+                "address": "59",
+                "name": "CD >>(3)"
+            },
+            {
+                "address": "59",
+                "name": "CD A.SEARCH FWD >>"
+            },
+            {
+                "address": "59",
+                "name": "CD SKIP FWD >>"
+            },
+            {
+                "address": "59",
+                "name": "CD SKIP >"
+            },
+            {
+                "address": "59",
+                "name": "CD AUTO SEARCH >>"
+            },
+            {
+                "address": "59",
+                "name": "AUTO SEARCH >>"
+            },
+            {
+                "address": "59",
+                "name": "CD >>"
+            },
+            {
+                "address": "59",
+                "name": "CD FF/>>"
+            },
+            {
+                "address": "60",
+                "name": "TRACK 0"
+            },
+            {
+                "address": "60",
+                "name": "CD 10KEY 0"
+            },
+            {
+                "address": "60",
+                "name": "CD TRACK 0"
+            },
+            {
+                "address": "60",
+                "name": "CD 0"
+            },
+            {
+                "address": "61",
+                "name": "TRACK 1"
+            },
+            {
+                "address": "61",
+                "name": "CD 10KEY 1"
+            },
+            {
+                "address": "61",
+                "name": "CD TRACK 1"
+            },
+            {
+                "address": "61",
+                "name": "TV 1"
+            },
+            {
+                "address": "61",
+                "name": "CD 1"
+            },
+            {
+                "address": "62",
+                "name": "TRACK 2"
+            },
+            {
+                "address": "62",
+                "name": "CD 10KEY 2"
+            },
+            {
+                "address": "62",
+                "name": "CD TRACK 2"
+            },
+            {
+                "address": "62",
+                "name": "TV 2"
+            },
+            {
+                "address": "62",
+                "name": "CD 2"
+            },
+            {
+                "address": "63",
+                "name": "TRACK 3"
+            },
+            {
+                "address": "63",
+                "name": "CD 10KEY 3"
+            },
+            {
+                "address": "63",
+                "name": "CD TRACK 3"
+            },
+            {
+                "address": "63",
+                "name": "TV 3"
+            },
+            {
+                "address": "63",
+                "name": "CD 3"
+            },
+            {
+                "address": "64",
+                "name": "TRACK 4"
+            },
+            {
+                "address": "64",
+                "name": "CD 10KEY 4"
+            },
+            {
+                "address": "64",
+                "name": "CD TRACK 4"
+            },
+            {
+                "address": "64",
+                "name": "TV 4"
+            },
+            {
+                "address": "64",
+                "name": "CD 4"
+            },
+            {
+                "address": "65",
+                "name": "TRACK 5"
+            },
+            {
+                "address": "65",
+                "name": "CD 10KEY 5"
+            },
+            {
+                "address": "65",
+                "name": "CD TRACK 5"
+            },
+            {
+                "address": "65",
+                "name": "TV 5"
+            },
+            {
+                "address": "65",
+                "name": "CD 5"
+            },
+            {
+                "address": "66",
+                "name": "TRACK 6"
+            },
+            {
+                "address": "66",
+                "name": "CD 10KEY 6"
+            },
+            {
+                "address": "66",
+                "name": "CD TRACK 6"
+            },
+            {
+                "address": "66",
+                "name": "TV 6"
+            },
+            {
+                "address": "66",
+                "name": "CD 6"
+            },
+            {
+                "address": "67",
+                "name": "TRACK 7/P"
+            },
+            {
+                "address": "67",
+                "name": "CD 10KEY 7/P"
+            },
+            {
+                "address": "67",
+                "name": "CD TRACK 7"
+            },
+            {
+                "address": "67",
+                "name": "TV 7/P"
+            },
+            {
+                "address": "67",
+                "name": "CD 7/P"
+            },
+            {
+                "address": "67",
+                "name": "CD 7"
+            },
+            {
+                "address": "68",
+                "name": "TRACK 8"
+            },
+            {
+                "address": "68",
+                "name": "CD 10KEY 8"
+            },
+            {
+                "address": "68",
+                "name": "CD TRACK 8"
+            },
+            {
+                "address": "68",
+                "name": "TV 8"
+            },
+            {
+                "address": "68",
+                "name": "CD 8"
+            },
+            {
+                "address": "69",
+                "name": "TRACK 9"
+            },
+            {
+                "address": "69",
+                "name": "CD 10KEY 9"
+            },
+            {
+                "address": "69",
+                "name": "CD TRACK 9"
+            },
+            {
+                "address": "69",
+                "name": "TV 9"
+            },
+            {
+                "address": "69",
+                "name": "CD 9"
+            },
+            {
+                "address": "6e",
+                "name": "TRACK 10"
+            },
+            {
+                "address": "6e",
+                "name": "CD 10KEY 10"
+            },
+            {
+                "address": "6e",
+                "name": "CD TRACK 10"
+            },
+            {
+                "address": "6e",
+                "name": "TV 10"
+            },
+            {
+                "address": "6e",
+                "name": "CD 10"
+            },
+            {
+                "address": "6e",
+                "name": "CD 10 CONTINUE"
+            },
+            {
+                "address": "6f",
+                "name": "TRACK +10"
+            },
+            {
+                "address": "6f",
+                "name": "CD 10KEY +10"
+            },
+            {
+                "address": "6f",
+                "name": "CD TRACK +10"
+            },
+            {
+                "address": "6f",
+                "name": "TV +10"
+            },
+            {
+                "address": "6f",
+                "name": "CD +10"
+            },
+            {
+                "address": "70",
+                "name": "CD SCAN <<"
+            },
+            {
+                "address": "70",
+                "name": "CD << (6)"
+            },
+            {
+                "address": "70",
+                "name": "CD REW <<"
+            },
+            {
+                "address": "70",
+                "name": "CD SEARCH REV <<"
+            },
+            {
+                "address": "70",
+                "name": "CD REV (< <<)"
+            },
+            {
+                "address": "71",
+                "name": "CD CHANGER PRGM"
+            },
+            {
+                "address": "71",
+                "name": "PRGM"
+            },
+            {
+                "address": "71",
+                "name": "CD CHANGER +10"
+            },
+            {
+                "address": "71",
+                "name": "DISC PRGM"
+            },
+            {
+                "address": "71",
+                "name": "CD DISC PRGM(10)"
+            },
+            {
+                "address": "71",
+                "name": "CD 0 (DISC)"
+            },
+            {
+                "address": "71",
+                "name": "CD PRGM"
+            },
+            {
+                "address": "73",
+                "name": "CD CHANGER MAG.PRGM"
+            },
+            {
+                "address": "73",
+                "name": "MAG.PRGM"
+            },
+            {
+                "address": "73",
+                "name": "MAG. PRGM"
+            },
+            {
+                "address": "73",
+                "name": "CD CHANGER 0"
+            },
+            {
+                "address": "73",
+                "name": "DISC MAG.PRGM"
+            },
+            {
+                "address": "73",
+                "name": "CD +10 (DISC)"
+            },
+            {
+                "address": "76",
+                "name": "CD SCAN >>"
+            },
+            {
+                "address": "76",
+                "name": "CD >> (P)"
+            },
+            {
+                "address": "76",
+                "name": "CD FFWD >>"
+            },
+            {
+                "address": "76",
+                "name": "CD SEARCH FWD >>"
+            },
+            {
+                "address": "76",
+                "name": "CD FWD (> >>)"
+            },
+            {
+                "address": "77",
+                "name": "CD CHANGER CONTINUE"
+            },
+            {
+                "address": "77",
+                "name": "CONTINUE"
+            },
+            {
+                "address": "77",
+                "name": "CD CHANGER 10"
+            },
+            {
+                "address": "77",
+                "name": "DISC CONTINUE"
+            },
+            {
+                "address": "77",
+                "name": "CD DISC CONTINUE(9)"
+            },
+            {
+                "address": "77",
+                "name": "CD 10 (DISC) CONTIN"
+            },
+            {
+                "address": "77",
+                "name": "CD CONTINUE"
+            },
+            {
+                "address": "78",
+                "name": "CD DISC P"
+            },
+            {
+                "address": "78",
+                "name": "CD CHANGER P"
+            },
+            {
+                "address": "78",
+                "name": "CD DISC 7/P"
+            },
+            {
+                "address": "78",
+                "name": "7"
+            },
+            {
+                "address": "78",
+                "name": "DISC 7/P"
+            },
+            {
+                "address": "78",
+                "name": "CD CHANGER 7/P"
+            },
+            {
+                "address": "78",
+                "name": "DISC P"
+            },
+            {
+                "address": "78",
+                "name": "CD DISC P (7)"
+            },
+            {
+                "address": "78",
+                "name": "CD 7/P"
+            },
+            {
+                "address": "78",
+                "name": "CD DISC 7"
+            },
+            {
+                "address": "78",
+                "name": "CD 7/P (DISC)"
+            },
+            {
+                "address": "79",
+                "name": "CD DISC 1"
+            },
+            {
+                "address": "79",
+                "name": "CD DISC 1 (>)"
+            },
+            {
+                "address": "79",
+                "name": "CD CHANGER 1"
+            },
+            {
+                "address": "79",
+                "name": "1"
+            },
+            {
+                "address": "79",
+                "name": "DISC 1"
+            },
+            {
+                "address": "79",
+                "name": "CD 1"
+            },
+            {
+                "address": "79",
+                "name": "CD 1 (DISC)"
+            },
+            {
+                "address": "7a",
+                "name": "CD DISC 2"
+            },
+            {
+                "address": "7a",
+                "name": "CD DISC 2 (<<)"
+            },
+            {
+                "address": "7a",
+                "name": "CD CHANGER 2"
+            },
+            {
+                "address": "7a",
+                "name": "2"
+            },
+            {
+                "address": "7a",
+                "name": "DISC 2"
+            },
+            {
+                "address": "7a",
+                "name": "CD 2"
+            },
+            {
+                "address": "7a",
+                "name": "CD 2 (DISC)"
+            },
+            {
+                "address": "7b",
+                "name": "CD DISC 3"
+            },
+            {
+                "address": "7b",
+                "name": "CD DISC 3 (>>)"
+            },
+            {
+                "address": "7b",
+                "name": "CD CHANGER 3"
+            },
+            {
+                "address": "7b",
+                "name": "3"
+            },
+            {
+                "address": "7b",
+                "name": "DISC 3"
+            },
+            {
+                "address": "7b",
+                "name": "CD 3"
+            },
+            {
+                "address": "7b",
+                "name": "CD 3 (DISC)"
+            },
+            {
+                "address": "7c",
+                "name": "CD DISC 4"
+            },
+            {
+                "address": "7c",
+                "name": "CD DISC 4 ([])"
+            },
+            {
+                "address": "7c",
+                "name": "CD CHANGER 4"
+            },
+            {
+                "address": "7c",
+                "name": "4"
+            },
+            {
+                "address": "7c",
+                "name": "DISC 4"
+            },
+            {
+                "address": "7c",
+                "name": "CD 4"
+            },
+            {
+                "address": "7c",
+                "name": "CD 4 (DISC)"
+            },
+            {
+                "address": "7d",
+                "name": "CD DISC 5"
+            },
+            {
+                "address": "7d",
+                "name": "CD DISC 5 ()"
+            },
+            {
+                "address": "7d",
+                "name": "CD CHANGER 5"
+            },
+            {
+                "address": "7d",
+                "name": "5"
+            },
+            {
+                "address": "7d",
+                "name": "DISC 5"
+            },
+            {
+                "address": "7d",
+                "name": "CD 5"
+            },
+            {
+                "address": "7d",
+                "name": "CD 5 (DISC)"
+            },
+            {
+                "address": "7e",
+                "name": "CD DISC 6"
+            },
+            {
+                "address": "7e",
+                "name": "CD DISC 6 (<<)"
+            },
+            {
+                "address": "7e",
+                "name": "CD CHANGER 6"
+            },
+            {
+                "address": "7e",
+                "name": "6"
+            },
+            {
+                "address": "7e",
+                "name": "DISC 6"
+            },
+            {
+                "address": "7e",
+                "name": "CD 6"
+            },
+            {
+                "address": "7e",
+                "name": "CD 6 (DISC)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

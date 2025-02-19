@@ -1,0 +1,37 @@
+{
+    "display_name": "Gryphon Integrated Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "ON/STAND-BY"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "INPUT +"
+            },
+            {
+                "address": "21",
+                "name": "INPUT -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Gryphon",
+    "model": "",
+    "name": "",
+    "target": "Integrated Amplifier"
+}

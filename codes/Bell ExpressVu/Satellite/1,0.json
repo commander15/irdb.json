@@ -1,0 +1,45 @@
+{
+    "display_name": "Bell ExpressVu Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE+"
+            },
+            {
+                "address": "f",
+                "name": "PAGE -"
+            },
+            {
+                "address": "31",
+                "name": "REW"
+            },
+            {
+                "address": "31",
+                "name": "SKIP B"
+            },
+            {
+                "address": "32",
+                "name": "FF"
+            },
+            {
+                "address": "32",
+                "name": "SKIP F"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Bell ExpressVu",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

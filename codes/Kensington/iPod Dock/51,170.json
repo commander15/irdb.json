@@ -1,0 +1,53 @@
+{
+    "display_name": "Kensington iPod Dock",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "0",
+                "name": "1 VOLUME -"
+            },
+            {
+                "address": "4",
+                "name": "TRACK +"
+            },
+            {
+                "address": "4",
+                "name": "1 TRACK +"
+            },
+            {
+                "address": "8",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "1 PLAY/PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "TRACK -"
+            },
+            {
+                "address": "c",
+                "name": "1 TRACK -"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "17",
+                "name": "1 VOLUME +"
+            }
+        ],
+        "device_address": "cc00",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kensington",
+    "model": "",
+    "name": "",
+    "target": "iPod Dock"
+}

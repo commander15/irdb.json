@@ -1,0 +1,37 @@
+{
+    "display_name": "Broksonic VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "15",
+                "name": "RECORD"
+            },
+            {
+                "address": "16",
+                "name": "PLAY"
+            },
+            {
+                "address": "17",
+                "name": "STOP"
+            },
+            {
+                "address": "18",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "19",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Broksonic",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

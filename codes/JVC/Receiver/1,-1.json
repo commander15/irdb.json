@@ -1,0 +1,41 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "VTR STOP []"
+            },
+            {
+                "address": "6",
+                "name": "VTR FF >>"
+            },
+            {
+                "address": "7",
+                "name": "VTR REW <<"
+            },
+            {
+                "address": "c",
+                "name": "VTR PLAY >"
+            },
+            {
+                "address": "d",
+                "name": "VTR PAUSE/STILL "
+            },
+            {
+                "address": "18",
+                "name": "VTR CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "VTR CHANNEL +"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Akai"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

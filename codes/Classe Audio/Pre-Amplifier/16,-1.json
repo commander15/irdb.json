@@ -1,0 +1,229 @@
+{
+    "display_name": "Classe Audio Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "TAPE MON TG T0"
+            },
+            {
+                "address": "1",
+                "name": "TAPE MON TG T1"
+            },
+            {
+                "address": "2",
+                "name": "LINE1 T0"
+            },
+            {
+                "address": "2",
+                "name": "LINE1 T1"
+            },
+            {
+                "address": "3",
+                "name": "LINE2 T0"
+            },
+            {
+                "address": "3",
+                "name": "LINE2 T1"
+            },
+            {
+                "address": "4",
+                "name": "LINE3 T0"
+            },
+            {
+                "address": "4",
+                "name": "LINE3 T1"
+            },
+            {
+                "address": "5",
+                "name": "BALANCED 1 T0"
+            },
+            {
+                "address": "5",
+                "name": "BALANCED 1 T1"
+            },
+            {
+                "address": "a",
+                "name": "INPUT UP T0"
+            },
+            {
+                "address": "a",
+                "name": "INPUT UP T1"
+            },
+            {
+                "address": "b",
+                "name": "INPUT DOWN T0"
+            },
+            {
+                "address": "b",
+                "name": "INPUT DOWN T1"
+            },
+            {
+                "address": "c",
+                "name": "STDBY TOGGLE T0"
+            },
+            {
+                "address": "c",
+                "name": "STDBY TOGGLE T1"
+            },
+            {
+                "address": "e",
+                "name": "INFO T0"
+            },
+            {
+                "address": "e",
+                "name": "INFO T1"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY T0"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY T1"
+            },
+            {
+                "address": "14",
+                "name": "PHONO GAINE TG T0"
+            },
+            {
+                "address": "14",
+                "name": "PHONO GAINE TG T1"
+            },
+            {
+                "address": "15",
+                "name": "BALANCE T0"
+            },
+            {
+                "address": "15",
+                "name": "BALANCE T1"
+            },
+            {
+                "address": "54",
+                "name": "MENU T0"
+            },
+            {
+                "address": "54",
+                "name": "MENU T1"
+            },
+            {
+                "address": "55",
+                "name": "HOME T0"
+            },
+            {
+                "address": "55",
+                "name": "HOME T1"
+            },
+            {
+                "address": "58",
+                "name": "NAVIGATE UP T0"
+            },
+            {
+                "address": "58",
+                "name": "NAVIGATE UP T1"
+            },
+            {
+                "address": "59",
+                "name": "NAVIGATE DOWN T0"
+            },
+            {
+                "address": "59",
+                "name": "NAVIGATE DOWN T1"
+            },
+            {
+                "address": "5a",
+                "name": "NAVIGATE LEFT T0"
+            },
+            {
+                "address": "5a",
+                "name": "NAVIGATE LEFT T1"
+            },
+            {
+                "address": "5b",
+                "name": "NAVIGATE RIGHT T0"
+            },
+            {
+                "address": "5b",
+                "name": "NAVIGATE RIGHT T1"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER T0"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER T1"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T0"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T1"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T0"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T1"
+            },
+            {
+                "address": "9a",
+                "name": "TAPE MON ON T0"
+            },
+            {
+                "address": "9a",
+                "name": "TAPE MON ON T1"
+            },
+            {
+                "address": "9b",
+                "name": "TAPE MON OFF T0"
+            },
+            {
+                "address": "9b",
+                "name": "TAPE MON OFF T1"
+            },
+            {
+                "address": "f0",
+                "name": "OUTPUT1 TOGGLE"
+            },
+            {
+                "address": "f1",
+                "name": "OUTPUT2 TOGGLE"
+            },
+            {
+                "address": "f2",
+                "name": "OUTPUT3 TOGGLE"
+            },
+            {
+                "address": "f4",
+                "name": "OUTPUT1 ON"
+            },
+            {
+                "address": "f5",
+                "name": "OUTPUT1 OFF"
+            },
+            {
+                "address": "f8",
+                "name": "OUTPUT2 OFF"
+            },
+            {
+                "address": "f9",
+                "name": "OUTPUT3 ON"
+            },
+            {
+                "address": "fa",
+                "name": "OUTPUT3 OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

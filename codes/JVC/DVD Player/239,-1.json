@@ -1,0 +1,821 @@
+{
+    "display_name": "JVC DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "device_address": "-80000000",
+                "name": "POWER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "43",
+                "device_address": "-80000000",
+                "name": "STOP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "43",
+                "device_address": "-80000000",
+                "name": "STOP []",
+                "protocol": "JVC"
+            },
+            {
+                "address": "43",
+                "device_address": "-80000000",
+                "name": "STOP/CLEAR",
+                "protocol": "JVC"
+            },
+            {
+                "address": "43",
+                "device_address": "-80000000",
+                "name": "STOP / CLEAR",
+                "protocol": "JVC"
+            },
+            {
+                "address": "44",
+                "device_address": "-80000000",
+                "name": "OPEN/CLOSE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "49",
+                "device_address": "-80000000",
+                "name": "RETURN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "49",
+                "device_address": "-80000000",
+                "name": "RETURN LOOP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4c",
+                "device_address": "-80000000",
+                "name": "PLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4c",
+                "device_address": "-80000000",
+                "name": "PLAY/SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4c",
+                "device_address": "-80000000",
+                "name": "POWER ON",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4c",
+                "device_address": "-80000000",
+                "name": "PLAY / SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4d",
+                "device_address": "-80000000",
+                "name": "PAUSE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4d",
+                "device_address": "-80000000",
+                "name": "PAUSE / STROBE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "51",
+                "device_address": "-80000000",
+                "name": "DIMMER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "54",
+                "device_address": "-80000000",
+                "name": "DISPLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "5b",
+                "device_address": "-80000000",
+                "name": "REPEAT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "60",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "JVC"
+            },
+            {
+                "address": "61",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "62",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "63",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "64",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "65",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "66",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "67",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "68",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "JVC"
+            },
+            {
+                "address": "69",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6b",
+                "device_address": "-80000000",
+                "name": "PLAY/PAUSE >",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6d",
+                "device_address": "-80000000",
+                "name": "CANCEL",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6e",
+                "device_address": "-80000000",
+                "name": "10 (0)",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6e",
+                "device_address": "-80000000",
+                "name": "10",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6f",
+                "device_address": "-80000000",
+                "name": "+10",
+                "protocol": "JVC"
+            },
+            {
+                "address": "6f",
+                "device_address": "-80000000",
+                "name": "10+",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "FRAME <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SCAN <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SEARCH <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SLOW -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SLOW-",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SLOW MOTION -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "70",
+                "device_address": "-80000000",
+                "name": "SEARCH << / SLOW -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "FRAME >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SCAN >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SEARCH >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SLOW +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SLOW+",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SLOW MOTION +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "76",
+                "device_address": "-80000000",
+                "name": "SEARCH >> / SLOW +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7f",
+                "device_address": "-80000000",
+                "name": "SETUP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "7f",
+                "device_address": "-80000000",
+                "name": "CHOICE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "90",
+                "device_address": "-80000000",
+                "name": "SCAN >>",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "92",
+                "device_address": "-80000000",
+                "name": "JOG +",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "98",
+                "device_address": "-80000000",
+                "name": "SCAN <<",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "9a",
+                "device_address": "-80000000",
+                "name": "JOG -",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "ae",
+                "device_address": "-80000000",
+                "name": "ZOOM +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "af",
+                "device_address": "-80000000",
+                "name": "ZOOM -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b0",
+                "device_address": "-80000000",
+                "name": "SKIP >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b0",
+                "device_address": "-80000000",
+                "name": "NEXT >>",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b0",
+                "device_address": "-80000000",
+                "name": "NEXT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b0",
+                "device_address": "-80000000",
+                "name": ">> NEXT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b1",
+                "device_address": "-80000000",
+                "name": "SKIP <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b1",
+                "device_address": "-80000000",
+                "name": "PREVIOUS <<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b1",
+                "device_address": "-80000000",
+                "name": "PREV",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b1",
+                "device_address": "-80000000",
+                "name": "PREVIOUS",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b1",
+                "device_address": "-80000000",
+                "name": "<< PREVIOUS",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b2",
+                "device_address": "-80000000",
+                "name": "SLOW",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b2",
+                "device_address": "-80000000",
+                "name": "SLOW MOTION +",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b5",
+                "device_address": "-80000000",
+                "name": "DISPLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b7",
+                "device_address": "-80000000",
+                "name": "RESUME",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b7",
+                "device_address": "-80000000",
+                "name": "CANCEL",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b9",
+                "device_address": "-80000000",
+                "name": "DIGEST",
+                "protocol": "JVC"
+            },
+            {
+                "address": "b9",
+                "device_address": "-80000000",
+                "name": "THUMBNAIL/LIST",
+                "protocol": "JVC"
+            },
+            {
+                "address": "bb",
+                "device_address": "-80000000",
+                "name": "SLOW MOTION -",
+                "protocol": "JVC"
+            },
+            {
+                "address": "bc",
+                "device_address": "-80000000",
+                "name": "ZOOM",
+                "protocol": "JVC"
+            },
+            {
+                "address": "bd",
+                "device_address": "-80000000",
+                "name": "3D",
+                "protocol": "JVC"
+            },
+            {
+                "address": "bd",
+                "device_address": "-80000000",
+                "name": "SOUND EFFECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "bd",
+                "device_address": "-80000000",
+                "name": "3D PHONIC",
+                "protocol": "JVC"
+            },
+            {
+                "address": "be",
+                "device_address": "-80000000",
+                "name": "VFP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "be",
+                "device_address": "-80000000",
+                "name": "TH POS",
+                "protocol": "JVC"
+            },
+            {
+                "address": "be",
+                "device_address": "-80000000",
+                "name": "VPF",
+                "protocol": "JVC"
+            },
+            {
+                "address": "be",
+                "device_address": "-80000000",
+                "name": "VFP I/P",
+                "protocol": "JVC"
+            },
+            {
+                "address": "be",
+                "device_address": "-80000000",
+                "name": "VPF PROGESS. SCAN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c0",
+                "device_address": "-80000000",
+                "name": "ON SCREEN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c0",
+                "device_address": "-80000000",
+                "name": "ON SCREEN DISPLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c1",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c1",
+                "device_address": "-80000000",
+                "name": "DVD MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c1",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c2",
+                "device_address": "-80000000",
+                "name": "TOP MENU",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "c2",
+                "device_address": "-80000000",
+                "name": "TITLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c2",
+                "device_address": "-80000000",
+                "name": "TOP MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c8",
+                "device_address": "-80000000",
+                "name": "AUDIO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c8",
+                "device_address": "-80000000",
+                "name": "AUDIO MODE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cb",
+                "device_address": "-80000000",
+                "name": "ANGLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cb",
+                "device_address": "-80000000",
+                "name": "ANGLE SIDE EFFECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUB TITLE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUB-TITLE ON/OFF",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUB TL",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUBTITLLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUBTITLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cd",
+                "device_address": "-80000000",
+                "name": "SUB TITLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "UP ^",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "CUR UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "CUSOR UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "CURSOR UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "ARROW UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d0",
+                "device_address": "-80000000",
+                "name": "CURSOR - UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "DOWN V",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "CUR DWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "CURSOR DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "ARROW DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d1",
+                "device_address": "-80000000",
+                "name": "CURSOR - DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "LEFT",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "LEFT <",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "CUR LT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "CURSOR LEFT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "TOP MENU",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "ARROW LEFT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d2",
+                "device_address": "-80000000",
+                "name": "CURSOR - LEFT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "RIGHT >",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "CUR RT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "CURSOR RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "ARROW RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d3",
+                "device_address": "-80000000",
+                "name": "CURSOR - RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d4",
+                "device_address": "-80000000",
+                "name": "ENTER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d4",
+                "device_address": "-80000000",
+                "name": "ENTER/SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d4",
+                "device_address": "-80000000",
+                "name": "CURSOR ENTER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d4",
+                "device_address": "-80000000",
+                "name": "CURSOR - SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d5",
+                "device_address": "-80000000",
+                "name": "RETURN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d8",
+                "device_address": "-80000000",
+                "name": "+100",
+                "protocol": "JVC"
+            },
+            {
+                "address": "da",
+                "device_address": "-80000000",
+                "name": "STEP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "db",
+                "device_address": "-80000000",
+                "name": "PAGE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "ee",
+                "device_address": "-80000000",
+                "name": "TITLE/GROUP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "ee",
+                "device_address": "-80000000",
+                "name": "TITLE / GROUP",
+                "protocol": "JVC"
+            }
+        ]
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

@@ -1,0 +1,385 @@
+{
+    "display_name": "Philips Unknown_SBC-RU-520",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "tv/0"
+            },
+            {
+                "address": "0",
+                "name": "vcr/0"
+            },
+            {
+                "address": "1",
+                "name": "tv/1"
+            },
+            {
+                "address": "1",
+                "name": "vcr/1"
+            },
+            {
+                "address": "2",
+                "name": "tv/2"
+            },
+            {
+                "address": "2",
+                "name": "vcr/2"
+            },
+            {
+                "address": "3",
+                "name": "tv/3"
+            },
+            {
+                "address": "3",
+                "name": "vcr/3"
+            },
+            {
+                "address": "4",
+                "name": "tv/4"
+            },
+            {
+                "address": "4",
+                "name": "vcr/4"
+            },
+            {
+                "address": "5",
+                "name": "tv/5"
+            },
+            {
+                "address": "5",
+                "name": "vcr/5"
+            },
+            {
+                "address": "6",
+                "name": "tv/6"
+            },
+            {
+                "address": "6",
+                "name": "vcr/6"
+            },
+            {
+                "address": "7",
+                "name": "tv/7"
+            },
+            {
+                "address": "7",
+                "name": "vcr/7"
+            },
+            {
+                "address": "8",
+                "name": "tv/8"
+            },
+            {
+                "address": "8",
+                "name": "vcr/8"
+            },
+            {
+                "address": "9",
+                "name": "tv/9"
+            },
+            {
+                "address": "9",
+                "name": "vcr/9"
+            },
+            {
+                "address": "a",
+                "name": "tv/digits"
+            },
+            {
+                "address": "a",
+                "name": "vcr/digits"
+            },
+            {
+                "address": "b",
+                "name": "tv/sdigits"
+            },
+            {
+                "address": "b",
+                "name": "vcr/stt.suspend"
+            },
+            {
+                "address": "c",
+                "name": "tv/standby"
+            },
+            {
+                "address": "c",
+                "name": "vcr/standby"
+            },
+            {
+                "address": "d",
+                "name": "tv/mute"
+            },
+            {
+                "address": "e",
+                "name": "tv/s1"
+            },
+            {
+                "address": "e",
+                "name": "vcr/s1"
+            },
+            {
+                "address": "f",
+                "name": "tv/sext"
+            },
+            {
+                "address": "f",
+                "name": "tv/sok"
+            },
+            {
+                "address": "f",
+                "name": "vcr/select"
+            },
+            {
+                "address": "10",
+                "name": "tv/volume+"
+            },
+            {
+                "address": "11",
+                "name": "tv/volume-"
+            },
+            {
+                "address": "1d",
+                "name": "tv/s5"
+            },
+            {
+                "address": "1d",
+                "name": "vcr/tt.suspend"
+            },
+            {
+                "address": "20",
+                "name": "tv/program+"
+            },
+            {
+                "address": "20",
+                "name": "vcr/program+"
+            },
+            {
+                "address": "21",
+                "name": "tv/program-"
+            },
+            {
+                "address": "21",
+                "name": "vcr/program-"
+            },
+            {
+                "address": "22",
+                "name": "tv/s0"
+            },
+            {
+                "address": "23",
+                "name": "tv/smute"
+            },
+            {
+                "address": "25",
+                "name": "vcr/sbackward"
+            },
+            {
+                "address": "26",
+                "name": "vcr/sforward"
+            },
+            {
+                "address": "29",
+                "name": "tv/tt.suspend"
+            },
+            {
+                "address": "29",
+                "name": "vcr/spause"
+            },
+            {
+                "address": "2a",
+                "name": "tv/s3"
+            },
+            {
+                "address": "2b",
+                "name": "tv/tt.enlarge"
+            },
+            {
+                "address": "2d",
+                "name": "tv/s4"
+            },
+            {
+                "address": "2e",
+                "name": "tv/s2"
+            },
+            {
+                "address": "30",
+                "name": "vcr/pause"
+            },
+            {
+                "address": "31",
+                "name": "vcr/sdisplay"
+            },
+            {
+                "address": "32",
+                "name": "vcr/backward"
+            },
+            {
+                "address": "34",
+                "name": "vcr/forward"
+            },
+            {
+                "address": "35",
+                "name": "vcr/play"
+            },
+            {
+                "address": "36",
+                "name": "vcr/stop"
+            },
+            {
+                "address": "37",
+                "name": "vcr/record"
+            },
+            {
+                "address": "38",
+                "name": "tv/ext"
+            },
+            {
+                "address": "38",
+                "name": "vcr/ext"
+            },
+            {
+                "address": "3a",
+                "name": "vcr/stt.enlarge"
+            },
+            {
+                "address": "3c",
+                "name": "tv/text"
+            },
+            {
+                "address": "3c",
+                "name": "vcr/text"
+            },
+            {
+                "address": "3d",
+                "name": "vcr/stext"
+            },
+            {
+                "address": "3f",
+                "name": "tv/select"
+            },
+            {
+                "address": "45",
+                "name": "vcr/tt.enlarge"
+            },
+            {
+                "address": "48",
+                "name": "vcr/s3"
+            },
+            {
+                "address": "49",
+                "name": "vcr/s2"
+            },
+            {
+                "address": "4d",
+                "name": "tv/s9"
+            },
+            {
+                "address": "4e",
+                "name": "tv/s7"
+            },
+            {
+                "address": "50",
+                "name": "tv/sprogram+"
+            },
+            {
+                "address": "50",
+                "name": "vcr/sprogram+"
+            },
+            {
+                "address": "51",
+                "name": "tv/sprogram-"
+            },
+            {
+                "address": "51",
+                "name": "vcr/sprogram-"
+            },
+            {
+                "address": "52",
+                "name": "tv/menu"
+            },
+            {
+                "address": "52",
+                "name": "vcr/menu"
+            },
+            {
+                "address": "53",
+                "name": "vcr/smenu"
+            },
+            {
+                "address": "55",
+                "name": "tv/svol-"
+            },
+            {
+                "address": "55",
+                "name": "vcr/svol-"
+            },
+            {
+                "address": "56",
+                "name": "tv/svol+"
+            },
+            {
+                "address": "56",
+                "name": "vcr/svol+"
+            },
+            {
+                "address": "57",
+                "name": "tv/ok"
+            },
+            {
+                "address": "57",
+                "name": "vcr/ok"
+            },
+            {
+                "address": "58",
+                "name": "tv/s6"
+            },
+            {
+                "address": "6b",
+                "name": "tv/red"
+            },
+            {
+                "address": "6c",
+                "name": "tv/green"
+            },
+            {
+                "address": "6d",
+                "name": "tv/yellow"
+            },
+            {
+                "address": "6e",
+                "name": "tv/blue"
+            },
+            {
+                "address": "6f",
+                "name": "tv/grey"
+            },
+            {
+                "address": "70",
+                "name": "vcr/splay"
+            },
+            {
+                "address": "71",
+                "name": "vcr/sstop"
+            },
+            {
+                "address": "7a",
+                "name": "tv/smenu"
+            },
+            {
+                "address": "7d",
+                "name": "vcr/sok"
+            },
+            {
+                "address": "7e",
+                "name": "tv/s8"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "Unknown_SBC-RU-520"
+}

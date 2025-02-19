@@ -1,0 +1,65 @@
+{
+    "display_name": "Panasonic TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "7c",
+                "name": "INPUT COMPONENT 1"
+            },
+            {
+                "address": "7d",
+                "name": "INPUT COMPONENT 2"
+            },
+            {
+                "address": "b0",
+                "name": "INPUT HDMI 1"
+            },
+            {
+                "address": "b1",
+                "name": "INPUT HDMI 2"
+            },
+            {
+                "address": "b2",
+                "name": "INPUT HDMI 3"
+            },
+            {
+                "address": "b3",
+                "name": "INPUT HDMI 4"
+            },
+            {
+                "address": "c7",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "c9",
+                "name": "ASPECT ZOOM"
+            },
+            {
+                "address": "cb",
+                "name": "ASPECT JUST"
+            },
+            {
+                "address": "cc",
+                "name": "ASPECT AUTO"
+            },
+            {
+                "address": "d1",
+                "name": "ASPECT FULL"
+            },
+            {
+                "address": "de",
+                "name": "ASPECT SELECT/SCROLL"
+            },
+            {
+                "address": "e5",
+                "name": "PIP POSITION"
+            }
+        ],
+        "device_address": "800",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

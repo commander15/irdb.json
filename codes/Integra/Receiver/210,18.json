@@ -1,0 +1,93 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "42",
+                "name": "Z2 VOLUME + (2)"
+            },
+            {
+                "address": "42",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "43",
+                "name": "Z2 VOLUME - (2)"
+            },
+            {
+                "address": "43",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "47",
+                "name": "STANDBY"
+            },
+            {
+                "address": "47",
+                "name": "Z2 STANDBY"
+            },
+            {
+                "address": "47",
+                "name": "ZONE 2 OFF"
+            },
+            {
+                "address": "5f",
+                "name": "Z2 SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "SOURCE"
+            },
+            {
+                "address": "84",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "84",
+                "name": "Z2 MUTING ON"
+            },
+            {
+                "address": "85",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "85",
+                "name": "Z2 MUTING OFF"
+            },
+            {
+                "address": "8c",
+                "name": "DVD"
+            },
+            {
+                "address": "8c",
+                "name": "Z2 DVD"
+            },
+            {
+                "address": "8c",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "8c",
+                "name": "Z2 INPUT DVD"
+            },
+            {
+                "address": "cb",
+                "name": "POWER"
+            },
+            {
+                "address": "cb",
+                "name": "Z2 STANDBY/ON (TGLE)"
+            },
+            {
+                "address": "cb",
+                "name": "POWER TOGGLE"
+            }
+        ],
+        "device_address": "3480000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

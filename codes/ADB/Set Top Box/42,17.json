@@ -1,0 +1,165 @@
+{
+    "display_name": "ADB Set Top Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV/RADIO"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "c",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "f",
+                "name": "1"
+            },
+            {
+                "address": "20",
+                "name": "OPTIONS"
+            },
+            {
+                "address": "21",
+                "name": "MENU"
+            },
+            {
+                "address": "22",
+                "name": "LIST"
+            },
+            {
+                "address": "23",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "24",
+                "name": "EPG"
+            },
+            {
+                "address": "25",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "26",
+                "name": "INFO"
+            },
+            {
+                "address": "28",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "30",
+                "name": "YELLOW BUTTON"
+            },
+            {
+                "address": "31",
+                "name": "BLUE BUTTON"
+            },
+            {
+                "address": "32",
+                "name": "APP"
+            },
+            {
+                "address": "33",
+                "name": "SLEEP"
+            },
+            {
+                "address": "34",
+                "name": "TIMER"
+            },
+            {
+                "address": "35",
+                "name": "FAV+"
+            },
+            {
+                "address": "36",
+                "name": "TELETEXT"
+            },
+            {
+                "address": "40",
+                "name": "BACK"
+            },
+            {
+                "address": "41",
+                "name": "EXIT"
+            },
+            {
+                "address": "42",
+                "name": "RED BUTTON"
+            },
+            {
+                "address": "43",
+                "name": "GREEN BUTTON"
+            },
+            {
+                "address": "44",
+                "name": "POWER"
+            },
+            {
+                "address": "45",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "50",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "51",
+                "name": "0"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "54",
+                "name": "OK"
+            }
+        ],
+        "device_address": "540000",
+        "protocol": "XMP-1"
+    },
+    "manufacturer": "ADB",
+    "model": "",
+    "name": "",
+    "target": "Set Top Box"
+}

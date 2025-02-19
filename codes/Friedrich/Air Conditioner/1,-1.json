@@ -1,0 +1,57 @@
+{
+    "display_name": "Friedrich Air Conditioner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "TEMP -"
+            },
+            {
+                "address": "2",
+                "name": "TEMP +"
+            },
+            {
+                "address": "3",
+                "name": "TIMER SET HOUR"
+            },
+            {
+                "address": "4",
+                "name": "TIMER START"
+            },
+            {
+                "address": "5",
+                "name": "TIMER STOP"
+            },
+            {
+                "address": "6",
+                "name": "TIMER ON/OFF"
+            },
+            {
+                "address": "7",
+                "name": "COOL"
+            },
+            {
+                "address": "8",
+                "name": "MONEY SAVER"
+            },
+            {
+                "address": "9",
+                "name": "FAN ONLY"
+            },
+            {
+                "address": "a",
+                "name": "FAN SPEED"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Friedrich",
+    "model": "",
+    "name": "",
+    "target": "Air Conditioner"
+}

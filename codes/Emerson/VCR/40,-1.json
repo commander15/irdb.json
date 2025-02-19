@@ -1,0 +1,109 @@
+{
+    "display_name": "Emerson VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "4",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "6",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "8",
+                "name": "CHANNEL-"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "f",
+                "name": "EXIT"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "15",
+                "name": "MENU"
+            },
+            {
+                "address": "1a",
+                "name": "RECORD"
+            },
+            {
+                "address": "1c",
+                "name": "STOP"
+            },
+            {
+                "address": "1f",
+                "name": "1"
+            },
+            {
+                "address": "20",
+                "name": "POWER"
+            },
+            {
+                "address": "21",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "7"
+            },
+            {
+                "address": "27",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "0"
+            },
+            {
+                "address": "3d",
+                "name": "EJECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Emerson"
+    },
+    "manufacturer": "Emerson",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

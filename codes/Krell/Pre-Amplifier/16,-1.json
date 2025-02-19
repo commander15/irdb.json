@@ -1,0 +1,89 @@
+{
+    "display_name": "Krell Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "GAIN"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1b",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "1b",
+                "name": ""
+            },
+            {
+                "address": "20",
+                "name": "PRE AMP INPUT E"
+            },
+            {
+                "address": "21",
+                "name": "PRE AMP INPUT F"
+            },
+            {
+                "address": "21",
+                "name": "S-2"
+            },
+            {
+                "address": "22",
+                "name": "PRE AMP INPUT A"
+            },
+            {
+                "address": "23",
+                "name": "PRE AMP INPUT B"
+            },
+            {
+                "address": "24",
+                "name": "PRE AMP INPUT C"
+            },
+            {
+                "address": "24",
+                "name": "B-1"
+            },
+            {
+                "address": "25",
+                "name": "PRE AMP INPUT D"
+            },
+            {
+                "address": "25",
+                "name": "B-2"
+            },
+            {
+                "address": "28",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "28",
+                "name": "AMP POWER"
+            },
+            {
+                "address": "29",
+                "name": "MTR"
+            },
+            {
+                "address": "29",
+                "name": ""
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

@@ -1,0 +1,129 @@
+{
+    "display_name": "Yamaha DVD Pre-amp",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "POWER"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET +"
+            },
+            {
+                "address": "1c",
+                "name": "PRESET -"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "48",
+                "name": "AMP: LEVEL"
+            },
+            {
+                "address": "49",
+                "name": "INPUT: VCR"
+            },
+            {
+                "address": "4a",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "4b",
+                "name": "INPUT: TUNER"
+            },
+            {
+                "address": "4f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "50",
+                "name": "AMP: STEREO"
+            },
+            {
+                "address": "5f",
+                "name": "AMP: TEST"
+            },
+            {
+                "address": "8b",
+                "name": "AMP: BASS BOOST"
+            },
+            {
+                "address": "90",
+                "name": "AMP: MATRIX 6.1"
+            },
+            {
+                "address": "91",
+                "name": "AMP: HALL"
+            },
+            {
+                "address": "92",
+                "name": "AMP: JAZZ"
+            },
+            {
+                "address": "93",
+                "name": "ROCK"
+            },
+            {
+                "address": "94",
+                "name": "AMP: ENTERTAINMENT"
+            },
+            {
+                "address": "95",
+                "name": "AMP: SPORTS"
+            },
+            {
+                "address": "96",
+                "name": "AMP: MONO MOVIE"
+            },
+            {
+                "address": "97",
+                "name": "AMP: MOVIE 1"
+            },
+            {
+                "address": "98",
+                "name": "AMP: MOVIE 2"
+            },
+            {
+                "address": "99",
+                "name": "AMP: DOLBY/DTS"
+            },
+            {
+                "address": "9a",
+                "name": "AMP: SELECT"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "AMP: SET MENU"
+            },
+            {
+                "address": "d0",
+                "name": "INPUT: CD-R/MD"
+            },
+            {
+                "address": "de",
+                "name": "INPUT: VIDEO 2"
+            },
+            {
+                "address": "df",
+                "name": "INPUT: VIDEO 1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD Pre-amp"
+}

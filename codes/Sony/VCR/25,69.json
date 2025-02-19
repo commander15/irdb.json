@@ -1,0 +1,21 @@
+{
+    "display_name": "Sony VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "2d",
+                "name": "SEARCH SELECT"
+            },
+            {
+                "address": "6e",
+                "name": "PRINT"
+            }
+        ],
+        "device_address": "320",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

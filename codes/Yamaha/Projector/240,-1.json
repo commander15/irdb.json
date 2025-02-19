@@ -1,0 +1,105 @@
+{
+    "display_name": "Yamaha Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "POWER ON"
+            },
+            {
+                "address": "42",
+                "name": "POWER STANDBY"
+            },
+            {
+                "address": "43",
+                "name": "KEYSTONE"
+            },
+            {
+                "address": "54",
+                "name": "SETTING IRIS"
+            },
+            {
+                "address": "60",
+                "name": "INPUT D-SUB"
+            },
+            {
+                "address": "64",
+                "name": "INPUT COMP"
+            },
+            {
+                "address": "65",
+                "name": "INPUT VIDEO"
+            },
+            {
+                "address": "66",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "70",
+                "name": "INPUT HDMI"
+            },
+            {
+                "address": "81",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "82",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "83",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "86",
+                "name": "MENU"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "91",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "92",
+                "name": "ASPECT SQUEEZE"
+            },
+            {
+                "address": "95",
+                "name": "ASPECT SMART ZOOM"
+            },
+            {
+                "address": "a6",
+                "name": "HIDE"
+            },
+            {
+                "address": "d0",
+                "name": "SETTING CONTRAST"
+            },
+            {
+                "address": "d1",
+                "name": "SETTING BRIGHTNESS"
+            },
+            {
+                "address": "d4",
+                "name": "SETTING COLOR TEMP"
+            },
+            {
+                "address": "e2",
+                "name": "ASPECT TOGGLE"
+            },
+            {
+                "address": "e4",
+                "name": "MEMORY 1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Proton"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

@@ -1,0 +1,45 @@
+{
+    "display_name": "ANITECH TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "d",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "11",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "20",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "21",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "26",
+                "name": "KEY_SLEEP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "ANITECH",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,105 @@
+{
+    "display_name": "Fisher Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "name": "VCR 1"
+            },
+            {
+                "address": "41",
+                "name": "VCR 2"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "43",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "46",
+                "name": "AUDIO"
+            },
+            {
+                "address": "47",
+                "name": "TAPE"
+            },
+            {
+                "address": "48",
+                "name": "DOLBY"
+            },
+            {
+                "address": "49",
+                "name": "HALL"
+            },
+            {
+                "address": "4a",
+                "name": "STADIUM"
+            },
+            {
+                "address": "4b",
+                "name": "SIMULATED"
+            },
+            {
+                "address": "4e",
+                "name": "DEFEAT"
+            },
+            {
+                "address": "4f",
+                "name": "DEL. 10"
+            },
+            {
+                "address": "50",
+                "name": "DEL. 20"
+            },
+            {
+                "address": "51",
+                "name": "DEL. 30"
+            },
+            {
+                "address": "52",
+                "name": "DEL. 40"
+            },
+            {
+                "address": "53",
+                "name": "DEL. 50"
+            },
+            {
+                "address": "54",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "55",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "59",
+                "name": "POWER"
+            },
+            {
+                "address": "5a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "5b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "5c",
+                "name": "MUTE"
+            },
+            {
+                "address": "5d",
+                "name": "LOUDNESS"
+            }
+        ],
+        "device_address": "3600",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Fisher",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

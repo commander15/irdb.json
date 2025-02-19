@@ -1,0 +1,325 @@
+{
+    "display_name": "Yamaha DVD Changer",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0B"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1B"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2B"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3B"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4B"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5B"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6B"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7B"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8B"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9B"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "POWER B"
+            },
+            {
+                "address": "c",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "f",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "f",
+                "name": "ON SCREEN B"
+            },
+            {
+                "address": "13",
+                "name": "DIMMER"
+            },
+            {
+                "address": "13",
+                "name": "DIMMER B"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1c",
+                "name": "SHUFFLE B"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >> B"
+            },
+            {
+                "address": "20",
+                "name": "CHAPTER >"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": "SKIP << B"
+            },
+            {
+                "address": "21",
+                "name": "CHAPTER <"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY B"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "31",
+                "name": "STOP"
+            },
+            {
+                "address": "31",
+                "name": "STOP B"
+            },
+            {
+                "address": "3b",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "3b",
+                "name": "SIDE A/B B"
+            },
+            {
+                "address": "3b",
+                "name": "A-B"
+            },
+            {
+                "address": "4b",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "4b",
+                "name": "SUBTITLE B"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO MODE B"
+            },
+            {
+                "address": "4e",
+                "name": "AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "SOUND MODE"
+            },
+            {
+                "address": "50",
+                "name": "SOUND MODE B"
+            },
+            {
+                "address": "54",
+                "name": "MENU"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR UP B"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR DOWN B"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR LEFT B"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR RIGHT B"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER B"
+            },
+            {
+                "address": "7f",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "7f",
+                "name": "DISK SKIP B"
+            },
+            {
+                "address": "7f",
+                "name": "DISK SKIP"
+            },
+            {
+                "address": "82",
+                "name": "SETUP"
+            },
+            {
+                "address": "82",
+                "name": "SETUP B"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU B"
+            },
+            {
+                "address": "83",
+                "name": "TOP MENU/RETURN"
+            },
+            {
+                "address": "85",
+                "name": "ANGLE"
+            },
+            {
+                "address": "85",
+                "name": "ANGLE B"
+            },
+            {
+                "address": "cf",
+                "name": "PAGE"
+            },
+            {
+                "address": "cf",
+                "name": "PAGE B"
+            },
+            {
+                "address": "d5",
+                "name": "SCAN"
+            },
+            {
+                "address": "f7",
+                "name": "ZOOM"
+            },
+            {
+                "address": "f7",
+                "name": "ZOOM B"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD Changer"
+}

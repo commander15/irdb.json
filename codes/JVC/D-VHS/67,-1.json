@@ -1,0 +1,185 @@
+{
+    "display_name": "JVC D-VHS",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "STOP"
+            },
+            {
+                "address": "6",
+                "name": "FF>>>"
+            },
+            {
+                "address": "6",
+                "name": "FORWARD"
+            },
+            {
+                "address": "7",
+                "name": "REW <<<"
+            },
+            {
+                "address": "7",
+                "name": "REWIND"
+            },
+            {
+                "address": "b",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "PLAY"
+            },
+            {
+                "address": "c",
+                "name": "RECORD"
+            },
+            {
+                "address": "d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "14",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "15",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "17",
+                "name": "CLEAR"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "30",
+                "name": "REC LINK"
+            },
+            {
+                "address": "31",
+                "name": "REC SPEED"
+            },
+            {
+                "address": "31",
+                "name": "HS/STD/LS/SP"
+            },
+            {
+                "address": "33",
+                "name": "0"
+            },
+            {
+                "address": "36",
+                "name": "CANCEL"
+            },
+            {
+                "address": "37",
+                "name": "MENU"
+            },
+            {
+                "address": "38",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3c",
+                "name": "OK"
+            },
+            {
+                "address": "3e",
+                "name": "ENTER"
+            },
+            {
+                "address": "3e",
+                "name": "OSD"
+            },
+            {
+                "address": "84",
+                "name": "BACK"
+            },
+            {
+                "address": "96",
+                "name": "SKIP SEARCH"
+            },
+            {
+                "address": "c1",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "c3",
+                "name": "REVIEW"
+            },
+            {
+                "address": "cc",
+                "name": "RECORD"
+            },
+            {
+                "address": "e0",
+                "name": "NAVI"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "D-VHS"
+}

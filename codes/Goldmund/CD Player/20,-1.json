@@ -1,0 +1,41 @@
+{
+    "display_name": "Goldmund CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "20",
+                "name": "NEXT TRACK"
+            },
+            {
+                "address": "21",
+                "name": "PREV TRACK"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Goldmund",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

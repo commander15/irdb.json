@@ -1,0 +1,61 @@
+{
+    "display_name": "AmPro Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "SOURCE"
+            },
+            {
+                "address": "3",
+                "name": "MUTE"
+            },
+            {
+                "address": "5",
+                "name": "MENU"
+            },
+            {
+                "address": "6",
+                "name": "VIEW"
+            },
+            {
+                "address": "7",
+                "name": "BLANK"
+            },
+            {
+                "address": "e",
+                "name": "<"
+            },
+            {
+                "address": "f",
+                "name": "^"
+            },
+            {
+                "address": "10",
+                "name": "ENTER"
+            },
+            {
+                "address": "11",
+                "name": "POWER"
+            },
+            {
+                "address": "13",
+                "name": "V"
+            },
+            {
+                "address": "19",
+                "name": "ADJUST"
+            },
+            {
+                "address": "1f",
+                "name": ">"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AmPro",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

@@ -1,0 +1,49 @@
+{
+    "display_name": "General Unknown_VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "pause/still"
+            },
+            {
+                "address": "12",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "14",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "16",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "17",
+                "name": "ch_dwn"
+            },
+            {
+                "address": "18",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "19",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_FORWARD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "General",
+    "model": "",
+    "name": "",
+    "target": "Unknown_VCR"
+}

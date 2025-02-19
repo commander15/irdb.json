@@ -1,0 +1,245 @@
+{
+    "display_name": "DVDO Video Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "84",
+                "name": "REM: INPUT ADJUST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "84",
+                "name": "NAV: UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "84",
+                "name": "NAV: DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "84",
+                "name": "INPUT: S-VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "84",
+                "name": "NAV: LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "84",
+                "name": "REM: PAN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "84",
+                "name": "REM: CURTAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "84",
+                "name": "INPUT: VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "84",
+                "name": "NAV: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "84",
+                "name": "REM: ZOOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "84",
+                "name": "REM: OUTPUT SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "84",
+                "name": "INPUT: SDI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "84",
+                "name": "TEST: NEXT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "84",
+                "name": "REM: CONFIGURATION",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "84",
+                "name": "NAV: RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "84",
+                "name": "INPUT: COMPONENT 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1a",
+                "device_address": "84",
+                "name": "REM: PIC CONTROL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "84",
+                "name": "TEST: PREVIOUS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "84",
+                "name": "REM: INFORMATION",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "84",
+                "name": "NAV: MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "84",
+                "name": "NAV: EXIT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "84",
+                "name": "REM: 4:3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "84",
+                "name": "REM: 16:9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "84",
+                "name": "INPUT: VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "84",
+                "name": "INPUT: AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "84",
+                "name": "INPUT: S-VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "84",
+                "name": "INPUT: COMPONENT 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "84",
+                "name": "REM: DISP PROFILES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "84",
+                "name": "REM: VIEW MODES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "84",
+                "name": "REM: INPUT AR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "84",
+                "name": "TEST: ON/OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "84",
+                "name": "REM: BORDER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "84",
+                "name": "REM: CROP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "84",
+                "name": "REM: ASPECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "84",
+                "name": "INPUT: HDMI 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "84",
+                "name": "INPUT: HDMI 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "84",
+                "name": "INPUT: HDMI 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "59",
+                "device_address": "84",
+                "name": "INPUT: HDMI 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "84",
+                "name": "INPUT: RGBHV",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "DVDO",
+    "model": "",
+    "name": "",
+    "target": "Video Processor"
+}

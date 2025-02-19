@@ -1,0 +1,69 @@
+{
+    "display_name": "Sony DV Cam",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "X 2"
+            },
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "REW <<"
+            },
+            {
+                "address": "1c",
+                "name": "FF >>"
+            },
+            {
+                "address": "1d",
+                "name": "RECORD DV IN"
+            },
+            {
+                "address": "23",
+                "name": "SLOW >"
+            },
+            {
+                "address": "30",
+                "name": "<"
+            },
+            {
+                "address": "47",
+                "name": "ZERO SET MEMORY"
+            },
+            {
+                "address": "56",
+                "name": "SEARCH MODE >>"
+            },
+            {
+                "address": "57",
+                "name": "SEARCH MODE <<"
+            },
+            {
+                "address": "5a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "68",
+                "name": "AUDIO DUB"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DV Cam"
+}

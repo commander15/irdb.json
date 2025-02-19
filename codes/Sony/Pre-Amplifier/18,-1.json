@@ -1,0 +1,57 @@
+{
+    "display_name": "Sony Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "EQ SLOPE"
+            },
+            {
+                "address": "f",
+                "name": "EQ CHANNEL"
+            },
+            {
+                "address": "20",
+                "name": "EQ BAND"
+            },
+            {
+                "address": "2c",
+                "name": "EQ"
+            },
+            {
+                "address": "3f",
+                "name": "EQ FLAT"
+            },
+            {
+                "address": "4a",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "4e",
+                "name": "REAR VOL +"
+            },
+            {
+                "address": "4f",
+                "name": "REAR VOL -"
+            },
+            {
+                "address": "54",
+                "name": "CENTER VOL +"
+            },
+            {
+                "address": "55",
+                "name": "CENTER VOL -"
+            },
+            {
+                "address": "7e",
+                "name": "PRESET / USER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

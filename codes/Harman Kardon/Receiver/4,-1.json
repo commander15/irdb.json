@@ -1,0 +1,37 @@
+{
+    "display_name": "Harman Kardon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "4",
+                "name": "SET"
+            },
+            {
+                "address": "6",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "c",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "d",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "e",
+                "name": "CURSOR LEFT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

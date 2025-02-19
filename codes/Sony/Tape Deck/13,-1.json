@@ -1,0 +1,129 @@
+{
+    "display_name": "Sony Tape Deck",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": ""
+            },
+            {
+                "address": "e",
+                "name": "memory"
+            },
+            {
+                "address": "f",
+                "name": "reset"
+            },
+            {
+                "address": "16",
+                "name": "Eject"
+            },
+            {
+                "address": "17",
+                "name": "monitor"
+            },
+            {
+                "address": "18",
+                "name": "stop deck 2"
+            },
+            {
+                "address": "19",
+                "name": "pause deck 2"
+            },
+            {
+                "address": "1a",
+                "name": "play forward"
+            },
+            {
+                "address": "1b",
+                "name": "rewind deck 2"
+            },
+            {
+                "address": "1c",
+                "name": "Fast forward"
+            },
+            {
+                "address": "1f",
+                "name": "record pause"
+            },
+            {
+                "address": "20",
+                "name": "play reverse"
+            },
+            {
+                "address": "23",
+                "name": "play deck 2"
+            },
+            {
+                "address": "30",
+                "name": "skip rewind"
+            },
+            {
+                "address": "31",
+                "name": "skip forward"
+            },
+            {
+                "address": "32",
+                "name": "Play forward"
+            },
+            {
+                "address": "32",
+                "name": "play"
+            },
+            {
+                "address": "33",
+                "name": "rewind"
+            },
+            {
+                "address": "34",
+                "name": "fast forward"
+            },
+            {
+                "address": "36",
+                "name": "record"
+            },
+            {
+                "address": "37",
+                "name": "Play Reverse"
+            },
+            {
+                "address": "38",
+                "name": "stop"
+            },
+            {
+                "address": "39",
+                "name": "pause"
+            },
+            {
+                "address": "3f",
+                "name": "blank skip"
+            },
+            {
+                "address": "4b",
+                "name": "display"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Tape Deck"
+}

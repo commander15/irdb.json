@@ -1,0 +1,53 @@
+{
+    "display_name": "Marantz VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "MEM"
+            },
+            {
+                "address": "d",
+                "name": "PLAY/PAUSE > "
+            },
+            {
+                "address": "e",
+                "name": "STOP []"
+            },
+            {
+                "address": "f",
+                "name": "SEARCH FWD >>"
+            },
+            {
+                "address": "10",
+                "name": "SEARCH REV <<"
+            },
+            {
+                "address": "11",
+                "name": "FFWD >>"
+            },
+            {
+                "address": "12",
+                "name": "REW <<"
+            },
+            {
+                "address": "13",
+                "name": "REPEAT"
+            },
+            {
+                "address": "18",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "19",
+                "name": "CLEAR"
+            }
+        ],
+        "device_address": "10c",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

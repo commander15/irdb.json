@@ -1,0 +1,669 @@
+{
+    "display_name": "Yamaha Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "27",
+                "name": "TUNER FM"
+            },
+            {
+                "address": "28",
+                "name": "TUNER AM"
+            },
+            {
+                "address": "29",
+                "name": "INPUT XM"
+            },
+            {
+                "address": "2a",
+                "name": "TUNER AUTO TUNE +"
+            },
+            {
+                "address": "2b",
+                "name": "TUNER AUTO TUNE -"
+            },
+            {
+                "address": "2c",
+                "name": "XM ALL CH SEARCH"
+            },
+            {
+                "address": "2d",
+                "name": "XM CAT SEARCH"
+            },
+            {
+                "address": "2e",
+                "name": "XM PRESET SEARCH"
+            },
+            {
+                "address": "2f",
+                "name": "Z2 INPUT XM"
+            },
+            {
+                "address": "31",
+                "name": "XM PRESET +"
+            },
+            {
+                "address": "32",
+                "name": "XM PRESET -"
+            },
+            {
+                "address": "33",
+                "name": "XM CAT +"
+            },
+            {
+                "address": "34",
+                "name": "XM SRCH MODE"
+            },
+            {
+                "address": "35",
+                "name": "XM CAT -"
+            },
+            {
+                "address": "38",
+                "name": "XM MEMORY"
+            },
+            {
+                "address": "39",
+                "name": "XM DISPLAY"
+            },
+            {
+                "address": "3f",
+                "name": "XM ENTER"
+            },
+            {
+                "address": "63",
+                "name": "Z2 POWER OFF"
+            },
+            {
+                "address": "64",
+                "name": "Z2 POWER ON"
+            },
+            {
+                "address": "65",
+                "name": "Z2 INPUT PHONO"
+            },
+            {
+                "address": "66",
+                "name": "Z2 INPUT TUNER"
+            },
+            {
+                "address": "67",
+                "name": "Z2 INPUT CD"
+            },
+            {
+                "address": "6a",
+                "name": "Z2 INPUT MD/TAPE"
+            },
+            {
+                "address": "6c",
+                "name": "Z2 INPUT DTV/CBL"
+            },
+            {
+                "address": "6d",
+                "name": "Z2 INPUT VCR"
+            },
+            {
+                "address": "6f",
+                "name": "Z2 INPUT DVD"
+            },
+            {
+                "address": "70",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "70",
+                "name": "Z2 VOLUME +"
+            },
+            {
+                "address": "71",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "71",
+                "name": "Z2 VOLUME -"
+            },
+            {
+                "address": "72",
+                "name": "MUTE"
+            },
+            {
+                "address": "72",
+                "name": "Z2 MUTE"
+            },
+            {
+                "address": "81",
+                "name": "VCR 1"
+            },
+            {
+                "address": "81",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "82",
+                "name": "VCR 2"
+            },
+            {
+                "address": "83",
+                "name": "LASER DISC"
+            },
+            {
+                "address": "83",
+                "name": "LD"
+            },
+            {
+                "address": "84",
+                "name": "TV/DBS"
+            },
+            {
+                "address": "84",
+                "name": "INPUT DTV/CBL"
+            },
+            {
+                "address": "85",
+                "name": "DVD/VCR 3"
+            },
+            {
+                "address": "85",
+                "name": "VCR3/DVD"
+            },
+            {
+                "address": "87",
+                "name": "CD"
+            },
+            {
+                "address": "87",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "88",
+                "name": "PHONO"
+            },
+            {
+                "address": "88",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "89",
+                "name": "TUNER"
+            },
+            {
+                "address": "89",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "8a",
+                "name": "V-AUX"
+            },
+            {
+                "address": "8b",
+                "name": "MD/TAPE 1"
+            },
+            {
+                "address": "8b",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "8b",
+                "name": "INPUT MD/TAPE"
+            },
+            {
+                "address": "8c",
+                "name": "TAPE 2/MON./EXTERNAL"
+            },
+            {
+                "address": "8c",
+                "name": "TAPE 2 MON"
+            },
+            {
+                "address": "8d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "8e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8f",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "90",
+                "name": "POWER ON"
+            },
+            {
+                "address": "91",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "93",
+                "name": "SLEEP"
+            },
+            {
+                "address": "94",
+                "name": "MUTE"
+            },
+            {
+                "address": "94",
+                "name": "MUTING"
+            },
+            {
+                "address": "97",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "9c",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "9d",
+                "name": "MENU UP"
+            },
+            {
+                "address": "9e",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "9f",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "a0",
+                "name": "XM 0"
+            },
+            {
+                "address": "a1",
+                "name": "XM 1"
+            },
+            {
+                "address": "a2",
+                "name": "XM 2"
+            },
+            {
+                "address": "a3",
+                "name": "XM 3"
+            },
+            {
+                "address": "a4",
+                "name": "XM 4"
+            },
+            {
+                "address": "a5",
+                "name": "XM 5"
+            },
+            {
+                "address": "a6",
+                "name": "XM 6"
+            },
+            {
+                "address": "a7",
+                "name": "XM 7"
+            },
+            {
+                "address": "a8",
+                "name": "XM 8"
+            },
+            {
+                "address": "a9",
+                "name": "XM 9"
+            },
+            {
+                "address": "ac",
+                "name": "TUNER PRESET A"
+            },
+            {
+                "address": "ad",
+                "name": "TUNER PRESET B"
+            },
+            {
+                "address": "ae",
+                "name": "TUNER PRESET C"
+            },
+            {
+                "address": "af",
+                "name": "TUNER PRESET D"
+            },
+            {
+                "address": "b0",
+                "name": "TUNER PRESET E"
+            },
+            {
+                "address": "bb",
+                "name": "TUNER A-E/CAT.-"
+            },
+            {
+                "address": "bd",
+                "name": "TUNER BAND"
+            },
+            {
+                "address": "be",
+                "name": "TUNER MEMORY"
+            },
+            {
+                "address": "c1",
+                "name": "EFFECT ON/OFF"
+            },
+            {
+                "address": "c2",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "c4",
+                "name": "PARAMETER DOWN"
+            },
+            {
+                "address": "c5",
+                "name": "PARAMETER UP"
+            },
+            {
+                "address": "c6",
+                "name": "PARAMETER RIGHT"
+            },
+            {
+                "address": "c7",
+                "name": "PARAMETER LEFT"
+            },
+            {
+                "address": "c8",
+                "name": "REAR LEVEL +"
+            },
+            {
+                "address": "c9",
+                "name": "REAR LEVEL -"
+            },
+            {
+                "address": "ca",
+                "name": "TEST"
+            },
+            {
+                "address": "cb",
+                "name": "CENTER LEVEL +"
+            },
+            {
+                "address": "cc",
+                "name": "CENTER LEVEL -"
+            },
+            {
+                "address": "cd",
+                "name": "FRONT LEVEL +"
+            },
+            {
+                "address": "ce",
+                "name": "FRONT LEVEL -"
+            },
+            {
+                "address": "d0",
+                "name": "HALL 1"
+            },
+            {
+                "address": "d0",
+                "name": "HALL A/B"
+            },
+            {
+                "address": "d1",
+                "name": "HALL 2"
+            },
+            {
+                "address": "d1",
+                "name": "HALL C/D"
+            },
+            {
+                "address": "d2",
+                "name": "CHURCH"
+            },
+            {
+                "address": "d2",
+                "name": "HALL E/LIVE CONCERT"
+            },
+            {
+                "address": "d3",
+                "name": "JAZZ CLUB"
+            },
+            {
+                "address": "d3",
+                "name": "CHURCH-FREIBURG/TOKY"
+            },
+            {
+                "address": "d4",
+                "name": "ROCK CONCERT"
+            },
+            {
+                "address": "d4",
+                "name": "WAREHOUSE/ROXY THEAT"
+            },
+            {
+                "address": "d5",
+                "name": "ENTERTAINMENT"
+            },
+            {
+                "address": "d5",
+                "name": "CELL CLB/VILLAGE G"
+            },
+            {
+                "address": "d6",
+                "name": "CONCERT VIDEO 1"
+            },
+            {
+                "address": "d6",
+                "name": "RECITAL/CLASS OPERA"
+            },
+            {
+                "address": "d7",
+                "name": "CONCERT VIDEO 2"
+            },
+            {
+                "address": "d7",
+                "name": "POP ROCK/PAVILION"
+            },
+            {
+                "address": "d8",
+                "name": "TV THEATER"
+            },
+            {
+                "address": "d8",
+                "name": "VARIETY SPORTS/MONO"
+            },
+            {
+                "address": "d9",
+                "name": "MOVIE THEATER 1"
+            },
+            {
+                "address": "d9",
+                "name": "MUSICAL/SPECTACLE"
+            },
+            {
+                "address": "da",
+                "name": "MOVIE THEATER 2"
+            },
+            {
+                "address": "da",
+                "name": "ADVENTURE/GENERAL"
+            },
+            {
+                "address": "db",
+                "name": "PRO-LOGIC/DTS"
+            },
+            {
+                "address": "db",
+                "name": "NORMAL/ENHANCED"
+            },
+            {
+                "address": "e0",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "e0",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "e1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "e2",
+                "name": "POWER STANDBY"
+            },
+            {
+                "address": "e3",
+                "name": "SLEEP"
+            },
+            {
+                "address": "e4",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "e4",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "e5",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "e5",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "e7",
+                "name": "SPEAKER A ON/OFF"
+            },
+            {
+                "address": "e7",
+                "name": "SPEAKERS A TOGGLE"
+            },
+            {
+                "address": "e8",
+                "name": "SPEAKER B ON/OFF"
+            },
+            {
+                "address": "e8",
+                "name": "SPEAKERS B TOGGLE"
+            },
+            {
+                "address": "e9",
+                "name": "PHONO"
+            },
+            {
+                "address": "e9",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "ea",
+                "name": "CD"
+            },
+            {
+                "address": "ea",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "eb",
+                "name": "TUNER"
+            },
+            {
+                "address": "eb",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "ec",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "ec",
+                "name": "INPUT TAPE/MD"
+            },
+            {
+                "address": "ed",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "ee",
+                "name": "AUX"
+            },
+            {
+                "address": "ee",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "ef",
+                "name": "INPUT D-TV"
+            },
+            {
+                "address": "f0",
+                "name": "INPUT VCR1"
+            },
+            {
+                "address": "f5",
+                "name": "PRESET +"
+            },
+            {
+                "address": "f5",
+                "name": "TUNER PRESET+"
+            },
+            {
+                "address": "f5",
+                "name": "TUNER PRESET/CH UP"
+            },
+            {
+                "address": "f6",
+                "name": "PRESET -"
+            },
+            {
+                "address": "f6",
+                "name": "TUNER PRESET-"
+            },
+            {
+                "address": "f6",
+                "name": "TUNER PRESET/CH DN"
+            },
+            {
+                "address": "f7",
+                "name": "A/B/C/D/E"
+            },
+            {
+                "address": "f7",
+                "name": "TUNER A/B/C/D/E"
+            },
+            {
+                "address": "f7",
+                "name": "TUNER A-E/CAT.+"
+            },
+            {
+                "address": "f8",
+                "name": "TUNER PRESET 1"
+            },
+            {
+                "address": "f9",
+                "name": "TUNER PRESET 2"
+            },
+            {
+                "address": "fa",
+                "name": "TUNER PRESET 3"
+            },
+            {
+                "address": "fb",
+                "name": "TUNER PRESET 4"
+            },
+            {
+                "address": "fc",
+                "name": "TUNER PRESET 5"
+            },
+            {
+                "address": "fd",
+                "name": "TUNER PRESET 6"
+            },
+            {
+                "address": "fe",
+                "name": "TUNER PRESET 7"
+            },
+            {
+                "address": "ff",
+                "name": "TUNER PRESET 8"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

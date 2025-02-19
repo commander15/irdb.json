@@ -1,0 +1,65 @@
+{
+    "display_name": "Echostar Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "7",
+                "name": "SCROLL DOWN"
+            },
+            {
+                "address": "7",
+                "name": "PAGE -"
+            },
+            {
+                "address": "7",
+                "name": "PAGE --"
+            },
+            {
+                "address": "f",
+                "name": "SCROLL UP"
+            },
+            {
+                "address": "f",
+                "name": "PAGE +"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "32",
+                "name": "FWD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "39",
+                "name": "DVR"
+            },
+            {
+                "address": "3a",
+                "name": "PIP"
+            },
+            {
+                "address": "3b",
+                "name": "POSITION"
+            },
+            {
+                "address": "3d",
+                "name": "SWAP"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

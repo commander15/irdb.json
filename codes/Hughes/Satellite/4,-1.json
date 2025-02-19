@@ -1,0 +1,33 @@
+{
+    "display_name": "Hughes Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOL ^"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VOL V"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "a",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hughes",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

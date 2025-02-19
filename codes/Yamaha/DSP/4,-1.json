@@ -1,0 +1,41 @@
+{
+    "display_name": "Yamaha DSP",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": ">> DVD"
+            },
+            {
+                "address": "21",
+                "name": "<< DVD"
+            },
+            {
+                "address": "2c",
+                "name": "PLAY"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "31",
+                "name": "STOP"
+            },
+            {
+                "address": "54",
+                "name": "MENU"
+            },
+            {
+                "address": "78",
+                "name": "+10 DVD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DSP"
+}

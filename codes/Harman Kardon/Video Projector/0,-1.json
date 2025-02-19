@@ -1,0 +1,97 @@
+{
+    "display_name": "Harman Kardon Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "OFF"
+            },
+            {
+                "address": "3",
+                "name": "PRESET"
+            },
+            {
+                "address": "6",
+                "name": "MUTE"
+            },
+            {
+                "address": "9",
+                "name": "TEST"
+            },
+            {
+                "address": "a",
+                "name": "STEREO"
+            },
+            {
+                "address": "b",
+                "name": "HY-SON"
+            },
+            {
+                "address": "10",
+                "name": "VIDEO A"
+            },
+            {
+                "address": "11",
+                "name": "VIDEO B"
+            },
+            {
+                "address": "12",
+                "name": "RGB"
+            },
+            {
+                "address": "24",
+                "name": "ENHANCE +"
+            },
+            {
+                "address": "25",
+                "name": "ENHANCE -"
+            },
+            {
+                "address": "28",
+                "name": "TINT +"
+            },
+            {
+                "address": "29",
+                "name": "TINT -"
+            },
+            {
+                "address": "2a",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "2b",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "2c",
+                "name": "COLOR +"
+            },
+            {
+                "address": "2d",
+                "name": "COLOR -"
+            },
+            {
+                "address": "2e",
+                "name": "VOL +"
+            },
+            {
+                "address": "2f",
+                "name": "VOL -"
+            },
+            {
+                "address": "30",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "31",
+                "name": "CONTRAST -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Barco"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

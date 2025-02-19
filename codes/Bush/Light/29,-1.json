@@ -1,0 +1,33 @@
+{
+    "display_name": "Bush Light",
+    "ir": {
+        "commands": [
+            {
+                "address": "39",
+                "name": "1 ON"
+            },
+            {
+                "address": "3a",
+                "name": "1 OFF"
+            },
+            {
+                "address": "3d",
+                "name": "2 ON"
+            },
+            {
+                "address": "3e",
+                "name": "2 OFF"
+            },
+            {
+                "address": "3e",
+                "name": ""
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Bush",
+    "model": "",
+    "name": "",
+    "target": "Light"
+}

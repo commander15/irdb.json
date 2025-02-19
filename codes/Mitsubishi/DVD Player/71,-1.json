@@ -1,0 +1,109 @@
+{
+    "display_name": "Mitsubishi DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV 1"
+            },
+            {
+                "address": "1",
+                "name": "TV 9"
+            },
+            {
+                "address": "2",
+                "name": "TV POWER"
+            },
+            {
+                "address": "7",
+                "name": "TV CANCEL"
+            },
+            {
+                "address": "8",
+                "name": "TV 2"
+            },
+            {
+                "address": "9",
+                "name": "TV 0"
+            },
+            {
+                "address": "a",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "10",
+                "name": "TV 3"
+            },
+            {
+                "address": "12",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "18",
+                "name": "TV 4"
+            },
+            {
+                "address": "1b",
+                "name": "TV DISPLAY"
+            },
+            {
+                "address": "20",
+                "name": "TV 5"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "28",
+                "name": "TV 6"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "30",
+                "name": "TV 7"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "35",
+                "name": "TV ENTER"
+            },
+            {
+                "address": "38",
+                "name": "TV 8"
+            },
+            {
+                "address": "3a",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "40",
+                "name": "TV AUDIO VIDEO"
+            },
+            {
+                "address": "41",
+                "name": "TV JOG/ADJ+(IN SRCH)"
+            },
+            {
+                "address": "49",
+                "name": "TV JOG/ADJ-(IN SRCH)"
+            },
+            {
+                "address": "52",
+                "name": "TV MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

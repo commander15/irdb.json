@@ -1,0 +1,133 @@
+{
+    "display_name": "Zenith VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "8",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "c",
+                "name": "<< REWIND"
+            },
+            {
+                "address": "10",
+                "name": "STOP"
+            },
+            {
+                "address": "14",
+                "name": "PLAY"
+            },
+            {
+                "address": "18",
+                "name": "RECORD MUTE"
+            },
+            {
+                "address": "1c",
+                "name": "AUDIO OUT"
+            },
+            {
+                "address": "24",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "24",
+                "name": ""
+            },
+            {
+                "address": "28",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "2c",
+                "name": "TV/TAPE"
+            },
+            {
+                "address": "30",
+                "name": ">> FAST FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "SOURCE"
+            },
+            {
+                "address": "38",
+                "name": "POWER"
+            },
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "44",
+                "name": "1"
+            },
+            {
+                "address": "48",
+                "name": "2"
+            },
+            {
+                "address": "4c",
+                "name": "3"
+            },
+            {
+                "address": "50",
+                "name": "4"
+            },
+            {
+                "address": "54",
+                "name": "5"
+            },
+            {
+                "address": "58",
+                "name": "6"
+            },
+            {
+                "address": "5c",
+                "name": "7"
+            },
+            {
+                "address": "60",
+                "name": "8"
+            },
+            {
+                "address": "64",
+                "name": "9"
+            },
+            {
+                "address": "6c",
+                "name": "PAUSE"
+            },
+            {
+                "address": "70",
+                "name": "ENT/RCL"
+            },
+            {
+                "address": "74",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "76",
+                "name": "POWER ON"
+            },
+            {
+                "address": "78",
+                "name": "RECORD"
+            },
+            {
+                "address": "7a",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "7",
+        "protocol": "Zenith"
+    },
+    "manufacturer": "Zenith",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

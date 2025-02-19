@@ -1,0 +1,137 @@
+{
+    "display_name": "InFocus Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "7",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "e",
+                "name": "FREEZE"
+            },
+            {
+                "address": "10",
+                "name": "SOURCE SELECT"
+            },
+            {
+                "address": "13",
+                "name": "CURSOR +"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR -"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "20",
+                "name": "KEYSTONE +"
+            },
+            {
+                "address": "21",
+                "name": "KEYSTONE -"
+            },
+            {
+                "address": "2c",
+                "name": "PRESET"
+            },
+            {
+                "address": "2d",
+                "name": "SOURCE 1"
+            },
+            {
+                "address": "2e",
+                "name": "SOURCE 2"
+            },
+            {
+                "address": "2f",
+                "name": "SOURCE 3"
+            },
+            {
+                "address": "30",
+                "name": "SOURCE 4"
+            },
+            {
+                "address": "31",
+                "name": "BLANK"
+            },
+            {
+                "address": "32",
+                "name": "SELECT"
+            },
+            {
+                "address": "33",
+                "name": "AUTO IMAGE"
+            },
+            {
+                "address": "34",
+                "name": "RESIZE"
+            },
+            {
+                "address": "35",
+                "name": "OVERSCAN"
+            },
+            {
+                "address": "36",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "37",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "39",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3b",
+                "name": "NATIVE RESIZE"
+            },
+            {
+                "address": "3c",
+                "name": "16:9"
+            },
+            {
+                "address": "3d",
+                "name": "4:3"
+            },
+            {
+                "address": "3e",
+                "name": "LETTERBOX"
+            },
+            {
+                "address": "3f",
+                "name": "NATURAL WIDE RESIZE"
+            },
+            {
+                "address": "40",
+                "name": "USER PRESET 1"
+            },
+            {
+                "address": "41",
+                "name": "USER PRESET 2"
+            },
+            {
+                "address": "42",
+                "name": "USER PRESET 3"
+            }
+        ],
+        "device_address": "2700",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

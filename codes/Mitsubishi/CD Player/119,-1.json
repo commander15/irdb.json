@@ -1,0 +1,209 @@
+{
+    "display_name": "Mitsubishi CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "1"
+            },
+            {
+                "address": "c1",
+                "name": "9"
+            },
+            {
+                "address": "c3",
+                "name": "DISC ^"
+            },
+            {
+                "address": "c3",
+                "name": "DISC"
+            },
+            {
+                "address": "c4",
+                "name": "PLAY"
+            },
+            {
+                "address": "c4",
+                "name": "PLAY >"
+            },
+            {
+                "address": "c8",
+                "name": "2"
+            },
+            {
+                "address": "c9",
+                "name": "0"
+            },
+            {
+                "address": "ca",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "ca",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "ca",
+                "name": "FF >>"
+            },
+            {
+                "address": "cb",
+                "name": "CLEAR"
+            },
+            {
+                "address": "cb",
+                "name": "CANCEL"
+            },
+            {
+                "address": "ce",
+                "name": "+10"
+            },
+            {
+                "address": "cf",
+                "name": "INDEX"
+            },
+            {
+                "address": "d0",
+                "name": "3"
+            },
+            {
+                "address": "d2",
+                "name": "REVERSE"
+            },
+            {
+                "address": "d2",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "d2",
+                "name": "REW <<"
+            },
+            {
+                "address": "d3",
+                "name": "DISC 1"
+            },
+            {
+                "address": "d4",
+                "name": "STOP"
+            },
+            {
+                "address": "d4",
+                "name": "STOP []"
+            },
+            {
+                "address": "d6",
+                "name": "DISC V"
+            },
+            {
+                "address": "d7",
+                "name": "REPEAT"
+            },
+            {
+                "address": "d8",
+                "name": "4"
+            },
+            {
+                "address": "db",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "dc",
+                "name": "PAUSE"
+            },
+            {
+                "address": "dc",
+                "name": "PAUSE "
+            },
+            {
+                "address": "df",
+                "name": "RANDOM"
+            },
+            {
+                "address": "e0",
+                "name": "5"
+            },
+            {
+                "address": "e3",
+                "name": "DISC 2"
+            },
+            {
+                "address": "e4",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "e4",
+                "name": "FS (FWD SRCH) >>"
+            },
+            {
+                "address": "e8",
+                "name": "6"
+            },
+            {
+                "address": "eb",
+                "name": "DISC 3"
+            },
+            {
+                "address": "ec",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "ec",
+                "name": "RS (REV SRCH) <<"
+            },
+            {
+                "address": "ee",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "ee",
+                "name": "INTRO"
+            },
+            {
+                "address": "f0",
+                "name": "7"
+            },
+            {
+                "address": "f3",
+                "name": "DISC 4"
+            },
+            {
+                "address": "f4",
+                "name": "ADJUST ^"
+            },
+            {
+                "address": "f5",
+                "name": "ENTER"
+            },
+            {
+                "address": "f6",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "f8",
+                "name": "8"
+            },
+            {
+                "address": "fb",
+                "name": "DISC 5"
+            },
+            {
+                "address": "fc",
+                "name": "ADJUST V"
+            },
+            {
+                "address": "fe",
+                "name": "MEMORY"
+            },
+            {
+                "address": "fe",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

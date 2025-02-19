@@ -1,0 +1,141 @@
+{
+    "display_name": "Integra Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "MODE DSP UP"
+            },
+            {
+                "address": "19",
+                "name": "MODE DSP DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "INPUT SELECT UP"
+            },
+            {
+                "address": "1f",
+                "name": "INPUT SELECT DOWN"
+            },
+            {
+                "address": "42",
+                "name": "SPK LEVEL UP"
+            },
+            {
+                "address": "43",
+                "name": "SPK LEVEL DOWN"
+            },
+            {
+                "address": "44",
+                "name": "SPK CHANNEL SELECT"
+            },
+            {
+                "address": "45",
+                "name": "MODE LISTEN MODEDOWN"
+            },
+            {
+                "address": "47",
+                "name": "STANDBY"
+            },
+            {
+                "address": "4c",
+                "name": "MODE STEREO"
+            },
+            {
+                "address": "4d",
+                "name": "MODE SURR WRAP UP"
+            },
+            {
+                "address": "4e",
+                "name": "MODE THX WRAP UP"
+            },
+            {
+                "address": "52",
+                "name": "MODE ALL CH STEREO"
+            },
+            {
+                "address": "53",
+                "name": "SETUP"
+            },
+            {
+                "address": "54",
+                "name": "RETURN"
+            },
+            {
+                "address": "55",
+                "name": "DIMMER"
+            },
+            {
+                "address": "55",
+                "name": "DISPLAY MODE"
+            },
+            {
+                "address": "84",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "85",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "88",
+                "name": "SPEAKER LAYOUT"
+            },
+            {
+                "address": "8c",
+                "name": "INPUT DVD/BD"
+            },
+            {
+                "address": "cb",
+                "name": "STANDBY/ON TOGGLE"
+            },
+            {
+                "address": "cd",
+                "name": "INPUT HIDDEN 1"
+            },
+            {
+                "address": "ce",
+                "name": "INPUT HIDDEN 2"
+            },
+            {
+                "address": "cf",
+                "name": "INPUT HIDDEN 3"
+            },
+            {
+                "address": "d4",
+                "name": "SETUP AUDIO"
+            },
+            {
+                "address": "d6",
+                "name": "AUDYSSEY 2EQ WRAP"
+            },
+            {
+                "address": "d6",
+                "name": "RE-EQ/CINEMA WRAP"
+            },
+            {
+                "address": "d7",
+                "name": "LATE NIGHT WRAP"
+            },
+            {
+                "address": "d9",
+                "name": "AUDIO SELECT WRAP"
+            },
+            {
+                "address": "dc",
+                "name": "MODE THTR DIMENSION"
+            },
+            {
+                "address": "de",
+                "name": "SPK SUB LVL CONTROL"
+            }
+        ],
+        "device_address": "d2000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

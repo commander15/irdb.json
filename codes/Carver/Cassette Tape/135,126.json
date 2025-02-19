@@ -1,0 +1,37 @@
+{
+    "display_name": "Carver Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "RECORD"
+            },
+            {
+                "address": "1c",
+                "name": "PLAY >"
+            },
+            {
+                "address": "1d",
+                "name": "FF >>"
+            },
+            {
+                "address": "1e",
+                "name": "REW <<"
+            },
+            {
+                "address": "1f",
+                "name": "STOP []"
+            }
+        ],
+        "device_address": "-40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

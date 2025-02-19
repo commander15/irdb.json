@@ -1,0 +1,49 @@
+{
+    "display_name": "Linn Classic music",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "MONO"
+            },
+            {
+                "address": "22",
+                "name": "TUNE DN"
+            },
+            {
+                "address": "28",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "2e",
+                "name": "BAND"
+            },
+            {
+                "address": "37",
+                "name": "STORE"
+            },
+            {
+                "address": "38",
+                "name": "PRESET"
+            },
+            {
+                "address": "39",
+                "name": "SIGNAL"
+            },
+            {
+                "address": "3a",
+                "name": "TUNE"
+            },
+            {
+                "address": "3b",
+                "name": "SCAN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Linn",
+    "model": "",
+    "name": "",
+    "target": "Classic music"
+}

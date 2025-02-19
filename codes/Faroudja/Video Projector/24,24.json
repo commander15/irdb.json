@@ -1,0 +1,73 @@
+{
+    "display_name": "Faroudja Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "DVD/HD"
+            },
+            {
+                "address": "ad",
+                "name": "WIDE"
+            },
+            {
+                "address": "b0",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b1",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b2",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "c0",
+                "name": "STANDBY"
+            },
+            {
+                "address": "c4",
+                "name": "MENU/ENTER"
+            },
+            {
+                "address": "c5",
+                "name": "EXIT"
+            },
+            {
+                "address": "c8",
+                "name": "ID SELECT"
+            },
+            {
+                "address": "c9",
+                "name": "POINTER"
+            },
+            {
+                "address": "ca",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "cb",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "cc",
+                "name": "MULTI"
+            },
+            {
+                "address": "cd",
+                "name": "SELECT"
+            }
+        ],
+        "device_address": "18000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Faroudja",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

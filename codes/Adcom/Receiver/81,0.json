@@ -1,0 +1,117 @@
+{
+    "display_name": "Adcom Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "TUNING <"
+            },
+            {
+                "address": "3",
+                "name": "TUNING >"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "7",
+                "name": "4"
+            },
+            {
+                "address": "8",
+                "name": "5"
+            },
+            {
+                "address": "9",
+                "name": "6"
+            },
+            {
+                "address": "a",
+                "name": "7"
+            },
+            {
+                "address": "b",
+                "name": "8"
+            },
+            {
+                "address": "c",
+                "name": "AUX"
+            },
+            {
+                "address": "d",
+                "name": "CD"
+            },
+            {
+                "address": "e",
+                "name": "DAT/TAPE2"
+            },
+            {
+                "address": "10",
+                "name": "TAPE1"
+            },
+            {
+                "address": "11",
+                "name": "TUNER"
+            },
+            {
+                "address": "12",
+                "name": "PLAY >"
+            },
+            {
+                "address": "13",
+                "name": "PAUSE "
+            },
+            {
+                "address": "14",
+                "name": "ALL ON"
+            },
+            {
+                "address": "15",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "17",
+                "name": "STOP []"
+            },
+            {
+                "address": "18",
+                "name": "ROOM ON/OFF"
+            },
+            {
+                "address": "19",
+                "name": "FM/AM"
+            },
+            {
+                "address": "1a",
+                "name": "TRACK <<"
+            },
+            {
+                "address": "1b",
+                "name": "TRACK >>"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME <"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME >"
+            }
+        ],
+        "device_address": "51",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

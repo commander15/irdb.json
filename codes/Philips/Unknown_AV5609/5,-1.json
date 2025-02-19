@@ -1,0 +1,73 @@
+{
+    "display_name": "Philips Unknown_AV5609",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "1d",
+                "name": "timer"
+            },
+            {
+                "address": "20",
+                "name": "KEY_KPPLUS"
+            },
+            {
+                "address": "21",
+                "name": "KEY_KPMINUS"
+            },
+            {
+                "address": "29",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "2a",
+                "name": "x>"
+            },
+            {
+                "address": "2c",
+                "name": "fast-backward"
+            },
+            {
+                "address": "2e",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "2f",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "31",
+                "name": "reset"
+            },
+            {
+                "address": "32",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "34",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "35",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "36",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "37",
+                "name": "KEY_RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "Unknown_AV5609"
+}

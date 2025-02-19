@@ -1,0 +1,113 @@
+{
+    "display_name": "Pioneer Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "D. SKIP"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "10",
+                "name": "FF >>>"
+            },
+            {
+                "address": "10",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "11",
+                "name": "REW <<<"
+            },
+            {
+                "address": "11",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "12",
+                "name": "REC. MUTE"
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "15",
+                "name": "PLAY <"
+            },
+            {
+                "address": "16",
+                "name": "STOP"
+            },
+            {
+                "address": "17",
+                "name": "PLAY"
+            },
+            {
+                "address": "17",
+                "name": "PLAY >"
+            },
+            {
+                "address": "18",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1e",
+                "name": "RETURN"
+            },
+            {
+                "address": "1f",
+                "name": "ALL REWIND"
+            },
+            {
+                "address": "42",
+                "name": "RANDOM"
+            },
+            {
+                "address": "44",
+                "name": "SCAN"
+            },
+            {
+                "address": "47",
+                "name": "COUNTER MODE"
+            },
+            {
+                "address": "48",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "52",
+                "name": "OPEN/CLOSE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

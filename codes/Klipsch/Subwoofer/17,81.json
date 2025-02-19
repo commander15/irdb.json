@@ -1,0 +1,93 @@
+{
+    "display_name": "Klipsch Subwoofer",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2",
+                "name": "LOW PASS +"
+            },
+            {
+                "address": "3",
+                "name": "LOW PASS -"
+            },
+            {
+                "address": "4",
+                "name": "PHASE +"
+            },
+            {
+                "address": "5",
+                "name": "PHASE -"
+            },
+            {
+                "address": "6",
+                "name": "ADAPTIVE ROOM CORR"
+            },
+            {
+                "address": "10",
+                "name": "FLAT"
+            },
+            {
+                "address": "11",
+                "name": "PUNCH"
+            },
+            {
+                "address": "12",
+                "name": "DEPTH"
+            },
+            {
+                "address": "1b",
+                "name": "USER 1 RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "USER 2 RECALL"
+            },
+            {
+                "address": "20",
+                "name": "MUSIC RECALL"
+            },
+            {
+                "address": "21",
+                "name": "MOVIE RECALL"
+            },
+            {
+                "address": "22",
+                "name": "NIGHT RECALL"
+            },
+            {
+                "address": "23",
+                "name": "USER 1 SAVE"
+            },
+            {
+                "address": "24",
+                "name": "USER 2 SAVE"
+            },
+            {
+                "address": "28",
+                "name": "MUSIC SAVE"
+            },
+            {
+                "address": "29",
+                "name": "MOVIE SAVE"
+            },
+            {
+                "address": "2a",
+                "name": "NIGHT SAVE"
+            }
+        ],
+        "device_address": "220000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Klipsch",
+    "model": "",
+    "name": "",
+    "target": "Subwoofer"
+}

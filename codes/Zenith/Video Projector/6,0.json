@@ -1,0 +1,69 @@
+{
+    "display_name": "Zenith Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "QUIT"
+            },
+            {
+                "address": "3",
+                "name": "- VERTICAL"
+            },
+            {
+                "address": "9",
+                "name": "SET-UP"
+            },
+            {
+                "address": "b",
+                "name": "LIN T-B / L-R"
+            },
+            {
+                "address": "f",
+                "name": "SIZE"
+            },
+            {
+                "address": "11",
+                "name": "RED"
+            },
+            {
+                "address": "13",
+                "name": "+ VERTICAL"
+            },
+            {
+                "address": "1d",
+                "name": "POWER"
+            },
+            {
+                "address": "23",
+                "name": "SKEW"
+            },
+            {
+                "address": "2b",
+                "name": "PIN"
+            },
+            {
+                "address": "2d",
+                "name": "S-ING / W-M"
+            },
+            {
+                "address": "2f",
+                "name": "T/L KEY"
+            },
+            {
+                "address": "31",
+                "name": "T/L PIN"
+            },
+            {
+                "address": "33",
+                "name": "T/L S"
+            }
+        ],
+        "device_address": "6",
+        "protocol": "Zenith"
+    },
+    "manufacturer": "Zenith",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

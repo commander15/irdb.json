@@ -1,0 +1,77 @@
+{
+    "display_name": "Runco Video Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "COMPOSITE"
+            },
+            {
+                "address": "2",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "3",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "5",
+                "name": "PASS-THRU"
+            },
+            {
+                "address": "7",
+                "name": "ANAMORPHIC"
+            },
+            {
+                "address": "8",
+                "name": "4 X 3"
+            },
+            {
+                "address": "9",
+                "name": "LETTERBOX"
+            },
+            {
+                "address": "a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "b",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "12",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "16",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "MENU"
+            },
+            {
+                "address": "2f",
+                "name": "ENTER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Runco",
+    "model": "",
+    "name": "",
+    "target": "Video Controller"
+}

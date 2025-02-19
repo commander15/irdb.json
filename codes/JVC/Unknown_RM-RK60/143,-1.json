@@ -1,0 +1,49 @@
+{
+    "display_name": "JVC Unknown_RM-RK60",
+    "ir": {
+        "commands": [
+            {
+                "address": "84",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "85",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "88",
+                "name": "SRC"
+            },
+            {
+                "address": "8d",
+                "name": "Sound"
+            },
+            {
+                "address": "8e",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "92",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "93",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "94",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "95",
+                "name": "KEY_DOWN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-RK60"
+}

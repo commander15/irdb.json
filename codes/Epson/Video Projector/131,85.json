@@ -1,0 +1,105 @@
+{
+    "display_name": "Epson Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "39",
+                "name": "DEFAULT"
+            },
+            {
+                "address": "3b",
+                "name": "SHARPNESS"
+            },
+            {
+                "address": "3d",
+                "name": "RGBCMY"
+            },
+            {
+                "address": "70",
+                "name": "INPUT VIDEO"
+            },
+            {
+                "address": "71",
+                "name": "INPUT COMPONENT"
+            },
+            {
+                "address": "73",
+                "name": "INPUT HDMI 1"
+            },
+            {
+                "address": "77",
+                "name": "INPUT HDMI 2"
+            },
+            {
+                "address": "7e",
+                "name": "GAMMA"
+            },
+            {
+                "address": "84",
+                "name": "EXIT"
+            },
+            {
+                "address": "85",
+                "name": "CURSER ENTER"
+            },
+            {
+                "address": "8a",
+                "name": "ASPECT"
+            },
+            {
+                "address": "8b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "8f",
+                "name": "COLOR MODE"
+            },
+            {
+                "address": "90",
+                "name": "POWER"
+            },
+            {
+                "address": "91",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "93",
+                "name": "BLANK"
+            },
+            {
+                "address": "96",
+                "name": "PATTERN"
+            },
+            {
+                "address": "9a",
+                "name": "MENU"
+            },
+            {
+                "address": "9c",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "9d",
+                "name": "INPUT PC"
+            },
+            {
+                "address": "b0",
+                "name": "CURSER UP"
+            },
+            {
+                "address": "b2",
+                "name": "CURSER DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "CURSER LEFT"
+            }
+        ],
+        "device_address": "10600000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Epson",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

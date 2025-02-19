@@ -1,0 +1,285 @@
+{
+    "display_name": "Fujitsu Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "0",
+                "name": "C DOWN"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": "DISCRETE ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2",
+                "name": "DISCRETE OFF"
+            },
+            {
+                "address": "8",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "WIDE"
+            },
+            {
+                "address": "10",
+                "name": "WIDE (TOGGLE)"
+            },
+            {
+                "address": "10",
+                "name": "ASPECT WIDE (TOG)"
+            },
+            {
+                "address": "11",
+                "name": "ASPECT AUTO"
+            },
+            {
+                "address": "11",
+                "name": "AUTO"
+            },
+            {
+                "address": "12",
+                "name": "ASPECT"
+            },
+            {
+                "address": "12",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "12",
+                "name": "NORMAL"
+            },
+            {
+                "address": "13",
+                "name": "ASPECT WIDE 1"
+            },
+            {
+                "address": "13",
+                "name": "WIDE 1"
+            },
+            {
+                "address": "13",
+                "name": "ASPECT WIDE1"
+            },
+            {
+                "address": "14",
+                "name": "ASPECT WIDE 2"
+            },
+            {
+                "address": "14",
+                "name": "WIDE 2"
+            },
+            {
+                "address": "14",
+                "name": "ASPECT WIDE2"
+            },
+            {
+                "address": "15",
+                "name": "ASPECT ZOOM 1"
+            },
+            {
+                "address": "15",
+                "name": "ZOOM 1"
+            },
+            {
+                "address": "15",
+                "name": "ASPECT ZOOM1"
+            },
+            {
+                "address": "16",
+                "name": "ASPECT ZOOM 2"
+            },
+            {
+                "address": "16",
+                "name": "ZOOM 2"
+            },
+            {
+                "address": "16",
+                "name": "ASPECT ZOOM2"
+            },
+            {
+                "address": "20",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "20",
+                "name": "LEFT"
+            },
+            {
+                "address": "20",
+                "name": "ADJ. <"
+            },
+            {
+                "address": "20",
+                "name": "ADJ LEFT"
+            },
+            {
+                "address": "20",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "20",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "20",
+                "name": "C LEFT"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "ADJ. >"
+            },
+            {
+                "address": "21",
+                "name": "ADJ RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "21",
+                "name": "C RIGHT"
+            },
+            {
+                "address": "22",
+                "name": "MENU"
+            },
+            {
+                "address": "22",
+                "name": "MENU/EXIT"
+            },
+            {
+                "address": "23",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "23",
+                "name": "UP"
+            },
+            {
+                "address": "23",
+                "name": "ADJ. UP"
+            },
+            {
+                "address": "23",
+                "name": "ADJ UP"
+            },
+            {
+                "address": "23",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "23",
+                "name": "C UP"
+            },
+            {
+                "address": "24",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "24",
+                "name": "DOWN"
+            },
+            {
+                "address": "24",
+                "name": "ADJ. DN."
+            },
+            {
+                "address": "24",
+                "name": "ADJ DOWN"
+            },
+            {
+                "address": "24",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "24",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "26",
+                "name": "ENTER"
+            },
+            {
+                "address": "26",
+                "name": "CURSOR SELECT /ENTER"
+            },
+            {
+                "address": "26",
+                "name": "SELECT"
+            },
+            {
+                "address": "26",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "41",
+                "name": "OFF-TIMER"
+            },
+            {
+                "address": "41",
+                "name": "TIMER"
+            },
+            {
+                "address": "41",
+                "name": "OFF TIMER"
+            },
+            {
+                "address": "44",
+                "name": "MODE"
+            },
+            {
+                "address": "44",
+                "name": "PICTURE MODE"
+            },
+            {
+                "address": "44",
+                "name": "PIC MODE"
+            },
+            {
+                "address": "48",
+                "name": "MEMORY"
+            },
+            {
+                "address": "48",
+                "name": "PICTURE MEMORY"
+            },
+            {
+                "address": "48",
+                "name": "PIC MEMORY"
+            }
+        ],
+        "device_address": "21000",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

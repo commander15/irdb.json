@@ -1,0 +1,93 @@
+{
+    "display_name": "HQV Video Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "MENU"
+            },
+            {
+                "address": "2",
+                "name": "UP"
+            },
+            {
+                "address": "3",
+                "name": "DOWN"
+            },
+            {
+                "address": "4",
+                "name": "LEFT"
+            },
+            {
+                "address": "5",
+                "name": "RIGHT"
+            },
+            {
+                "address": "6",
+                "name": "ENTER"
+            },
+            {
+                "address": "7",
+                "name": "BCE"
+            },
+            {
+                "address": "8",
+                "name": "SPLIT"
+            },
+            {
+                "address": "9",
+                "name": "FILM"
+            },
+            {
+                "address": "a",
+                "name": "ASPECT RATIO"
+            },
+            {
+                "address": "b",
+                "name": "TRNR"
+            },
+            {
+                "address": "c",
+                "name": "CNR"
+            },
+            {
+                "address": "d",
+                "name": "DVI"
+            },
+            {
+                "address": "e",
+                "name": "VIDEO"
+            },
+            {
+                "address": "f",
+                "name": "HDMI"
+            },
+            {
+                "address": "10",
+                "name": "RGB"
+            },
+            {
+                "address": "11",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "12",
+                "name": "SDI"
+            },
+            {
+                "address": "13",
+                "name": "YPBPR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "HQV",
+    "model": "",
+    "name": "",
+    "target": "Video Processor"
+}

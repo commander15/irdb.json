@@ -1,0 +1,29 @@
+{
+    "display_name": "Myryad Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "STANDBY"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Myryad",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

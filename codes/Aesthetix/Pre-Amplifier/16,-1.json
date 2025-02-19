@@ -1,0 +1,77 @@
+{
+    "display_name": "Aesthetix Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "STANDBY"
+            },
+            {
+                "address": "2",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "4",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "5",
+                "name": "BAL LEFT"
+            },
+            {
+                "address": "6",
+                "name": "BAL RIGHT"
+            },
+            {
+                "address": "7",
+                "name": "MUTE"
+            },
+            {
+                "address": "8",
+                "name": "BYPASS"
+            },
+            {
+                "address": "9",
+                "name": "PHASE"
+            },
+            {
+                "address": "a",
+                "name": "1"
+            },
+            {
+                "address": "b",
+                "name": "2"
+            },
+            {
+                "address": "c",
+                "name": "3"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "5"
+            },
+            {
+                "address": "f",
+                "name": "TAPE"
+            },
+            {
+                "address": "10",
+                "name": "PHONO"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Aesthetix",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

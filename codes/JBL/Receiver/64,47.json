@@ -1,0 +1,113 @@
+{
+    "display_name": "JBL Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STANDBY"
+            },
+            {
+                "address": "1",
+                "name": "SLEEP"
+            },
+            {
+                "address": "3",
+                "name": "VOL+"
+            },
+            {
+                "address": "4",
+                "name": "MONO"
+            },
+            {
+                "address": "5",
+                "name": "PTY"
+            },
+            {
+                "address": "6",
+                "name": "M"
+            },
+            {
+                "address": "7",
+                "name": "VOL-"
+            },
+            {
+                "address": "8",
+                "name": "AM/FM"
+            },
+            {
+                "address": "9",
+                "name": "RDS"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "CD"
+            },
+            {
+                "address": "d",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "f",
+                "name": "STOP"
+            },
+            {
+                "address": "10",
+                "name": "AUX"
+            },
+            {
+                "address": "12",
+                "name": "I<"
+            },
+            {
+                "address": "13",
+                "name": ">I"
+            },
+            {
+                "address": "16",
+                "name": "<<"
+            },
+            {
+                "address": "17",
+                "name": ">>"
+            },
+            {
+                "address": "18",
+                "name": "ALARM1"
+            },
+            {
+                "address": "19",
+                "name": "ALARM2"
+            },
+            {
+                "address": "1a",
+                "name": "RANDOM"
+            },
+            {
+                "address": "1b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1c",
+                "name": "SNOOZE"
+            },
+            {
+                "address": "1d",
+                "name": "LIGHT"
+            }
+        ],
+        "device_address": "200000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "JBL",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

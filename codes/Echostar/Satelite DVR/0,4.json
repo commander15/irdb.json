@@ -1,0 +1,125 @@
+{
+    "display_name": "Echostar Satelite DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2 - ABC"
+            },
+            {
+                "address": "6",
+                "name": "3 - DEF"
+            },
+            {
+                "address": "8",
+                "name": "4 - GHI"
+            },
+            {
+                "address": "9",
+                "name": "5 - JKL"
+            },
+            {
+                "address": "a",
+                "name": "6 - MNO"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7 - PQRS"
+            },
+            {
+                "address": "d",
+                "name": "8 - TUV"
+            },
+            {
+                "address": "e",
+                "name": "9 - WXYZ"
+            },
+            {
+                "address": "10",
+                "name": "SELECT"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "17",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT(BROWSE)"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT (THEME)"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "20",
+                "name": "PAUSE "
+            },
+            {
+                "address": "21",
+                "name": "STOP"
+            },
+            {
+                "address": "25",
+                "name": "*"
+            },
+            {
+                "address": "26",
+                "name": "# - SEARCH"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "Satelite DVR"
+}

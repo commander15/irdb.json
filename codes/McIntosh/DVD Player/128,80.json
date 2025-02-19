@@ -1,0 +1,161 @@
+{
+    "display_name": "McIntosh DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PLAY"
+            },
+            {
+                "address": "2",
+                "name": ">>I NEXT"
+            },
+            {
+                "address": "3",
+                "name": "I<< BACK"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "7",
+                "name": "PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "SETUP"
+            },
+            {
+                "address": "9",
+                "name": "MARKER"
+            },
+            {
+                "address": "a",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "b",
+                "name": "AUDIO"
+            },
+            {
+                "address": "c",
+                "name": "ANGLE"
+            },
+            {
+                "address": "d",
+                "name": "RETURN"
+            },
+            {
+                "address": "e",
+                "name": "TITLE"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "MENU"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "12",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "13",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "15",
+                "name": "ENTER"
+            },
+            {
+                "address": "15",
+                "name": "SELECT"
+            },
+            {
+                "address": "4c",
+                "name": "REPEAT MODE"
+            },
+            {
+                "address": "4d",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "4e",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "4f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "50",
+                "name": "1"
+            },
+            {
+                "address": "51",
+                "name": "2"
+            },
+            {
+                "address": "52",
+                "name": "3"
+            },
+            {
+                "address": "53",
+                "name": "4"
+            },
+            {
+                "address": "54",
+                "name": "5"
+            },
+            {
+                "address": "55",
+                "name": "6"
+            },
+            {
+                "address": "56",
+                "name": "7"
+            },
+            {
+                "address": "57",
+                "name": "8"
+            },
+            {
+                "address": "58",
+                "name": "9"
+            },
+            {
+                "address": "59",
+                "name": "0"
+            },
+            {
+                "address": "5a",
+                "name": "<< REVERSE"
+            },
+            {
+                "address": "5b",
+                "name": ">> FAST FORWARD"
+            },
+            {
+                "address": "5c",
+                "name": "10+"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "McIntosh",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

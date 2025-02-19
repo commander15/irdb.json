@@ -1,0 +1,61 @@
+{
+    "display_name": "Calypso Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SWITCH INPUT 1"
+            },
+            {
+                "address": "1",
+                "name": "SWITCH INPUT 2"
+            },
+            {
+                "address": "2",
+                "name": "SWITCH INPUT 3"
+            },
+            {
+                "address": "3",
+                "name": "SWITCH INPUT 4"
+            },
+            {
+                "address": "12",
+                "name": "VOL UP (2DB)"
+            },
+            {
+                "address": "13",
+                "name": "VOL DN (2DB)"
+            },
+            {
+                "address": "31",
+                "name": "NEXT CHANNEL"
+            },
+            {
+                "address": "32",
+                "name": "TOGGLE MUTE"
+            },
+            {
+                "address": "33",
+                "name": "VOL DN (4DB)"
+            },
+            {
+                "address": "34",
+                "name": "VOL UP (4DB)"
+            },
+            {
+                "address": "38",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "39",
+                "name": "MUTE OFF"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Calypso",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

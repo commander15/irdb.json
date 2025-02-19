@@ -1,0 +1,157 @@
+{
+    "display_name": "Cinemateq Video Scaler",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "SCART-1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "5",
+                "name": "SCART-2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "6",
+                "name": "FBAS/SDI-1"
+            },
+            {
+                "address": "9",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "FBAS/SDI-2"
+            },
+            {
+                "address": "a",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "S-VIDEO-1"
+            },
+            {
+                "address": "d",
+                "name": "6"
+            },
+            {
+                "address": "d",
+                "name": "S-VIDEO-2"
+            },
+            {
+                "address": "e",
+                "name": "7"
+            },
+            {
+                "address": "e",
+                "name": "YUV-1"
+            },
+            {
+                "address": "11",
+                "name": "8"
+            },
+            {
+                "address": "11",
+                "name": "YUV-2"
+            },
+            {
+                "address": "12",
+                "name": "9"
+            },
+            {
+                "address": "12",
+                "name": "BYPASS RGB"
+            },
+            {
+                "address": "15",
+                "name": "0"
+            },
+            {
+                "address": "15",
+                "name": "BYPASS VGA"
+            },
+            {
+                "address": "16",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1a",
+                "name": "ENTER"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "26",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2e",
+                "name": "LENSSHIFT UP"
+            },
+            {
+                "address": "31",
+                "name": "RESOLUTION"
+            },
+            {
+                "address": "32",
+                "name": "ASPECT RATIO"
+            },
+            {
+                "address": "35",
+                "name": "LENSSHIFT DOWN"
+            },
+            {
+                "address": "36",
+                "name": "OVERSCAN"
+            },
+            {
+                "address": "39",
+                "name": "TV MODE"
+            },
+            {
+                "address": "3a",
+                "name": "EXIT"
+            },
+            {
+                "address": "3e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "45",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "46",
+                "name": "OPTION A"
+            },
+            {
+                "address": "49",
+                "name": "OPTION B"
+            }
+        ],
+        "device_address": "36",
+        "protocol": "CanalSat"
+    },
+    "manufacturer": "Cinemateq",
+    "model": "",
+    "name": "",
+    "target": "Video Scaler"
+}

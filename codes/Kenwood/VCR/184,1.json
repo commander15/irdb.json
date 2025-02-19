@@ -1,0 +1,33 @@
+{
+    "display_name": "Kenwood VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "4b",
+                "name": "N.B."
+            },
+            {
+                "address": "54",
+                "name": "MULTI LVL CTRL V"
+            },
+            {
+                "address": "55",
+                "name": "MULTI LVL CTRL ^"
+            },
+            {
+                "address": "57",
+                "name": "LEVEL MODE"
+            },
+            {
+                "address": "cc",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "170",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

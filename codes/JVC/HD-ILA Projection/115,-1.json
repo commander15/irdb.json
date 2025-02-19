@@ -1,0 +1,141 @@
+{
+    "display_name": "JVC HD-ILA Projection",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "2",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "3",
+                "name": "EXIT"
+            },
+            {
+                "address": "5",
+                "name": "PWR ON"
+            },
+            {
+                "address": "6",
+                "name": "PWR OFF"
+            },
+            {
+                "address": "1d",
+                "name": "HIDE"
+            },
+            {
+                "address": "2e",
+                "name": "MENU"
+            },
+            {
+                "address": "34",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "36",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "4b",
+                "name": "INPUT VIDEO"
+            },
+            {
+                "address": "4c",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "4d",
+                "name": "INPUT COMPONENT"
+            },
+            {
+                "address": "59",
+                "name": "TEST"
+            },
+            {
+                "address": "69",
+                "name": "CINEMA 'C'"
+            },
+            {
+                "address": "6a",
+                "name": "NATURAL 'N'"
+            },
+            {
+                "address": "6b",
+                "name": "DYNAMIC 'D'"
+            },
+            {
+                "address": "6c",
+                "name": "USER 1"
+            },
+            {
+                "address": "6d",
+                "name": "USER 2"
+            },
+            {
+                "address": "6e",
+                "name": "USER 3"
+            },
+            {
+                "address": "70",
+                "name": "HDMI-1"
+            },
+            {
+                "address": "71",
+                "name": "HDMI-2"
+            },
+            {
+                "address": "74",
+                "name": "INFO"
+            },
+            {
+                "address": "76",
+                "name": "COLOR TEMP"
+            },
+            {
+                "address": "77",
+                "name": "ASPECT"
+            },
+            {
+                "address": "78",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "79",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "7a",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "7b",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "7c",
+                "name": "COLOR+"
+            },
+            {
+                "address": "7d",
+                "name": "COLOR-"
+            },
+            {
+                "address": "7e",
+                "name": "SHARP+"
+            },
+            {
+                "address": "7f",
+                "name": "SHARP-"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "HD-ILA Projection"
+}

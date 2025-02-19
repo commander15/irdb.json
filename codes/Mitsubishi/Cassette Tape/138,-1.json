@@ -1,0 +1,69 @@
+{
+    "display_name": "Mitsubishi Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE 1 PLAY >"
+            },
+            {
+                "address": "1",
+                "name": "TAPE 1 PLAY REV <"
+            },
+            {
+                "address": "2",
+                "name": "TAPE 1 STOP []"
+            },
+            {
+                "address": "3",
+                "name": "TAPE 1 FF >>"
+            },
+            {
+                "address": "4",
+                "name": "TAPE 1 REW <<"
+            },
+            {
+                "address": "9",
+                "name": "TAPE 1 BLANK SKIP"
+            },
+            {
+                "address": "a",
+                "name": "TAPE 1 MPSS"
+            },
+            {
+                "address": "b",
+                "name": "TAPE 2 AUTO MUTE"
+            },
+            {
+                "address": "10",
+                "name": "TAPE 2 PLAY >"
+            },
+            {
+                "address": "11",
+                "name": "TAPE 2 PLAY REV <"
+            },
+            {
+                "address": "12",
+                "name": "TAPE 2 STOP []"
+            },
+            {
+                "address": "13",
+                "name": "TAPE 2 FF >>"
+            },
+            {
+                "address": "14",
+                "name": "TAPE 2 REW <<"
+            },
+            {
+                "address": "15",
+                "name": "TAPE 2 REC/PAUSE "
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

@@ -1,0 +1,189 @@
+{
+    "display_name": "Mitsubishi Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "4c",
+                "name": "FM/AM"
+            },
+            {
+                "address": "4d",
+                "name": "TAPE 1/2 INPUT"
+            },
+            {
+                "address": "80",
+                "name": "TAPE1 1"
+            },
+            {
+                "address": "81",
+                "name": "TAPE1 9"
+            },
+            {
+                "address": "82",
+                "name": "TAPE1 MENU"
+            },
+            {
+                "address": "84",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "85",
+                "name": "TAPE2 PLAY >"
+            },
+            {
+                "address": "86",
+                "name": "TAPE1 FS/+"
+            },
+            {
+                "address": "87",
+                "name": "TAPE2 FS/+"
+            },
+            {
+                "address": "88",
+                "name": "TAPE1 2"
+            },
+            {
+                "address": "89",
+                "name": "TAPE1 0"
+            },
+            {
+                "address": "8a",
+                "name": "TAPE1 ENTER"
+            },
+            {
+                "address": "8c",
+                "name": "TAPE1 REC"
+            },
+            {
+                "address": "8e",
+                "name": "TAPE1 RS/-"
+            },
+            {
+                "address": "8f",
+                "name": "TAPE2 RS/-"
+            },
+            {
+                "address": "90",
+                "name": "TAPE1 3"
+            },
+            {
+                "address": "92",
+                "name": "TAPE1 CANCEL"
+            },
+            {
+                "address": "94",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "95",
+                "name": "TAPE2 STOP []"
+            },
+            {
+                "address": "97",
+                "name": "TAPE1 REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "TAPE1 4"
+            },
+            {
+                "address": "9c",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "9d",
+                "name": "TAPE2 PAUSE "
+            },
+            {
+                "address": "a0",
+                "name": "TAPE1 5"
+            },
+            {
+                "address": "a2",
+                "name": "TAPE1 AUDIO ^"
+            },
+            {
+                "address": "a4",
+                "name": "TAPE1 FF >>"
+            },
+            {
+                "address": "a5",
+                "name": "TAPE2 FF >>"
+            },
+            {
+                "address": "a7",
+                "name": "TAPE1 DISPLAY"
+            },
+            {
+                "address": "a8",
+                "name": "TAPE1 6"
+            },
+            {
+                "address": "aa",
+                "name": "TAPE1 AUDIO V"
+            },
+            {
+                "address": "ac",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "ad",
+                "name": "TAPE2 REW <<"
+            },
+            {
+                "address": "ae",
+                "name": "TAPE1 INTRO"
+            },
+            {
+                "address": "af",
+                "name": "TAPE2 INTRO"
+            },
+            {
+                "address": "b0",
+                "name": "TAPE1 7"
+            },
+            {
+                "address": "b2",
+                "name": "TAPE1 ADJUST ^"
+            },
+            {
+                "address": "b4",
+                "name": "TAPE1 PLAY R. <"
+            },
+            {
+                "address": "b5",
+                "name": "TAPE2 PLAY R. <"
+            },
+            {
+                "address": "b8",
+                "name": "TAPE1 8"
+            },
+            {
+                "address": "ba",
+                "name": "TAPE1 ADJUST V"
+            },
+            {
+                "address": "bf",
+                "name": "TAPE1 B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

@@ -1,0 +1,599 @@
+{
+    "display_name": "Harman Kardon CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "800000",
+                "name": "OPEN/CLOSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "0",
+                "device_address": "800000",
+                "name": "POWER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "800000",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "800000",
+                "name": "STOP []",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "800000",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "800000",
+                "name": "PLAY >",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "800000",
+                "name": "PLAY/PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "800000",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "800000",
+                "name": "PAUSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": "SKIP >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": ">>I",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": ">>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": "SKIP FWD >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "SKIP <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "I<<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "<<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "SKIP REV <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "<<SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "SEARCH>>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": ">>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": ">>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "SEARCH >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "SEARCH >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "SEARCH <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "<<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "<<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "SEARCH <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8",
+                "device_address": "800000",
+                "name": "INDEX ->",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8",
+                "device_address": "800000",
+                "name": "10+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "800000",
+                "name": "INDEX <-",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9",
+                "device_address": "800000",
+                "name": "10-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "800000",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "800000",
+                "name": "REPEAT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "b",
+                "device_address": "800000",
+                "name": "A-B",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "b",
+                "device_address": "800000",
+                "name": "REPEAT A-B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "800000",
+                "name": "SPACE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d",
+                "device_address": "800000",
+                "name": "INTRO SCAN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "800000",
+                "name": "INTRO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "e",
+                "device_address": "800000",
+                "name": "PROGRAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "800000",
+                "name": "PROGRAM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f",
+                "device_address": "800000",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "800000",
+                "name": "CLEAR",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "10",
+                "device_address": "800000",
+                "name": "10+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "800000",
+                "name": "+10",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "11",
+                "device_address": "800000",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "800000",
+                "name": "1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "12",
+                "device_address": "800000",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "800000",
+                "name": "2",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "13",
+                "device_address": "800000",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "800000",
+                "name": "3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "14",
+                "device_address": "800000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "800000",
+                "name": "4",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "15",
+                "device_address": "800000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "800000",
+                "name": "5",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "16",
+                "device_address": "800000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "800000",
+                "name": "6",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "17",
+                "device_address": "800000",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "800000",
+                "name": "7",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "18",
+                "device_address": "800000",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "800000",
+                "name": "8",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "19",
+                "device_address": "800000",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "800000",
+                "name": "9",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "800000",
+                "name": "10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "800000",
+                "name": "10",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "800000",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "800000",
+                "name": "CHECK",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1b",
+                "device_address": "800000",
+                "name": "CHECK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "800000",
+                "name": "TIME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "800000",
+                "name": "TIME",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "800000",
+                "name": "DISPLAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "800000",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "800000",
+                "name": "OUTPUT ^",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1e",
+                "device_address": "800000",
+                "name": "FOLDER+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "800000",
+                "name": "OUTPUT V",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1f",
+                "device_address": "800000",
+                "name": "FOLDER-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "800000",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "800000",
+                "name": "0",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4d",
+                "device_address": "800000",
+                "name": "SHUFFLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "800000",
+                "name": "RANDOM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "800000",
+                "name": "PAUSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4d",
+                "device_address": "800000",
+                "name": "RANDOM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "50",
+                "device_address": "800000",
+                "name": "DISC +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "800000",
+                "name": "DISC SKIP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "800000",
+                "name": "SKIP UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "800000",
+                "name": "DISC 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "800000",
+                "name": "DISC 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "800000",
+                "name": "DISC 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "800000",
+                "name": "DISC 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "800000",
+                "name": "DISC 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "800000",
+                "name": "ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "800000",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "800000",
+                "name": "OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "800000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "800000",
+                "name": "POWER ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "59",
+                "device_address": "800000",
+                "name": "POWER OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5b",
+                "device_address": "800000",
+                "name": "DISC -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5b",
+                "device_address": "800000",
+                "name": "SKIP DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "800000",
+                "name": "INFO",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

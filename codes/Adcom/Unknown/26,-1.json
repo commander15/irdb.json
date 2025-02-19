@@ -1,0 +1,109 @@
+{
+    "display_name": "Adcom Unknown",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TRACK >>"
+            },
+            {
+                "address": "1",
+                "name": "TRACK <<"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "PLAY"
+            },
+            {
+                "address": "b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "c",
+                "name": "FF >>"
+            },
+            {
+                "address": "d",
+                "name": "FR <<"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE"
+            },
+            {
+                "address": "f",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "0"
+            },
+            {
+                "address": "1f",
+                "name": "MEMORY CLEAR"
+            },
+            {
+                "address": "46",
+                "name": "REPEAT CLEAR"
+            },
+            {
+                "address": "48",
+                "name": "A-B"
+            },
+            {
+                "address": "49",
+                "name": "REPEAT"
+            },
+            {
+                "address": "5d",
+                "name": "POLARITY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "Unknown"
+}

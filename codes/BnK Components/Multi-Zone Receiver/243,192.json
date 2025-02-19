@@ -1,0 +1,237 @@
+{
+    "display_name": "BnK Components Multi-Zone Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "BK016 POWER OFF"
+            },
+            {
+                "address": "2",
+                "name": "BK016 POWER ON"
+            },
+            {
+                "address": "3",
+                "name": "BK016 MUTE"
+            },
+            {
+                "address": "5",
+                "name": "BK016 INPUT 1"
+            },
+            {
+                "address": "6",
+                "name": "BK016 INPUT 3"
+            },
+            {
+                "address": "7",
+                "name": "BK016 INPUT 8"
+            },
+            {
+                "address": "9",
+                "name": "BK016 INPUT 2"
+            },
+            {
+                "address": "b",
+                "name": "BK016 INPUT 7"
+            },
+            {
+                "address": "d",
+                "name": "BK016 INPUT 4"
+            },
+            {
+                "address": "e",
+                "name": "BK016 TUNER 1"
+            },
+            {
+                "address": "f",
+                "name": "BK016 INPUT 5"
+            },
+            {
+                "address": "17",
+                "name": "BK016 STATION-"
+            },
+            {
+                "address": "18",
+                "name": "BK016 STATION+"
+            },
+            {
+                "address": "1b",
+                "name": "BK016 TUNE-"
+            },
+            {
+                "address": "1c",
+                "name": "BK016 TUNE+"
+            },
+            {
+                "address": "1f",
+                "name": "BK016 LEFT"
+            },
+            {
+                "address": "20",
+                "name": "BK016 RIGHT"
+            },
+            {
+                "address": "23",
+                "name": "BK016 VOLUME-"
+            },
+            {
+                "address": "24",
+                "name": "BK016 VOLUME+"
+            },
+            {
+                "address": "29",
+                "name": "BK016 NUMBER +10"
+            },
+            {
+                "address": "2a",
+                "name": "BK016 EQ"
+            },
+            {
+                "address": "2d",
+                "name": "BK016 DOWN"
+            },
+            {
+                "address": "2e",
+                "name": "BK016 UP"
+            },
+            {
+                "address": "30",
+                "name": "BK016 ENTER"
+            },
+            {
+                "address": "31",
+                "name": "BK016 NUMBER 1"
+            },
+            {
+                "address": "32",
+                "name": "BK016 NUMBER 2"
+            },
+            {
+                "address": "33",
+                "name": "BK016 NUMBER 3"
+            },
+            {
+                "address": "35",
+                "name": "BK016 NUMBER 4"
+            },
+            {
+                "address": "36",
+                "name": "BK016 NUMBER 5"
+            },
+            {
+                "address": "37",
+                "name": "BK016 NUMBER 6"
+            },
+            {
+                "address": "39",
+                "name": "BK016 NUMBER 7"
+            },
+            {
+                "address": "3a",
+                "name": "BK016 NUMBER 8"
+            },
+            {
+                "address": "3b",
+                "name": "BK016 NUMBER 9"
+            },
+            {
+                "address": "3e",
+                "name": "BK016 NUMBER 0"
+            },
+            {
+                "address": "40",
+                "name": "BK016 SAVE"
+            },
+            {
+                "address": "44",
+                "name": "BK016 TUNER 3"
+            },
+            {
+                "address": "4a",
+                "name": "BK016 INPUT 6"
+            },
+            {
+                "address": "4b",
+                "name": "BK016 PRESET+"
+            },
+            {
+                "address": "5a",
+                "name": "BK016 D-IN"
+            },
+            {
+                "address": "65",
+                "name": "BK016 BASS-"
+            },
+            {
+                "address": "66",
+                "name": "BK016 SOURCE+"
+            },
+            {
+                "address": "6e",
+                "name": "BK016 INPUT 9"
+            },
+            {
+                "address": "76",
+                "name": "BK016 AM"
+            },
+            {
+                "address": "79",
+                "name": "BK016 TREBLE-"
+            },
+            {
+                "address": "7a",
+                "name": "BK016 VIDEO-"
+            },
+            {
+                "address": "7d",
+                "name": "BK016 EXIT"
+            },
+            {
+                "address": "84",
+                "name": "BK016 TUNER 2"
+            },
+            {
+                "address": "8e",
+                "name": "BK016 FM"
+            },
+            {
+                "address": "a6",
+                "name": "BK016 SOURCE-"
+            },
+            {
+                "address": "b3",
+                "name": "BK016 SLEEP"
+            },
+            {
+                "address": "c6",
+                "name": "BK016 PRESET-"
+            },
+            {
+                "address": "cf",
+                "name": "BK016 LOUDNESS"
+            },
+            {
+                "address": "e4",
+                "name": "BK016 AUTO LEVEL"
+            },
+            {
+                "address": "e5",
+                "name": "BK016 BASS+"
+            },
+            {
+                "address": "f9",
+                "name": "BK016 TREBLE+"
+            },
+            {
+                "address": "fa",
+                "name": "BK016 VIDEO+"
+            }
+        ],
+        "device_address": "f3",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "BnK Components",
+    "model": "",
+    "name": "",
+    "target": "Multi-Zone Receiver"
+}

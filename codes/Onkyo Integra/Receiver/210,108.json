@@ -1,0 +1,77 @@
+{
+    "display_name": "Onkyo Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "device_address": "d2000",
+                "name": "DSP >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "d2000",
+                "name": "DSP <",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "d2000",
+                "name": "LEVEL +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "43",
+                "device_address": "d2000",
+                "name": "LEVEL -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "44",
+                "device_address": "d2000",
+                "name": "CHANNEL SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "d2000",
+                "name": "STANDBY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "d2000",
+                "name": "STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "d2000",
+                "name": "SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "d2000",
+                "name": "OSD MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "d2000",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "d2000",
+                "name": "DVD",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Onkyo Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

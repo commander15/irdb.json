@@ -1,0 +1,57 @@
+{
+    "display_name": "JVC Mini System",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "DECK B STOP"
+            },
+            {
+                "address": "6",
+                "name": "DECK B FFWD"
+            },
+            {
+                "address": "7",
+                "name": "DECK B REW"
+            },
+            {
+                "address": "e",
+                "name": "DECK B<"
+            },
+            {
+                "address": "f",
+                "name": "DECK B>"
+            },
+            {
+                "address": "53",
+                "name": "DECK A STOP"
+            },
+            {
+                "address": "56",
+                "name": "DECK A FFWD"
+            },
+            {
+                "address": "57",
+                "name": "DECK A REW"
+            },
+            {
+                "address": "5e",
+                "name": "TAPE DECK A<"
+            },
+            {
+                "address": "5f",
+                "name": "TAPE DECK A>"
+            },
+            {
+                "address": "cd",
+                "name": "DECK B RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Mini System"
+}

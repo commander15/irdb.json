@@ -1,0 +1,229 @@
+{
+    "display_name": "General Instrument Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "SAT/TV"
+            },
+            {
+                "address": "3",
+                "name": "M"
+            },
+            {
+                "address": "4",
+                "name": "TI"
+            },
+            {
+                "address": "5",
+                "name": "HELP"
+            },
+            {
+                "address": "6",
+                "name": "AUX"
+            },
+            {
+                "address": "7",
+                "name": "VOL ^"
+            },
+            {
+                "address": "7",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "8",
+                "name": "MESG"
+            },
+            {
+                "address": "9",
+                "name": "TEXT"
+            },
+            {
+                "address": "a",
+                "name": "NEXT"
+            },
+            {
+                "address": "c",
+                "name": "SET UP"
+            },
+            {
+                "address": "d",
+                "name": "MENU"
+            },
+            {
+                "address": "e",
+                "name": "VIEW"
+            },
+            {
+                "address": "f",
+                "name": "VOL V"
+            },
+            {
+                "address": "f",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "10",
+                "name": "2 (T)"
+            },
+            {
+                "address": "10",
+                "name": "2 T"
+            },
+            {
+                "address": "11",
+                "name": "1 (G)"
+            },
+            {
+                "address": "11",
+                "name": "1 G"
+            },
+            {
+                "address": "12",
+                "name": "3 (F)"
+            },
+            {
+                "address": "12",
+                "name": "3 F"
+            },
+            {
+                "address": "13",
+                "name": "CH ^"
+            },
+            {
+                "address": "13",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "14",
+                "name": "5 (W)"
+            },
+            {
+                "address": "14",
+                "name": "5 W"
+            },
+            {
+                "address": "15",
+                "name": "4 (A)"
+            },
+            {
+                "address": "15",
+                "name": "4 A"
+            },
+            {
+                "address": "16",
+                "name": "6 (C)"
+            },
+            {
+                "address": "16",
+                "name": "6 C"
+            },
+            {
+                "address": "18",
+                "name": "8 (R)"
+            },
+            {
+                "address": "18",
+                "name": "8 R"
+            },
+            {
+                "address": "19",
+                "name": "7 (S)"
+            },
+            {
+                "address": "19",
+                "name": "7 S"
+            },
+            {
+                "address": "1a",
+                "name": "9 (K)"
+            },
+            {
+                "address": "1a",
+                "name": "9 K"
+            },
+            {
+                "address": "1b",
+                "name": "CH V"
+            },
+            {
+                "address": "1b",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "1c",
+                "name": "0 (B)"
+            },
+            {
+                "address": "1c",
+                "name": "0 B"
+            },
+            {
+                "address": "1d",
+                "name": "SAT"
+            },
+            {
+                "address": "1e",
+                "name": "FAV"
+            },
+            {
+                "address": "40",
+                "name": "ENTR"
+            },
+            {
+                "address": "40",
+                "name": "ENTER"
+            },
+            {
+                "address": "44",
+                "name": "^ (UP)"
+            },
+            {
+                "address": "44",
+                "name": "UP ^"
+            },
+            {
+                "address": "48",
+                "name": "< (LEFT)"
+            },
+            {
+                "address": "48",
+                "name": "LEFT <"
+            },
+            {
+                "address": "4c",
+                "name": "V (DOWN)"
+            },
+            {
+                "address": "4c",
+                "name": "DOWN V"
+            },
+            {
+                "address": "50",
+                "name": "> (RIGHT)"
+            },
+            {
+                "address": "50",
+                "name": "RIGHT >"
+            },
+            {
+                "address": "54",
+                "name": "LAST"
+            },
+            {
+                "address": "58",
+                "name": "CNCL"
+            }
+        ],
+        "device_address": "208000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "General Instrument",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

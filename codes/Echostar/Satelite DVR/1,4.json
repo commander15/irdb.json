@@ -1,0 +1,49 @@
+{
+    "display_name": "Echostar Satelite DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "31",
+                "name": "BACK <<"
+            },
+            {
+                "address": "32",
+                "name": "FWD >>"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "ARROW REVERSE"
+            },
+            {
+                "address": "37",
+                "name": "ARROW FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            }
+        ],
+        "device_address": "10",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "Satelite DVR"
+}

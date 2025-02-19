@@ -1,0 +1,77 @@
+{
+    "display_name": "Denon CD Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "4b",
+                "name": "MUTE"
+            },
+            {
+                "address": "4c",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "50",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "59",
+                "name": "SOURCE TUNER"
+            },
+            {
+                "address": "5a",
+                "name": "SOURCE CD"
+            },
+            {
+                "address": "5f",
+                "name": "SOURCE LINE"
+            },
+            {
+                "address": "68",
+                "name": "POWER ON"
+            },
+            {
+                "address": "72",
+                "name": "SLEEP"
+            },
+            {
+                "address": "7a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "cf",
+                "name": "TIME/DISPLAY"
+            },
+            {
+                "address": "d1",
+                "name": "ENTER/MEMO"
+            },
+            {
+                "address": "d2",
+                "name": "DAB/RDS"
+            },
+            {
+                "address": "d3",
+                "name": "CLOCK"
+            },
+            {
+                "address": "d4",
+                "name": "PTY"
+            },
+            {
+                "address": "df",
+                "name": "DIMMER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "CD Receiver"
+}

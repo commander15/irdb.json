@@ -1,0 +1,227 @@
+{
+    "display_name": "Fosgate Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "40",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "40",
+                "name": "HI-EQ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "40",
+                "name": "LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "40",
+                "name": "DIGITAL INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "40",
+                "name": "NIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "40",
+                "name": "SLEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "28",
+                "device_address": "40",
+                "name": "BYPASS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "28",
+                "device_address": "40",
+                "name": "ENTER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "38",
+                "device_address": "40",
+                "name": "TEST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "40",
+                "name": "SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "40",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "40",
+                "name": "AUX 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "62",
+                "device_address": "40",
+                "name": "DOLBY PRO LOGIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "40",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6a",
+                "device_address": "40",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "70",
+                "device_address": "40",
+                "name": "6",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "72",
+                "device_address": "40",
+                "name": "VCR 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "78",
+                "device_address": "40",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "82",
+                "device_address": "40",
+                "name": "RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "40",
+                "name": "FAV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "92",
+                "device_address": "40",
+                "name": "CR SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "98",
+                "device_address": "40",
+                "name": "AM/FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "98",
+                "device_address": "40",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a2",
+                "device_address": "40",
+                "name": "DTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "40",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b0",
+                "device_address": "40",
+                "name": "5",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "b2",
+                "device_address": "40",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b8",
+                "device_address": "40",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "40",
+                "name": "TRIM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "40",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "40",
+                "name": "3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d2",
+                "device_address": "40",
+                "name": "SAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "40",
+                "name": "VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "40",
+                "name": "STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f2",
+                "device_address": "40",
+                "name": "DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f8",
+                "device_address": "40",
+                "name": "DOWN",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Fosgate",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

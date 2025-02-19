@@ -1,0 +1,141 @@
+{
+    "display_name": "Faroudja Video Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3",
+                "name": "VIDEO"
+            },
+            {
+                "address": "4",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "5",
+                "name": "RGB"
+            },
+            {
+                "address": "6",
+                "name": "YCRCB"
+            },
+            {
+                "address": "7",
+                "name": "PASS-T"
+            },
+            {
+                "address": "8",
+                "name": "PASS-TX"
+            },
+            {
+                "address": "9",
+                "name": "4:3"
+            },
+            {
+                "address": "b",
+                "name": "ANAMORPHIC"
+            },
+            {
+                "address": "c",
+                "name": "BRIGHTNESS"
+            },
+            {
+                "address": "d",
+                "name": "CONTRAST"
+            },
+            {
+                "address": "e",
+                "name": "COLOR"
+            },
+            {
+                "address": "f",
+                "name": "TINT"
+            },
+            {
+                "address": "10",
+                "name": "DETAIL"
+            },
+            {
+                "address": "11",
+                "name": "MENU"
+            },
+            {
+                "address": "12",
+                "name": "PROFILE"
+            },
+            {
+                "address": "13",
+                "name": "STORE"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "16",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "17",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "18",
+                "name": "0"
+            },
+            {
+                "address": "19",
+                "name": "1"
+            },
+            {
+                "address": "1a",
+                "name": "2"
+            },
+            {
+                "address": "1b",
+                "name": "3"
+            },
+            {
+                "address": "1c",
+                "name": "4"
+            },
+            {
+                "address": "1d",
+                "name": "5"
+            },
+            {
+                "address": "1e",
+                "name": "6"
+            },
+            {
+                "address": "1f",
+                "name": "7"
+            },
+            {
+                "address": "20",
+                "name": "8"
+            },
+            {
+                "address": "21",
+                "name": "9"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Faroudja",
+    "model": "",
+    "name": "",
+    "target": "Video Processor"
+}

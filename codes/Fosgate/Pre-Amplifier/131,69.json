@@ -1,0 +1,23 @@
+{
+    "display_name": "Fosgate Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "53",
+                "device_address": "1060",
+                "name": "CHANNEL DN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "57",
+                "device_address": "1060",
+                "name": "CHANNEL UP",
+                "protocol": "NEC2"
+            }
+        ]
+    },
+    "manufacturer": "Fosgate",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

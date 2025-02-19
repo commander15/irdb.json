@@ -1,0 +1,89 @@
+{
+    "display_name": "Yamaha DVD Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "82",
+                "name": "PLAY"
+            },
+            {
+                "address": "83",
+                "name": "PAUSE"
+            },
+            {
+                "address": "85",
+                "name": "A/B/C/D/E"
+            },
+            {
+                "address": "85",
+                "name": "STOP"
+            },
+            {
+                "address": "86",
+                "name": "SCAN -"
+            },
+            {
+                "address": "87",
+                "name": "SCAN +"
+            },
+            {
+                "address": "97",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "9a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "a6",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "a7",
+                "name": "STATUS"
+            },
+            {
+                "address": "b2",
+                "name": "MENU"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b4",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b5",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b6",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "b7",
+                "name": "RETURN"
+            },
+            {
+                "address": "b8",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "b9",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "ba",
+                "name": "NEXT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD Receiver"
+}

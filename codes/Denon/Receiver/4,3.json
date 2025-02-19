@@ -1,0 +1,533 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "ZONE2 DIGIT 1"
+            },
+            {
+                "address": "11",
+                "name": "ZONE2 DIGIT 2"
+            },
+            {
+                "address": "12",
+                "name": "ZONE2 DIGIT 3"
+            },
+            {
+                "address": "13",
+                "name": "ZONE2 DIGIT 4"
+            },
+            {
+                "address": "14",
+                "name": "ZONE2 DIGIT 5"
+            },
+            {
+                "address": "15",
+                "name": "ZONE2 DIGIT 6"
+            },
+            {
+                "address": "16",
+                "name": "ZONE2 DIGIT 7"
+            },
+            {
+                "address": "17",
+                "name": "ZONE2 DIGIT 8"
+            },
+            {
+                "address": "18",
+                "name": "ZONE2 DIGIT 9"
+            },
+            {
+                "address": "19",
+                "name": "ZONE2 DIGIT 0"
+            },
+            {
+                "address": "1b",
+                "name": "ZONE2 CURSOR/ARROW UP"
+            },
+            {
+                "address": "1c",
+                "name": "ZONE2 CURSOR/ARROW DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "ZONE2 CURSOR/ARROW LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "ZONE2 CURSOR/ARROW RIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "ZONE2 ENTER/SELECT"
+            },
+            {
+                "address": "20",
+                "name": "ZONE2 AUDIO FUNCTION"
+            },
+            {
+                "address": "21",
+                "name": "ZONE2 VIDEO FUNCTION"
+            },
+            {
+                "address": "22",
+                "name": "ZONE2 RETURN/BACK"
+            },
+            {
+                "address": "23",
+                "name": "ZONE2 MENU"
+            },
+            {
+                "address": "70",
+                "name": "ZONE2 VIDEO SELECT"
+            },
+            {
+                "address": "f2",
+                "name": "ZONE2 FAVORITE 1"
+            },
+            {
+                "address": "f3",
+                "name": "ZONE2 FAVORITE 2"
+            },
+            {
+                "address": "f4",
+                "name": "ZONE2 FAVORITE 3"
+            },
+            {
+                "address": "f5",
+                "name": "ZONE2 FAVORITE 4"
+            },
+            {
+                "address": "124",
+                "name": "ZONE2 QUICK SELECT / USER PRESET 1"
+            },
+            {
+                "address": "125",
+                "name": "ZONE2 QUICK SELECT / USER PRESET 2"
+            },
+            {
+                "address": "126",
+                "name": "ZONE2 QUICK SELECT / USER PRESET 3"
+            },
+            {
+                "address": "130",
+                "name": "ZONE2 SURROUND MODE STEREO"
+            },
+            {
+                "address": "131",
+                "name": "ZONE2 SURROUND MODE DIRECT"
+            },
+            {
+                "address": "133",
+                "name": "ZONE2 SURROUND MODE PURE"
+            },
+            {
+                "address": "134",
+                "name": "ZONE2 SURROUND MODE STANDARD (DOLBY/DTS)"
+            },
+            {
+                "address": "138",
+                "name": "ZONE2 SURROUND MODE DOLBY DIGITAL"
+            },
+            {
+                "address": "139",
+                "name": "ZONE2 SURROUND MODE DOLBY DIGITAL EX"
+            },
+            {
+                "address": "13a",
+                "name": "ZONE2 SURROUND MODE DOLBY PL2 CINEMA"
+            },
+            {
+                "address": "13b",
+                "name": "ZONE2 SURROUND MODE DOLBY PL2 MUSIC"
+            },
+            {
+                "address": "13c",
+                "name": "ZONE2 SURROUND MODE DOLBY PL"
+            },
+            {
+                "address": "141",
+                "name": "ZONE2 SURROUND MODE DTS ES"
+            },
+            {
+                "address": "142",
+                "name": "ZONE2 SURROUND MODE DTS NEO6 CINEMA"
+            },
+            {
+                "address": "143",
+                "name": "ZONE2 SURROUND MODE DTS NEO6 MUSIC"
+            },
+            {
+                "address": "14d",
+                "name": "ZONE2 SURROUND MODE GAME"
+            },
+            {
+                "address": "14e",
+                "name": "ZONE2 SURROUND MODE CINEMA"
+            },
+            {
+                "address": "14f",
+                "name": "ZONE2 SURROUND MODE MUSIC"
+            },
+            {
+                "address": "150",
+                "name": "ZONE2 SURROUND MODE DSP SIMULATION"
+            },
+            {
+                "address": "151",
+                "name": "ZONE2 SURROUND MODE 5/7/MULTI CH STEREO"
+            },
+            {
+                "address": "152",
+                "name": "ZONE2 SURROUND MODE DSP WIDE SCREEN"
+            },
+            {
+                "address": "153",
+                "name": "ZONE2 SURROUND MODE DSP SUPER STADIUM"
+            },
+            {
+                "address": "154",
+                "name": "ZONE2 SURROUND MODE DSP ROCK ARENA"
+            },
+            {
+                "address": "155",
+                "name": "ZONE2 SURROUND MODE DSP JAZZ CLUB"
+            },
+            {
+                "address": "156",
+                "name": "ZONE2 SURROUND MODE DSP CLASSIC CONCERT"
+            },
+            {
+                "address": "157",
+                "name": "ZONE2 SURROUND MODE DSP MONO MOVIE"
+            },
+            {
+                "address": "158",
+                "name": "ZONE2 SURROUND MODE DSP MATRIX"
+            },
+            {
+                "address": "159",
+                "name": "ZONE2 SURROUND MODE DSP VIDEO GAME"
+            },
+            {
+                "address": "15a",
+                "name": "ZONE2 SURROUND MODE DSP VIRTUAL"
+            },
+            {
+                "address": "160",
+                "name": "ZONE2 INPUT MODE AUTO"
+            },
+            {
+                "address": "161",
+                "name": "ZONE2 INPUT MODE ANALOG"
+            },
+            {
+                "address": "170",
+                "name": "ZONE2 VOLUME UP"
+            },
+            {
+                "address": "171",
+                "name": "ZONE2 VOLUME DOWN"
+            },
+            {
+                "address": "172",
+                "name": "ZONE2 VOLUME MUTE"
+            },
+            {
+                "address": "174",
+                "name": "ZONE2 VOLUME PRESET 1 (0DB)"
+            },
+            {
+                "address": "175",
+                "name": "ZONE2 VOLUME PRESET 2 (-20DB)"
+            },
+            {
+                "address": "176",
+                "name": "ZONE2 VOLUME PRESET 3 (-40DB)"
+            },
+            {
+                "address": "176",
+                "name": "ZONE2 CHANNEL SELECT"
+            },
+            {
+                "address": "17b",
+                "name": "ZONE2 CHANNEL LEVEL UP"
+            },
+            {
+                "address": "17c",
+                "name": "ZONE2 CHANNEL LEVEL DOWN"
+            },
+            {
+                "address": "17f",
+                "name": "ZONE2 TEST TONE"
+            },
+            {
+                "address": "190",
+                "name": "ZONE2 ALL TREBLE UP"
+            },
+            {
+                "address": "191",
+                "name": "ZONE2 ALL TREBLE DOWN"
+            },
+            {
+                "address": "193",
+                "name": "ZONE2 ALL BASS UP"
+            },
+            {
+                "address": "194",
+                "name": "ZONE2 ALL BASS DOWN"
+            },
+            {
+                "address": "197",
+                "name": "ZONE2 TONE CONTROL OFF / DEFEAT ON"
+            },
+            {
+                "address": "198",
+                "name": "ZONE2 TONE CONTROL ON / DEFEAT OFF"
+            },
+            {
+                "address": "1c0",
+                "name": "ZONE2 SURROUND PARAMETER"
+            },
+            {
+                "address": "1c6",
+                "name": "ZONE2 CINEMA EQ ON"
+            },
+            {
+                "address": "1c7",
+                "name": "ZONE2 CINEMA EQ OFF"
+            },
+            {
+                "address": "1f1",
+                "name": "ZONE2 SB SPEAKER MATRIX ON"
+            },
+            {
+                "address": "1f2",
+                "name": "ZONE2 SB SPEAKER MATRIX OFF"
+            },
+            {
+                "address": "1f3",
+                "name": "ZONE2 SB SPEAKER OFF"
+            },
+            {
+                "address": "206",
+                "name": "ZONE2 SB SPEAKER TOGGLE ON/OFF"
+            },
+            {
+                "address": "20a",
+                "name": "ZONE2 FRONT SPEAKER"
+            },
+            {
+                "address": "222",
+                "name": "ZONE2 NIGHT MODE"
+            },
+            {
+                "address": "224",
+                "name": "ZONE2 RESTORE"
+            },
+            {
+                "address": "228",
+                "name": "ZONE2 SURROUND SPEAKER SELECT"
+            },
+            {
+                "address": "230",
+                "name": "ZONE2 SYSTEM SETUP"
+            },
+            {
+                "address": "26c",
+                "name": "ZONE2 AUDIO DELAY"
+            },
+            {
+                "address": "26d",
+                "name": "ZONE2 AUDIO DELAY UP"
+            },
+            {
+                "address": "26e",
+                "name": "ZONE2 AUDIO DELAY DOWN"
+            },
+            {
+                "address": "285",
+                "name": "ZONE2 STATUS REQUEST"
+            },
+            {
+                "address": "29b",
+                "name": "ZONE2 INPUT IPOD"
+            },
+            {
+                "address": "2b3",
+                "name": "ZONE2 INPUT INTERNET RADIO"
+            },
+            {
+                "address": "2b4",
+                "name": "ZONE2 INPUT SOURCE SELECT"
+            },
+            {
+                "address": "2c0",
+                "name": "ZONE2 INPUT PHONO"
+            },
+            {
+                "address": "2c2",
+                "name": "ZONE2 INPUT CD"
+            },
+            {
+                "address": "2c7",
+                "name": "ZONE2 INPUT AUX/NET/USB/ONLINE MUSIC"
+            },
+            {
+                "address": "2c8",
+                "name": "ZONE2 INPUT AUX/NET"
+            },
+            {
+                "address": "2c9",
+                "name": "ZONE2 INPUT AUX/IPOD"
+            },
+            {
+                "address": "2ca",
+                "name": "ZONE2 INPUT AUX/USB/SIRIUS XM/HD RADIO"
+            },
+            {
+                "address": "2cb",
+                "name": "ZONE2 INPUT DTU/HD RADIO"
+            },
+            {
+                "address": "2cc",
+                "name": "ZONE2 INPUT NET"
+            },
+            {
+                "address": "2cd",
+                "name": "ZONE2 INPUT IPOD/DOCK"
+            },
+            {
+                "address": "2ce",
+                "name": "ZONE2 INPUT USB"
+            },
+            {
+                "address": "2cf",
+                "name": "ZONE2 INPUT TUNER/HD RADIO"
+            },
+            {
+                "address": "2d0",
+                "name": "ZONE2 INPUT DVD"
+            },
+            {
+                "address": "2d1",
+                "name": "ZONE2 INPUT HDP/BD"
+            },
+            {
+                "address": "2d2",
+                "name": "ZONE2 INPUT TV/CABLE/HDMI CEC AUDIO"
+            },
+            {
+                "address": "2d3",
+                "name": "ZONE2 INPUT SAT/CABLE"
+            },
+            {
+                "address": "2d5",
+                "name": "ZONE2 INPUT GAME/VCR"
+            },
+            {
+                "address": "2d7",
+                "name": "ZONE2 INPUT GAME2"
+            },
+            {
+                "address": "2d8",
+                "name": "ZONE2 INPUT VCR4"
+            },
+            {
+                "address": "2d9",
+                "name": "ZONE2 INPUT V.AUX"
+            },
+            {
+                "address": "2da",
+                "name": "ZONE2 INPUT V.AUX 2"
+            },
+            {
+                "address": "2dc",
+                "name": "ZONE2 INPUT DVD/HDP/BD"
+            },
+            {
+                "address": "2dd",
+                "name": "ZONE2 INPUT VCR1/2"
+            },
+            {
+                "address": "2de",
+                "name": "ZONE2 INPUT VCR3/4"
+            },
+            {
+                "address": "2df",
+                "name": "ZONE2 INPUT VCR/DVR/MEDIA PLAYER"
+            },
+            {
+                "address": "2ef",
+                "name": "ZONE2 INPUT BLUETOOTH"
+            },
+            {
+                "address": "2fd",
+                "name": "ZONE2 INPUT PANDORA"
+            },
+            {
+                "address": "313",
+                "name": "ZONE2 INPUT SOURCE SELECT RIGHT"
+            },
+            {
+                "address": "314",
+                "name": "ZONE2 INPUT SOURCE SELECT LEFT"
+            },
+            {
+                "address": "3bc",
+                "name": "ZONE2 REPEAT"
+            },
+            {
+                "address": "3bd",
+                "name": "ZONE2 RANDOM/SHUFFLE"
+            },
+            {
+                "address": "3be",
+                "name": "ZONE2 USB DIRECT PLAY"
+            },
+            {
+                "address": "3bf",
+                "name": "ZONE2 FAVORITE DIRECT PLAY"
+            },
+            {
+                "address": "3cc",
+                "name": "ZONE2 TUNER PRESET CH UP"
+            },
+            {
+                "address": "3cd",
+                "name": "ZONE2 TUNER PRESET CH DOWN"
+            },
+            {
+                "address": "3ce",
+                "name": "ZONE2 TUNER PRESET SHIFT"
+            },
+            {
+                "address": "3d7",
+                "name": "ZONE2 TUNER SEARCH/RDS"
+            },
+            {
+                "address": "3e0",
+                "name": "ZONE2 PLAY/PAUSE"
+            },
+            {
+                "address": "3e1",
+                "name": "ZONE2 STOP"
+            },
+            {
+                "address": "3e3",
+                "name": "ZONE2 TUNER SKIP/TUNE DOWN"
+            },
+            {
+                "address": "3e4",
+                "name": "ZONE2 TUNER SKIP/TUNE UP"
+            }
+        ],
+        "device_address": "20",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

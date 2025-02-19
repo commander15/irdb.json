@@ -1,0 +1,45 @@
+{
+    "display_name": "Copland CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "AUX2"
+            },
+            {
+                "address": "10",
+                "name": "AUX1"
+            },
+            {
+                "address": "11",
+                "name": "CD"
+            },
+            {
+                "address": "12",
+                "name": "RIAA"
+            },
+            {
+                "address": "13",
+                "name": "TUNER"
+            },
+            {
+                "address": "18",
+                "name": "TAPE"
+            },
+            {
+                "address": "4b",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "4c",
+                "name": "VOLUME DOWN"
+            }
+        ],
+        "device_address": "1020000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Copland",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

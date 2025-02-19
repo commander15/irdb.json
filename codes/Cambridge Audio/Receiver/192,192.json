@@ -1,0 +1,221 @@
+{
+    "display_name": "Cambridge Audio Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "c0",
+                "name": "SPK-SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "c0",
+                "name": "PL II NEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "c0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "c0",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "c0",
+                "name": "PFEIL LINKS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "c0",
+                "name": "TEST TONE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "c0",
+                "name": "DSP-MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "c0",
+                "name": "BASS / TREBLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "c0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "c0",
+                "name": "CH-SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "c0",
+                "name": "STEREO/MONO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f",
+                "device_address": "c0",
+                "name": "6.1 DIRECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "c0",
+                "name": "OSD ON/OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "c0",
+                "name": "SUB ON/OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "13",
+                "device_address": "c0",
+                "name": "DYNAMIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "c0",
+                "name": "STUMM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "15",
+                "device_address": "c0",
+                "name": "PFEIL RECHTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "c0",
+                "name": "PTY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "c0",
+                "name": "DD EX DTS ES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "c0",
+                "name": "STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "c0",
+                "name": "APS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "c0",
+                "name": "TUNER AM/FM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1d",
+                "device_address": "c0",
+                "name": "STORE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "c0",
+                "name": "MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "c0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "20",
+                "device_address": "c0",
+                "name": "LFE TRIM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "c0",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "c0",
+                "name": "DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "23",
+                "device_address": "c0",
+                "name": "VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "24",
+                "device_address": "c0",
+                "name": "VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "25",
+                "device_address": "c0",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "26",
+                "device_address": "c0",
+                "name": "TAPE MD/CDR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "27",
+                "device_address": "c0",
+                "name": "CD/AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "c0",
+                "name": "INPUT MODE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "a0",
+                "device_address": "c0",
+                "name": "DELAY",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

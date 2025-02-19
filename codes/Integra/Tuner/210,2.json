@@ -1,0 +1,57 @@
+{
+    "display_name": "Integra Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "d5",
+                "name": "1"
+            },
+            {
+                "address": "d6",
+                "name": "2"
+            },
+            {
+                "address": "d7",
+                "name": "3"
+            },
+            {
+                "address": "d8",
+                "name": "4"
+            },
+            {
+                "address": "d9",
+                "name": "5"
+            },
+            {
+                "address": "da",
+                "name": "6"
+            },
+            {
+                "address": "db",
+                "name": "7"
+            },
+            {
+                "address": "dc",
+                "name": "8"
+            },
+            {
+                "address": "dd",
+                "name": "9"
+            },
+            {
+                "address": "de",
+                "name": "0"
+            },
+            {
+                "address": "df",
+                "name": "DIRECT ACCESS"
+            }
+        ],
+        "device_address": "348",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

@@ -1,0 +1,97 @@
+{
+    "display_name": "Sony Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "DISPLAY ON/OFF"
+            },
+            {
+                "address": "41",
+                "name": "2CH"
+            },
+            {
+                "address": "47",
+                "name": "AUTODECODE"
+            },
+            {
+                "address": "4a",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "4c",
+                "name": "EQ"
+            },
+            {
+                "address": "4e",
+                "name": "REAR +"
+            },
+            {
+                "address": "4f",
+                "name": "REAR -"
+            },
+            {
+                "address": "54",
+                "name": "CENTER +"
+            },
+            {
+                "address": "55",
+                "name": "CENTER -"
+            },
+            {
+                "address": "58",
+                "name": "REAR L+"
+            },
+            {
+                "address": "59",
+                "name": "REAR R+"
+            },
+            {
+                "address": "69",
+                "name": "INPUT +"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT -"
+            },
+            {
+                "address": "6e",
+                "name": "MODE +"
+            },
+            {
+                "address": "6f",
+                "name": "MODE -"
+            },
+            {
+                "address": "77",
+                "name": "CURSOR MODE"
+            },
+            {
+                "address": "77",
+                "name": "MAIN MENU"
+            },
+            {
+                "address": "78",
+                "name": "UP"
+            },
+            {
+                "address": "79",
+                "name": "DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

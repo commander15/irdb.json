@@ -1,0 +1,89 @@
+{
+    "display_name": "Cambridge Audio Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "3",
+                "name": "Preset 1/5"
+            },
+            {
+                "address": "18",
+                "name": "Mode (Tuner)"
+            },
+            {
+                "address": "19",
+                "name": "Stereo/Mono (Tuner)"
+            },
+            {
+                "address": "1a",
+                "name": "Speaker A/B"
+            },
+            {
+                "address": "1b",
+                "name": "CD"
+            },
+            {
+                "address": "1c",
+                "name": "Skip/Scan up (Tuner)"
+            },
+            {
+                "address": "1d",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "Skip/Scan down (Tuner)"
+            },
+            {
+                "address": "1f",
+                "name": "BD/DVD"
+            },
+            {
+                "address": "40",
+                "name": "Preset 2/6"
+            },
+            {
+                "address": "41",
+                "name": "Preset 4/8"
+            },
+            {
+                "address": "42",
+                "name": "Preset 3/7"
+            },
+            {
+                "address": "52",
+                "name": "SOURCE"
+            },
+            {
+                "address": "58",
+                "name": "FM"
+            },
+            {
+                "address": "59",
+                "name": "AM/TUNER"
+            },
+            {
+                "address": "5c",
+                "name": "MP3/AUX"
+            },
+            {
+                "address": "5d",
+                "name": "PHONO"
+            },
+            {
+                "address": "5e",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

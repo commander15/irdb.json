@@ -1,0 +1,105 @@
+{
+    "display_name": "Rega Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2",
+                "name": "TIME"
+            },
+            {
+                "address": "3",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "7",
+                "name": "CHECK"
+            },
+            {
+                "address": "8",
+                "name": "CLEAR"
+            },
+            {
+                "address": "9",
+                "name": "1"
+            },
+            {
+                "address": "a",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "d",
+                "name": "4"
+            },
+            {
+                "address": "e",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "f",
+                "name": "STOP"
+            },
+            {
+                "address": "11",
+                "name": "7"
+            },
+            {
+                "address": "12",
+                "name": "0"
+            },
+            {
+                "address": "14",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "15",
+                "name": "8"
+            },
+            {
+                "address": "17",
+                "name": "9"
+            },
+            {
+                "address": "18",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "19",
+                "name": "5"
+            },
+            {
+                "address": "1a",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "1b",
+                "name": "6"
+            },
+            {
+                "address": "1d",
+                "name": "2"
+            },
+            {
+                "address": "1e",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "1f",
+                "name": "3"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Rega",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

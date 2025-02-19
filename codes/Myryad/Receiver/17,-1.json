@@ -1,0 +1,45 @@
+{
+    "display_name": "Myryad Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1e",
+                "name": "TUNE +"
+            },
+            {
+                "address": "1f",
+                "name": "TUNE -"
+            },
+            {
+                "address": "24",
+                "name": "MANUAL"
+            },
+            {
+                "address": "25",
+                "name": "MONO"
+            },
+            {
+                "address": "26",
+                "name": "PRESET"
+            },
+            {
+                "address": "27",
+                "name": "SEARCH"
+            },
+            {
+                "address": "29",
+                "name": "STORE"
+            },
+            {
+                "address": "3f",
+                "name": "TUNER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Myryad",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

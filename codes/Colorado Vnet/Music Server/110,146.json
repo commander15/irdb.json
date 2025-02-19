@@ -1,0 +1,73 @@
+{
+    "display_name": "Colorado Vnet Music Server",
+    "ir": {
+        "commands": [
+            {
+                "address": "7",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "9",
+                "name": "BACK"
+            },
+            {
+                "address": "b",
+                "name": "PAGE CHAPTER +"
+            },
+            {
+                "address": "c",
+                "name": "MENU"
+            },
+            {
+                "address": "d",
+                "name": "LIST COVERS <>"
+            },
+            {
+                "address": "e",
+                "name": "PAGE CHAPTER -"
+            },
+            {
+                "address": "f",
+                "name": "STOP"
+            },
+            {
+                "address": "10",
+                "name": "PLAY"
+            },
+            {
+                "address": "11",
+                "name": "PAUSE"
+            },
+            {
+                "address": "12",
+                "name": "REWIND"
+            },
+            {
+                "address": "14",
+                "name": "FFORWARD"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "26",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "41",
+                "name": "OK"
+            }
+        ],
+        "device_address": "1b80000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Colorado Vnet",
+    "model": "",
+    "name": "",
+    "target": "Music Server"
+}

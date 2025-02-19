@@ -1,0 +1,21 @@
+{
+    "display_name": "Sharp DTV Decoder",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Sharp",
+    "model": "",
+    "name": "",
+    "target": "DTV Decoder"
+}

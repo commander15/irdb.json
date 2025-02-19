@@ -1,0 +1,141 @@
+{
+    "display_name": "Channel Master Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "> ^"
+            },
+            {
+                "address": "1",
+                "name": "3 F"
+            },
+            {
+                "address": "2",
+                "name": "2 T"
+            },
+            {
+                "address": "3",
+                "name": "1 G"
+            },
+            {
+                "address": "4",
+                "name": "< V"
+            },
+            {
+                "address": "5",
+                "name": "6 X"
+            },
+            {
+                "address": "6",
+                "name": "5 W"
+            },
+            {
+                "address": "7",
+                "name": "4 S"
+            },
+            {
+                "address": "8",
+                "name": "TEXT"
+            },
+            {
+                "address": "9",
+                "name": "VIEW"
+            },
+            {
+                "address": "a",
+                "name": "SETUP"
+            },
+            {
+                "address": "b",
+                "name": "HELP"
+            },
+            {
+                "address": "c",
+                "name": "SAT"
+            },
+            {
+                "address": "d",
+                "name": "9 K"
+            },
+            {
+                "address": "e",
+                "name": "8 M"
+            },
+            {
+                "address": "f",
+                "name": "7 A"
+            },
+            {
+                "address": "10",
+                "name": "FAV"
+            },
+            {
+                "address": "11",
+                "name": "ENTER"
+            },
+            {
+                "address": "12",
+                "name": "0 Z"
+            },
+            {
+                "address": "13",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "POWER"
+            },
+            {
+                "address": "15",
+                "name": "MENU"
+            },
+            {
+                "address": "16",
+                "name": "NEXT"
+            },
+            {
+                "address": "17",
+                "name": "MESSAGE"
+            },
+            {
+                "address": "18",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "19",
+                "name": "MUTE"
+            },
+            {
+                "address": "1a",
+                "name": "AUDIO"
+            },
+            {
+                "address": "1b",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "1c",
+                "name": "CHAN"
+            },
+            {
+                "address": "1d",
+                "name": "TUNE"
+            },
+            {
+                "address": "1e",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "1f",
+                "name": "STORE"
+            }
+        ],
+        "device_address": "420",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Channel Master",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

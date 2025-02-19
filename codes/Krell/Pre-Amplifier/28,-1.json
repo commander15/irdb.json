@@ -1,0 +1,81 @@
+{
+    "display_name": "Krell Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "SUB"
+            },
+            {
+                "address": "2",
+                "name": "REAR"
+            },
+            {
+                "address": "6",
+                "name": "CNTR"
+            },
+            {
+                "address": "7",
+                "name": "MUTE"
+            },
+            {
+                "address": "b",
+                "name": "DOWN ARROW"
+            },
+            {
+                "address": "c",
+                "name": "MENU"
+            },
+            {
+                "address": "d",
+                "name": "RIGHT ARROW"
+            },
+            {
+                "address": "e",
+                "name": "ENTER"
+            },
+            {
+                "address": "f",
+                "name": "LEFT ARROW"
+            },
+            {
+                "address": "10",
+                "name": "TAPE"
+            },
+            {
+                "address": "11",
+                "name": "UP ARROW"
+            },
+            {
+                "address": "12",
+                "name": "PREV"
+            },
+            {
+                "address": "13",
+                "name": "PRE-AMP POWER"
+            },
+            {
+                "address": "1a",
+                "name": "BAL"
+            },
+            {
+                "address": "33",
+                "name": "M1"
+            },
+            {
+                "address": "35",
+                "name": "ST"
+            },
+            {
+                "address": "3e",
+                "name": "PL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

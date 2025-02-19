@@ -1,0 +1,113 @@
+{
+    "display_name": "Makita Drapery Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "21",
+                "name": "1 <-->"
+            },
+            {
+                "address": "21",
+                "name": "OPEN"
+            },
+            {
+                "address": "21",
+                "name": "OPEN 1"
+            },
+            {
+                "address": "21",
+                "name": "<- -> (OPEN)"
+            },
+            {
+                "address": "22",
+                "name": "1 -><-"
+            },
+            {
+                "address": "22",
+                "name": "CLOSE"
+            },
+            {
+                "address": "22",
+                "name": "CLOSE 1"
+            },
+            {
+                "address": "22",
+                "name": "-><- (CLOSE)"
+            },
+            {
+                "address": "23",
+                "name": "2 <-->"
+            },
+            {
+                "address": "23",
+                "name": "OPEN 2"
+            },
+            {
+                "address": "24",
+                "name": "2 -><-"
+            },
+            {
+                "address": "24",
+                "name": "CLOSE 2"
+            },
+            {
+                "address": "25",
+                "name": "STOP"
+            },
+            {
+                "address": "25",
+                "name": "STOP CLOSE"
+            },
+            {
+                "address": "25",
+                "name": "STOP OPEN"
+            },
+            {
+                "address": "26",
+                "name": "3 <-->"
+            },
+            {
+                "address": "26",
+                "name": "OPEN 3"
+            },
+            {
+                "address": "28",
+                "name": "3 -><-"
+            },
+            {
+                "address": "28",
+                "name": "CLOSE 3"
+            },
+            {
+                "address": "29",
+                "name": "4 <-->"
+            },
+            {
+                "address": "2a",
+                "name": "4 -><-"
+            },
+            {
+                "address": "2c",
+                "name": "5 <-->"
+            },
+            {
+                "address": "30",
+                "name": "5 -><-"
+            },
+            {
+                "address": "31",
+                "name": "6 <-->"
+            },
+            {
+                "address": "32",
+                "name": "6 -><-"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Akai"
+    },
+    "manufacturer": "Makita",
+    "model": "",
+    "name": "",
+    "target": "Drapery Controller"
+}

@@ -1,0 +1,85 @@
+{
+    "display_name": "Harman Kardon Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "41",
+                "name": "FM"
+            },
+            {
+                "address": "42",
+                "name": "AM"
+            },
+            {
+                "address": "44",
+                "name": "TUNING UP"
+            },
+            {
+                "address": "45",
+                "name": "TUNING DOWN"
+            },
+            {
+                "address": "46",
+                "name": "MEMO"
+            },
+            {
+                "address": "47",
+                "name": "1/9"
+            },
+            {
+                "address": "48",
+                "name": "2/10"
+            },
+            {
+                "address": "49",
+                "name": "3/11"
+            },
+            {
+                "address": "4a",
+                "name": "4/12"
+            },
+            {
+                "address": "4b",
+                "name": "5/13"
+            },
+            {
+                "address": "4c",
+                "name": "6/14"
+            },
+            {
+                "address": "4d",
+                "name": "7/15"
+            },
+            {
+                "address": "4e",
+                "name": "8/16"
+            },
+            {
+                "address": "51",
+                "name": "POWER"
+            },
+            {
+                "address": "52",
+                "name": "SEEK"
+            },
+            {
+                "address": "53",
+                "name": "SHIFT"
+            },
+            {
+                "address": "54",
+                "name": "MUTE"
+            },
+            {
+                "address": "55",
+                "name": "MONO"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Akai"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

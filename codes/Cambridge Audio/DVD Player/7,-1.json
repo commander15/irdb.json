@@ -1,0 +1,201 @@
+{
+    "display_name": "Cambridge Audio DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "STANDBY"
+            },
+            {
+                "address": "4",
+                "name": "I-SCAN"
+            },
+            {
+                "address": "6",
+                "name": "PSM"
+            },
+            {
+                "address": "7",
+                "name": "PAL/NTSC"
+            },
+            {
+                "address": "8",
+                "name": "REWIND"
+            },
+            {
+                "address": "9",
+                "name": "1"
+            },
+            {
+                "address": "a",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "b",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "c",
+                "name": "INFO"
+            },
+            {
+                "address": "d",
+                "name": "5"
+            },
+            {
+                "address": "e",
+                "name": "REPEAT"
+            },
+            {
+                "address": "f",
+                "name": "A-B"
+            },
+            {
+                "address": "10",
+                "name": "SLOW"
+            },
+            {
+                "address": "11",
+                "name": "9"
+            },
+            {
+                "address": "12",
+                "name": "MODE"
+            },
+            {
+                "address": "13",
+                "name": "MUTE"
+            },
+            {
+                "address": "14",
+                "name": "PLAY"
+            },
+            {
+                "address": "15",
+                "name": "AUDIO"
+            },
+            {
+                "address": "16",
+                "name": "PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "TITLE"
+            },
+            {
+                "address": "1d",
+                "name": "SETUP"
+            },
+            {
+                "address": "43",
+                "name": "EJECT"
+            },
+            {
+                "address": "48",
+                "name": "2"
+            },
+            {
+                "address": "49",
+                "name": "3"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP FORWARD"
+            },
+            {
+                "address": "4b",
+                "name": "4"
+            },
+            {
+                "address": "4c",
+                "name": "6"
+            },
+            {
+                "address": "4d",
+                "name": "7"
+            },
+            {
+                "address": "4e",
+                "name": "CLEAR"
+            },
+            {
+                "address": "4f",
+                "name": "8"
+            },
+            {
+                "address": "50",
+                "name": "0"
+            },
+            {
+                "address": "51",
+                "name": "+10"
+            },
+            {
+                "address": "52",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "53",
+                "name": "GOTO"
+            },
+            {
+                "address": "54",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "55",
+                "name": "ANGLE"
+            },
+            {
+                "address": "56",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "57",
+                "name": "ZOOM"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "5b",
+                "name": "MENU"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "5d",
+                "name": "SELECT"
+            },
+            {
+                "address": "5e",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5f",
+                "name": "RETURN"
+            },
+            {
+                "address": "b9",
+                "name": "OSD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

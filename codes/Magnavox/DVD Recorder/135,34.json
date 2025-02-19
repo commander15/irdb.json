@@ -1,0 +1,113 @@
+{
+    "display_name": "Magnavox DVD Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "35",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "3f",
+                "name": "RECORD"
+            },
+            {
+                "address": "45",
+                "name": "1"
+            },
+            {
+                "address": "48",
+                "name": "4"
+            },
+            {
+                "address": "49",
+                "name": "5"
+            },
+            {
+                "address": "4a",
+                "name": "6"
+            },
+            {
+                "address": "4b",
+                "name": "7"
+            },
+            {
+                "address": "4c",
+                "name": "8"
+            },
+            {
+                "address": "4d",
+                "name": "9"
+            },
+            {
+                "address": "4e",
+                "name": "0"
+            },
+            {
+                "address": "52",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "53",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "5b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "5d",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "5e",
+                "name": "PLAY"
+            },
+            {
+                "address": "5f",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "60",
+                "name": "STOP"
+            },
+            {
+                "address": "71",
+                "name": "MENU"
+            },
+            {
+                "address": "72",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "73",
+                "name": "RETURN"
+            },
+            {
+                "address": "74",
+                "name": "SETUP"
+            },
+            {
+                "address": "75",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "76",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "77",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "78",
+                "name": "CURSOR DOWN"
+            }
+        ],
+        "device_address": "21c",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Magnavox",
+    "model": "",
+    "name": "",
+    "target": "DVD Recorder"
+}

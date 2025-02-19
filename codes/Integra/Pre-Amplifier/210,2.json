@@ -1,0 +1,265 @@
+{
+    "display_name": "Integra Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "12V TRIGGER A ON"
+            },
+            {
+                "address": "5",
+                "name": "12V TRIGGER A OFF"
+            },
+            {
+                "address": "6",
+                "name": "12V TRIGGER B ON"
+            },
+            {
+                "address": "7",
+                "name": "12V TRIGGER B OFF"
+            },
+            {
+                "address": "8",
+                "name": "12V TRIGGER C ON"
+            },
+            {
+                "address": "9",
+                "name": "12V TRIGGER C OFF"
+            },
+            {
+                "address": "a",
+                "name": "MODE PLLX MOVIE"
+            },
+            {
+                "address": "b",
+                "name": "MODE PLLX MUSIC"
+            },
+            {
+                "address": "c",
+                "name": "MODE PLLX GAME"
+            },
+            {
+                "address": "d",
+                "name": "MODE NEO6 CINEMA"
+            },
+            {
+                "address": "e",
+                "name": "MODE NEO6 MUSIC"
+            },
+            {
+                "address": "14",
+                "name": "LOCK"
+            },
+            {
+                "address": "15",
+                "name": "UNLOCK"
+            },
+            {
+                "address": "40",
+                "name": "TUNE DIRECT"
+            },
+            {
+                "address": "40",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "41",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "TUNE SEARCH MODE"
+            },
+            {
+                "address": "5c",
+                "name": "STORE"
+            },
+            {
+                "address": "5d",
+                "name": "RECALL"
+            },
+            {
+                "address": "80",
+                "name": "NET/USB FFWD"
+            },
+            {
+                "address": "81",
+                "name": "NET/USB REW"
+            },
+            {
+                "address": "86",
+                "name": "NET/USB RETURN"
+            },
+            {
+                "address": "87",
+                "name": "INPUT NET AUDIO"
+            },
+            {
+                "address": "88",
+                "name": "INPUT MUSIC SERVER"
+            },
+            {
+                "address": "89",
+                "name": "INPUT INTERNET RADIO"
+            },
+            {
+                "address": "8d",
+                "name": "NET/USB PLAY"
+            },
+            {
+                "address": "8e",
+                "name": "NET/USB STOP"
+            },
+            {
+                "address": "8f",
+                "name": "NET/USB TRACK +"
+            },
+            {
+                "address": "90",
+                "name": "NET/USB TRACK -"
+            },
+            {
+                "address": "91",
+                "name": "NET/USB PAUSE"
+            },
+            {
+                "address": "92",
+                "name": "NET/USB REPEAT"
+            },
+            {
+                "address": "94",
+                "name": "NET/USB MENU"
+            },
+            {
+                "address": "95",
+                "name": "NET/USB TOP MENU"
+            },
+            {
+                "address": "9b",
+                "name": "NET/USB RANDOM"
+            },
+            {
+                "address": "9e",
+                "name": "NET/USB DISPLAY"
+            },
+            {
+                "address": "9f",
+                "name": "NET/USB SETUP"
+            },
+            {
+                "address": "c0",
+                "name": "NET/USB UP"
+            },
+            {
+                "address": "c1",
+                "name": "NET/USB DOWN"
+            },
+            {
+                "address": "c2",
+                "name": "NET/USB LEFT"
+            },
+            {
+                "address": "c3",
+                "name": "NET/USB RIGHT"
+            },
+            {
+                "address": "c4",
+                "name": "NET/USB SELECT"
+            },
+            {
+                "address": "d0",
+                "name": "NET/USB CAPS"
+            },
+            {
+                "address": "d1",
+                "name": "NET/USB DELETE"
+            },
+            {
+                "address": "d5",
+                "name": "1"
+            },
+            {
+                "address": "d5",
+                "name": "NET/USB 1"
+            },
+            {
+                "address": "d6",
+                "name": "2"
+            },
+            {
+                "address": "d6",
+                "name": "NET/USB 2"
+            },
+            {
+                "address": "d7",
+                "name": "3"
+            },
+            {
+                "address": "d7",
+                "name": "NET/USB 3"
+            },
+            {
+                "address": "d8",
+                "name": "4"
+            },
+            {
+                "address": "d8",
+                "name": "NET/USB 4"
+            },
+            {
+                "address": "d9",
+                "name": "5"
+            },
+            {
+                "address": "d9",
+                "name": "NET/USB 5"
+            },
+            {
+                "address": "da",
+                "name": "6"
+            },
+            {
+                "address": "da",
+                "name": "NET/USB 6"
+            },
+            {
+                "address": "db",
+                "name": "7"
+            },
+            {
+                "address": "db",
+                "name": "NET/USB 7"
+            },
+            {
+                "address": "dc",
+                "name": "8"
+            },
+            {
+                "address": "dc",
+                "name": "NET/USB 8"
+            },
+            {
+                "address": "dd",
+                "name": "9"
+            },
+            {
+                "address": "dd",
+                "name": "NET/USB 9"
+            },
+            {
+                "address": "de",
+                "name": "0/10"
+            },
+            {
+                "address": "de",
+                "name": "NET/USB 0"
+            }
+        ],
+        "device_address": "348",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

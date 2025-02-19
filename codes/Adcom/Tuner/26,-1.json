@@ -1,0 +1,117 @@
+{
+    "display_name": "Adcom Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "82",
+                "name": "MUTE"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "85",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "87",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "88",
+                "name": "CD"
+            },
+            {
+                "address": "89",
+                "name": "TUNER"
+            },
+            {
+                "address": "8a",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "8b",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "8c",
+                "name": "TUNING >"
+            },
+            {
+                "address": "8d",
+                "name": "TUNING <"
+            },
+            {
+                "address": "8e",
+                "name": "+10"
+            },
+            {
+                "address": "8f",
+                "name": "FM/AM"
+            },
+            {
+                "address": "90",
+                "name": "1"
+            },
+            {
+                "address": "91",
+                "name": "2"
+            },
+            {
+                "address": "92",
+                "name": "3"
+            },
+            {
+                "address": "93",
+                "name": "4"
+            },
+            {
+                "address": "94",
+                "name": "5"
+            },
+            {
+                "address": "95",
+                "name": "6"
+            },
+            {
+                "address": "96",
+                "name": "7"
+            },
+            {
+                "address": "97",
+                "name": "8"
+            },
+            {
+                "address": "98",
+                "name": "9"
+            },
+            {
+                "address": "9a",
+                "name": "0"
+            },
+            {
+                "address": "d1",
+                "name": "MASTER VOL V"
+            },
+            {
+                "address": "d5",
+                "name": "MASTER VOL ^"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

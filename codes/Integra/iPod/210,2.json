@@ -1,0 +1,105 @@
+{
+    "display_name": "Integra iPod",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "POWER ON"
+            },
+            {
+                "address": "19",
+                "name": "STANDBY"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "STOP"
+            },
+            {
+                "address": "1c",
+                "name": "TRACK +"
+            },
+            {
+                "address": "1d",
+                "name": "TRACK -"
+            },
+            {
+                "address": "1e",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1f",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "42",
+                "name": "FF"
+            },
+            {
+                "address": "43",
+                "name": "REW"
+            },
+            {
+                "address": "50",
+                "name": "ALBUM UP"
+            },
+            {
+                "address": "51",
+                "name": "ALBUM DOWN"
+            },
+            {
+                "address": "52",
+                "name": "PLAYLIST UP"
+            },
+            {
+                "address": "53",
+                "name": "PLAYLIST DOWN"
+            },
+            {
+                "address": "54",
+                "name": "CHAPTER UP"
+            },
+            {
+                "address": "55",
+                "name": "CHAPTER DOWN"
+            },
+            {
+                "address": "56",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "57",
+                "name": "REPEAT"
+            },
+            {
+                "address": "59",
+                "name": "BACKLIGHT"
+            },
+            {
+                "address": "5a",
+                "name": "MENU"
+            },
+            {
+                "address": "5b",
+                "name": "SELECT"
+            },
+            {
+                "address": "82",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "83",
+                "name": "CURSOR DOWN"
+            }
+        ],
+        "device_address": "348",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "iPod"
+}

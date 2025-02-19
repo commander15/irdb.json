@@ -1,0 +1,69 @@
+{
+    "display_name": "Hewlett Packard Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "a",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "d",
+                "name": "INPUT AV1"
+            },
+            {
+                "address": "e",
+                "name": "INPUT AV2"
+            },
+            {
+                "address": "f",
+                "name": "INPUT AV3"
+            },
+            {
+                "address": "12",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "13",
+                "name": "INPUT YPBRPR1"
+            },
+            {
+                "address": "14",
+                "name": "INPUT YPBRPR2"
+            },
+            {
+                "address": "15",
+                "name": "INPUT HDMI"
+            },
+            {
+                "address": "17",
+                "name": "INPUT DVI"
+            },
+            {
+                "address": "18",
+                "name": "INPUT RGB"
+            },
+            {
+                "address": "19",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "1a",
+                "name": "MUTE OFF"
+            }
+        ],
+        "device_address": "40000",
+        "protocol": "MCE"
+    },
+    "manufacturer": "Hewlett Packard",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

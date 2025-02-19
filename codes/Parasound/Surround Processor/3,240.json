@@ -1,0 +1,117 @@
+{
+    "display_name": "Parasound Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "AUDIO1"
+            },
+            {
+                "address": "81",
+                "name": "AUDIO2"
+            },
+            {
+                "address": "82",
+                "name": "AUDIO3"
+            },
+            {
+                "address": "83",
+                "name": "RF"
+            },
+            {
+                "address": "83",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "84",
+                "name": "TOSLINK"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "85",
+                "name": "COAX1"
+            },
+            {
+                "address": "85",
+                "name": "VIDEO3"
+            },
+            {
+                "address": "86",
+                "name": "COAX2"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO4"
+            },
+            {
+                "address": "90",
+                "name": "STEREO-DIRECT"
+            },
+            {
+                "address": "91",
+                "name": "5.1"
+            },
+            {
+                "address": "94",
+                "name": "PROLOGIC"
+            },
+            {
+                "address": "95",
+                "name": "THX"
+            },
+            {
+                "address": "9c",
+                "name": "MONO"
+            },
+            {
+                "address": "c0",
+                "name": "ON"
+            },
+            {
+                "address": "c8",
+                "name": "MUTE"
+            },
+            {
+                "address": "cb",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "cc",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "cf",
+                "name": "OFF"
+            },
+            {
+                "address": "d0",
+                "name": "2CH"
+            },
+            {
+                "address": "d1",
+                "name": "SURROUND"
+            },
+            {
+                "address": "d2",
+                "name": "DIALOGNORMALIZATION"
+            },
+            {
+                "address": "d3",
+                "name": "DYNAMIC RANGE"
+            },
+            {
+                "address": "d7",
+                "name": "RE-EQ"
+            }
+        ],
+        "device_address": "30000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Parasound",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

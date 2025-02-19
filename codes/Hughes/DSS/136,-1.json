@@ -1,0 +1,37 @@
+{
+    "display_name": "Hughes DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "FF >>"
+            },
+            {
+                "address": "2",
+                "name": "REW <<"
+            },
+            {
+                "address": "3",
+                "name": "STOP []"
+            },
+            {
+                "address": "5",
+                "name": "RECORD"
+            },
+            {
+                "address": "6",
+                "name": "PLAY >"
+            },
+            {
+                "address": "f",
+                "name": "PAUSE "
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hughes",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

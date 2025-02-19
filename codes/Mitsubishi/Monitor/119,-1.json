@@ -1,0 +1,29 @@
+{
+    "display_name": "Mitsubishi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "SKIP SEARCH"
+            },
+            {
+                "address": "5",
+                "name": "AUDIO TV/VCR"
+            },
+            {
+                "address": "5",
+                "name": "AUDIO VCR/TV"
+            },
+            {
+                "address": "17",
+                "name": "REPEAT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

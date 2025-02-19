@@ -1,0 +1,33 @@
+{
+    "display_name": "Audio Authority HDMI Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "12",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "43000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Audio Authority",
+    "model": "",
+    "name": "",
+    "target": "HDMI Switcher"
+}

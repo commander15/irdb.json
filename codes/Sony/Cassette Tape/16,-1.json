@@ -1,0 +1,45 @@
+{
+    "display_name": "Sony Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "32",
+                "name": "> PLAY"
+            },
+            {
+                "address": "33",
+                "name": "<< REWIND"
+            },
+            {
+                "address": "34",
+                "name": ">> FAST FORWARD"
+            },
+            {
+                "address": "36",
+                "name": "RECORD"
+            },
+            {
+                "address": "37",
+                "name": "< PLAY"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "3f",
+                "name": "REC MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

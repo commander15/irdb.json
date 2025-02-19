@@ -1,0 +1,125 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "90",
+                "name": "TUNER NEW TUNE UP"
+            },
+            {
+                "address": "91",
+                "name": "TUNER NEW TUNE DOWN"
+            },
+            {
+                "address": "92",
+                "name": "TUNER NEW PRESET UP"
+            },
+            {
+                "address": "93",
+                "name": "TUNER NEW PRESET DOWN"
+            },
+            {
+                "address": "94",
+                "name": "TUNER NEW SHIFT"
+            },
+            {
+                "address": "98",
+                "name": "TUNER NEW BAND TOGGLE AM/FM"
+            },
+            {
+                "address": "99",
+                "name": "TUNER NEW BAND FM"
+            },
+            {
+                "address": "9a",
+                "name": "TUNER NEW BAND AM"
+            },
+            {
+                "address": "9c",
+                "name": "TUNER NEW MODE TOGGLE AUTO/MANUAL"
+            },
+            {
+                "address": "a0",
+                "name": "TUNER NEW MEMORY"
+            },
+            {
+                "address": "a3",
+                "name": "TUNER NEW SEARCH/RDS"
+            },
+            {
+                "address": "a6",
+                "name": "TUNER NEW RT"
+            },
+            {
+                "address": "a9",
+                "name": "TUNER NEW PTY"
+            },
+            {
+                "address": "b0",
+                "name": "TUNER NEW PRESET 1"
+            },
+            {
+                "address": "b1",
+                "name": "TUNER NEW PRESET 2"
+            },
+            {
+                "address": "b2",
+                "name": "TUNER NEW PRESET 3"
+            },
+            {
+                "address": "b3",
+                "name": "TUNER NEW PRESET 4"
+            },
+            {
+                "address": "b4",
+                "name": "TUNER NEW PRESET 5"
+            },
+            {
+                "address": "b5",
+                "name": "TUNER NEW PRESET 6"
+            },
+            {
+                "address": "b6",
+                "name": "TUNER NEW PRESET 7"
+            },
+            {
+                "address": "b7",
+                "name": "TUNER NEW PRESET 8"
+            },
+            {
+                "address": "f8",
+                "name": "TUNER NEW SHIFT A"
+            },
+            {
+                "address": "f9",
+                "name": "TUNER NEW SHIFT B"
+            },
+            {
+                "address": "fa",
+                "name": "TUNER NEW SHIFT C"
+            },
+            {
+                "address": "fb",
+                "name": "TUNER NEW SHIFT D"
+            },
+            {
+                "address": "fc",
+                "name": "TUNER NEW SHIFT E"
+            },
+            {
+                "address": "fd",
+                "name": "TUNER NEW SHIFT F"
+            },
+            {
+                "address": "fe",
+                "name": "TUNER NEW SHIFT G"
+            }
+        ],
+        "device_address": "10",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

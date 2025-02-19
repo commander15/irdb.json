@@ -1,0 +1,29 @@
+{
+    "display_name": "Boxlight Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "MENU"
+            },
+            {
+                "address": "d",
+                "name": "POWER"
+            },
+            {
+                "address": "19",
+                "name": "COMPUTER"
+            },
+            {
+                "address": "1a",
+                "name": "VIDEO"
+            }
+        ],
+        "device_address": "21c000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Boxlight",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

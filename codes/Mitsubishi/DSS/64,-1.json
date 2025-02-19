@@ -1,0 +1,25 @@
+{
+    "display_name": "Mitsubishi DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "MUTE"
+            },
+            {
+                "address": "1a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

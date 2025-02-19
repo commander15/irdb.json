@@ -1,0 +1,113 @@
+{
+    "display_name": "Accupel Signal Generator",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "MUTE"
+            },
+            {
+                "address": "3",
+                "name": "GROUP UP"
+            },
+            {
+                "address": "4",
+                "name": "GROUP DOWN"
+            },
+            {
+                "address": "5",
+                "name": "PATTERN UP"
+            },
+            {
+                "address": "6",
+                "name": "PATTERN DOWN"
+            },
+            {
+                "address": "7",
+                "name": "LIST>"
+            },
+            {
+                "address": "8",
+                "name": "<LIST"
+            },
+            {
+                "address": "9",
+                "name": "PLUGE 1"
+            },
+            {
+                "address": "a",
+                "name": "GREY SCALE 2"
+            },
+            {
+                "address": "b",
+                "name": "GRAY FIELD 3"
+            },
+            {
+                "address": "d",
+                "name": "COLOR 75 4"
+            },
+            {
+                "address": "e",
+                "name": "COLOR 100 5"
+            },
+            {
+                "address": "f",
+                "name": "6"
+            },
+            {
+                "address": "11",
+                "name": "7"
+            },
+            {
+                "address": "11",
+                "name": "480I"
+            },
+            {
+                "address": "12",
+                "name": "480P"
+            },
+            {
+                "address": "12",
+                "name": "8"
+            },
+            {
+                "address": "13",
+                "name": "1080I"
+            },
+            {
+                "address": "13",
+                "name": "9"
+            },
+            {
+                "address": "14",
+                "name": "10"
+            },
+            {
+                "address": "14",
+                "name": "720P"
+            },
+            {
+                "address": "15",
+                "name": "YPBPR 11"
+            },
+            {
+                "address": "16",
+                "name": "RGB 12"
+            },
+            {
+                "address": "1d",
+                "name": "YPBPRS 13"
+            },
+            {
+                "address": "1e",
+                "name": "RGBS 14"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Accupel",
+    "model": "",
+    "name": "",
+    "target": "Signal Generator"
+}

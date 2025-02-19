@@ -1,0 +1,77 @@
+{
+    "display_name": "Epson Unknown_ELPST12",
+    "ir": {
+        "commands": [
+            {
+                "address": "84",
+                "name": "KEY_ESC"
+            },
+            {
+                "address": "85",
+                "name": "KEY_SELECT"
+            },
+            {
+                "address": "8a",
+                "name": "ASPECT"
+            },
+            {
+                "address": "8b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "8f",
+                "name": "COLOR-MODE"
+            },
+            {
+                "address": "90",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "92",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "93",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "9a",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "9c",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "9d",
+                "name": "INPUT-A-B"
+            },
+            {
+                "address": "9e",
+                "name": "AUTO"
+            },
+            {
+                "address": "b0",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "b1",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "b2",
+                "name": "KEY_DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "KEY_LEFT"
+            }
+        ],
+        "device_address": "10600000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Epson",
+    "model": "",
+    "name": "",
+    "target": "Unknown_ELPST12"
+}

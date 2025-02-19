@@ -1,0 +1,37 @@
+{
+    "display_name": "JVC Camcorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "SHIFT STOP"
+            },
+            {
+                "address": "6",
+                "name": "SHIFT FFWD >>"
+            },
+            {
+                "address": "7",
+                "name": "SHIFT REW <<"
+            },
+            {
+                "address": "c",
+                "name": "SHIFT PLAY"
+            },
+            {
+                "address": "d",
+                "name": "SHIFT PAUSE"
+            },
+            {
+                "address": "cd",
+                "name": "EDIT - RECORD PAUSE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Camcorder"
+}

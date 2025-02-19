@@ -1,0 +1,169 @@
+{
+    "display_name": "Bose 3-2-1",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "VOLYM -"
+            },
+            {
+                "address": "3",
+                "name": "VOLYM +"
+            },
+            {
+                "address": "6",
+                "name": "INPUT FM-AM"
+            },
+            {
+                "address": "e",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "f",
+                "name": "INPUT AUX"
+            },
+            {
+                "address": "15",
+                "name": "INPUT CBL-SAT"
+            },
+            {
+                "address": "18",
+                "name": "CH/PRESET -"
+            },
+            {
+                "address": "19",
+                "name": "CH/PRESET +"
+            },
+            {
+                "address": "1a",
+                "name": "STOP"
+            },
+            {
+                "address": "20",
+                "name": "CURSOR NER/TUNE"
+            },
+            {
+                "address": "30",
+                "name": "EXIT"
+            },
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "41",
+                "name": "1"
+            },
+            {
+                "address": "42",
+                "name": "2"
+            },
+            {
+                "address": "43",
+                "name": "3"
+            },
+            {
+                "address": "44",
+                "name": "4"
+            },
+            {
+                "address": "45",
+                "name": "5"
+            },
+            {
+                "address": "46",
+                "name": "6"
+            },
+            {
+                "address": "47",
+                "name": "7"
+            },
+            {
+                "address": "48",
+                "name": "8"
+            },
+            {
+                "address": "49",
+                "name": "9"
+            },
+            {
+                "address": "4c",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "53",
+                "name": "INPUT CD-DVD"
+            },
+            {
+                "address": "55",
+                "name": "PLAY"
+            },
+            {
+                "address": "56",
+                "name": "PAUSE"
+            },
+            {
+                "address": "57",
+                "name": "SEEK <<"
+            },
+            {
+                "address": "58",
+                "name": "SEEK >>"
+            },
+            {
+                "address": "5c",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "60",
+                "name": "GER/SEARCH"
+            },
+            {
+                "address": "64",
+                "name": "INFO"
+            },
+            {
+                "address": "70",
+                "name": "SYSTEM"
+            },
+            {
+                "address": "80",
+                "name": "SETTINGS"
+            },
+            {
+                "address": "90",
+                "name": "DVD MENU"
+            },
+            {
+                "address": "9d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "a0",
+                "name": "NSTER/SEARC"
+            },
+            {
+                "address": "c0",
+                "name": "CURSOR UPP/TUNE"
+            },
+            {
+                "address": "d0",
+                "name": "GUIDE"
+            },
+            {
+                "address": "e0",
+                "name": "CURSOR ENTER"
+            }
+        ],
+        "device_address": "5d000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Bose",
+    "model": "",
+    "name": "",
+    "target": "3-2-1"
+}

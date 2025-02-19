@@ -1,0 +1,161 @@
+{
+    "display_name": "BnK Components Matrix Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3",
+                "name": "MUTE"
+            },
+            {
+                "address": "5",
+                "name": "IN 1"
+            },
+            {
+                "address": "6",
+                "name": "IN 3"
+            },
+            {
+                "address": "7",
+                "name": "IN 8"
+            },
+            {
+                "address": "9",
+                "name": "IN 2"
+            },
+            {
+                "address": "b",
+                "name": "IN 7"
+            },
+            {
+                "address": "d",
+                "name": "IN 4"
+            },
+            {
+                "address": "f",
+                "name": "IN 5"
+            },
+            {
+                "address": "17",
+                "name": "STATION -"
+            },
+            {
+                "address": "18",
+                "name": "STATION +"
+            },
+            {
+                "address": "1b",
+                "name": "TUNE -"
+            },
+            {
+                "address": "1c",
+                "name": "TUNE +"
+            },
+            {
+                "address": "23",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "24",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "29",
+                "name": "+ 10"
+            },
+            {
+                "address": "29",
+                "name": ""
+            },
+            {
+                "address": "30",
+                "name": "ENTER"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "35",
+                "name": "4"
+            },
+            {
+                "address": "36",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": ""
+            },
+            {
+                "address": "37",
+                "name": "6"
+            },
+            {
+                "address": "39",
+                "name": "7"
+            },
+            {
+                "address": "3a",
+                "name": "8"
+            },
+            {
+                "address": "3b",
+                "name": "9"
+            },
+            {
+                "address": "3b",
+                "name": ""
+            },
+            {
+                "address": "3e",
+                "name": "0"
+            },
+            {
+                "address": "4a",
+                "name": "IN 6"
+            },
+            {
+                "address": "5a",
+                "name": "D-IN"
+            },
+            {
+                "address": "6e",
+                "name": "IN 9"
+            },
+            {
+                "address": "6e",
+                "name": ""
+            },
+            {
+                "address": "76",
+                "name": "AM"
+            },
+            {
+                "address": "8e",
+                "name": "FM"
+            }
+        ],
+        "device_address": "4e000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "BnK Components",
+    "model": "",
+    "name": "",
+    "target": "Matrix Switcher"
+}

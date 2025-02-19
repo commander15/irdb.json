@@ -1,0 +1,101 @@
+{
+    "display_name": "RME audio",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "Vol -"
+            },
+            {
+                "address": "20",
+                "name": "power"
+            },
+            {
+                "address": "21",
+                "name": "vol -"
+            },
+            {
+                "address": "22",
+                "name": "vol +"
+            },
+            {
+                "address": "23",
+                "name": "coax"
+            },
+            {
+                "address": "24",
+                "name": "opt"
+            },
+            {
+                "address": "25",
+                "name": "usb"
+            },
+            {
+                "address": "26",
+                "name": "1"
+            },
+            {
+                "address": "27",
+                "name": "2"
+            },
+            {
+                "address": "28",
+                "name": "3"
+            },
+            {
+                "address": "29",
+                "name": "4"
+            },
+            {
+                "address": "2b",
+                "name": "b/t"
+            },
+            {
+                "address": "2c",
+                "name": "eq"
+            },
+            {
+                "address": "2d",
+                "name": "ld"
+            },
+            {
+                "address": "2e",
+                "name": "mute"
+            },
+            {
+                "address": "2f",
+                "name": "bass +"
+            },
+            {
+                "address": "30",
+                "name": "bass -"
+            },
+            {
+                "address": "31",
+                "name": "trebble +"
+            },
+            {
+                "address": "32",
+                "name": "trebble -"
+            },
+            {
+                "address": "33",
+                "name": "left"
+            },
+            {
+                "address": "34",
+                "name": "right"
+            },
+            {
+                "address": "35",
+                "name": "sel"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "nec1"
+    },
+    "manufacturer": "RME",
+    "model": "",
+    "name": "",
+    "target": "audio"
+}

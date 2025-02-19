@@ -1,0 +1,113 @@
+{
+    "display_name": "Marantz Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "0",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "RECAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "INPUT: RGB 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "21",
+                "device_address": "0",
+                "name": "INPUT: VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "22",
+                "device_address": "0",
+                "name": "INPUT: VIDEO 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3e",
+                "device_address": "0",
+                "name": "POWER ON",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3f",
+                "device_address": "0",
+                "name": "POWER OFF",
+                "protocol": "NEC"
+            },
+            {
+                "address": "53",
+                "device_address": "0",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "70",
+                "device_address": "0",
+                "name": "CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "0",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "0",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "73",
+                "device_address": "0",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a1",
+                "device_address": "0",
+                "name": "INPUT: RGB 1",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

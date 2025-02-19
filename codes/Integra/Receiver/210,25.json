@@ -1,0 +1,419 @@
+{
+    "display_name": "Integra Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "device_address": "-5c000000",
+                "name": "SETUP HOME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "-5c000000",
+                "name": "AUDIO COAX/OPT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "-5c000000",
+                "name": "AUDIO COAX/OPT AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION 1080P/24F",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "-5c000000",
+                "name": "MODE THX MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "-5c000000",
+                "name": "THX MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "-5c000000",
+                "name": "MODE THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "-5c000000",
+                "name": "THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "-5c000000",
+                "name": "MODE NEURAL CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "-5c000000",
+                "name": "MODE NEURAL MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION SOURCE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION THRU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION THROUGH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: THROUGH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION 480P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: 480P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION 720P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: 720P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION 1080I",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: 1080I",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION 1080P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "-5c000000",
+                "name": "RESOLUTION: 1080P",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "-5c000000",
+                "name": "AUDIO AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "-5c000000",
+                "name": "AUDIO: AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "-5c000000",
+                "name": "AUTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "-5c000000",
+                "name": "AUDIO ANALOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "-5c000000",
+                "name": "ANALOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "-5c000000",
+                "name": "AUDIO MULTI CHANNEL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "-5c000000",
+                "name": "AUDIO: ANALOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "-5c000000",
+                "name": "MULITCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "-5c000000",
+                "name": "AUDIO HDMI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "-5c000000",
+                "name": "HDMI",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "-5c000000",
+                "name": "MODE PLLX THX MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "-5c000000",
+                "name": "MODE PLLX THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "-5c000000",
+                "name": "PLIIX THX GAMES",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d6",
+                "device_address": "-5c000000",
+                "name": "NEO: 6 THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d6",
+                "device_address": "-5c000000",
+                "name": "PLIIX THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "-5c000000",
+                "name": "MODE NEO THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "-5c000000",
+                "name": "NEO:6 THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "-5c000000",
+                "name": "MODE NEURAL THX GAME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "-5c000000",
+                "name": "MODE PLLX THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "-5c000000",
+                "name": "PLIIX THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d8",
+                "device_address": "-5c000000",
+                "name": "MODE: PLIIX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "-5c000000",
+                "name": "NEO: 6 THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "-5c000000",
+                "name": "NEO:6 THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "-5c000000",
+                "name": "MODE THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "-5c000000",
+                "name": "THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "-5c000000",
+                "name": "MODE: THX CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "-5c000000",
+                "name": "MODE THX SURR EX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "-5c000000",
+                "name": "THX SURROUND EX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "-5c000000",
+                "name": "MODE: THX SURR EX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "-5c000000",
+                "name": "MODE THX ULTRA2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "-5c000000",
+                "name": "THX ULTRA2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "-5c000000",
+                "name": "THX ULTRA2/CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "-5c000000",
+                "name": "MODE: THX ULTRA 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dd",
+                "device_address": "-5c000000",
+                "name": "MODE THX MUSIC MODE2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dd",
+                "device_address": "-5c000000",
+                "name": "THX ULTRA2 MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dd",
+                "device_address": "-5c000000",
+                "name": "THX MUSIC MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dd",
+                "device_address": "-5c000000",
+                "name": "MODE: THX MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "-5c000000",
+                "name": "MODE THX GAMES MODE2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "-5c000000",
+                "name": "THX ULTRA2 GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "-5c000000",
+                "name": "THX GAMES MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "-5c000000",
+                "name": "MODE: THX GAMES",
+                "protocol": "NEC"
+            },
+            {
+                "address": "de",
+                "device_address": "-5c000000",
+                "name": "MODE: PLII THX GAMES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "-5c000000",
+                "name": "NEURAL THX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "-5c000000",
+                "name": "MODE NEURAL THX SURR",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

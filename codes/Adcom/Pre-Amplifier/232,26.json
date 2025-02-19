@@ -1,0 +1,29 @@
+{
+    "display_name": "Adcom Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "2a",
+                "name": "MAIN POWER ON D"
+            },
+            {
+                "address": "54",
+                "name": "MAIN POWER ON C"
+            },
+            {
+                "address": "55",
+                "name": "MAIN POWER OFF C"
+            },
+            {
+                "address": "aa",
+                "name": "MAIN POWER OFF D"
+            }
+        ],
+        "device_address": "-60000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

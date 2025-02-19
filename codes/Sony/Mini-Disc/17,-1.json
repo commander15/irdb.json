@@ -1,0 +1,29 @@
+{
+    "display_name": "Sony Mini-Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "32",
+                "name": "CD-SYNC STANDBY"
+            },
+            {
+                "address": "32",
+                "name": ""
+            },
+            {
+                "address": "38",
+                "name": "CD-SYNC STOP"
+            },
+            {
+                "address": "39",
+                "name": ""
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Mini-Disc"
+}

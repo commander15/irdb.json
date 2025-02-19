@@ -1,0 +1,161 @@
+{
+    "display_name": "Denon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "53",
+                "name": "DECK A/B"
+            },
+            {
+                "address": "53",
+                "name": "DECK1 A/B"
+            },
+            {
+                "address": "53",
+                "name": "DECK SELECT A/B"
+            },
+            {
+                "address": "57",
+                "name": "DECK REV PLAY <"
+            },
+            {
+                "address": "57",
+                "name": "DECK1 REV PLAY <"
+            },
+            {
+                "address": "57",
+                "name": "DECK PLAY REV <"
+            },
+            {
+                "address": "57",
+                "name": "DECK PLAY(REV) <"
+            },
+            {
+                "address": "57",
+                "name": "DECK PLAY REV. <"
+            },
+            {
+                "address": "5a",
+                "name": "DECK FF >>"
+            },
+            {
+                "address": "5a",
+                "name": "DECK1 FF >>"
+            },
+            {
+                "address": "5b",
+                "name": "DECK REW <<"
+            },
+            {
+                "address": "5b",
+                "name": "DECK1 REW <<"
+            },
+            {
+                "address": "5c",
+                "name": "DECK PLAY >"
+            },
+            {
+                "address": "5c",
+                "name": "DECK1 PLAY >"
+            },
+            {
+                "address": "5d",
+                "name": "DECK PAUSE"
+            },
+            {
+                "address": "5d",
+                "name": "DECK1 PAUSE "
+            },
+            {
+                "address": "5e",
+                "name": "DECK STOP []"
+            },
+            {
+                "address": "5e",
+                "name": "DECK1 STOP []"
+            },
+            {
+                "address": "5f",
+                "name": "DECK REC"
+            },
+            {
+                "address": "5f",
+                "name": "DECK1 REC"
+            },
+            {
+                "address": "75",
+                "name": "DECK POWER"
+            },
+            {
+                "address": "d8",
+                "name": "DAT SRCH >>"
+            },
+            {
+                "address": "d8",
+                "name": "DAT1 SRCH >>"
+            },
+            {
+                "address": "d9",
+                "name": "DAT SRCH <<"
+            },
+            {
+                "address": "d9",
+                "name": "DAT1 SRCH <<"
+            },
+            {
+                "address": "da",
+                "name": "DAT FF >>"
+            },
+            {
+                "address": "da",
+                "name": "DAT1 FF >>"
+            },
+            {
+                "address": "db",
+                "name": "DAT REW <<"
+            },
+            {
+                "address": "db",
+                "name": "DAT1 REW <<"
+            },
+            {
+                "address": "dc",
+                "name": "DAT PLAY >"
+            },
+            {
+                "address": "dc",
+                "name": "DAT1 PLAY >"
+            },
+            {
+                "address": "dd",
+                "name": "DAT PAUSE "
+            },
+            {
+                "address": "dd",
+                "name": "DAT1 PAUSE "
+            },
+            {
+                "address": "de",
+                "name": "DAT STOP []"
+            },
+            {
+                "address": "de",
+                "name": "DAT1 STOP []"
+            },
+            {
+                "address": "df",
+                "name": "DAT REC"
+            },
+            {
+                "address": "df",
+                "name": "DAT1 REC"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

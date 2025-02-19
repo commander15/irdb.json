@@ -1,0 +1,53 @@
+{
+    "display_name": "Imerge Digital Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "cd",
+                "name": "1B"
+            },
+            {
+                "address": "ce",
+                "name": "2B"
+            },
+            {
+                "address": "cf",
+                "name": "3B"
+            },
+            {
+                "address": "d0",
+                "name": "4B"
+            },
+            {
+                "address": "d1",
+                "name": "5B"
+            },
+            {
+                "address": "d2",
+                "name": "6B"
+            },
+            {
+                "address": "d3",
+                "name": "7B"
+            },
+            {
+                "address": "d4",
+                "name": "8B"
+            },
+            {
+                "address": "d5",
+                "name": "9B"
+            },
+            {
+                "address": "d6",
+                "name": "0B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Imerge",
+    "model": "",
+    "name": "",
+    "target": "Digital Jukebox"
+}

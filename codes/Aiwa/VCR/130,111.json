@@ -1,0 +1,53 @@
+{
+    "display_name": "Aiwa VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "13",
+                "name": "PAL-SCAM/NTSC1/NTSC2"
+            },
+            {
+                "address": "17",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "18",
+                "name": "POWER"
+            },
+            {
+                "address": "19",
+                "name": "STOP []"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY >"
+            },
+            {
+                "address": "1b",
+                "name": "FF/SRCH >>"
+            },
+            {
+                "address": "1c",
+                "name": "REW/SRCH <<"
+            },
+            {
+                "address": "1d",
+                "name": "PAUSE /><"
+            },
+            {
+                "address": "1e",
+                "name": "REC"
+            },
+            {
+                "address": "1f",
+                "name": "TRACKING -"
+            }
+        ],
+        "device_address": "410000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Aiwa",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,445 @@
+{
+    "display_name": "Sony DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "4",
+                "name": ""
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "9",
+                "name": "ALTERNATE AUDIO"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "b",
+                "name": "ENTER/JUMP"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "11",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "ALTERNATE AUDIO"
+            },
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "BACK"
+            },
+            {
+                "address": "1b",
+                "name": "RR"
+            },
+            {
+                "address": "1c",
+                "name": "FORWARD"
+            },
+            {
+                "address": "1c",
+                "name": "FF"
+            },
+            {
+                "address": "1d",
+                "name": "REC ON/OFF"
+            },
+            {
+                "address": "1d",
+                "name": "REC"
+            },
+            {
+                "address": "20",
+                "name": "LIST"
+            },
+            {
+                "address": "23",
+                "name": "SLOW FWD"
+            },
+            {
+                "address": "23",
+                "name": "REPLAY"
+            },
+            {
+                "address": "27",
+                "name": "ADVANCE"
+            },
+            {
+                "address": "27",
+                "name": "JUMP"
+            },
+            {
+                "address": "28",
+                "name": "WINDOW"
+            },
+            {
+                "address": "29",
+                "name": "SEARCH"
+            },
+            {
+                "address": "2a",
+                "name": "INFO"
+            },
+            {
+                "address": "2b",
+                "name": "MY SHOWS"
+            },
+            {
+                "address": "2c",
+                "name": "HELP"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2e",
+                "name": "PWR ON"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "32",
+                "name": "OUTPUT CONTROL"
+            },
+            {
+                "address": "32",
+                "name": "OUTPUT"
+            },
+            {
+                "address": "32",
+                "name": ""
+            },
+            {
+                "address": "32",
+                "name": "FORMAT"
+            },
+            {
+                "address": "35",
+                "name": "SIGNAL"
+            },
+            {
+                "address": "38",
+                "name": "MENU"
+            },
+            {
+                "address": "3a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3b",
+                "name": "CC"
+            },
+            {
+                "address": "3b",
+                "name": "CLOSED CAPTION"
+            },
+            {
+                "address": "3d",
+                "name": "WIDE MODE"
+            },
+            {
+                "address": "3f",
+                "name": "INDEX"
+            },
+            {
+                "address": "40",
+                "name": "PIP (ON)"
+            },
+            {
+                "address": "40",
+                "name": "PIP"
+            },
+            {
+                "address": "41",
+                "name": "PIP-CH+"
+            },
+            {
+                "address": "42",
+                "name": "PIP-CH--"
+            },
+            {
+                "address": "43",
+                "name": "PIP-SWAP"
+            },
+            {
+                "address": "44",
+                "name": "CATEGORY"
+            },
+            {
+                "address": "44",
+                "name": "CATAGORY"
+            },
+            {
+                "address": "46",
+                "name": "PIP-POSITION"
+            },
+            {
+                "address": "47",
+                "name": "PIP-AUDIO"
+            },
+            {
+                "address": "48",
+                "name": "PIP-OFF"
+            },
+            {
+                "address": "4a",
+                "name": "DOT"
+            },
+            {
+                "address": "4a",
+                "name": "\".\""
+            },
+            {
+                "address": "4a",
+                "name": "*"
+            },
+            {
+                "address": "4a",
+                "name": "."
+            },
+            {
+                "address": "4b",
+                "name": "RECENT"
+            },
+            {
+                "address": "4c",
+                "name": "BACK"
+            },
+            {
+                "address": "58",
+                "name": "SCROLL >"
+            },
+            {
+                "address": "59",
+                "name": "SCROLL<"
+            },
+            {
+                "address": "5b",
+                "name": "REPLAY"
+            },
+            {
+                "address": "5c",
+                "name": "FREEZE"
+            },
+            {
+                "address": "5c",
+                "name": "TV/WEB"
+            },
+            {
+                "address": "60",
+                "name": "I(INTERACTIVE)"
+            },
+            {
+                "address": "61",
+                "name": "OPTIONS"
+            },
+            {
+                "address": "62",
+                "name": "HOME"
+            },
+            {
+                "address": "63",
+                "name": "EXIT"
+            },
+            {
+                "address": "63",
+                "name": "LIVE TV"
+            },
+            {
+                "address": "64",
+                "name": "TIVO"
+            },
+            {
+                "address": "68",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "69",
+                "name": "TV/DSS"
+            },
+            {
+                "address": "69",
+                "name": "TV/SAT"
+            },
+            {
+                "address": "6a",
+                "name": "TV/DSS - SELECT DSS"
+            },
+            {
+                "address": "6a",
+                "name": "SAT"
+            },
+            {
+                "address": "6b",
+                "name": "TV/DSS - SELECT TV"
+            },
+            {
+                "address": "6b",
+                "name": "TV"
+            },
+            {
+                "address": "6c",
+                "name": "JUMP"
+            },
+            {
+                "address": "6e",
+                "name": "GUIDE"
+            },
+            {
+                "address": "6e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "6f",
+                "name": "FAVORITE"
+            },
+            {
+                "address": "6f",
+                "name": "FAVORITES"
+            },
+            {
+                "address": "70",
+                "name": "THUMBS UP"
+            },
+            {
+                "address": "71",
+                "name": "THUMBS DOWN"
+            },
+            {
+                "address": "72",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "72",
+                "name": "UP"
+            },
+            {
+                "address": "72",
+                "name": "CURSOR UO"
+            },
+            {
+                "address": "73",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "73",
+                "name": "DOWN"
+            },
+            {
+                "address": "74",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "74",
+                "name": "RIGHT"
+            },
+            {
+                "address": "75",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "75",
+                "name": "LEFT"
+            },
+            {
+                "address": "76",
+                "name": "SELECT"
+            },
+            {
+                "address": "76",
+                "name": "OK"
+            },
+            {
+                "address": "76",
+                "name": "ENT"
+            },
+            {
+                "address": "76",
+                "name": "CURSOR CLICK"
+            },
+            {
+                "address": "76",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "76",
+                "name": "ENTER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

@@ -1,0 +1,109 @@
+{
+    "display_name": "Hughes DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "INPUT"
+            },
+            {
+                "address": "2",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "3",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "4",
+                "name": "0"
+            },
+            {
+                "address": "5",
+                "name": "1"
+            },
+            {
+                "address": "6",
+                "name": "2"
+            },
+            {
+                "address": "7",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "7"
+            },
+            {
+                "address": "c",
+                "name": "8"
+            },
+            {
+                "address": "d",
+                "name": "9"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "10",
+                "name": "DOWN"
+            },
+            {
+                "address": "12",
+                "name": "GUIDE"
+            },
+            {
+                "address": "13",
+                "name": "INFO"
+            },
+            {
+                "address": "14",
+                "name": "LEFT"
+            },
+            {
+                "address": "16",
+                "name": "PR. CHANNEL"
+            },
+            {
+                "address": "17",
+                "name": "RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "SELECT"
+            },
+            {
+                "address": "19",
+                "name": "UP"
+            },
+            {
+                "address": "36",
+                "name": "-"
+            },
+            {
+                "address": "70",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "f00000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hughes",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

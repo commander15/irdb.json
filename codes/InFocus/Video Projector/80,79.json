@@ -1,0 +1,77 @@
+{
+    "display_name": "InFocus Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "6",
+                "name": "DISP MODE"
+            },
+            {
+                "address": "7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "c",
+                "name": "FREEZE"
+            },
+            {
+                "address": "11",
+                "name": "MENU"
+            },
+            {
+                "address": "13",
+                "name": "KEYSTONE +"
+            },
+            {
+                "address": "14",
+                "name": "KEYSTONE -"
+            },
+            {
+                "address": "15",
+                "name": "RESYNC"
+            },
+            {
+                "address": "16",
+                "name": "SOURCE"
+            },
+            {
+                "address": "17",
+                "name": "ENTER"
+            },
+            {
+                "address": "1b",
+                "name": "SOURCE-LOCK"
+            },
+            {
+                "address": "1c",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "1d",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "1e",
+                "name": "COMPUTER"
+            },
+            {
+                "address": "30",
+                "name": "AV MUTE"
+            }
+        ],
+        "device_address": "280000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

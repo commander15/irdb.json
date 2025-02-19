@@ -1,0 +1,29 @@
+{
+    "display_name": "Nakamichi CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "82",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "83",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "c5",
+                "name": "CD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

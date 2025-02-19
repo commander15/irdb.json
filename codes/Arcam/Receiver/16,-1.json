@@ -1,0 +1,837 @@
+{
+    "display_name": "Arcam Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SAT A"
+            },
+            {
+                "address": "0",
+                "name": "SAT B"
+            },
+            {
+                "address": "0",
+                "name": "SAT"
+            },
+            {
+                "address": "0",
+                "name": "SAT INPUT"
+            },
+            {
+                "address": "0",
+                "name": "2 SAT"
+            },
+            {
+                "address": "0",
+                "name": "SELECT SAT"
+            },
+            {
+                "address": "2",
+                "name": "5:1"
+            },
+            {
+                "address": "2",
+                "name": "AV"
+            },
+            {
+                "address": "2",
+                "name": "AV INPUT"
+            },
+            {
+                "address": "2",
+                "name": "8 AV"
+            },
+            {
+                "address": "2",
+                "name": "SELECT AV"
+            },
+            {
+                "address": "3",
+                "name": "TUNER A"
+            },
+            {
+                "address": "3",
+                "name": "TUNER B"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "3",
+                "name": "TUNER INPUT"
+            },
+            {
+                "address": "3",
+                "name": "7 TUN"
+            },
+            {
+                "address": "3",
+                "name": "SELECT TUNER"
+            },
+            {
+                "address": "4",
+                "name": "DVD A"
+            },
+            {
+                "address": "4",
+                "name": "DVD B"
+            },
+            {
+                "address": "4",
+                "name": "DVD"
+            },
+            {
+                "address": "4",
+                "name": "DVD INPUT"
+            },
+            {
+                "address": "4",
+                "name": "1 DVD"
+            },
+            {
+                "address": "4",
+                "name": "SELECT DVD"
+            },
+            {
+                "address": "5",
+                "name": "TAPE MON A"
+            },
+            {
+                "address": "5",
+                "name": "TAPE MON B"
+            },
+            {
+                "address": "5",
+                "name": "TAPE"
+            },
+            {
+                "address": "5",
+                "name": "TAPE A"
+            },
+            {
+                "address": "5",
+                "name": "TAPE B"
+            },
+            {
+                "address": "5",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "5",
+                "name": "TAPE INPUT"
+            },
+            {
+                "address": "5",
+                "name": "6 TAPE"
+            },
+            {
+                "address": "5",
+                "name": "SELECT TAPE"
+            },
+            {
+                "address": "6",
+                "name": "VCR 1 A"
+            },
+            {
+                "address": "6",
+                "name": "VCR 1 B"
+            },
+            {
+                "address": "6",
+                "name": "VCR"
+            },
+            {
+                "address": "6",
+                "name": "VCR A"
+            },
+            {
+                "address": "6",
+                "name": "VCR B"
+            },
+            {
+                "address": "6",
+                "name": "VCR1"
+            },
+            {
+                "address": "6",
+                "name": "VCR INPUT"
+            },
+            {
+                "address": "6",
+                "name": "3 VCR"
+            },
+            {
+                "address": "6",
+                "name": "SELECT VCR"
+            },
+            {
+                "address": "7",
+                "name": "CD A"
+            },
+            {
+                "address": "7",
+                "name": "CD B"
+            },
+            {
+                "address": "7",
+                "name": "CD"
+            },
+            {
+                "address": "7",
+                "name": "CD INPUT"
+            },
+            {
+                "address": "7",
+                "name": "4 CD"
+            },
+            {
+                "address": "7",
+                "name": "SELECT CD"
+            },
+            {
+                "address": "8",
+                "name": "AUX A"
+            },
+            {
+                "address": "8",
+                "name": "AUX B"
+            },
+            {
+                "address": "8",
+                "name": "AUX"
+            },
+            {
+                "address": "8",
+                "name": "AUX/PVR"
+            },
+            {
+                "address": "8",
+                "name": "PVR INPUT"
+            },
+            {
+                "address": "8",
+                "name": "5 AUX"
+            },
+            {
+                "address": "8",
+                "name": "SELECT AUX"
+            },
+            {
+                "address": "9",
+                "name": "DVD-A"
+            },
+            {
+                "address": "9",
+                "name": "DVD-A INPUT"
+            },
+            {
+                "address": "9",
+                "name": "9 MCH"
+            },
+            {
+                "address": "9",
+                "name": "SELECT MULTI-CHANNEL"
+            },
+            {
+                "address": "a",
+                "name": "STEREO DIRECT TOGGL"
+            },
+            {
+                "address": "a",
+                "name": "DIRECT ONOFF TGL"
+            },
+            {
+                "address": "b",
+                "name": "SELECT NET"
+            },
+            {
+                "address": "c",
+                "name": "POWER A"
+            },
+            {
+                "address": "c",
+                "name": "POWER B"
+            },
+            {
+                "address": "c",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "c",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "STAND BY"
+            },
+            {
+                "address": "d",
+                "name": "MUTE A"
+            },
+            {
+                "address": "d",
+                "name": "MUTE B"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "d",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "e",
+                "name": "TREBLE CON. MENU"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME + A"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME + B"
+            },
+            {
+                "address": "10",
+                "name": "+"
+            },
+            {
+                "address": "10",
+                "name": "VOL+"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME - A"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME - B"
+            },
+            {
+                "address": "11",
+                "name": "-"
+            },
+            {
+                "address": "11",
+                "name": "VOL-"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "13",
+                "name": "SAT VIDEO"
+            },
+            {
+                "address": "13",
+                "name": "CYCLE ASPECT RATIO"
+            },
+            {
+                "address": "14",
+                "name": "AV VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "FOLLOW ZONE 1"
+            },
+            {
+                "address": "16",
+                "name": "DVD VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "TAPE VIDEO"
+            },
+            {
+                "address": "18",
+                "name": "VCR VIDEO"
+            },
+            {
+                "address": "1c",
+                "name": "LAST / THX"
+            },
+            {
+                "address": "1c",
+                "name": "STORE PRE X (TUNER)"
+            },
+            {
+                "address": "1d",
+                "name": "ZONE 2 MODE ON"
+            },
+            {
+                "address": "1e",
+                "name": "ZONE 2 MODE OFF"
+            },
+            {
+                "address": "1e",
+                "name": "ROOM EQ ON/OFF"
+            },
+            {
+                "address": "20",
+                "name": "MODE"
+            },
+            {
+                "address": "20",
+                "name": "GUIDE / MODE"
+            },
+            {
+                "address": "20",
+                "name": "CYCLE DECODE MODE"
+            },
+            {
+                "address": "22",
+                "name": "SELECT DVR"
+            },
+            {
+                "address": "25",
+                "name": "TRIM"
+            },
+            {
+                "address": "25",
+                "name": "TRIM MENU"
+            },
+            {
+                "address": "25",
+                "name": "SPEAKER TRIM"
+            },
+            {
+                "address": "27",
+                "name": "BASS CON. MENU"
+            },
+            {
+                "address": "29",
+                "name": "FAVORITE UP"
+            },
+            {
+                "address": "2a",
+                "name": "FAVORITE DOWN"
+            },
+            {
+                "address": "2b",
+                "name": "HOME"
+            },
+            {
+                "address": "2c",
+                "name": "BASS INCREMENT"
+            },
+            {
+                "address": "2d",
+                "name": "BASS DECREMENT"
+            },
+            {
+                "address": "2e",
+                "name": "TREBLE INCREMENT"
+            },
+            {
+                "address": "2f",
+                "name": "ZONE 2 MODE ON"
+            },
+            {
+                "address": "2f",
+                "name": "CYCLE OUTPUT RES"
+            },
+            {
+                "address": "30",
+                "name": "ZONE 2 MODE OFF"
+            },
+            {
+                "address": "30",
+                "name": "RANDOM"
+            },
+            {
+                "address": "31",
+                "name": "REPEAT"
+            },
+            {
+                "address": "32",
+                "name": "LIP SYNC"
+            },
+            {
+                "address": "32",
+                "name": "LIPSYNC CONT MEN"
+            },
+            {
+                "address": "33",
+                "name": "SUB TRIM MENU"
+            },
+            {
+                "address": "33",
+                "name": "A-B / SUB"
+            },
+            {
+                "address": "33",
+                "name": "SUB CONTROL MENU"
+            },
+            {
+                "address": "34",
+                "name": "AM A"
+            },
+            {
+                "address": "34",
+                "name": "AM B"
+            },
+            {
+                "address": "34",
+                "name": "AM"
+            },
+            {
+                "address": "34",
+                "name": "ENTER / AM"
+            },
+            {
+                "address": "34",
+                "name": "SELECT AM"
+            },
+            {
+                "address": "35",
+                "name": "FM A"
+            },
+            {
+                "address": "35",
+                "name": "FM B"
+            },
+            {
+                "address": "35",
+                "name": "FM"
+            },
+            {
+                "address": "35",
+                "name": "FM/AM"
+            },
+            {
+                "address": "35",
+                "name": "0 FM"
+            },
+            {
+                "address": "35",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "PRESET/TUNE MODE"
+            },
+            {
+                "address": "36",
+                "name": "PRESET MODE TOGGLE"
+            },
+            {
+                "address": "36",
+                "name": "SELECT FM"
+            },
+            {
+                "address": "37",
+                "name": "INFO"
+            },
+            {
+                "address": "38",
+                "name": "PRESET/TUNE +"
+            },
+            {
+                "address": "38",
+                "name": "PRESET TUNE UP"
+            },
+            {
+                "address": "38",
+                "name": "PRESET +"
+            },
+            {
+                "address": "38",
+                "name": "TRACK FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "PRESET/TUNE -"
+            },
+            {
+                "address": "39",
+                "name": "PRESET TUNE DOWN"
+            },
+            {
+                "address": "39",
+                "name": "PRESET -"
+            },
+            {
+                "address": "39",
+                "name": "TRACK BACKWARD"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY BRIGHT"
+            },
+            {
+                "address": "3e",
+                "name": "DYN"
+            },
+            {
+                "address": "3f",
+                "name": "EFFECT: OFF"
+            },
+            {
+                "address": "40",
+                "name": "MUSIC"
+            },
+            {
+                "address": "41",
+                "name": "PARTY"
+            },
+            {
+                "address": "42",
+                "name": "CLUB"
+            },
+            {
+                "address": "43",
+                "name": "HALL"
+            },
+            {
+                "address": "44",
+                "name": "SPORT"
+            },
+            {
+                "address": "45",
+                "name": "CHURCH"
+            },
+            {
+                "address": "46",
+                "name": "SURROUND MODE A"
+            },
+            {
+                "address": "46",
+                "name": "SURROUND MODE B"
+            },
+            {
+                "address": "46",
+                "name": "EFFECT (TOOGLE)"
+            },
+            {
+                "address": "46",
+                "name": "SLEEP / FX"
+            },
+            {
+                "address": "46",
+                "name": "DOLBY VOL. ON/OFF"
+            },
+            {
+                "address": "48",
+                "name": "SELECT SIRIUS"
+            },
+            {
+                "address": "4e",
+                "name": "STEREO DIRECT ON"
+            },
+            {
+                "address": "4e",
+                "name": "DISCRETE DIR ON"
+            },
+            {
+                "address": "4f",
+                "name": "STEREO DIRECT OFF"
+            },
+            {
+                "address": "4f",
+                "name": "DISCRETE DIR OFF"
+            },
+            {
+                "address": "50",
+                "name": "RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "NAVIGATE RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "LEFT"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "51",
+                "name": "NAVIGATE LEFT"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "DOWN"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "55",
+                "name": "NAVIGATE DOWN"
+            },
+            {
+                "address": "56",
+                "name": "UP"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "56",
+                "name": "NAVIGATE UP"
+            },
+            {
+                "address": "57",
+                "name": "OK"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR SELECT/OK"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "57",
+                "name": "SELECT"
+            },
+            {
+                "address": "5f",
+                "name": "ZONE TOGGLE"
+            },
+            {
+                "address": "62",
+                "name": "TREBLE DECREMENT"
+            },
+            {
+                "address": "64",
+                "name": "LIPSYNC + BY 1MS"
+            },
+            {
+                "address": "65",
+                "name": "LIPSYNC - BY 1MS"
+            },
+            {
+                "address": "67",
+                "name": "DOLBY PLIIX MOVIE"
+            },
+            {
+                "address": "67",
+                "name": "DOLBY PLIIX MUSIC"
+            },
+            {
+                "address": "6a",
+                "name": "STEREO"
+            },
+            {
+                "address": "6a",
+                "name": "MONO"
+            },
+            {
+                "address": "6b",
+                "name": "STEREO"
+            },
+            {
+                "address": "6c",
+                "name": "DOLBY PLII MOVIE"
+            },
+            {
+                "address": "6d",
+                "name": "DOLBY PLII MUSIC"
+            },
+            {
+                "address": "6e",
+                "name": "DOLBY PL EMULATE"
+            },
+            {
+                "address": "6f",
+                "name": "DTS NEO:6 CINEMA"
+            },
+            {
+                "address": "70",
+                "name": "DTS NEO:6 MUSIC"
+            },
+            {
+                "address": "77",
+                "name": "MUTE"
+            },
+            {
+                "address": "78",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "ON"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "STANDBY"
+            },
+            {
+                "address": "7c",
+                "name": "OFF"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF/STANDBY"
+            },
+            {
+                "address": "7c",
+                "name": "STANDBY/OFF"
+            },
+            {
+                "address": "7c",
+                "name": "STAND BY"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7d",
+                "name": "ZONE 1 STANDBY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

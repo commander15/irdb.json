@@ -1,0 +1,33 @@
+{
+    "display_name": "Citysports WalkingPad",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "POWER_ON"
+            },
+            {
+                "address": "1d",
+                "name": "POWER_OFF"
+            },
+            {
+                "address": "e",
+                "name": "PLUS"
+            },
+            {
+                "address": "c",
+                "name": "MINUS"
+            },
+            {
+                "address": "6",
+                "name": "TURN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Citysports",
+    "model": "",
+    "name": "",
+    "target": "WalkingPad"
+}

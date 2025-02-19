@@ -1,0 +1,113 @@
+{
+    "display_name": "DirecTV Basic Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "CLEAR"
+            },
+            {
+                "address": "8",
+                "name": "MENU"
+            },
+            {
+                "address": "1a",
+                "name": "GUIDE"
+            },
+            {
+                "address": "27",
+                "name": "GO BACK"
+            },
+            {
+                "address": "2a",
+                "name": "POWER"
+            },
+            {
+                "address": "2c",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "2d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "30",
+                "name": "0"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "34",
+                "name": "4"
+            },
+            {
+                "address": "35",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": "6"
+            },
+            {
+                "address": "37",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "39",
+                "name": "9"
+            },
+            {
+                "address": "3c",
+                "name": "INFO"
+            },
+            {
+                "address": "53",
+                "name": "SKIP"
+            },
+            {
+                "address": "56",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "57",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "58",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "59",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "93",
+                "name": "FETCH"
+            },
+            {
+                "address": "f4",
+                "name": "ARROW OK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA"
+    },
+    "manufacturer": "DirecTV",
+    "model": "",
+    "name": "",
+    "target": "Basic Satellite"
+}

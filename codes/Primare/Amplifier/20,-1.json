@@ -1,0 +1,37 @@
+{
+    "display_name": "Primare Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "display"
+            },
+            {
+                "address": "c",
+                "name": "Power"
+            },
+            {
+                "address": "10",
+                "name": "Volume Up"
+            },
+            {
+                "address": "11",
+                "name": "Volume Down"
+            },
+            {
+                "address": "1e",
+                "name": "input up"
+            },
+            {
+                "address": "1f",
+                "name": "input down"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Primare",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

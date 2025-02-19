@@ -1,0 +1,61 @@
+{
+    "display_name": "Yamaha iPod Dock",
+    "ir": {
+        "commands": [
+            {
+                "address": "e",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "f",
+                "name": "MENU"
+            },
+            {
+                "address": "11",
+                "name": "ENTER"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "15",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "17",
+                "name": "REW"
+            },
+            {
+                "address": "18",
+                "name": "FF"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1b",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "1c",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "1d",
+                "name": "STOP"
+            },
+            {
+                "address": "1e",
+                "name": "PLAY"
+            }
+        ],
+        "device_address": "fe",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "iPod Dock"
+}

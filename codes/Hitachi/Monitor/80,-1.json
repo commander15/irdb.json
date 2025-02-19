@@ -1,0 +1,373 @@
+{
+    "display_name": "Hitachi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "8"
+            },
+            {
+                "address": "4",
+                "name": "TV 8"
+            },
+            {
+                "address": "5",
+                "name": "9"
+            },
+            {
+                "address": "5",
+                "name": "TV 9"
+            },
+            {
+                "address": "6",
+                "name": "100 ENTER"
+            },
+            {
+                "address": "6",
+                "name": "100"
+            },
+            {
+                "address": "6",
+                "name": "VTR/TV 100"
+            },
+            {
+                "address": "8",
+                "name": "VTR/TV SA"
+            },
+            {
+                "address": "9",
+                "name": "AVX"
+            },
+            {
+                "address": "9",
+                "name": "VCR AVX"
+            },
+            {
+                "address": "9",
+                "name": "INPUT"
+            },
+            {
+                "address": "9",
+                "name": "VTR/TV AVX"
+            },
+            {
+                "address": "a",
+                "name": "LAST CH"
+            },
+            {
+                "address": "a",
+                "name": "VCR LST-CH"
+            },
+            {
+                "address": "a",
+                "name": "LAST CHANNEL"
+            },
+            {
+                "address": "a",
+                "name": "LST-CH"
+            },
+            {
+                "address": "a",
+                "name": "VTR/TV LST-CH"
+            },
+            {
+                "address": "a",
+                "name": "TV PREV CH"
+            },
+            {
+                "address": "b",
+                "name": "MUTE"
+            },
+            {
+                "address": "c",
+                "name": "0"
+            },
+            {
+                "address": "c",
+                "name": "TV 0"
+            },
+            {
+                "address": "d",
+                "name": "1"
+            },
+            {
+                "address": "d",
+                "name": "TV 1"
+            },
+            {
+                "address": "e",
+                "name": "2"
+            },
+            {
+                "address": "e",
+                "name": "TV 2"
+            },
+            {
+                "address": "f",
+                "name": "3"
+            },
+            {
+                "address": "f",
+                "name": "TV 3"
+            },
+            {
+                "address": "10",
+                "name": "RECALL"
+            },
+            {
+                "address": "10",
+                "name": "VCR RECALL"
+            },
+            {
+                "address": "10",
+                "name": "VTR/TV RECALL"
+            },
+            {
+                "address": "11",
+                "name": "SLEEP"
+            },
+            {
+                "address": "11",
+                "name": "VTR/TV OFF-TIMER"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "12",
+                "name": "VOL ^"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "14",
+                "name": "HELP"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "15",
+                "name": "VOL V"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "18",
+                "name": "TV CH V"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "18",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "19",
+                "name": "TV CH ^"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "19",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "1b",
+                "name": "VTR/TV SURROUND"
+            },
+            {
+                "address": "1c",
+                "name": "4"
+            },
+            {
+                "address": "1c",
+                "name": "TV 4"
+            },
+            {
+                "address": "1d",
+                "name": "5"
+            },
+            {
+                "address": "1d",
+                "name": "TV 5"
+            },
+            {
+                "address": "1e",
+                "name": "6"
+            },
+            {
+                "address": "1e",
+                "name": "TV 6"
+            },
+            {
+                "address": "1f",
+                "name": "7"
+            },
+            {
+                "address": "1f",
+                "name": "TV 7"
+            },
+            {
+                "address": "33",
+                "name": "VCR ENTER"
+            },
+            {
+                "address": "3c",
+                "name": "C.S. (MOUSE)"
+            },
+            {
+                "address": "4c",
+                "name": "PIPC"
+            },
+            {
+                "address": "53",
+                "name": "MENU"
+            },
+            {
+                "address": "53",
+                "name": "VCR MENU"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "58",
+                "name": "POSITION (H)"
+            },
+            {
+                "address": "59",
+                "name": "POSITION (V)"
+            },
+            {
+                "address": "5a",
+                "name": "SIZE (H)"
+            },
+            {
+                "address": "5b",
+                "name": "RESET"
+            },
+            {
+                "address": "5b",
+                "name": "VTR/TV RESET"
+            },
+            {
+                "address": "5c",
+                "name": "+"
+            },
+            {
+                "address": "5c",
+                "name": "VTR/TV +"
+            },
+            {
+                "address": "5d",
+                "name": "-"
+            },
+            {
+                "address": "5d",
+                "name": "VTR/TV -"
+            },
+            {
+                "address": "5e",
+                "name": "PICTURE"
+            },
+            {
+                "address": "5e",
+                "name": "VTR/TV P/S MODE"
+            },
+            {
+                "address": "5f",
+                "name": "SOUND"
+            },
+            {
+                "address": "61",
+                "name": "SIZE (V)"
+            },
+            {
+                "address": "64",
+                "name": "EXIT"
+            },
+            {
+                "address": "70",
+                "name": "VCR ^"
+            },
+            {
+                "address": "70",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "71",
+                "name": "VCR V"
+            },
+            {
+                "address": "71",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "72",
+                "name": "VCR >"
+            },
+            {
+                "address": "72",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "73",
+                "name": "VCR <"
+            },
+            {
+                "address": "73",
+                "name": "CURSOR LEFT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

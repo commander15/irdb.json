@@ -1,0 +1,33 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CD TRACH >>"
+            },
+            {
+                "address": "1",
+                "name": "CD TRACK <<"
+            },
+            {
+                "address": "4",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "5",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "e",
+                "name": "CD PAUSE "
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

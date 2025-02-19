@@ -1,0 +1,113 @@
+{
+    "display_name": "JVC Karaoke",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "3",
+                "name": "STOP"
+            },
+            {
+                "address": "6",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "7",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "8",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "9",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "a",
+                "name": "REPEAT/RANDOM"
+            },
+            {
+                "address": "c",
+                "name": "PLAY"
+            },
+            {
+                "address": "d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "1e",
+                "name": "10"
+            },
+            {
+                "address": "1f",
+                "name": "10+"
+            },
+            {
+                "address": "2c",
+                "name": "CANCEL"
+            },
+            {
+                "address": "31",
+                "name": "DISC 1"
+            },
+            {
+                "address": "32",
+                "name": "DISC 2"
+            },
+            {
+                "address": "33",
+                "name": "DISC 3"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Karaoke"
+}

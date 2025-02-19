@@ -1,0 +1,601 @@
+{
+    "display_name": "Mitsubishi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "AUDIO 1"
+            },
+            {
+                "address": "0",
+                "name": "1 (CAM)"
+            },
+            {
+                "address": "1",
+                "name": "AUDIO 9"
+            },
+            {
+                "address": "1",
+                "name": "9 (CD)"
+            },
+            {
+                "address": "2",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "8",
+                "name": "AUDIO 2"
+            },
+            {
+                "address": "8",
+                "name": "2 (DVD)"
+            },
+            {
+                "address": "9",
+                "name": "AUDIO 0"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "a",
+                "name": "AUDIO SCAN ^"
+            },
+            {
+                "address": "a",
+                "name": "VCRA CH ^ (SCAN ^)"
+            },
+            {
+                "address": "a",
+                "name": "PRESET SCAN (INTRO)"
+            },
+            {
+                "address": "b",
+                "name": "AUDIO CANCEL"
+            },
+            {
+                "address": "10",
+                "name": "AUDIO 3"
+            },
+            {
+                "address": "10",
+                "name": "3 (TV)"
+            },
+            {
+                "address": "12",
+                "name": "AUDIO SCAN V"
+            },
+            {
+                "address": "12",
+                "name": "VCRA CH V (SCAN V)"
+            },
+            {
+                "address": "18",
+                "name": "AUDIO 4"
+            },
+            {
+                "address": "18",
+                "name": "4 (VCR)"
+            },
+            {
+                "address": "1a",
+                "name": "AUDIO INPUT V"
+            },
+            {
+                "address": "1a",
+                "name": "VCRA INPUT V"
+            },
+            {
+                "address": "20",
+                "name": "AUDIO 5"
+            },
+            {
+                "address": "20",
+                "name": "5 (TAPE1)"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "22",
+                "name": "VOL ^"
+            },
+            {
+                "address": "27",
+                "name": "AUDIO DISPLAY"
+            },
+            {
+                "address": "28",
+                "name": "AUDIO 6"
+            },
+            {
+                "address": "28",
+                "name": "6 (TAPE2)"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "2a",
+                "name": "VOL V"
+            },
+            {
+                "address": "2b",
+                "name": "AUDIO SLOW"
+            },
+            {
+                "address": "2b",
+                "name": "SUR (PAUSE)"
+            },
+            {
+                "address": "30",
+                "name": "AUDIO 7"
+            },
+            {
+                "address": "30",
+                "name": "7 (TUNER)"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO VOL ^"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO FS/+"
+            },
+            {
+                "address": "33",
+                "name": "REAR + (PLAY)"
+            },
+            {
+                "address": "35",
+                "name": "AUDIO ENTER"
+            },
+            {
+                "address": "38",
+                "name": "AUDIO 8"
+            },
+            {
+                "address": "38",
+                "name": "8 (AUX)"
+            },
+            {
+                "address": "3a",
+                "name": "AUDIO INPUT ^"
+            },
+            {
+                "address": "3a",
+                "name": "VCRA INPUT ^"
+            },
+            {
+                "address": "3b",
+                "name": "AUDIO VOL V"
+            },
+            {
+                "address": "3b",
+                "name": "AUDIO RS/-"
+            },
+            {
+                "address": "3b",
+                "name": "REAR - (STOP)"
+            },
+            {
+                "address": "3f",
+                "name": "AUDIO B"
+            },
+            {
+                "address": "41",
+                "name": "AUDIO ADJUST ^"
+            },
+            {
+                "address": "41",
+                "name": "CH ^"
+            },
+            {
+                "address": "43",
+                "name": "VCR B"
+            },
+            {
+                "address": "43",
+                "name": "VCR B INPUT"
+            },
+            {
+                "address": "44",
+                "name": "VCR A"
+            },
+            {
+                "address": "44",
+                "name": "VCR A INPUT"
+            },
+            {
+                "address": "45",
+                "name": "TV"
+            },
+            {
+                "address": "45",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "46",
+                "name": "CD"
+            },
+            {
+                "address": "46",
+                "name": "CD INPUT"
+            },
+            {
+                "address": "49",
+                "name": "AUDIO ADJUST V"
+            },
+            {
+                "address": "49",
+                "name": "CH V"
+            },
+            {
+                "address": "4b",
+                "name": "PHONO"
+            },
+            {
+                "address": "4b",
+                "name": "PHONO INPUT"
+            },
+            {
+                "address": "4c",
+                "name": "FM/AM"
+            },
+            {
+                "address": "4d",
+                "name": "TAPE1/2"
+            },
+            {
+                "address": "4d",
+                "name": "TAPE 1/2 INPUT"
+            },
+            {
+                "address": "4e",
+                "name": "AUX"
+            },
+            {
+                "address": "4e",
+                "name": "AUX INPUT"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO AUDIO ^"
+            },
+            {
+                "address": "52",
+                "name": "AUDIO MENU"
+            },
+            {
+                "address": "56",
+                "name": "TEST"
+            },
+            {
+                "address": "58",
+                "name": "AUDIO AUDIO V"
+            },
+            {
+                "address": "5c",
+                "name": "CENTER"
+            },
+            {
+                "address": "75",
+                "name": "CENTER + (FF)"
+            },
+            {
+                "address": "7b",
+                "name": "DELAY (REC)"
+            },
+            {
+                "address": "7d",
+                "name": "CENTER - (REW)"
+            },
+            {
+                "address": "80",
+                "name": "TAPE1 1"
+            },
+            {
+                "address": "81",
+                "name": "TAPE1 9"
+            },
+            {
+                "address": "82",
+                "name": "TAPE1 MENU"
+            },
+            {
+                "address": "84",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "85",
+                "name": "TAPE2 PLAY >"
+            },
+            {
+                "address": "86",
+                "name": "TAPE1 VOL ^"
+            },
+            {
+                "address": "86",
+                "name": "TAPE1 FS/+"
+            },
+            {
+                "address": "87",
+                "name": "TAPE2 VOL ^"
+            },
+            {
+                "address": "87",
+                "name": "TAPE2 FS/+"
+            },
+            {
+                "address": "88",
+                "name": "TAPE1 2"
+            },
+            {
+                "address": "89",
+                "name": "TAPE1 0"
+            },
+            {
+                "address": "8a",
+                "name": "TAPE1 ENTER"
+            },
+            {
+                "address": "8c",
+                "name": "TAPE1 REC"
+            },
+            {
+                "address": "8e",
+                "name": "TAPE1 VOL V"
+            },
+            {
+                "address": "8e",
+                "name": "TAPE1 RS/-"
+            },
+            {
+                "address": "8f",
+                "name": "TAPE2 VOL V"
+            },
+            {
+                "address": "8f",
+                "name": "TAPE2 RS/-"
+            },
+            {
+                "address": "90",
+                "name": "TAPE1 3"
+            },
+            {
+                "address": "92",
+                "name": "TAPE1 CANCEL"
+            },
+            {
+                "address": "94",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "95",
+                "name": "TAPE2 STOP []"
+            },
+            {
+                "address": "97",
+                "name": "TAPE1 REPEAT"
+            },
+            {
+                "address": "98",
+                "name": "TAPE1 4"
+            },
+            {
+                "address": "9c",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "9d",
+                "name": "TAPE2 PAUSE "
+            },
+            {
+                "address": "a0",
+                "name": "TAPE1 5"
+            },
+            {
+                "address": "a2",
+                "name": "TAPE1 AUDIO ^"
+            },
+            {
+                "address": "a4",
+                "name": "TAPE1 FF >>"
+            },
+            {
+                "address": "a5",
+                "name": "TAPE2 FF >>"
+            },
+            {
+                "address": "a7",
+                "name": "TAPE1 DISPLAY"
+            },
+            {
+                "address": "a8",
+                "name": "TAPE1 6"
+            },
+            {
+                "address": "aa",
+                "name": "TAPE1 AUDIO V"
+            },
+            {
+                "address": "ac",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "ad",
+                "name": "TAPE2 REW <<"
+            },
+            {
+                "address": "ae",
+                "name": "TAPE1 INTRO"
+            },
+            {
+                "address": "af",
+                "name": "TAPE2 INTRO"
+            },
+            {
+                "address": "b0",
+                "name": "TAPE1 7"
+            },
+            {
+                "address": "b2",
+                "name": "TAPE1 ADJUST ^"
+            },
+            {
+                "address": "b4",
+                "name": "TAPE1 R.PLAY <"
+            },
+            {
+                "address": "b4",
+                "name": "TAPE1 PLAY R. <"
+            },
+            {
+                "address": "b5",
+                "name": "TAPE2 R.PLAY <"
+            },
+            {
+                "address": "b5",
+                "name": "TAPE2 PLAY R. <"
+            },
+            {
+                "address": "b8",
+                "name": "TAPE1 8"
+            },
+            {
+                "address": "ba",
+                "name": "TAPE1 ADJUST V"
+            },
+            {
+                "address": "bf",
+                "name": "TAPE1 B"
+            },
+            {
+                "address": "c0",
+                "name": "CD 1"
+            },
+            {
+                "address": "c1",
+                "name": "CD 9"
+            },
+            {
+                "address": "c4",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "c7",
+                "name": "CD A"
+            },
+            {
+                "address": "c8",
+                "name": "CD 2"
+            },
+            {
+                "address": "c9",
+                "name": "CD 0"
+            },
+            {
+                "address": "ca",
+                "name": "CD FF >>"
+            },
+            {
+                "address": "cb",
+                "name": "CD CANCEL"
+            },
+            {
+                "address": "d0",
+                "name": "CD 3"
+            },
+            {
+                "address": "d2",
+                "name": "CD REW <<"
+            },
+            {
+                "address": "d4",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "d7",
+                "name": "CD REPEAT"
+            },
+            {
+                "address": "d8",
+                "name": "CD 4"
+            },
+            {
+                "address": "db",
+                "name": "CD DISPLAY"
+            },
+            {
+                "address": "dc",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "e0",
+                "name": "CD 5"
+            },
+            {
+                "address": "e4",
+                "name": "CD FS/+"
+            },
+            {
+                "address": "e6",
+                "name": "CD B"
+            },
+            {
+                "address": "e8",
+                "name": "CD 6"
+            },
+            {
+                "address": "ec",
+                "name": "CD RS/-"
+            },
+            {
+                "address": "ee",
+                "name": "CD INTRO"
+            },
+            {
+                "address": "f0",
+                "name": "CD 7"
+            },
+            {
+                "address": "f4",
+                "name": "CD ADJUST ^"
+            },
+            {
+                "address": "f5",
+                "name": "CD ENTER"
+            },
+            {
+                "address": "f8",
+                "name": "CD 8"
+            },
+            {
+                "address": "fc",
+                "name": "CD ADJUST V"
+            },
+            {
+                "address": "fe",
+                "name": "CD MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

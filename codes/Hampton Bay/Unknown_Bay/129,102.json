@@ -1,0 +1,41 @@
+{
+    "display_name": "Hampton Bay Unknown_Bay",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "82",
+                "name": "energy_saver"
+            },
+            {
+                "address": "85",
+                "name": "temp_up"
+            },
+            {
+                "address": "8a",
+                "name": "temp_down"
+            },
+            {
+                "address": "99",
+                "name": "fan_speed"
+            },
+            {
+                "address": "9b",
+                "name": "KEY_MODE"
+            },
+            {
+                "address": "9f",
+                "name": "timer"
+            }
+        ],
+        "device_address": "2040",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Hampton Bay",
+    "model": "",
+    "name": "",
+    "target": "Unknown_Bay"
+}

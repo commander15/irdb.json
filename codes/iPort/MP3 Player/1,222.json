@@ -1,0 +1,121 @@
+{
+    "display_name": "iPort MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "NEXT TRACK"
+            },
+            {
+                "address": "7",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "b",
+                "name": "PREVIOUS TRACK"
+            },
+            {
+                "address": "c",
+                "name": "NEXT ALBUM"
+            },
+            {
+                "address": "d",
+                "name": "PREVIOUS ALBUM"
+            },
+            {
+                "address": "e",
+                "name": "STOP"
+            },
+            {
+                "address": "f",
+                "name": "PLAY"
+            },
+            {
+                "address": "10",
+                "name": "PAUSE"
+            },
+            {
+                "address": "11",
+                "name": "MUTE"
+            },
+            {
+                "address": "12",
+                "name": "NEXT CHAPTER"
+            },
+            {
+                "address": "13",
+                "name": "PREVIOUS CHAPTER"
+            },
+            {
+                "address": "14",
+                "name": "NEXT PLAYLIST"
+            },
+            {
+                "address": "15",
+                "name": "PREVIOUS PLAYLIST"
+            },
+            {
+                "address": "16",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "18",
+                "name": "REPEAT"
+            },
+            {
+                "address": "19",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1a",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1b",
+                "name": "BACK LIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "20",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "21",
+                "name": "REWIND"
+            },
+            {
+                "address": "22",
+                "name": "MENU"
+            },
+            {
+                "address": "23",
+                "name": "SELECT"
+            },
+            {
+                "address": "24",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "25",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "30",
+                "name": "LED ADJUST"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "iPort",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

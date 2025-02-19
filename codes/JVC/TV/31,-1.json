@@ -1,0 +1,41 @@
+{
+    "display_name": "JVC TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "d1",
+                "name": "VIDEO A"
+            },
+            {
+                "address": "d2",
+                "name": "VIDEO B"
+            },
+            {
+                "address": "da",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "dd",
+                "name": "POWER ON"
+            },
+            {
+                "address": "e0",
+                "name": "AUX B"
+            },
+            {
+                "address": "e1",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "e2",
+                "name": "AUX A"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

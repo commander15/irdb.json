@@ -1,0 +1,251 @@
+{
+    "display_name": "D-LINK Media Center",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "device_address": "400",
+                "name": "PAGE-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "400",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "400",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "400",
+                "name": "ONLINE MEDIA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "400",
+                "name": "CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "400",
+                "name": "CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "400",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "400",
+                "name": "PHOTO",
+                "protocol": "NEC"
+            },
+            {
+                "address": "17",
+                "device_address": "400",
+                "name": "VIDEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "400",
+                "name": "PAGE+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "400",
+                "name": "BACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "400",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "400",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "400",
+                "name": "SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "400",
+                "name": "MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "400",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "400",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "400",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "400",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "400",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "400",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "400",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "400",
+                "name": "HOME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "400",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "400",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "400",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "400",
+                "name": "DELETE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "400",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "400",
+                "name": ".",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "400",
+                "name": "NEXT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "400",
+                "name": "INFO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "400",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "400",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "400",
+                "name": "SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "400",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "59",
+                "device_address": "400",
+                "name": "FF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "400",
+                "name": "SHUFFLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "400",
+                "name": "USB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "400",
+                "name": "REV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "400",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "D-LINK",
+    "model": "",
+    "name": "",
+    "target": "Media Center"
+}

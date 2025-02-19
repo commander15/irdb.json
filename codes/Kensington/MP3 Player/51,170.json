@@ -1,0 +1,33 @@
+{
+    "display_name": "Kensington MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "8",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME +"
+            }
+        ],
+        "device_address": "cc00",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kensington",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

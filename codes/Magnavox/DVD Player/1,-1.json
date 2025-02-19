@@ -1,0 +1,153 @@
+{
+    "display_name": "Magnavox DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "ZOOM"
+            },
+            {
+                "address": "a",
+                "name": "ANGLE"
+            },
+            {
+                "address": "b",
+                "name": "MUTE"
+            },
+            {
+                "address": "e",
+                "name": "AUDIO"
+            },
+            {
+                "address": "f",
+                "name": "PLAY / PAUSE"
+            },
+            {
+                "address": "12",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "13",
+                "name": "STOP"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "15",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "16",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "3"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "19",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1b",
+                "name": "2"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1d",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "1e",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "1f",
+                "name": "1"
+            },
+            {
+                "address": "44",
+                "name": "STEP"
+            },
+            {
+                "address": "48",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "4c",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "50",
+                "name": "REPEAT"
+            },
+            {
+                "address": "54",
+                "name": "6"
+            },
+            {
+                "address": "55",
+                "name": "9"
+            },
+            {
+                "address": "56",
+                "name": "SEARCH"
+            },
+            {
+                "address": "57",
+                "name": "SETUP"
+            },
+            {
+                "address": "58",
+                "name": "5"
+            },
+            {
+                "address": "59",
+                "name": "8"
+            },
+            {
+                "address": "5a",
+                "name": "0"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "5c",
+                "name": "4"
+            },
+            {
+                "address": "5d",
+                "name": "7"
+            },
+            {
+                "address": "5e",
+                "name": "RETURN / TITLE"
+            },
+            {
+                "address": "5f",
+                "name": "DISC MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Magnavox",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

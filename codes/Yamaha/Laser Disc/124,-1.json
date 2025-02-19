@@ -1,0 +1,113 @@
+{
+    "display_name": "Yamaha Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "CHAPTER DN"
+            },
+            {
+                "address": "3",
+                "name": "CHAPTER UP"
+            },
+            {
+                "address": "5",
+                "name": "PLAY"
+            },
+            {
+                "address": "6",
+                "name": "<<"
+            },
+            {
+                "address": "7",
+                "name": ">>"
+            },
+            {
+                "address": "a",
+                "name": "STILL DN"
+            },
+            {
+                "address": "b",
+                "name": "STILL UP"
+            },
+            {
+                "address": "e",
+                "name": "MULTI DN"
+            },
+            {
+                "address": "f",
+                "name": "MULTI UP"
+            },
+            {
+                "address": "11",
+                "name": "A-B"
+            },
+            {
+                "address": "17",
+                "name": "1"
+            },
+            {
+                "address": "18",
+                "name": "2"
+            },
+            {
+                "address": "19",
+                "name": "3"
+            },
+            {
+                "address": "1a",
+                "name": "4"
+            },
+            {
+                "address": "1b",
+                "name": "5"
+            },
+            {
+                "address": "1c",
+                "name": "6"
+            },
+            {
+                "address": "1d",
+                "name": "7"
+            },
+            {
+                "address": "1e",
+                "name": "8"
+            },
+            {
+                "address": "1f",
+                "name": "9"
+            },
+            {
+                "address": "47",
+                "name": "POWER"
+            },
+            {
+                "address": "49",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "5a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "5b",
+                "name": "STOP"
+            },
+            {
+                "address": "5d",
+                "name": "10+"
+            },
+            {
+                "address": "5e",
+                "name": "CLEAR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

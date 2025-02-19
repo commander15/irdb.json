@@ -1,0 +1,89 @@
+{
+    "display_name": "Kenwood Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "5c00",
+                "name": "PL II MOVIE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "0",
+                "device_address": "5c00",
+                "name": "DOLBY PL 2 MOVE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1",
+                "device_address": "5c00",
+                "name": "PL II MUSIC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1",
+                "device_address": "5c00",
+                "name": "DOLBY PL 2 MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "5c00",
+                "name": "CONCERT HALL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "5c00",
+                "name": "STADIUM 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "5c00",
+                "name": "DTS NEO 6 CINEMA",
+                "protocol": "NEC"
+            },
+            {
+                "address": "c",
+                "device_address": "5c00",
+                "name": "NEO CINEMA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "5c00",
+                "name": "DTS NEO 6 MUSIC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d",
+                "device_address": "5c00",
+                "name": "NEO MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "5c00",
+                "name": "MULTI CH. MUSIC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "f",
+                "device_address": "5c00",
+                "name": "MULTI CH MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "5c00",
+                "name": "PANORAMA",
+                "protocol": "NEC"
+            }
+        ]
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

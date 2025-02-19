@@ -1,0 +1,25 @@
+{
+    "display_name": "Motorola Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "PROGRAMCHANNEL -"
+            },
+            {
+                "address": "21",
+                "name": "PROGRAM CHANNEL +"
+            },
+            {
+                "address": "3a",
+                "name": "SPEED"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Motorola",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

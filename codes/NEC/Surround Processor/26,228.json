@@ -1,0 +1,109 @@
+{
+    "display_name": "NEC Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "82",
+                "name": "MASTER VOLUME ^"
+            },
+            {
+                "address": "83",
+                "name": "MASTER VOLUME V"
+            },
+            {
+                "address": "89",
+                "name": "FULL MUTE"
+            },
+            {
+                "address": "8d",
+                "name": "NORMAL"
+            },
+            {
+                "address": "8e",
+                "name": "WIDE"
+            },
+            {
+                "address": "8f",
+                "name": "PHANTOM"
+            },
+            {
+                "address": "95",
+                "name": "FRONT LEFT V"
+            },
+            {
+                "address": "96",
+                "name": "FRONT RIGHT V"
+            },
+            {
+                "address": "97",
+                "name": "REAR LEFT V"
+            },
+            {
+                "address": "98",
+                "name": "REAR RIGHT V"
+            },
+            {
+                "address": "99",
+                "name": "CENTER ^"
+            },
+            {
+                "address": "9a",
+                "name": "CENTER V"
+            },
+            {
+                "address": "9b",
+                "name": "RESET"
+            },
+            {
+                "address": "9c",
+                "name": "FRONT LEFT ^"
+            },
+            {
+                "address": "9d",
+                "name": "FRONT RIGHT ^"
+            },
+            {
+                "address": "9e",
+                "name": "REAR LEFT ^"
+            },
+            {
+                "address": "9f",
+                "name": "REAR RIGHT ^"
+            },
+            {
+                "address": "c4",
+                "name": "FRONT L/R ^"
+            },
+            {
+                "address": "c5",
+                "name": "FRONT L/R V"
+            },
+            {
+                "address": "c6",
+                "name": "REAR L/R ^"
+            },
+            {
+                "address": "c7",
+                "name": "REAR L/R V"
+            },
+            {
+                "address": "cd",
+                "name": "BY-PASS"
+            },
+            {
+                "address": "d5",
+                "name": "CENTER"
+            },
+            {
+                "address": "d6",
+                "name": "TEST TONE"
+            }
+        ],
+        "device_address": "1a0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

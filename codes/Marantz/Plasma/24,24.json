@@ -1,0 +1,233 @@
+{
+    "display_name": "Marantz Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "device_address": "18000000",
+                "name": "DVD INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "18000000",
+                "name": "DVD/HD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "18000000",
+                "name": "INPUT: DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "18000000",
+                "name": "HD 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "18000000",
+                "name": "PIC MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "18000000",
+                "name": "CONTRAST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "18000000",
+                "name": "BRIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "18000000",
+                "name": "PIC MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "18000000",
+                "name": "COLOR TEMP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "18000000",
+                "name": "WIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "18000000",
+                "name": "CHANGE SCRN SIZE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "18000000",
+                "name": "CHNG SCRN SIZE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "18000000",
+                "name": "MODE: WIDE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b0",
+                "device_address": "18000000",
+                "name": "CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b1",
+                "device_address": "18000000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "18000000",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "18000000",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b3",
+                "device_address": "18000000",
+                "name": "CURSON RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b4",
+                "device_address": "18000000",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b5",
+                "device_address": "18000000",
+                "name": "OK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "18000000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "18000000",
+                "name": "OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "18000000",
+                "name": "RGB/PC1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c2",
+                "device_address": "18000000",
+                "name": "RGB/PC2",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c3",
+                "device_address": "18000000",
+                "name": "RGB/PC3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c4",
+                "device_address": "18000000",
+                "name": "CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "18000000",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "18000000",
+                "name": "POINTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "18000000",
+                "name": "ZOOM +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "18000000",
+                "name": "ZOOM -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "18000000",
+                "name": "MULTISCREEN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "18000000",
+                "name": "MULTI SCREEN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "18000000",
+                "name": "MULTI SCRN SEL.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "18000000",
+                "name": "DVD/HD2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "dc",
+                "device_address": "18000000",
+                "name": "HD 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "eb",
+                "device_address": "18000000",
+                "name": "DVD/HD1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "eb",
+                "device_address": "18000000",
+                "name": "HD 1",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

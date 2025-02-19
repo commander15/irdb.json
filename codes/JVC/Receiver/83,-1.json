@@ -1,0 +1,117 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "VCR2 STOP (- [])"
+            },
+            {
+                "address": "3",
+                "name": "VCR2 STOP []"
+            },
+            {
+                "address": "6",
+                "name": "VCR2 FFWD (> >>)"
+            },
+            {
+                "address": "6",
+                "name": "VCR2 FFWD >>"
+            },
+            {
+                "address": "7",
+                "name": "VCR2 REW (< <<)"
+            },
+            {
+                "address": "7",
+                "name": "VCR2 REW <<"
+            },
+            {
+                "address": "b",
+                "name": "VCR2 POWER (ON/OFF)"
+            },
+            {
+                "address": "c",
+                "name": "VCR2 PLAY (+ >)"
+            },
+            {
+                "address": "c",
+                "name": "VCR2 PLAY >"
+            },
+            {
+                "address": "d",
+                "name": "VCR2 PAUSE ()"
+            },
+            {
+                "address": "d",
+                "name": "VCR2 PAUSE "
+            },
+            {
+                "address": "18",
+                "name": "VCR2 PRESET CH -"
+            },
+            {
+                "address": "19",
+                "name": "VCR2 PRESET CH +"
+            },
+            {
+                "address": "21",
+                "name": "VCR2 1"
+            },
+            {
+                "address": "22",
+                "name": "VCR2 2"
+            },
+            {
+                "address": "23",
+                "name": "VCR2 3"
+            },
+            {
+                "address": "24",
+                "name": "VCR2 4"
+            },
+            {
+                "address": "25",
+                "name": "VCR2 5"
+            },
+            {
+                "address": "26",
+                "name": "VCR2 6"
+            },
+            {
+                "address": "27",
+                "name": "VCR2 7"
+            },
+            {
+                "address": "27",
+                "name": "VCR2 7/P"
+            },
+            {
+                "address": "28",
+                "name": "VCR2 8"
+            },
+            {
+                "address": "29",
+                "name": "VCR2 9"
+            },
+            {
+                "address": "33",
+                "name": "VCR2 0"
+            },
+            {
+                "address": "cc",
+                "name": "VCR2 REC"
+            },
+            {
+                "address": "cc",
+                "name": "VCR2 PLAY/REC"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

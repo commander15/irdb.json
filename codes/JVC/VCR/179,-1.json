@@ -1,0 +1,105 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "43",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "4c",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "4d",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "58",
+                "name": "CD <<"
+            },
+            {
+                "address": "59",
+                "name": "CD >>"
+            },
+            {
+                "address": "61",
+                "name": "TV 1"
+            },
+            {
+                "address": "62",
+                "name": "TV 2"
+            },
+            {
+                "address": "63",
+                "name": "TV 3"
+            },
+            {
+                "address": "64",
+                "name": "TV 4"
+            },
+            {
+                "address": "65",
+                "name": "TV 5"
+            },
+            {
+                "address": "66",
+                "name": "TV 6"
+            },
+            {
+                "address": "67",
+                "name": "TV 7/P"
+            },
+            {
+                "address": "68",
+                "name": "TV 8"
+            },
+            {
+                "address": "69",
+                "name": "TV 9"
+            },
+            {
+                "address": "6e",
+                "name": "TV 10"
+            },
+            {
+                "address": "6f",
+                "name": "TV +10"
+            },
+            {
+                "address": "78",
+                "name": "CD 7/P"
+            },
+            {
+                "address": "79",
+                "name": "CD 1"
+            },
+            {
+                "address": "7a",
+                "name": "CD 2"
+            },
+            {
+                "address": "7b",
+                "name": "CD 3"
+            },
+            {
+                "address": "7c",
+                "name": "CD 4"
+            },
+            {
+                "address": "7d",
+                "name": "CD 5"
+            },
+            {
+                "address": "7e",
+                "name": "CD 6"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

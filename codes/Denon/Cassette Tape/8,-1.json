@@ -1,0 +1,37 @@
+{
+    "display_name": "Denon Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "58",
+                "name": "CD SKIP FWD >>"
+            },
+            {
+                "address": "59",
+                "name": "CD SKIP REV <<"
+            },
+            {
+                "address": "5c",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "5d",
+                "name": "CD PAUSE "
+            },
+            {
+                "address": "77",
+                "name": "CD PITCH +"
+            },
+            {
+                "address": "78",
+                "name": "CD PITCH -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

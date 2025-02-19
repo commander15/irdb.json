@@ -1,0 +1,381 @@
+{
+    "display_name": "Panasonic TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "1",
+                "name": "INPUT VIDEO 1"
+            },
+            {
+                "address": "2",
+                "name": "INPUT VIDEO 2"
+            },
+            {
+                "address": "3",
+                "name": "INPUT VIDEO 3"
+            },
+            {
+                "address": "4",
+                "name": "INPUT VIDEO 4"
+            },
+            {
+                "address": "5",
+                "name": "INPUT SELECT/SCROLL"
+            },
+            {
+                "address": "6",
+                "name": "PICTURE MENU"
+            },
+            {
+                "address": "7",
+                "name": "SOUND SELECT"
+            },
+            {
+                "address": "a",
+                "name": "P-NR"
+            },
+            {
+                "address": "c",
+                "name": "NORMALIZE"
+            },
+            {
+                "address": "f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "10",
+                "name": "DIGIT 1"
+            },
+            {
+                "address": "11",
+                "name": "DIGIT 2"
+            },
+            {
+                "address": "12",
+                "name": "DIGIT 3"
+            },
+            {
+                "address": "13",
+                "name": "DIGIT 4"
+            },
+            {
+                "address": "14",
+                "name": "DIGIT 5"
+            },
+            {
+                "address": "15",
+                "name": "DIGIT 6"
+            },
+            {
+                "address": "16",
+                "name": "DIGIT 7"
+            },
+            {
+                "address": "17",
+                "name": "DIGIT 8"
+            },
+            {
+                "address": "18",
+                "name": "DIGIT 9"
+            },
+            {
+                "address": "19",
+                "name": "DIGIT 0/10"
+            },
+            {
+                "address": "1a",
+                "name": "DIGIT 11"
+            },
+            {
+                "address": "1b",
+                "name": "DIGIT 12"
+            },
+            {
+                "address": "1c",
+                "name": "DIGIT 13"
+            },
+            {
+                "address": "1d",
+                "name": "DIGIT 14"
+            },
+            {
+                "address": "1e",
+                "name": "DIGIT 15"
+            },
+            {
+                "address": "1f",
+                "name": "DIGIT 16"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "32",
+                "name": "VOLUME MUTE TOGGLE"
+            },
+            {
+                "address": "33",
+                "name": "SAP"
+            },
+            {
+                "address": "34",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "35",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "37",
+                "name": "CHANNEL PREVIOUS"
+            },
+            {
+                "address": "38",
+                "name": "SEARCH"
+            },
+            {
+                "address": "39",
+                "name": "INFO / RECALL"
+            },
+            {
+                "address": "3d",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "3e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "42",
+                "name": "CONTRAST UP"
+            },
+            {
+                "address": "43",
+                "name": "CONTRAST DOWN"
+            },
+            {
+                "address": "44",
+                "name": "BRIGHTNESS UP"
+            },
+            {
+                "address": "45",
+                "name": "BRIGHTNESS DOWN"
+            },
+            {
+                "address": "49",
+                "name": "CURSOR ENTER/SELECT"
+            },
+            {
+                "address": "4a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "4b",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "4e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "4f",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "50",
+                "name": "PICTURE SELECT"
+            },
+            {
+                "address": "51",
+                "name": "SOUND MENU"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "53",
+                "name": "PIP VOLUME UP"
+            },
+            {
+                "address": "54",
+                "name": "PIP VOLUME DOWN"
+            },
+            {
+                "address": "56",
+                "name": "PIP INPUT SCROLL"
+            },
+            {
+                "address": "57",
+                "name": "PIP POSITION UP"
+            },
+            {
+                "address": "58",
+                "name": "PIP POSITION DOWN"
+            },
+            {
+                "address": "59",
+                "name": "PIP POSITION LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "PIP POSITION RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "PIP SIZE"
+            },
+            {
+                "address": "5c",
+                "name": "PIP FREEZE"
+            },
+            {
+                "address": "5d",
+                "name": "PIP TOGGLE"
+            },
+            {
+                "address": "5e",
+                "name": "PIP SWAP"
+            },
+            {
+                "address": "5f",
+                "name": "PIP FRAME ADVANCE"
+            },
+            {
+                "address": "63",
+                "name": "FREEZE"
+            },
+            {
+                "address": "64",
+                "name": "PIP CHANNEL UP"
+            },
+            {
+                "address": "65",
+                "name": "PIP CHANNEL DOWN"
+            },
+            {
+                "address": "66",
+                "name": "PIP MODE"
+            },
+            {
+                "address": "67",
+                "name": "PIP POSITION SWITCH"
+            },
+            {
+                "address": "68",
+                "name": "PIP AUDIO SWITCH"
+            },
+            {
+                "address": "69",
+                "name": "PIP REPLAY"
+            },
+            {
+                "address": "6c",
+                "name": "TUNING"
+            },
+            {
+                "address": "70",
+                "name": "COLOR BUTTON RED"
+            },
+            {
+                "address": "71",
+                "name": "COLOR BUTTON GREEN"
+            },
+            {
+                "address": "72",
+                "name": "COLOR BUTTON YELLOW"
+            },
+            {
+                "address": "73",
+                "name": "COLOR BUTTON BLUE"
+            },
+            {
+                "address": "7a",
+                "name": "INPUT PC/VGA"
+            },
+            {
+                "address": "7e",
+                "name": "BBE"
+            },
+            {
+                "address": "9d",
+                "name": "CLOSED CAPTION"
+            },
+            {
+                "address": "9e",
+                "name": "CHANNEL SKIP"
+            },
+            {
+                "address": "a0",
+                "name": "LANGUAGE"
+            },
+            {
+                "address": "a6",
+                "name": "AUTO SEARCH"
+            },
+            {
+                "address": "ac",
+                "name": "HELP"
+            },
+            {
+                "address": "bb",
+                "name": "GAME / ZOOM"
+            },
+            {
+                "address": "d0",
+                "name": "PROG / DASH"
+            },
+            {
+                "address": "d3",
+                "name": "EXIT"
+            },
+            {
+                "address": "d4",
+                "name": "RETURN"
+            },
+            {
+                "address": "d5",
+                "name": "STORE"
+            },
+            {
+                "address": "e0",
+                "name": "PIP RECORD"
+            },
+            {
+                "address": "e2",
+                "name": "PIP"
+            },
+            {
+                "address": "e6",
+                "name": "PIP MULTI WINDOW"
+            },
+            {
+                "address": "e7",
+                "name": "PIP MOVE/ZOOM"
+            },
+            {
+                "address": "ef",
+                "name": "VIERA TOOLS"
+            }
+        ],
+        "device_address": "80",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

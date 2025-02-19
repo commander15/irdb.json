@@ -1,0 +1,57 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "8",
+                "name": "AUDIO POWER"
+            },
+            {
+                "address": "9",
+                "name": "AUDIO MUTE"
+            },
+            {
+                "address": "46",
+                "name": "REAR VOLUME +"
+            },
+            {
+                "address": "47",
+                "name": "REAR VOLUME -"
+            },
+            {
+                "address": "49",
+                "name": "SURROUND SELECTOR"
+            },
+            {
+                "address": "4f",
+                "name": "PRESET VOLUME"
+            },
+            {
+                "address": "53",
+                "name": "TV"
+            },
+            {
+                "address": "54",
+                "name": "TUNER"
+            },
+            {
+                "address": "5e",
+                "name": "AUX"
+            }
+        ],
+        "device_address": "340",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,293 @@
+{
+    "display_name": "Adcom AV Preamplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CURSOR RIGHT (CD)"
+            },
+            {
+                "address": "1",
+                "name": "CURSOR LEFT (CD)"
+            },
+            {
+                "address": "2",
+                "name": "RDS"
+            },
+            {
+                "address": "3",
+                "name": "SELECT"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "PLAY"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE"
+            },
+            {
+                "address": "10",
+                "name": "1 (CD)"
+            },
+            {
+                "address": "11",
+                "name": "2 (CD)"
+            },
+            {
+                "address": "12",
+                "name": "3 (CD)"
+            },
+            {
+                "address": "13",
+                "name": "4 (CD)"
+            },
+            {
+                "address": "14",
+                "name": "5 (CD)"
+            },
+            {
+                "address": "15",
+                "name": "6 (CD)"
+            },
+            {
+                "address": "16",
+                "name": "7 (CD)"
+            },
+            {
+                "address": "17",
+                "name": "8 (CD)"
+            },
+            {
+                "address": "18",
+                "name": "9 (CD)"
+            },
+            {
+                "address": "19",
+                "name": "+10 (CD)"
+            },
+            {
+                "address": "1a",
+                "name": "0 (CD)"
+            },
+            {
+                "address": "40",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "43",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "49",
+                "name": "REPEAT (CD)"
+            },
+            {
+                "address": "4e",
+                "name": "RANDOM"
+            },
+            {
+                "address": "50",
+                "name": "TEST"
+            },
+            {
+                "address": "57",
+                "name": "MODE"
+            },
+            {
+                "address": "57",
+                "name": "MODE (CD)"
+            },
+            {
+                "address": "78",
+                "name": "D120"
+            },
+            {
+                "address": "79",
+                "name": "D2"
+            },
+            {
+                "address": "7a",
+                "name": "D3"
+            },
+            {
+                "address": "7b",
+                "name": "D4"
+            },
+            {
+                "address": "7c",
+                "name": "D5"
+            },
+            {
+                "address": "7d",
+                "name": "D6"
+            },
+            {
+                "address": "7e",
+                "name": "D7"
+            },
+            {
+                "address": "7f",
+                "name": "D8"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "81",
+                "name": "D9"
+            },
+            {
+                "address": "82",
+                "name": "MUTE"
+            },
+            {
+                "address": "83",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "85",
+                "name": "VIDEO3"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO4"
+            },
+            {
+                "address": "87",
+                "name": "VIDEO5"
+            },
+            {
+                "address": "88",
+                "name": "CD"
+            },
+            {
+                "address": "89",
+                "name": "FM"
+            },
+            {
+                "address": "89",
+                "name": "TUNER"
+            },
+            {
+                "address": "8a",
+                "name": "TAPE"
+            },
+            {
+                "address": "8c",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "8d",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "8e",
+                "name": "REPEAT"
+            },
+            {
+                "address": "8f",
+                "name": "AM"
+            },
+            {
+                "address": "90",
+                "name": "1"
+            },
+            {
+                "address": "91",
+                "name": "2"
+            },
+            {
+                "address": "92",
+                "name": "3"
+            },
+            {
+                "address": "93",
+                "name": "4"
+            },
+            {
+                "address": "94",
+                "name": "5"
+            },
+            {
+                "address": "95",
+                "name": "6"
+            },
+            {
+                "address": "96",
+                "name": "7"
+            },
+            {
+                "address": "c1",
+                "name": "DYNAMIC RANGE"
+            },
+            {
+                "address": "c1",
+                "name": "EXTERNAL 5.1"
+            },
+            {
+                "address": "c5",
+                "name": "BACKS"
+            },
+            {
+                "address": "c6",
+                "name": "SLEEP"
+            },
+            {
+                "address": "c7",
+                "name": "BALANCE"
+            },
+            {
+                "address": "ca",
+                "name": "DIM"
+            },
+            {
+                "address": "d1",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "d1",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "d3",
+                "name": "PRESET/TUNE"
+            },
+            {
+                "address": "d5",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "d5",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "df",
+                "name": "DYNAMIC RANGE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Adcom",
+    "model": "",
+    "name": "",
+    "target": "AV Preamplifier"
+}

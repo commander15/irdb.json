@@ -1,0 +1,45 @@
+{
+    "display_name": "Yamaha Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "e",
+                "name": "1"
+            },
+            {
+                "address": "f",
+                "name": "2"
+            },
+            {
+                "address": "10",
+                "name": "3"
+            },
+            {
+                "address": "11",
+                "name": "4"
+            },
+            {
+                "address": "12",
+                "name": "5"
+            },
+            {
+                "address": "13",
+                "name": "6"
+            },
+            {
+                "address": "14",
+                "name": "7"
+            },
+            {
+                "address": "15",
+                "name": "8"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

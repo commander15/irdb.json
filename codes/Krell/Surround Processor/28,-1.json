@@ -1,0 +1,161 @@
+{
+    "display_name": "Krell Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "SUB"
+            },
+            {
+                "address": "2",
+                "name": "REAR"
+            },
+            {
+                "address": "6",
+                "name": "CNTR"
+            },
+            {
+                "address": "7",
+                "name": "MUTE"
+            },
+            {
+                "address": "b",
+                "name": "CURSER DOWN"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "b",
+                "name": "DOWN"
+            },
+            {
+                "address": "c",
+                "name": "MENU"
+            },
+            {
+                "address": "d",
+                "name": "CURSER RIGHT"
+            },
+            {
+                "address": "d",
+                "name": "RIGHT"
+            },
+            {
+                "address": "e",
+                "name": "OK"
+            },
+            {
+                "address": "f",
+                "name": "CURSER LEFT"
+            },
+            {
+                "address": "f",
+                "name": "LEFT"
+            },
+            {
+                "address": "10",
+                "name": "TAPE"
+            },
+            {
+                "address": "11",
+                "name": "CURSER UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "UP"
+            },
+            {
+                "address": "12",
+                "name": "PREV"
+            },
+            {
+                "address": "13",
+                "name": "MAIN POWER"
+            },
+            {
+                "address": "13",
+                "name": "POWER ON"
+            },
+            {
+                "address": "13",
+                "name": "HTS POWER"
+            },
+            {
+                "address": "13",
+                "name": "PRE"
+            },
+            {
+                "address": "1d",
+                "name": "S2"
+            },
+            {
+                "address": "1e",
+                "name": "S3"
+            },
+            {
+                "address": "1f",
+                "name": "S4"
+            },
+            {
+                "address": "20",
+                "name": "S5"
+            },
+            {
+                "address": "22",
+                "name": "C2"
+            },
+            {
+                "address": "23",
+                "name": "T1"
+            },
+            {
+                "address": "24",
+                "name": "T2"
+            },
+            {
+                "address": "25",
+                "name": "XLR"
+            },
+            {
+                "address": "26",
+                "name": "RF"
+            },
+            {
+                "address": "2a",
+                "name": "SV2"
+            },
+            {
+                "address": "33",
+                "name": "M1"
+            },
+            {
+                "address": "35",
+                "name": "STEREO"
+            },
+            {
+                "address": "35",
+                "name": "ST"
+            },
+            {
+                "address": "3e",
+                "name": "PROLOGIC"
+            },
+            {
+                "address": "3e",
+                "name": "PL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

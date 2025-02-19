@@ -1,0 +1,29 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "3f",
+                "name": "MD"
+            },
+            {
+                "address": "3f",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "3f",
+                "name": "DCC"
+            },
+            {
+                "address": "3f",
+                "name": "INPUT - MD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

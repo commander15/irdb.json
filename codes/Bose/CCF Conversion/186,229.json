@@ -1,0 +1,113 @@
+{
+    "display_name": "Bose CCF Conversion",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "1 MUTE/UNMUTE 80 A7"
+            },
+            {
+                "address": "2",
+                "name": "5 VOL - 40 A7"
+            },
+            {
+                "address": "3",
+                "name": "4 VOL + C0 A7"
+            },
+            {
+                "address": "c",
+                "name": "7 AM 30 A7"
+            },
+            {
+                "address": "d",
+                "name": "12 VIDEO 2 B0 A7"
+            },
+            {
+                "address": "e",
+                "name": "11 VIDEO 1 70 A7"
+            },
+            {
+                "address": "f",
+                "name": "13 AUX F0 A7"
+            },
+            {
+                "address": "10",
+                "name": "8 FM 08 A7"
+            },
+            {
+                "address": "18",
+                "name": "23 SKIP REV 18 A7"
+            },
+            {
+                "address": "19",
+                "name": "24 SKIP FWD 98 A7"
+            },
+            {
+                "address": "1a",
+                "name": "25 STOP 58 A7"
+            },
+            {
+                "address": "1d",
+                "name": "26 AM/FM PRESET + B8"
+            },
+            {
+                "address": "1f",
+                "name": "27 AM/FM PRESET - F8"
+            },
+            {
+                "address": "4a",
+                "name": "29 RANDOM DISK 52 A7"
+            },
+            {
+                "address": "4c",
+                "name": "14 OFF 32 A7"
+            },
+            {
+                "address": "52",
+                "name": "15 TAPE 4A A7"
+            },
+            {
+                "address": "53",
+                "name": "16 CD CA A7"
+            },
+            {
+                "address": "54",
+                "name": "28 DISK - 2A A7"
+            },
+            {
+                "address": "55",
+                "name": "19 PLAY AA A7"
+            },
+            {
+                "address": "56",
+                "name": "18 PAUSE 6A A7"
+            },
+            {
+                "address": "57",
+                "name": "20 FAST REV EA A7"
+            },
+            {
+                "address": "58",
+                "name": "21 FAST FWD 1A A7"
+            },
+            {
+                "address": "5c",
+                "name": "22 RANDOM 3A A7"
+            },
+            {
+                "address": "5d",
+                "name": "17 NEXT DISK BA A7"
+            },
+            {
+                "address": "df",
+                "name": "30 MUTE ALL FB A7"
+            }
+        ],
+        "device_address": "1740",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Bose",
+    "model": "",
+    "name": "",
+    "target": "CCF Conversion"
+}

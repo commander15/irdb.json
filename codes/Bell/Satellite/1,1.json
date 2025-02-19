@@ -1,0 +1,45 @@
+{
+    "display_name": "Bell Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE-"
+            },
+            {
+                "address": "f",
+                "name": "PAGE+"
+            },
+            {
+                "address": "31",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "32",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "36",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "37",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            }
+        ],
+        "device_address": "2",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Bell",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

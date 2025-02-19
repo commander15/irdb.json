@@ -1,0 +1,101 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1e",
+                "name": "INPUT: VIDEO 2"
+            },
+            {
+                "address": "1e",
+                "name": "2 VID 2"
+            },
+            {
+                "address": "21",
+                "name": "INPUT: TUNER"
+            },
+            {
+                "address": "21",
+                "name": "2 TUNER"
+            },
+            {
+                "address": "22",
+                "name": "INPUT: VIDEO 1"
+            },
+            {
+                "address": "22",
+                "name": "2 VID 1"
+            },
+            {
+                "address": "23",
+                "name": "INPUT: TAPE"
+            },
+            {
+                "address": "23",
+                "name": "2 TAPE"
+            },
+            {
+                "address": "25",
+                "name": "INPUT: CD"
+            },
+            {
+                "address": "25",
+                "name": "2 CD"
+            },
+            {
+                "address": "42",
+                "name": "INPUT: VIDEO 3"
+            },
+            {
+                "address": "42",
+                "name": "2 VID 3"
+            },
+            {
+                "address": "69",
+                "name": "INPUT: MD/DAT"
+            },
+            {
+                "address": "69",
+                "name": "2 MD"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT: TV/SAT"
+            },
+            {
+                "address": "6a",
+                "name": "2 TV"
+            },
+            {
+                "address": "7b",
+                "name": "SOURCE"
+            },
+            {
+                "address": "7b",
+                "name": "INPUT: SOURCE"
+            },
+            {
+                "address": "7b",
+                "name": "2 SOURCE"
+            },
+            {
+                "address": "7b",
+                "name": "2ND ROOM"
+            },
+            {
+                "address": "7d",
+                "name": "INPUT: DVD/LD"
+            },
+            {
+                "address": "7d",
+                "name": "2 DVD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

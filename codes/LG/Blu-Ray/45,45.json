@@ -1,0 +1,373 @@
+{
+    "display_name": "LG Blu-Ray",
+    "ir": {
+        "commands": [
+            {
+                "address": "30",
+                "name": "POWER"
+            },
+            {
+                "address": "31",
+                "name": "PLAY"
+            },
+            {
+                "address": "31",
+                "name": "TR PLAY"
+            },
+            {
+                "address": "32",
+                "name": "SCAN<<"
+            },
+            {
+                "address": "32",
+                "name": "SCAN BACK"
+            },
+            {
+                "address": "32",
+                "name": "SCAN -"
+            },
+            {
+                "address": "32",
+                "name": "TR SCAN <<"
+            },
+            {
+                "address": "33",
+                "name": "SCAN>>"
+            },
+            {
+                "address": "33",
+                "name": "SCAN FORWARD"
+            },
+            {
+                "address": "33",
+                "name": "SCAN +"
+            },
+            {
+                "address": "33",
+                "name": "TR SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": "TRACK >>"
+            },
+            {
+                "address": "34",
+                "name": "TRACK FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "TRACK +"
+            },
+            {
+                "address": "34",
+                "name": "TR SKIP >>"
+            },
+            {
+                "address": "35",
+                "name": "TRACK <<"
+            },
+            {
+                "address": "35",
+                "name": "TRACK BACK"
+            },
+            {
+                "address": "35",
+                "name": "TRACK -"
+            },
+            {
+                "address": "35",
+                "name": "TR SKIP <<"
+            },
+            {
+                "address": "36",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "38",
+                "name": "PAUSE"
+            },
+            {
+                "address": "38",
+                "name": "TR PAUSE"
+            },
+            {
+                "address": "39",
+                "name": "STOP"
+            },
+            {
+                "address": "39",
+                "name": "TR STOP"
+            },
+            {
+                "address": "39",
+                "name": ""
+            },
+            {
+                "address": "3a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3a",
+                "name": "INFO/DISPLAY"
+            },
+            {
+                "address": "3b",
+                "name": "1"
+            },
+            {
+                "address": "3c",
+                "name": "2"
+            },
+            {
+                "address": "3d",
+                "name": "3"
+            },
+            {
+                "address": "3e",
+                "name": "4"
+            },
+            {
+                "address": "3f",
+                "name": "5"
+            },
+            {
+                "address": "40",
+                "name": "6"
+            },
+            {
+                "address": "41",
+                "name": "7"
+            },
+            {
+                "address": "42",
+                "name": "8"
+            },
+            {
+                "address": "43",
+                "name": "9"
+            },
+            {
+                "address": "44",
+                "name": "0"
+            },
+            {
+                "address": "45",
+                "name": "RETURN"
+            },
+            {
+                "address": "46",
+                "name": "CLEAR"
+            },
+            {
+                "address": "47",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "48",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "4a",
+                "name": "TITLE"
+            },
+            {
+                "address": "4a",
+                "name": "TITLE/POPUP"
+            },
+            {
+                "address": "4a",
+                "name": "TITLE/POP UP"
+            },
+            {
+                "address": "4a",
+                "name": "TITLE/PUPUP"
+            },
+            {
+                "address": "4b",
+                "name": "DISC MENU"
+            },
+            {
+                "address": "4c",
+                "name": "ANGLE"
+            },
+            {
+                "address": "4f",
+                "name": "AUDIO"
+            },
+            {
+                "address": "4f",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "50",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "53",
+                "name": "REPEAT"
+            },
+            {
+                "address": "55",
+                "name": "A-B"
+            },
+            {
+                "address": "56",
+                "name": "SETUP"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5f",
+                "name": "VIDEO PIP"
+            },
+            {
+                "address": "61",
+                "name": "MARKER"
+            },
+            {
+                "address": "62",
+                "name": "SEARCH"
+            },
+            {
+                "address": "64",
+                "name": "ZOOM"
+            },
+            {
+                "address": "67",
+                "name": "HOME"
+            },
+            {
+                "address": "75",
+                "name": "POWER ON"
+            },
+            {
+                "address": "76",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "79",
+                "name": "LOCK"
+            },
+            {
+                "address": "7c",
+                "name": "RED"
+            },
+            {
+                "address": "7c",
+                "name": "A (RED)"
+            },
+            {
+                "address": "7c",
+                "name": "RED - A"
+            },
+            {
+                "address": "7c",
+                "name": "COLOR 1 RED"
+            },
+            {
+                "address": "7d",
+                "name": "GREEN"
+            },
+            {
+                "address": "7d",
+                "name": "B (GREEN)"
+            },
+            {
+                "address": "7d",
+                "name": "GREEN - B"
+            },
+            {
+                "address": "7d",
+                "name": "COLOR 2 GREEN"
+            },
+            {
+                "address": "7e",
+                "name": "YELLOW"
+            },
+            {
+                "address": "7e",
+                "name": "C (YELLOW)"
+            },
+            {
+                "address": "7e",
+                "name": "YELLOW - C"
+            },
+            {
+                "address": "7e",
+                "name": "COLOR 3 YELLOW"
+            },
+            {
+                "address": "7f",
+                "name": "BLUE"
+            },
+            {
+                "address": "7f",
+                "name": "D (BLUE)"
+            },
+            {
+                "address": "7f",
+                "name": "BLUE - D"
+            },
+            {
+                "address": "7f",
+                "name": "COLOR 4 BLUE"
+            },
+            {
+                "address": "c0",
+                "name": "CURSOR"
+            },
+            {
+                "address": "c1",
+                "name": "CURSOR LEFT UP"
+            },
+            {
+                "address": "c2",
+                "name": "CURSOR RIGHT UP"
+            },
+            {
+                "address": "c3",
+                "name": "CURSOR LEFT DOWN"
+            },
+            {
+                "address": "c4",
+                "name": "CURSOR RIGHT DOWN"
+            },
+            {
+                "address": "f5",
+                "name": "RESOLUTION"
+            },
+            {
+                "address": "f6",
+                "name": "POP UP"
+            },
+            {
+                "address": "f7",
+                "name": "SUBTITLE ON/OFF"
+            },
+            {
+                "address": "f8",
+                "name": "RESUME PLAY"
+            },
+            {
+                "address": "fa",
+                "name": "MUSIC ID"
+            }
+        ],
+        "device_address": "5a000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "LG",
+    "model": "",
+    "name": "",
+    "target": "Blu-Ray"
+}

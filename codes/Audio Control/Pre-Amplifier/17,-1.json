@@ -1,0 +1,73 @@
+{
+    "display_name": "Audio Control Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "NUMBER 0"
+            },
+            {
+                "address": "1",
+                "name": "NUMBER 1"
+            },
+            {
+                "address": "2",
+                "name": "NUMBER 2"
+            },
+            {
+                "address": "3",
+                "name": "NUMBER 3"
+            },
+            {
+                "address": "4",
+                "name": "NUMBER 4"
+            },
+            {
+                "address": "5",
+                "name": "NUMBER 5"
+            },
+            {
+                "address": "6",
+                "name": "NUMBER 6"
+            },
+            {
+                "address": "7",
+                "name": "NUMBER 7"
+            },
+            {
+                "address": "8",
+                "name": "NUMBER 8"
+            },
+            {
+                "address": "9",
+                "name": "NUMBER 9"
+            },
+            {
+                "address": "25",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "26",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "29",
+                "name": "DELETE PRESET"
+            },
+            {
+                "address": "55",
+                "name": "PRESET DOWN (TUNER)"
+            },
+            {
+                "address": "56",
+                "name": "PRESET UP (TUNE)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Control",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

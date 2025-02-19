@@ -1,0 +1,85 @@
+{
+    "display_name": "Fujitsu Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "8",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "ASPECT WIDE (TOG)"
+            },
+            {
+                "address": "11",
+                "name": "ASPECT AUTO"
+            },
+            {
+                "address": "12",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "13",
+                "name": "ASPECT WIDE1"
+            },
+            {
+                "address": "14",
+                "name": "ASPECT WIDE2"
+            },
+            {
+                "address": "15",
+                "name": "ASPECT ZOOM1"
+            },
+            {
+                "address": "16",
+                "name": "ASPECT ZOOM2"
+            },
+            {
+                "address": "20",
+                "name": "ADJ LEFT"
+            },
+            {
+                "address": "21",
+                "name": "ADJ RIGHT"
+            },
+            {
+                "address": "22",
+                "name": "MENU"
+            },
+            {
+                "address": "23",
+                "name": "ADJ UP"
+            },
+            {
+                "address": "24",
+                "name": "ADJ DOWN"
+            },
+            {
+                "address": "26",
+                "name": "ENTER"
+            },
+            {
+                "address": "44",
+                "name": "PICTURE MODE"
+            },
+            {
+                "address": "48",
+                "name": "PICTURE MEMORY"
+            }
+        ],
+        "device_address": "21000",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

@@ -1,0 +1,289 @@
+{
+    "display_name": "Niles Audio Unknown",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "ON"
+            },
+            {
+                "address": "1",
+                "name": "ALL"
+            },
+            {
+                "address": "2",
+                "name": "PROCESS"
+            },
+            {
+                "address": "3",
+                "name": "CD"
+            },
+            {
+                "address": "4",
+                "name": "OFF"
+            },
+            {
+                "address": "5",
+                "name": "BASS ^"
+            },
+            {
+                "address": "6",
+                "name": "BASS V"
+            },
+            {
+                "address": "7",
+                "name": "TUNER"
+            },
+            {
+                "address": "8",
+                "name": "BAL <<"
+            },
+            {
+                "address": "9",
+                "name": "FLAT"
+            },
+            {
+                "address": "a",
+                "name": "TAPE"
+            },
+            {
+                "address": "b",
+                "name": "AUX 2"
+            },
+            {
+                "address": "c",
+                "name": "BAL >>"
+            },
+            {
+                "address": "d",
+                "name": "TREB ^"
+            },
+            {
+                "address": "e",
+                "name": "TREB V"
+            },
+            {
+                "address": "f",
+                "name": "A"
+            },
+            {
+                "address": "10",
+                "name": "MUTE"
+            },
+            {
+                "address": "11",
+                "name": "VOL ^"
+            },
+            {
+                "address": "12",
+                "name": "VOL V"
+            },
+            {
+                "address": "13",
+                "name": "B"
+            },
+            {
+                "address": "14",
+                "name": "PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "REC"
+            },
+            {
+                "address": "16",
+                "name": "DISC 1"
+            },
+            {
+                "address": "17",
+                "name": "DISC 6"
+            },
+            {
+                "address": "18",
+                "name": "DISC 7"
+            },
+            {
+                "address": "19",
+                "name": "F2"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE "
+            },
+            {
+                "address": "1b",
+                "name": "DISC 3"
+            },
+            {
+                "address": "1c",
+                "name": "DISC 4"
+            },
+            {
+                "address": "1d",
+                "name": "DISC 9"
+            },
+            {
+                "address": "1e",
+                "name": "F4"
+            },
+            {
+                "address": "1f",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "40",
+                "name": "VIDEO"
+            },
+            {
+                "address": "41",
+                "name": "C/P 1"
+            },
+            {
+                "address": "42",
+                "name": "C/P 6"
+            },
+            {
+                "address": "43",
+                "name": "STOP []"
+            },
+            {
+                "address": "44",
+                "name": "AUX 1"
+            },
+            {
+                "address": "45",
+                "name": "C/P 2"
+            },
+            {
+                "address": "46",
+                "name": "C/P 7"
+            },
+            {
+                "address": "47",
+                "name": "CUT <<"
+            },
+            {
+                "address": "48",
+                "name": "C/P 3"
+            },
+            {
+                "address": "49",
+                "name": "C/P 8"
+            },
+            {
+                "address": "4a",
+                "name": "FF >>"
+            },
+            {
+                "address": "4b",
+                "name": "CUT >>"
+            },
+            {
+                "address": "4c",
+                "name": "AM/FM"
+            },
+            {
+                "address": "4d",
+                "name": "C/P 4"
+            },
+            {
+                "address": "4e",
+                "name": "C/P 9"
+            },
+            {
+                "address": "4f",
+                "name": "REW <<"
+            },
+            {
+                "address": "50",
+                "name": "LOCAL"
+            },
+            {
+                "address": "51",
+                "name": "C/P 5"
+            },
+            {
+                "address": "52",
+                "name": "C/P 10"
+            },
+            {
+                "address": "53",
+                "name": "REV"
+            },
+            {
+                "address": "54",
+                "name": "F1"
+            },
+            {
+                "address": "55",
+                "name": "SAVE"
+            },
+            {
+                "address": "56",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "57",
+                "name": "DISC 2"
+            },
+            {
+                "address": "58",
+                "name": "DISC 8"
+            },
+            {
+                "address": "59",
+                "name": "F3"
+            },
+            {
+                "address": "5a",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "5b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "5c",
+                "name": "DISC 5"
+            },
+            {
+                "address": "5d",
+                "name": "DISC 10"
+            },
+            {
+                "address": "5e",
+                "name": "F5"
+            },
+            {
+                "address": "5f",
+                "name": "*"
+            },
+            {
+                "address": "c7",
+                "name": "SPEAKER ON/OFF"
+            },
+            {
+                "address": "cb",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "d3",
+                "name": "ALL SPEAKERS OFF"
+            },
+            {
+                "address": "d7",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "df",
+                "name": "ALL SPEAKERS ON"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Niles Audio",
+    "model": "",
+    "name": "",
+    "target": "Unknown"
+}

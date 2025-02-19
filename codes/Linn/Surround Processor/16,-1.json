@@ -1,0 +1,149 @@
+{
+    "display_name": "Linn Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "POWER/STANDBY"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "+"
+            },
+            {
+                "address": "10",
+                "name": ""
+            },
+            {
+                "address": "10",
+                "name": "VOL UP"
+            },
+            {
+                "address": "11",
+                "name": "-"
+            },
+            {
+                "address": "11",
+                "name": ""
+            },
+            {
+                "address": "11",
+                "name": "VOL DOWN"
+            },
+            {
+                "address": "12",
+                "name": "LASER"
+            },
+            {
+                "address": "13",
+                "name": "AUX2"
+            },
+            {
+                "address": "13",
+                "name": ""
+            },
+            {
+                "address": "14",
+                "name": "TUNER"
+            },
+            {
+                "address": "14",
+                "name": ""
+            },
+            {
+                "address": "17",
+                "name": "VCR"
+            },
+            {
+                "address": "17",
+                "name": ""
+            },
+            {
+                "address": "18",
+                "name": "AUX1"
+            },
+            {
+                "address": "18",
+                "name": ""
+            },
+            {
+                "address": "19",
+                "name": "DAT"
+            },
+            {
+                "address": "1f",
+                "name": "SAT"
+            },
+            {
+                "address": "1f",
+                "name": ""
+            },
+            {
+                "address": "25",
+                "name": "SURROUND"
+            },
+            {
+                "address": "31",
+                "name": "NORM"
+            },
+            {
+                "address": "31",
+                "name": ""
+            },
+            {
+                "address": "32",
+                "name": "SOURCE-V"
+            },
+            {
+                "address": "32",
+                "name": ""
+            },
+            {
+                "address": "38",
+                "name": "SOURCE-A"
+            },
+            {
+                "address": "38",
+                "name": ""
+            },
+            {
+                "address": "50",
+                "name": "SELECT"
+            },
+            {
+                "address": "52",
+                "name": "OSG"
+            },
+            {
+                "address": "52",
+                "name": ""
+            },
+            {
+                "address": "76",
+                "name": "SOURCE-A/V"
+            },
+            {
+                "address": "76",
+                "name": ""
+            },
+            {
+                "address": "77",
+                "name": "MODE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Linn",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

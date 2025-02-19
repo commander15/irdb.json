@@ -1,0 +1,33 @@
+{
+    "display_name": "Bell Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "19",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2c",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "18",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Bell",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

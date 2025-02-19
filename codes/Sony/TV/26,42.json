@@ -1,0 +1,41 @@
+{
+    "display_name": "Sony TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "50",
+                "name": "VIDEO OFF"
+            },
+            {
+                "address": "51",
+                "name": "VIDEO MEMORY 1"
+            },
+            {
+                "address": "52",
+                "name": "VIDEO MEMORY 2"
+            },
+            {
+                "address": "53",
+                "name": "VIDEO MEMORY 3"
+            },
+            {
+                "address": "54",
+                "name": "VIDEO MEMORY 4"
+            },
+            {
+                "address": "55",
+                "name": "VIDEO MEMORY 5"
+            },
+            {
+                "address": "56",
+                "name": "VIDEO MEMORY 6"
+            }
+        ],
+        "device_address": "6800",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

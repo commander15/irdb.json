@@ -1,0 +1,25 @@
+{
+    "display_name": "Loewe TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "LOCAL KEYS +"
+            },
+            {
+                "address": "13",
+                "name": "LOCAL KEYS RADIO"
+            },
+            {
+                "address": "2d",
+                "name": "LOCAL KEYS -"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Loewe",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

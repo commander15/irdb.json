@@ -1,0 +1,33 @@
+{
+    "display_name": "Lightolier Lighting Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "SCENE A"
+            },
+            {
+                "address": "3",
+                "name": "SCENE B"
+            },
+            {
+                "address": "5",
+                "name": "SCENE C"
+            },
+            {
+                "address": "7",
+                "name": "SCENE D"
+            },
+            {
+                "address": "21",
+                "name": "OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Lightolier",
+    "model": "",
+    "name": "",
+    "target": "Lighting Controller"
+}

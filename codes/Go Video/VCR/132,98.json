@@ -1,0 +1,141 @@
+{
+    "display_name": "Go Video VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "1",
+                "name": "CH V"
+            },
+            {
+                "address": "2",
+                "name": "REW <<"
+            },
+            {
+                "address": "3",
+                "name": "PLAY/ATR >"
+            },
+            {
+                "address": "4",
+                "name": "STOP/EJ []"
+            },
+            {
+                "address": "5",
+                "name": "PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "POWER"
+            },
+            {
+                "address": "7",
+                "name": "CH ^"
+            },
+            {
+                "address": "8",
+                "name": "FF >>"
+            },
+            {
+                "address": "9",
+                "name": "CLEAR"
+            },
+            {
+                "address": "a",
+                "name": "REC"
+            },
+            {
+                "address": "b",
+                "name": "LCV (CHANGE)"
+            },
+            {
+                "address": "c",
+                "name": "OSD"
+            },
+            {
+                "address": "d",
+                "name": "MUTE (SELECT)"
+            },
+            {
+                "address": "e",
+                "name": "CLK/CTR"
+            },
+            {
+                "address": "f",
+                "name": "INDEX"
+            },
+            {
+                "address": "10",
+                "name": "0 (AUX)"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2 (TRK -)"
+            },
+            {
+                "address": "13",
+                "name": "3 (TRK +)"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5 (PICTURE -)"
+            },
+            {
+                "address": "16",
+                "name": "6 (PICTURE +)"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8 (SLOW -)"
+            },
+            {
+                "address": "19",
+                "name": "9 (SLOW +)"
+            },
+            {
+                "address": "1a",
+                "name": "100"
+            },
+            {
+                "address": "1b",
+                "name": "VIEW"
+            },
+            {
+                "address": "1c",
+                "name": "COPY"
+            },
+            {
+                "address": "1d",
+                "name": "DECK SELECT"
+            },
+            {
+                "address": "1e",
+                "name": "SKIP (ZERO RTN)"
+            },
+            {
+                "address": "1f",
+                "name": "MENU"
+            }
+        ],
+        "device_address": "210",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Go Video",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

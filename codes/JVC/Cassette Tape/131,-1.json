@@ -1,0 +1,109 @@
+{
+    "display_name": "JVC Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "DECK2 REC"
+            },
+            {
+                "address": "3",
+                "name": "DECK2 STOP []"
+            },
+            {
+                "address": "6",
+                "name": "DECK2 FF >>"
+            },
+            {
+                "address": "7",
+                "name": "DECK2 REW <<"
+            },
+            {
+                "address": "8",
+                "name": "DUBBING/NORMAL"
+            },
+            {
+                "address": "9",
+                "name": "DUBBING/HIGH"
+            },
+            {
+                "address": "b",
+                "name": "DECK2 DIRECTION <>"
+            },
+            {
+                "address": "c",
+                "name": "DECK2 PLAY >"
+            },
+            {
+                "address": "d",
+                "name": "DECK2 PAUSE "
+            },
+            {
+                "address": "18",
+                "name": "DECK2 MUSIC S. <<"
+            },
+            {
+                "address": "19",
+                "name": "DECK2 MUSIC S. >>"
+            },
+            {
+                "address": "1c",
+                "name": "DECK2 MUTE"
+            },
+            {
+                "address": "2d",
+                "name": "DECK 2"
+            },
+            {
+                "address": "52",
+                "name": "DECK1 REC"
+            },
+            {
+                "address": "53",
+                "name": "DECK1 STOP []"
+            },
+            {
+                "address": "56",
+                "name": "DECK1 FF >>"
+            },
+            {
+                "address": "57",
+                "name": "DECK1 REW <<"
+            },
+            {
+                "address": "5b",
+                "name": "DECK1 DIRECTION <>"
+            },
+            {
+                "address": "5c",
+                "name": "DECK1 PLAY >"
+            },
+            {
+                "address": "5d",
+                "name": "DECK1 PAUSE "
+            },
+            {
+                "address": "68",
+                "name": "DECK1 MUSIC S. <<"
+            },
+            {
+                "address": "69",
+                "name": "DECK1 MUSIC S. >>"
+            },
+            {
+                "address": "6c",
+                "name": "DECK1 MUTE"
+            },
+            {
+                "address": "6d",
+                "name": "DECK 1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

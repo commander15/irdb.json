@@ -1,0 +1,25 @@
+{
+    "display_name": "Scientific Atlanta Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "22",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Scientific Atlanta",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

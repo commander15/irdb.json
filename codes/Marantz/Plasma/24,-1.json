@@ -1,0 +1,209 @@
+{
+    "display_name": "Marantz Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "S VIDEO INPUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "VIDEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "INPUT: VIDEO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "MONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "OFF TIMER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "OF-T",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "OFF TIME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "AUTO ADJUST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "0",
+                "name": "CONTRAST +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "0",
+                "name": "CONTRAST -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "COLOR +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "0",
+                "name": "COLOR -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "0",
+                "name": "BRIGHTNESS+",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4a",
+                "device_address": "0",
+                "name": "BRIGHTNESS +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4c",
+                "device_address": "0",
+                "name": "TINT +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4d",
+                "device_address": "0",
+                "name": "TINT -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "0",
+                "name": "SHARPNESS +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "SHARPNESS -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "VIDEO 1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "55",
+                "device_address": "0",
+                "name": "VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "0",
+                "name": "VIDEO 2",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "56",
+                "device_address": "0",
+                "name": "VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "0",
+                "name": "VIDEO 3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "57",
+                "device_address": "0",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "RGB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "RGB/PC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "0",
+                "name": "INPUT: PC",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

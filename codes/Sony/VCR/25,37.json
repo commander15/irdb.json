@@ -1,0 +1,165 @@
+{
+    "display_name": "Sony VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "0",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "1",
+                "name": "DATA CODE"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "2",
+                "name": "COUNTER SELECT"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "4",
+                "name": "X 2"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "a",
+                "name": "-/- -"
+            },
+            {
+                "address": "a",
+                "name": "UP"
+            },
+            {
+                "address": "10",
+                "name": "PROGRAM +"
+            },
+            {
+                "address": "11",
+                "name": "PROGRAM -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "16",
+                "name": "EJECT"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO MONITOR"
+            },
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "REW"
+            },
+            {
+                "address": "1c",
+                "name": "FF"
+            },
+            {
+                "address": "1d",
+                "name": "REC"
+            },
+            {
+                "address": "23",
+                "name": "SLOW >"
+            },
+            {
+                "address": "28",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "29",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "2a",
+                "name": "TV/VTR"
+            },
+            {
+                "address": "30",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "31",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "43",
+                "name": "DOWN"
+            },
+            {
+                "address": "4d",
+                "name": "MENU"
+            },
+            {
+                "address": "51",
+                "name": "EXECUTE"
+            },
+            {
+                "address": "61",
+                "name": "RIGHT"
+            },
+            {
+                "address": "62",
+                "name": "LEFT"
+            }
+        ],
+        "device_address": "320",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

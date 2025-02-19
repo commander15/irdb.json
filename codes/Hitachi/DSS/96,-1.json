@@ -1,0 +1,93 @@
+{
+    "display_name": "Hitachi DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "VCR 8 (VWX)"
+            },
+            {
+                "address": "5",
+                "name": "VCR 9 (YZ)"
+            },
+            {
+                "address": "9",
+                "name": "VCR FFW >>"
+            },
+            {
+                "address": "a",
+                "name": "VCR REW <<"
+            },
+            {
+                "address": "b",
+                "name": "VCR STOP"
+            },
+            {
+                "address": "c",
+                "name": "VCR 0 (&!/)"
+            },
+            {
+                "address": "d",
+                "name": "VCR 1 (ABC)"
+            },
+            {
+                "address": "e",
+                "name": "VCR 2 (DEF)"
+            },
+            {
+                "address": "f",
+                "name": "VCR 3 (GHI)"
+            },
+            {
+                "address": "14",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "INPUT"
+            },
+            {
+                "address": "17",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "18",
+                "name": "VCR CH V"
+            },
+            {
+                "address": "19",
+                "name": "VCR CH ^"
+            },
+            {
+                "address": "1a",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "VCR 4 (JKL)"
+            },
+            {
+                "address": "1d",
+                "name": "VCR 5 (MNO)"
+            },
+            {
+                "address": "1e",
+                "name": "VCR 6 (PQR)"
+            },
+            {
+                "address": "1f",
+                "name": "VCR 7 (STU)"
+            },
+            {
+                "address": "8b",
+                "name": "VCR SELECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

@@ -1,0 +1,45 @@
+{
+    "display_name": "Carver Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "4",
+                "name": "REVIEW <<"
+            },
+            {
+                "address": "6",
+                "name": "CUE >>"
+            },
+            {
+                "address": "9",
+                "name": "STOP []"
+            },
+            {
+                "address": "a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "e",
+                "name": "REC MUTE"
+            },
+            {
+                "address": "14",
+                "name": "REC"
+            },
+            {
+                "address": "15",
+                "name": "PLAY >"
+            }
+        ],
+        "device_address": "410000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

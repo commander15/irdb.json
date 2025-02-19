@@ -1,0 +1,113 @@
+{
+    "display_name": "Elan Video Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "POWER"
+            },
+            {
+                "address": "13",
+                "name": "Z1"
+            },
+            {
+                "address": "14",
+                "name": "Z2"
+            },
+            {
+                "address": "14",
+                "name": ""
+            },
+            {
+                "address": "15",
+                "name": "Z3"
+            },
+            {
+                "address": "16",
+                "name": "Z4"
+            },
+            {
+                "address": "1a",
+                "name": "MUTE"
+            },
+            {
+                "address": "1b",
+                "name": "Z5"
+            },
+            {
+                "address": "1b",
+                "name": ""
+            },
+            {
+                "address": "1c",
+                "name": "Z6"
+            },
+            {
+                "address": "1d",
+                "name": "Z7"
+            },
+            {
+                "address": "1e",
+                "name": "Z8"
+            },
+            {
+                "address": "1e",
+                "name": ""
+            },
+            {
+                "address": "32",
+                "name": "MAN"
+            },
+            {
+                "address": "33",
+                "name": "S1"
+            },
+            {
+                "address": "34",
+                "name": "S2"
+            },
+            {
+                "address": "35",
+                "name": "S3"
+            },
+            {
+                "address": "35",
+                "name": ""
+            },
+            {
+                "address": "36",
+                "name": "S4"
+            },
+            {
+                "address": "36",
+                "name": ""
+            },
+            {
+                "address": "3a",
+                "name": "AUTO"
+            },
+            {
+                "address": "3b",
+                "name": "S5"
+            },
+            {
+                "address": "3c",
+                "name": "S6"
+            },
+            {
+                "address": "3d",
+                "name": "S7"
+            },
+            {
+                "address": "3e",
+                "name": "S8"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Video Controller"
+}

@@ -1,0 +1,141 @@
+{
+    "display_name": "Carver Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "PLAY >"
+            },
+            {
+                "address": "9",
+                "name": "PAUSE/STOP"
+            },
+            {
+                "address": "a",
+                "name": "SKIP +"
+            },
+            {
+                "address": "b",
+                "name": "SKIP -"
+            },
+            {
+                "address": "40",
+                "name": "POWER"
+            },
+            {
+                "address": "46",
+                "name": "TUNING UP"
+            },
+            {
+                "address": "46",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "47",
+                "name": "TUNING DOWN"
+            },
+            {
+                "address": "47",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "48",
+                "name": "FM"
+            },
+            {
+                "address": "49",
+                "name": "AM"
+            },
+            {
+                "address": "4a",
+                "name": "1/11"
+            },
+            {
+                "address": "4a",
+                "name": "1"
+            },
+            {
+                "address": "4b",
+                "name": "2/12"
+            },
+            {
+                "address": "4b",
+                "name": "2"
+            },
+            {
+                "address": "4c",
+                "name": "3/13"
+            },
+            {
+                "address": "4c",
+                "name": "3"
+            },
+            {
+                "address": "4d",
+                "name": "4/14"
+            },
+            {
+                "address": "4d",
+                "name": "4"
+            },
+            {
+                "address": "4e",
+                "name": "5/15"
+            },
+            {
+                "address": "4e",
+                "name": "5"
+            },
+            {
+                "address": "4f",
+                "name": "6/16"
+            },
+            {
+                "address": "4f",
+                "name": "6"
+            },
+            {
+                "address": "50",
+                "name": "7/17"
+            },
+            {
+                "address": "50",
+                "name": "7"
+            },
+            {
+                "address": "51",
+                "name": "8/18"
+            },
+            {
+                "address": "51",
+                "name": "8"
+            },
+            {
+                "address": "58",
+                "name": "9/19"
+            },
+            {
+                "address": "58",
+                "name": "9"
+            },
+            {
+                "address": "59",
+                "name": "10/20"
+            },
+            {
+                "address": "59",
+                "name": "10"
+            },
+            {
+                "address": "5f",
+                "name": "ACCD"
+            }
+        ],
+        "device_address": "38000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

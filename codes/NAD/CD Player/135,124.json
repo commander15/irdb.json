@@ -1,0 +1,133 @@
+{
+    "display_name": "NAD CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PLAY"
+            },
+            {
+                "address": "2",
+                "name": "STOP"
+            },
+            {
+                "address": "3",
+                "name": "RANDOM"
+            },
+            {
+                "address": "4",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "5",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "6",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "7",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "8",
+                "name": "TIME"
+            },
+            {
+                "address": "a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "c",
+                "name": "1"
+            },
+            {
+                "address": "d",
+                "name": "2"
+            },
+            {
+                "address": "e",
+                "name": "3"
+            },
+            {
+                "address": "f",
+                "name": "4"
+            },
+            {
+                "address": "10",
+                "name": "5"
+            },
+            {
+                "address": "11",
+                "name": "6"
+            },
+            {
+                "address": "12",
+                "name": "7"
+            },
+            {
+                "address": "13",
+                "name": "8"
+            },
+            {
+                "address": "15",
+                "name": "9"
+            },
+            {
+                "address": "16",
+                "name": "0"
+            },
+            {
+                "address": "17",
+                "name": "NEXT"
+            },
+            {
+                "address": "41",
+                "name": "DISC 1"
+            },
+            {
+                "address": "42",
+                "name": "DISC 2"
+            },
+            {
+                "address": "43",
+                "name": "DISC 3"
+            },
+            {
+                "address": "44",
+                "name": "DISC 4"
+            },
+            {
+                "address": "45",
+                "name": "DISC 5"
+            },
+            {
+                "address": "48",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "4a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "4d",
+                "name": "+10"
+            },
+            {
+                "address": "50",
+                "name": "CLEAR"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

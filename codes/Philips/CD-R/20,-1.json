@@ -1,0 +1,49 @@
+{
+    "display_name": "Philips CD-R",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "TRACK +"
+            },
+            {
+                "address": "21",
+                "name": "TRACK -"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "CD1"
+            },
+            {
+                "address": "38",
+                "name": "CD2"
+            },
+            {
+                "address": "39",
+                "name": "CD3"
+            },
+            {
+                "address": "3f",
+                "name": "CD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "CD-R"
+}

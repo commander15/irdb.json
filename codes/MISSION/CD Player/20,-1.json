@@ -1,0 +1,41 @@
+{
+    "display_name": "MISSION CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "NEXT"
+            },
+            {
+                "address": "21",
+                "name": "BACK"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "34",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "MISSION",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

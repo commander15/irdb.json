@@ -1,0 +1,25 @@
+{
+    "display_name": "Echostar Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

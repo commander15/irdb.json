@@ -1,0 +1,25 @@
+{
+    "display_name": "Marantz Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "2f",
+                "name": "DAT/TAPE2 < >"
+            },
+            {
+                "address": "30",
+                "name": "DAT/TAPE2 PAUSE "
+            },
+            {
+                "address": "37",
+                "name": "DAT/TAPE2 REC"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

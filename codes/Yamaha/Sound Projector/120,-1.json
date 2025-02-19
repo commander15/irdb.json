@@ -1,0 +1,1523 @@
+{
+    "display_name": "Yamaha Sound Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "device_address": "0",
+                "name": "POWER TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "FM/XM: 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "FM/XM: 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "12",
+                "device_address": "0",
+                "name": "FM/XM: 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "0",
+                "name": "FM/XM: 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "0",
+                "name": "FM/XM: 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "0",
+                "name": "FM/XM: 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "16",
+                "device_address": "0",
+                "name": "FM/XM: 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "FM/XM: 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "0",
+                "name": "FM/XM: 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "0",
+                "name": "FM/XM: 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "0",
+                "name": "FM UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "0",
+                "name": "SUR UPP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "0",
+                "name": "PRESET +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "0",
+                "name": "FM/XM: PRESET +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "FM DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "SUR NER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "PRESET -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "0",
+                "name": "FM/XM: PRESET -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "FM A-E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "XM CATEGORY +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "0",
+                "name": "FM/XM: PG/CAT+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "0",
+                "name": "VOLUME UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "0",
+                "name": "VOLUME DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "CH LEVEL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "LEVEL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "LEVEL TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "0",
+                "name": "DSP: LEVEL TOGGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "0",
+                "name": "INPUT AUX1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "0",
+                "name": "INPUT VCR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "0",
+                "name": "INPUT AUX 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "0",
+                "name": "INPUT: AUX 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "0",
+                "name": "INPUT DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "0",
+                "name": "INPUT: DVD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "0",
+                "name": "INPUT FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "0",
+                "name": "INPUT: XM/FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4e",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "SLEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "SLEEP TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4f",
+                "device_address": "0",
+                "name": "SLEEP: TOGGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "SUR STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "BEAM-STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "STEREO/5 CH STEREO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "0",
+                "name": "DSP: BMSTEREOTOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "0",
+                "name": "TEST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "0",
+                "name": "TEST MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "0",
+                "name": "TEST MODE TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "0",
+                "name": "TEST (DOLBY)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "0",
+                "name": "TEST TOGGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "0",
+                "name": "SEARCH MODE ALL CH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "67",
+                "device_address": "0",
+                "name": "FM/XM: SRCHMD ALL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "SEARCH MODE PREST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "68",
+                "device_address": "0",
+                "name": "FM/XM: SRCHMPRES",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6b",
+                "device_address": "0",
+                "name": "DEMO 1 ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6b",
+                "device_address": "0",
+                "name": "DEMO 1 ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6c",
+                "device_address": "0",
+                "name": "DEMO 1 OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6c",
+                "device_address": "0",
+                "name": "DEMO 1 OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "0",
+                "name": "TRUBASS MID",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6d",
+                "device_address": "0",
+                "name": "DEMO 2 ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6d",
+                "device_address": "0",
+                "name": "TRUBASS: MID",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6d",
+                "device_address": "0",
+                "name": "DSP: TBASS ON MID",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6e",
+                "device_address": "0",
+                "name": "TRUBASS DEEP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6e",
+                "device_address": "0",
+                "name": "DEMO 2 OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6e",
+                "device_address": "0",
+                "name": "TRUBASS: DEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6e",
+                "device_address": "0",
+                "name": "DSP: TBASS ON DEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6f",
+                "device_address": "0",
+                "name": "TRUBASS OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6f",
+                "device_address": "0",
+                "name": "TRUBASS: OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6f",
+                "device_address": "0",
+                "name": "DSP: TBASS OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "70",
+                "device_address": "0",
+                "name": "PRESET MEMORY A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "70",
+                "device_address": "0",
+                "name": "VOLUME MEMORY A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "0",
+                "name": "PRESET RECALL A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "0",
+                "name": "VOLUME RECALL A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "0",
+                "name": "PRESET MEMORY B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "0",
+                "name": "VOLUME MEMORY B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "73",
+                "device_address": "0",
+                "name": "PRESET RECALL B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "73",
+                "device_address": "0",
+                "name": "VOLUME RECALL B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "74",
+                "device_address": "0",
+                "name": "PRESET MEMORY C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "74",
+                "device_address": "0",
+                "name": "VOLUME MEMORY C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "PRESET RECALL C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "75",
+                "device_address": "0",
+                "name": "VOLUME RECALL C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "76",
+                "device_address": "0",
+                "name": "MEMORY SAVE USER1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "77",
+                "device_address": "0",
+                "name": "MEMORY LOAD USER1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "78",
+                "device_address": "0",
+                "name": "MEMORY SAVE USER2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "79",
+                "device_address": "0",
+                "name": "MEMORY LOAD USER2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7a",
+                "device_address": "0",
+                "name": "MEMORY SAVE USER3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7b",
+                "device_address": "0",
+                "name": "MEMORY LOAD USER3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7c",
+                "device_address": "0",
+                "name": "TV EQUAL VOL ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7c",
+                "device_address": "0",
+                "name": "TV MODE: ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7c",
+                "device_address": "0",
+                "name": "DSP: TV MODE ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "INPUT XM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7d",
+                "device_address": "0",
+                "name": "INPUT: XM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7e",
+                "device_address": "0",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7f",
+                "device_address": "0",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "VOL MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "NIGHT TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "VOLUME MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "0",
+                "name": "DSP: VOL MODE TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "TRUBASS TOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "SRS TRUBASS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "0",
+                "name": "DSP: TBASS TOGG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "0",
+                "name": "INPUTMODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "0",
+                "name": "INPUT MODE: TOGGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "SET MENU UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "0",
+                "name": "SET: CURSOR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "SET MENU DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "0",
+                "name": "SET: CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "0",
+                "name": "SUR DECODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "0",
+                "name": "SURROUND TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "99",
+                "device_address": "0",
+                "name": "DSP: T SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "SUR OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "DSP OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "CINEMA DSP: OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "0",
+                "name": "DSP: CDSP OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "VOLUME MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "MUTE TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "NIGHT MODE OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "0",
+                "name": "MUTE TOGGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "0",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "0",
+                "name": "SET MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "0",
+                "name": "SET MENU TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "0",
+                "name": "SET: SET MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "0",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "0",
+                "name": "SET MENU +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "0",
+                "name": "SET MENU RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "0",
+                "name": "RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "0",
+                "name": "SET: CURSOR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "SUR A-E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "SET MENU -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "SET MENU LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "0",
+                "name": "SET: CURSOR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a2",
+                "device_address": "0",
+                "name": "MUTE ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "AUTO SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "AUTO INTELLIBEAM",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "INTELLIBEAM START",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "MUTE OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a3",
+                "device_address": "0",
+                "name": "SET: IBM START TRIGG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a5",
+                "device_address": "0",
+                "name": "+10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "0",
+                "name": "FM PRESET/TUNE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "0",
+                "name": "PRESET/TUNE MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a8",
+                "device_address": "0",
+                "name": "FM/XM: PRES/TUNE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a9",
+                "device_address": "0",
+                "name": "TUNING-/PRESET-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a9",
+                "device_address": "0",
+                "name": "FM/XM: TUN/PRE-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "0",
+                "name": "TUNING+/PRESET+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "aa",
+                "device_address": "0",
+                "name": "FM/XM: TUN/PRE+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ab",
+                "device_address": "0",
+                "name": "PRESET E CATEGORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ab",
+                "device_address": "0",
+                "name": "FM/XM: PAGE E",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "0",
+                "name": "PRESET D CATEGORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ac",
+                "device_address": "0",
+                "name": "FM/XM: PAGE D",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "0",
+                "name": "PRESET C CATEGORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ad",
+                "device_address": "0",
+                "name": "FM/XM: PAGE C",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ae",
+                "device_address": "0",
+                "name": "PRESET B CATEGORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ae",
+                "device_address": "0",
+                "name": "FM/XM: PAGE B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "af",
+                "device_address": "0",
+                "name": "PRESET A CATEGORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "af",
+                "device_address": "0",
+                "name": "FM/XM: PAGE A",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b0",
+                "device_address": "0",
+                "name": "AUTO SEARCH -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b0",
+                "device_address": "0",
+                "name": "FM/XM: AUTO SRCH-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b1",
+                "device_address": "0",
+                "name": "AUTO SEARCH +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b1",
+                "device_address": "0",
+                "name": "FM/XM: AUTO SRCH+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "0",
+                "name": "FM MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b2",
+                "device_address": "0",
+                "name": "FM/XM: MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "0",
+                "name": "INPUT FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b6",
+                "device_address": "0",
+                "name": "INPUT: FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "0",
+                "name": "FM SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b7",
+                "device_address": "0",
+                "name": "FM/XM: SRCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b8",
+                "device_address": "0",
+                "name": "XM DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b8",
+                "device_address": "0",
+                "name": "FM/XM: XM DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bb",
+                "device_address": "0",
+                "name": "XM CATEGORY -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bb",
+                "device_address": "0",
+                "name": "FM/XM: PG/CAT-",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "0",
+                "name": "INPUT AUX3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "0",
+                "name": "INPUT AUX 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bc",
+                "device_address": "0",
+                "name": "INPUT: AUX 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bd",
+                "device_address": "0",
+                "name": "XM ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "bd",
+                "device_address": "0",
+                "name": "FM/XM: XM ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "0",
+                "name": "RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "0",
+                "name": "SET MENU RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "0",
+                "name": "SET: RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "0",
+                "name": "CURSOR ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "0",
+                "name": "SET MENU SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "0",
+                "name": "SET MENU ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c1",
+                "device_address": "0",
+                "name": "SET: ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "SUR 5BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "BEAM-5BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "5 BEAM MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "DSP: BM 5 BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "SUR ST+3BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "BEAM-ST+3BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "ST+3 BEAM MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "DSP: BM ST+3 BEA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "SUR 3BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "BEAM-3BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "3 BEAM MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "DSP: BM 3 BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "SUR MY BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "BEAM-TARGET",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "BEAM-MY BEAM AUTO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "DSP: BM MY BEAM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "0",
+                "name": "SUR MY SUR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "0",
+                "name": "DSP: BM MY SURR.",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "0",
+                "name": "ENHANCER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "0",
+                "name": "MUSIC ENHANCER TOGGL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "0",
+                "name": "DSP: M ENHAN TOG",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "0",
+                "name": "DSP: T MUSIC ENHA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cc",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "SUR MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "DSP MOVIE TOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "CINEMA DSP (MOVIE) T",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "DSP: T CDSP MOVIE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "SUR MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "DSP MUSIC TOG",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "CINEMA DSP (MUSIC) T",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "DSP: T CDSP MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "SUR SPORTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "CINEMA DSP (SPORTS)",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "DSP: CDSP SPORTS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "INPUT AUX2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "INPUT AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "INPUT AUX 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "INPUT: AUX 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "INPUT STB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "INPUT TV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "INPUT TV/STB",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "MUTE 20%",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "INPUT: TV/STB",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Sound Projector"
+}

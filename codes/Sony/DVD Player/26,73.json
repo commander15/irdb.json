@@ -1,0 +1,833 @@
+{
+    "display_name": "Sony DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "0",
+                "name": "4"
+            },
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "1",
+                "name": "2"
+            },
+            {
+                "address": "1",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "1",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "2",
+                "name": "3"
+            },
+            {
+                "address": "2",
+                "name": "5"
+            },
+            {
+                "address": "2",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "2",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "3",
+                "name": "4"
+            },
+            {
+                "address": "3",
+                "name": ""
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "9"
+            },
+            {
+                "address": "3",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "3",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "3",
+                "name": "PAUSE"
+            },
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "3",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "5"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "4",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "5",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "7"
+            },
+            {
+                "address": "6",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "6",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "7",
+                "name": "8"
+            },
+            {
+                "address": "7",
+                "name": "2"
+            },
+            {
+                "address": "7",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "8",
+                "name": "9"
+            },
+            {
+                "address": "8",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "b",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "b",
+                "name": "EXECUTE"
+            },
+            {
+                "address": "b",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "b",
+                "name": "MENU ENTER"
+            },
+            {
+                "address": "e",
+                "name": "RETURN"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "10",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "11",
+                "name": "SEARCH>>"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "15",
+                "name": "POWER ON"
+            },
+            {
+                "address": "15",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "16",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "1a",
+                "name": "TITLE"
+            },
+            {
+                "address": "1a",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "1b",
+                "name": "DVD MENU"
+            },
+            {
+                "address": "1b",
+                "name": "MENU"
+            },
+            {
+                "address": "1f",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "20",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "20",
+                "name": "SEARCH/STEP >>"
+            },
+            {
+                "address": "21",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "21",
+                "name": "SEARCH /STEP<<"
+            },
+            {
+                "address": "22",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "22",
+                "name": "SLOW <<"
+            },
+            {
+                "address": "22",
+                "name": "SCAN/SLOW <<"
+            },
+            {
+                "address": "22",
+                "name": "SCAN /SLOW>>"
+            },
+            {
+                "address": "23",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "23",
+                "name": "SLOW >>"
+            },
+            {
+                "address": "23",
+                "name": "SCAN/SLOW >>"
+            },
+            {
+                "address": "23",
+                "name": "SCAN /SLOW<<"
+            },
+            {
+                "address": "28",
+                "name": "TIME"
+            },
+            {
+                "address": "28",
+                "name": "TIME/TEXT"
+            },
+            {
+                "address": "28",
+                "name": "TME/TEXT"
+            },
+            {
+                "address": "29",
+                "name": ""
+            },
+            {
+                "address": "2a",
+                "name": "A-B"
+            },
+            {
+                "address": "2a",
+                "name": "A - B"
+            },
+            {
+                "address": "2a",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "2a",
+                "name": "A<-->B"
+            },
+            {
+                "address": "2a",
+                "name": "A<->B"
+            },
+            {
+                "address": "2c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON (MOST)"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON (S7000)"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF (MOST)"
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF (S7000)"
+            },
+            {
+                "address": "30",
+                "name": "<<PREVIOUS"
+            },
+            {
+                "address": "30",
+                "name": "PREV"
+            },
+            {
+                "address": "30",
+                "name": "PREVIOUS <<"
+            },
+            {
+                "address": "30",
+                "name": "PREV <<"
+            },
+            {
+                "address": "30",
+                "name": "PREV."
+            },
+            {
+                "address": "30",
+                "name": "PREV <<"
+            },
+            {
+                "address": "30",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "30",
+                "name": "SKIP << (PREV)"
+            },
+            {
+                "address": "30",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "30",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "30",
+                "name": "PREV<<"
+            },
+            {
+                "address": "31",
+                "name": ">>NEXT"
+            },
+            {
+                "address": "31",
+                "name": "NEXT"
+            },
+            {
+                "address": "31",
+                "name": "NEXT >>"
+            },
+            {
+                "address": "31",
+                "name": "NEXT >>"
+            },
+            {
+                "address": "31",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "31",
+                "name": "SKIP << (NEXT)"
+            },
+            {
+                "address": "31",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "31",
+                "name": "NEXT>>"
+            },
+            {
+                "address": "32",
+                "name": "PLAY"
+            },
+            {
+                "address": "32",
+                "name": "PLAY >"
+            },
+            {
+                "address": "33",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "34",
+                "name": "SCAN>>"
+            },
+            {
+                "address": "35",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "36",
+                "name": "X2 <"
+            },
+            {
+                "address": "37",
+                "name": "X2 >"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "39",
+                "name": ""
+            },
+            {
+                "address": "3a",
+                "name": "JOG CCW"
+            },
+            {
+                "address": "3a",
+                "name": "STEP <<"
+            },
+            {
+                "address": "3a",
+                "name": "JOG -"
+            },
+            {
+                "address": "3b",
+                "name": "JOG CW"
+            },
+            {
+                "address": "3b",
+                "name": "STEP >>"
+            },
+            {
+                "address": "3b",
+                "name": "JOG +"
+            },
+            {
+                "address": "40",
+                "name": "DISC 1"
+            },
+            {
+                "address": "41",
+                "name": "DISC 2"
+            },
+            {
+                "address": "42",
+                "name": "DISC 3"
+            },
+            {
+                "address": "43",
+                "name": "DISC 4"
+            },
+            {
+                "address": "44",
+                "name": "DISC 5"
+            },
+            {
+                "address": "47",
+                "name": "ONE/ALL DISCS"
+            },
+            {
+                "address": "47",
+                "name": ".1/ALL DISCS"
+            },
+            {
+                "address": "47",
+                "name": "1/ALL DISCS"
+            },
+            {
+                "address": "47",
+                "name": "1/ALL DISCS / LOAD"
+            },
+            {
+                "address": "48",
+                "name": "BNR"
+            },
+            {
+                "address": "48",
+                "name": "DNR"
+            },
+            {
+                "address": "49",
+                "name": "LOAD"
+            },
+            {
+                "address": "49",
+                "name": "1/ALL DISCS / LOAD"
+            },
+            {
+                "address": "4b",
+                "name": "SEARCH MODE"
+            },
+            {
+                "address": "4e",
+                "name": "MEGA"
+            },
+            {
+                "address": "4e",
+                "name": "MEGA CONTROL"
+            },
+            {
+                "address": "4f",
+                "name": "MEMO INPUT"
+            },
+            {
+                "address": "50",
+                "name": "PICTURE NAVI"
+            },
+            {
+                "address": "52",
+                "name": "EASY PLAY"
+            },
+            {
+                "address": "53",
+                "name": "SET UP"
+            },
+            {
+                "address": "53",
+                "name": "MENU"
+            },
+            {
+                "address": "53",
+                "name": "SETUP"
+            },
+            {
+                "address": "54",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "55",
+                "name": "VIDEO ON/OFF"
+            },
+            {
+                "address": "56",
+                "name": "FL ON/OFF"
+            },
+            {
+                "address": "57",
+                "name": "BOOK MARK"
+            },
+            {
+                "address": "58",
+                "name": "DVE"
+            },
+            {
+                "address": "5a",
+                "name": "SUR"
+            },
+            {
+                "address": "5a",
+                "name": "SURROUND"
+            },
+            {
+                "address": "5b",
+                "name": "PICTURE MODE"
+            },
+            {
+                "address": "5c",
+                "name": "REPLAY"
+            },
+            {
+                "address": "5c",
+                "name": "INSTANT REPLAY"
+            },
+            {
+                "address": "5c",
+                "name": "STEP<"
+            },
+            {
+                "address": "5f",
+                "name": "SACD/CD"
+            },
+            {
+                "address": "60",
+                "name": "SLOW <<"
+            },
+            {
+                "address": "60",
+                "name": "SLOW MOTION <"
+            },
+            {
+                "address": "61",
+                "name": "SLOW >>"
+            },
+            {
+                "address": "61",
+                "name": "SLOW MOTION >"
+            },
+            {
+                "address": "62",
+                "name": "SUBTITLE ON/OFF"
+            },
+            {
+                "address": "62",
+                "name": "SUB-TITLE ON/OFF"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE CHANGE"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE / EDIT"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE ON/OFF"
+            },
+            {
+                "address": "63",
+                "name": "SUB-TITLE CHANGE"
+            },
+            {
+                "address": "64",
+                "name": "AUDIO CHANGE"
+            },
+            {
+                "address": "64",
+                "name": "AUDIO"
+            },
+            {
+                "address": "64",
+                "name": "AUDIO / FILE"
+            },
+            {
+                "address": "64",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "65",
+                "name": "ANGLE CHANGE"
+            },
+            {
+                "address": "65",
+                "name": "ANGLE"
+            },
+            {
+                "address": "65",
+                "name": "ANGLE / SORT"
+            },
+            {
+                "address": "72",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "72",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "72",
+                "name": ""
+            },
+            {
+                "address": "72",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "72",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "72",
+                "name": "DIAL CCW"
+            },
+            {
+                "address": "73",
+                "name": "SCAN>>"
+            },
+            {
+                "address": "73",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "73",
+                "name": ""
+            },
+            {
+                "address": "73",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "73",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "73",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "73",
+                "name": "DIAL CW"
+            },
+            {
+                "address": "76",
+                "name": "PICTURE MEMORY"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "79",
+                "name": "UP"
+            },
+            {
+                "address": "79",
+                "name": ""
+            },
+            {
+                "address": "79",
+                "name": "MENU UP"
+            },
+            {
+                "address": "79",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "7a",
+                "name": ""
+            },
+            {
+                "address": "7a",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "7b",
+                "name": ""
+            },
+            {
+                "address": "7b",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "7b",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "7c",
+                "name": "RIGHT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "7c",
+                "name": ""
+            },
+            {
+                "address": "7c",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "7c",
+                "name": "ARROW RIGHT"
+            }
+        ],
+        "device_address": "3400",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

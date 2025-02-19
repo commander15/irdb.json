@@ -1,0 +1,197 @@
+{
+    "display_name": "Integra Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "device_address": "1a4000",
+                "name": "VOLUME +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "1a4000",
+                "name": "VOLUME -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "1a4000",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "1a4000",
+                "name": "MUTING",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "1a4000",
+                "name": "TAPE/DAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "1a4000",
+                "name": "CD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "1a4000",
+                "name": "PHONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "1a4000",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d",
+                "device_address": "1a4000",
+                "name": "VIDEO 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e",
+                "device_address": "1a4000",
+                "name": "VIDEO 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f",
+                "device_address": "1a4000",
+                "name": "VDP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "1a4000",
+                "name": "DBS",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "1a4000",
+                "name": "REAR LEVEL +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "43",
+                "device_address": "1a4000",
+                "name": "REAR LEVEL -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4c",
+                "device_address": "1a4000",
+                "name": "SURROUND MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "1a4000",
+                "name": "DELAY TIME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "80",
+                "device_address": "1a4000",
+                "name": "CENTER LEVEL +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "81",
+                "device_address": "1a4000",
+                "name": "CENTER LEVEL -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "82",
+                "device_address": "1a4000",
+                "name": "CURSOR UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "83",
+                "device_address": "1a4000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "84",
+                "device_address": "1a4000",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "85",
+                "device_address": "1a4000",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "97",
+                "device_address": "1a4000",
+                "name": "ENTER/ESCAPE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9a",
+                "device_address": "1a4000",
+                "name": "TEST TONE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "1a4000",
+                "name": "VIDEO 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "1a4000",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "1a4000",
+                "name": "PRESET 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d1",
+                "device_address": "1a4000",
+                "name": "PRESET 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d2",
+                "device_address": "1a4000",
+                "name": "PRESET 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d3",
+                "device_address": "1a4000",
+                "name": "PRESET 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "1a4000",
+                "name": "PRESET 5",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

@@ -1,0 +1,77 @@
+{
+    "display_name": "Elan Master Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "RELAY 1 ON"
+            },
+            {
+                "address": "2",
+                "name": "RELAY 2 ON"
+            },
+            {
+                "address": "3",
+                "name": "RELAY 3 ON"
+            },
+            {
+                "address": "4",
+                "name": "RELAY 4 ON"
+            },
+            {
+                "address": "5",
+                "name": "RELAY 5 ON"
+            },
+            {
+                "address": "6",
+                "name": "RELAY 6 ON"
+            },
+            {
+                "address": "a",
+                "name": "LOOP ON/OFF"
+            },
+            {
+                "address": "f",
+                "name": "FLAT"
+            },
+            {
+                "address": "10",
+                "name": "ZONE GROUPING ON/OFF"
+            },
+            {
+                "address": "11",
+                "name": "WHOLE HOUSE ON/OFF"
+            },
+            {
+                "address": "21",
+                "name": "RELAY 1 OFF"
+            },
+            {
+                "address": "22",
+                "name": "RELAY 2 OFF"
+            },
+            {
+                "address": "23",
+                "name": "RELAY 3 OFF"
+            },
+            {
+                "address": "24",
+                "name": "RELAY 4 OFF"
+            },
+            {
+                "address": "25",
+                "name": "RELAY 5 OFF"
+            },
+            {
+                "address": "26",
+                "name": "RELAY 6 OFF"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Master Controller"
+}

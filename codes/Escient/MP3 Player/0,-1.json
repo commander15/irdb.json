@@ -1,0 +1,37 @@
+{
+    "display_name": "Escient MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "c",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "34",
+                "name": "CURSER UP"
+            },
+            {
+                "address": "35",
+                "name": "CURSER DOWN"
+            },
+            {
+                "address": "36",
+                "name": "CURSER LEFT"
+            },
+            {
+                "address": "37",
+                "name": "CURSER RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "G.I.Cable"
+    },
+    "manufacturer": "Escient",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

@@ -1,0 +1,29 @@
+{
+    "display_name": "Harman Kardon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "12",
+                "name": "ALL ON"
+            },
+            {
+                "address": "1b",
+                "name": "CHAN. +"
+            },
+            {
+                "address": "1f",
+                "name": "CHAN.-"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

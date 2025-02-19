@@ -1,0 +1,21 @@
+{
+    "display_name": "Marantz TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "14",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "c000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

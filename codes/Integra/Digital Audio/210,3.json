@@ -1,0 +1,59 @@
+{
+    "display_name": "Integra Digital Audio",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "690",
+                "name": "PRESET +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1",
+                "device_address": "690",
+                "name": "PRESET -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "690",
+                "name": "VOLUME +",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "690",
+                "name": "VOLUME -",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "690",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "690",
+                "name": "AUX",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "690",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "690",
+                "name": "SLEEP",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Digital Audio"
+}

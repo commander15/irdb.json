@@ -1,0 +1,121 @@
+{
+    "display_name": "Mark Levinson CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "REWIND"
+            },
+            {
+                "address": "1",
+                "name": "PROGRAM +"
+            },
+            {
+                "address": "2",
+                "name": "PROGRAM -"
+            },
+            {
+                "address": "3",
+                "name": "1"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "FAST FWD"
+            },
+            {
+                "address": "9",
+                "name": "STOP/DWR"
+            },
+            {
+                "address": "a",
+                "name": "REPEAT DISC/TRACK"
+            },
+            {
+                "address": "b",
+                "name": "2"
+            },
+            {
+                "address": "c",
+                "name": "5"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "10",
+                "name": "PLAY"
+            },
+            {
+                "address": "11",
+                "name": "PAUSE"
+            },
+            {
+                "address": "12",
+                "name": "A -- B"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "6"
+            },
+            {
+                "address": "15",
+                "name": "9"
+            },
+            {
+                "address": "1b",
+                "name": "TIME"
+            },
+            {
+                "address": "1c",
+                "name": "POLARITY"
+            },
+            {
+                "address": "1d",
+                "name": "DISPLAY MODE"
+            },
+            {
+                "address": "23",
+                "name": "0"
+            },
+            {
+                "address": "24",
+                "name": "MUTE"
+            },
+            {
+                "address": "25",
+                "name": "INTENSITY / STANDBY"
+            },
+            {
+                "address": "2b",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2c",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2d",
+                "name": "INPUT SELECT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Mark Levinson",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

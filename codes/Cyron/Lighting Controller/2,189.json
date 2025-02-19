@@ -1,0 +1,133 @@
+{
+    "display_name": "Cyron Lighting Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "GREEN +"
+            },
+            {
+                "address": "1",
+                "name": "BLUE +"
+            },
+            {
+                "address": "2",
+                "name": "SOUND MODE"
+            },
+            {
+                "address": "3",
+                "name": "GREEN -"
+            },
+            {
+                "address": "4",
+                "name": "BLUE -"
+            },
+            {
+                "address": "5",
+                "name": "WHITE"
+            },
+            {
+                "address": "6",
+                "name": "MEMORY 2"
+            },
+            {
+                "address": "7",
+                "name": "MEMORY 3"
+            },
+            {
+                "address": "8",
+                "name": "MEMORY 4"
+            },
+            {
+                "address": "9",
+                "name": "MEMORY 6"
+            },
+            {
+                "address": "a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "b",
+                "name": "STEP"
+            },
+            {
+                "address": "d",
+                "name": "100 %"
+            },
+            {
+                "address": "e",
+                "name": "RED +"
+            },
+            {
+                "address": "f",
+                "name": "MEMORY 1"
+            },
+            {
+                "address": "10",
+                "name": "SLEEP TIMER"
+            },
+            {
+                "address": "11",
+                "name": "COLOR"
+            },
+            {
+                "address": "13",
+                "name": "FAST SPEED (1 SEC)"
+            },
+            {
+                "address": "14",
+                "name": "POWER: OFF"
+            },
+            {
+                "address": "15",
+                "name": "FADE"
+            },
+            {
+                "address": "16",
+                "name": "MEMORY 7"
+            },
+            {
+                "address": "17",
+                "name": "MEMORY"
+            },
+            {
+                "address": "18",
+                "name": "SLOW SPEED (60 SEC)"
+            },
+            {
+                "address": "19",
+                "name": "POWER: ON"
+            },
+            {
+                "address": "1a",
+                "name": "MEMORY 5"
+            },
+            {
+                "address": "1b",
+                "name": "25%"
+            },
+            {
+                "address": "1c",
+                "name": "MEDIUM SPEED (5 SEC)"
+            },
+            {
+                "address": "1d",
+                "name": "75%"
+            },
+            {
+                "address": "1e",
+                "name": "50%"
+            },
+            {
+                "address": "1f",
+                "name": "RED -"
+            }
+        ],
+        "device_address": "40000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Cyron",
+    "model": "",
+    "name": "",
+    "target": "Lighting Controller"
+}

@@ -1,0 +1,61 @@
+{
+    "display_name": "NEC Unknown_RB-73A",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_CHANNELUP"
+            },
+            {
+                "address": "1",
+                "name": "KEY_CHANNELDOWN"
+            },
+            {
+                "address": "3",
+                "name": "StillAdv"
+            },
+            {
+                "address": "4",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "5",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "6",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "8",
+                "name": "Operate"
+            },
+            {
+                "address": "a",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "c",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "d",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "e",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "f",
+                "name": "KEY_EJECTCD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RB-73A"
+}

@@ -1,0 +1,145 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "2",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "2",
+                "name": "SLOW SEARCH <<"
+            },
+            {
+                "address": "3",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "3",
+                "name": "SLOW SEARCH >>"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO"
+            },
+            {
+                "address": "34",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "34",
+                "name": "UP/ON"
+            },
+            {
+                "address": "35",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "35",
+                "name": "DOWN/OFF"
+            },
+            {
+                "address": "36",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "36",
+                "name": "RIGHT"
+            },
+            {
+                "address": "37",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "37",
+                "name": "LEFT"
+            },
+            {
+                "address": "47",
+                "name": "REPEAT"
+            },
+            {
+                "address": "48",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "57",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "80",
+                "name": "CLEAR"
+            },
+            {
+                "address": "a1",
+                "name": "DISC MANAGER"
+            },
+            {
+                "address": "a4",
+                "name": "DISC"
+            },
+            {
+                "address": "ab",
+                "name": "TITLE"
+            },
+            {
+                "address": "ac",
+                "name": "MARKER"
+            },
+            {
+                "address": "ad",
+                "name": "ANGLE"
+            },
+            {
+                "address": "ae",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "b5",
+                "name": "SETUP"
+            },
+            {
+                "address": "bb",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "c0",
+                "name": "MENU"
+            },
+            {
+                "address": "c4",
+                "name": "EXIT"
+            },
+            {
+                "address": "c4",
+                "name": "RETURN"
+            },
+            {
+                "address": "c6",
+                "name": "ENTER"
+            },
+            {
+                "address": "c6",
+                "name": "SELECT"
+            },
+            {
+                "address": "eb",
+                "name": "DISC SKIP"
+            }
+        ],
+        "device_address": "280",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

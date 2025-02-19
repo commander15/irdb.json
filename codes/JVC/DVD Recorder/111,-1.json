@@ -1,0 +1,237 @@
+{
+    "display_name": "JVC DVD Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "STOP / CLEAR"
+            },
+            {
+                "address": "6",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "7",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "b",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "PLAY"
+            },
+            {
+                "address": "d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "e",
+                "name": "JUMP -"
+            },
+            {
+                "address": "f",
+                "name": "JUMP +"
+            },
+            {
+                "address": "13",
+                "name": "TV / AV / VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "NEXT"
+            },
+            {
+                "address": "15",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "17",
+                "name": "AUDIO"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "30",
+                "name": "SAT TIMER"
+            },
+            {
+                "address": "32",
+                "name": "DVD"
+            },
+            {
+                "address": "33",
+                "name": "0 / AUX"
+            },
+            {
+                "address": "34",
+                "name": "DUBBING"
+            },
+            {
+                "address": "35",
+                "name": "VPS / PDC TIMER"
+            },
+            {
+                "address": "36",
+                "name": "CANCEL"
+            },
+            {
+                "address": "37",
+                "name": "SET UP"
+            },
+            {
+                "address": "38",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3c",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "3c",
+                "name": ""
+            },
+            {
+                "address": "3e",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "44",
+                "name": "HDD"
+            },
+            {
+                "address": "80",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "81",
+                "name": "MENU"
+            },
+            {
+                "address": "82",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "84",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "86",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "87",
+                "name": "OPEN / CLOSE"
+            },
+            {
+                "address": "8e",
+                "name": "PROGRESSIVE SCAN"
+            },
+            {
+                "address": "8f",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "90",
+                "name": "MEMO / MARK"
+            },
+            {
+                "address": "96",
+                "name": "CHAPTER +"
+            },
+            {
+                "address": "c0",
+                "name": "ANGLE / LIVE CHECK"
+            },
+            {
+                "address": "c1",
+                "name": "PROGRAMME"
+            },
+            {
+                "address": "c4",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "cc",
+                "name": "RECORD"
+            },
+            {
+                "address": "cc",
+                "name": "RECORD MODE"
+            },
+            {
+                "address": "d4",
+                "name": "RETURN"
+            },
+            {
+                "address": "dc",
+                "name": "CHAPTER -"
+            },
+            {
+                "address": "dd",
+                "name": "EDIT"
+            },
+            {
+                "address": "e0",
+                "name": "NAVIGATION"
+            },
+            {
+                "address": "e8",
+                "name": "HELP"
+            },
+            {
+                "address": "e9",
+                "name": "LIVE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "DVD Recorder"
+}

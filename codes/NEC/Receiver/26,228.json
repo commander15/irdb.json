@@ -1,0 +1,109 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "9",
+                "name": "FULL MUTE"
+            },
+            {
+                "address": "b",
+                "name": "MEMO"
+            },
+            {
+                "address": "10",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "11",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "12",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "1b",
+                "name": "RESET"
+            },
+            {
+                "address": "40",
+                "name": "LEFT (BALANCE)"
+            },
+            {
+                "address": "41",
+                "name": "RIGHT (BALANCE)"
+            },
+            {
+                "address": "42",
+                "name": "FRONT (BALANCE)"
+            },
+            {
+                "address": "43",
+                "name": "REAR (BALANCE)"
+            },
+            {
+                "address": "45",
+                "name": "V FRONT"
+            },
+            {
+                "address": "47",
+                "name": "REAR"
+            },
+            {
+                "address": "49",
+                "name": "S.STEREO (SURROUND)"
+            },
+            {
+                "address": "4a",
+                "name": "DOLBY (SURROUND)"
+            },
+            {
+                "address": "4c",
+                "name": "HALL (SURROUND)"
+            },
+            {
+                "address": "4d",
+                "name": "STEREO (SURROUND)"
+            },
+            {
+                "address": "50",
+                "name": "VIDEO1"
+            },
+            {
+                "address": "51",
+                "name": "VIDEO2"
+            },
+            {
+                "address": "52",
+                "name": "A/V"
+            },
+            {
+                "address": "53",
+                "name": "PHONO"
+            },
+            {
+                "address": "54",
+                "name": "CD"
+            },
+            {
+                "address": "5f",
+                "name": "TAPE"
+            }
+        ],
+        "device_address": "1a0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,117 @@
+{
+    "display_name": "Yamaha DSP",
+    "ir": {
+        "commands": [
+            {
+                "address": "f",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "48",
+                "name": "CH LEVEL"
+            },
+            {
+                "address": "49",
+                "name": "VCR"
+            },
+            {
+                "address": "4a",
+                "name": "DVD"
+            },
+            {
+                "address": "4f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "50",
+                "name": "STEREO MODE"
+            },
+            {
+                "address": "5f",
+                "name": "TEST"
+            },
+            {
+                "address": "8a",
+                "name": "NIGHT"
+            },
+            {
+                "address": "8e",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "8f",
+                "name": ""
+            },
+            {
+                "address": "99",
+                "name": "SURROUND"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "9d",
+                "name": "SET MENU"
+            },
+            {
+                "address": "9e",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "9f",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "c0",
+                "name": "RETURN"
+            },
+            {
+                "address": "c1",
+                "name": "SELECT"
+            },
+            {
+                "address": "c2",
+                "name": "5 BEAM MODE"
+            },
+            {
+                "address": "c3",
+                "name": "ST+3 BEAM MODE"
+            },
+            {
+                "address": "c4",
+                "name": "3 BEAM MODE"
+            },
+            {
+                "address": "de",
+                "name": "AUX"
+            },
+            {
+                "address": "df",
+                "name": "CODE SET"
+            },
+            {
+                "address": "df",
+                "name": "TV"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DSP"
+}

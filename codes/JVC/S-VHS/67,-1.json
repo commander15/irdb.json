@@ -1,0 +1,105 @@
+{
+    "display_name": "JVC S-VHS",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "STOPP"
+            },
+            {
+                "address": "6",
+                "name": "SPOLA >>"
+            },
+            {
+                "address": "7",
+                "name": "SPOLA <<"
+            },
+            {
+                "address": "b",
+                "name": "POWER ON-OFF"
+            },
+            {
+                "address": "c",
+                "name": "PLAY"
+            },
+            {
+                "address": "d",
+                "name": "PAUSE"
+            },
+            {
+                "address": "14",
+                "name": "GER"
+            },
+            {
+                "address": "15",
+                "name": "NSTER"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR NER/CH-"
+            },
+            {
+                "address": "19",
+                "name": "CURSOR UPP/CH+"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "33",
+                "name": "0/AUX"
+            },
+            {
+                "address": "37",
+                "name": "MENU"
+            },
+            {
+                "address": "3c",
+                "name": "OK"
+            },
+            {
+                "address": "cc",
+                "name": "RECORD"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "S-VHS"
+}

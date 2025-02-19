@@ -1,0 +1,233 @@
+{
+    "display_name": "RCA DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "HD DIRECT"
+            },
+            {
+                "address": "3",
+                "name": "HD TOGGLE"
+            },
+            {
+                "address": "5",
+                "name": "ANTENNA"
+            },
+            {
+                "address": "6",
+                "name": "CLEAR"
+            },
+            {
+                "address": "8",
+                "name": "MENU/SELECT"
+            },
+            {
+                "address": "8",
+                "name": "MENU"
+            },
+            {
+                "address": "9",
+                "name": "SERVICE MENU"
+            },
+            {
+                "address": "b",
+                "name": "RESET"
+            },
+            {
+                "address": "17",
+                "name": "RECORD PROGRAM"
+            },
+            {
+                "address": "1a",
+                "name": "GUIDE"
+            },
+            {
+                "address": "27",
+                "name": "GO BACK"
+            },
+            {
+                "address": "2a",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "2a",
+                "name": "POWER"
+            },
+            {
+                "address": "2c",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "2d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "30",
+                "name": "0"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "34",
+                "name": "4"
+            },
+            {
+                "address": "35",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": "6"
+            },
+            {
+                "address": "37",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "39",
+                "name": "9"
+            },
+            {
+                "address": "3a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3a",
+                "name": "SAT"
+            },
+            {
+                "address": "3b",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3c",
+                "name": "INFO"
+            },
+            {
+                "address": "3f",
+                "name": "TOGGLE MUTE"
+            },
+            {
+                "address": "53",
+                "name": "SKIP"
+            },
+            {
+                "address": "53",
+                "name": "TIMER/INCREMENT TIME"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "61",
+                "name": "INPUT"
+            },
+            {
+                "address": "61",
+                "name": "WHO"
+            },
+            {
+                "address": "61",
+                "name": "WHO / INPUT"
+            },
+            {
+                "address": "88",
+                "name": "HD OFF"
+            },
+            {
+                "address": "8a",
+                "name": "HD ON"
+            },
+            {
+                "address": "93",
+                "name": "FETCH"
+            },
+            {
+                "address": "96",
+                "name": "S-OUTPUT 4:3 FULL"
+            },
+            {
+                "address": "a3",
+                "name": "INPUT"
+            },
+            {
+                "address": "b0",
+                "name": "ALTERNATE AUDIO"
+            },
+            {
+                "address": "c8",
+                "name": "DISPLAY: 4:3 FILL"
+            },
+            {
+                "address": "c8",
+                "name": "S-OUT 4:3/16:9 TOGLE"
+            },
+            {
+                "address": "c9",
+                "name": "DISPLAY: 4:3 FULL"
+            },
+            {
+                "address": "ca",
+                "name": "DISPLAY: 4:3 NORMAL"
+            },
+            {
+                "address": "cb",
+                "name": "ANTENNA B"
+            },
+            {
+                "address": "cc",
+                "name": "ANTENNA A"
+            },
+            {
+                "address": "cd",
+                "name": "SATILITE"
+            },
+            {
+                "address": "ce",
+                "name": "LAST SELECTED ANT."
+            },
+            {
+                "address": "f4",
+                "name": "OK / I"
+            },
+            {
+                "address": "f4",
+                "name": "OK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA"
+    },
+    "manufacturer": "RCA",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

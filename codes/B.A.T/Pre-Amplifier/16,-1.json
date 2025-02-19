@@ -1,0 +1,65 @@
+{
+    "display_name": "B.A.T Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "2",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "3",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "4",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "5",
+                "name": "INPUT 5"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "13",
+                "name": "POWER/DISPLAY"
+            },
+            {
+                "address": "14",
+                "name": "FADE"
+            },
+            {
+                "address": "15",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "32",
+                "name": "MONO"
+            },
+            {
+                "address": "33",
+                "name": "POLARITY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "B.A.T",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

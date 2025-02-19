@@ -1,0 +1,37 @@
+{
+    "display_name": "Harman Kardon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "VCR FF >>"
+            },
+            {
+                "address": "a",
+                "name": "VCR PLAY >"
+            },
+            {
+                "address": "b",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "VCR REW <<"
+            },
+            {
+                "address": "1c",
+                "name": "VCR STOP []"
+            },
+            {
+                "address": "20",
+                "name": "VCR POWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Emerson"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

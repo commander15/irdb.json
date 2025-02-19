@@ -1,0 +1,65 @@
+{
+    "display_name": "Apple Digital Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MENU"
+            },
+            {
+                "address": "2",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "2",
+                "name": "PLAY"
+            },
+            {
+                "address": "3",
+                "name": ">>"
+            },
+            {
+                "address": "3",
+                "name": "FORWARD"
+            },
+            {
+                "address": "3",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4",
+                "name": "<<"
+            },
+            {
+                "address": "4",
+                "name": "BACK"
+            },
+            {
+                "address": "4",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "5",
+                "name": "UP"
+            },
+            {
+                "address": "5",
+                "name": "+"
+            },
+            {
+                "address": "6",
+                "name": "DOWN"
+            },
+            {
+                "address": "6",
+                "name": "-"
+            }
+        ],
+        "device_address": "7700",
+        "protocol": "Apple"
+    },
+    "manufacturer": "Apple",
+    "model": "",
+    "name": "",
+    "target": "Digital Jukebox"
+}

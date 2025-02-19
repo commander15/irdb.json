@@ -1,0 +1,305 @@
+{
+    "display_name": "JVC Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "MAIN/SAP"
+            },
+            {
+                "address": "3",
+                "name": "SLEEP/TIMER"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "5",
+                "name": "RETURN"
+            },
+            {
+                "address": "5",
+                "name": "RETURN+"
+            },
+            {
+                "address": "b",
+                "name": "ANT/CABLE"
+            },
+            {
+                "address": "d",
+                "name": "AV STATUS/RESET"
+            },
+            {
+                "address": "d",
+                "name": "VIDEO STATUS"
+            },
+            {
+                "address": "d",
+                "name": "THEATER/AV STATUS"
+            },
+            {
+                "address": "e",
+                "name": "CLOSED CAPTION"
+            },
+            {
+                "address": "13",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "13",
+                "name": "TV TV/VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "18",
+                "name": "TV CH/HYPER SCAN-"
+            },
+            {
+                "address": "18",
+                "name": "TV CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "19",
+                "name": "TV CH/HYPER SCAN+"
+            },
+            {
+                "address": "19",
+                "name": "TV CHANNEL +"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME+"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME-"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "20",
+                "name": "TV 0/AUX"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "21",
+                "name": "TV 1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "TV 2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "TV 3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "TV 4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "TV 5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "TV 6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "27",
+                "name": "TV 7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "TV 8/DAILY (M-F)"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "TV 9/WEEKLY"
+            },
+            {
+                "address": "3c",
+                "name": "RECALL CHOICE"
+            },
+            {
+                "address": "42",
+                "name": "HYPER SURROUND"
+            },
+            {
+                "address": "4c",
+                "name": ""
+            },
+            {
+                "address": "4d",
+                "name": ""
+            },
+            {
+                "address": "5a",
+                "name": "FUNCTION +"
+            },
+            {
+                "address": "5a",
+                "name": "MENU >"
+            },
+            {
+                "address": "5b",
+                "name": "FUNCTION -"
+            },
+            {
+                "address": "5b",
+                "name": "MENU <"
+            },
+            {
+                "address": "77",
+                "name": "100+"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "7b",
+                "name": "FUNCTION FORWARD V"
+            },
+            {
+                "address": "7b",
+                "name": "MENU V"
+            },
+            {
+                "address": "7b",
+                "name": "FUNCTION V"
+            },
+            {
+                "address": "7c",
+                "name": "FUNCTION BACK ^"
+            },
+            {
+                "address": "7c",
+                "name": "MENU ^"
+            },
+            {
+                "address": "7c",
+                "name": "FUNCTION ^"
+            },
+            {
+                "address": "80",
+                "name": "PIP FREEZE"
+            },
+            {
+                "address": "85",
+                "name": "PIP ON/OFF"
+            },
+            {
+                "address": "86",
+                "name": "PIP MOVE"
+            },
+            {
+                "address": "86",
+                "name": "PIP POSITION"
+            },
+            {
+                "address": "89",
+                "name": "PIP SWAP"
+            },
+            {
+                "address": "b2",
+                "name": "PIP SOURCE"
+            },
+            {
+                "address": "be",
+                "name": "PIP CHANNEL +"
+            },
+            {
+                "address": "bf",
+                "name": "PIP CHANNEL -"
+            },
+            {
+                "address": "d6",
+                "name": "PIP SIZE"
+            },
+            {
+                "address": "da",
+                "name": "C1/C2"
+            },
+            {
+                "address": "e3",
+                "name": "HELP"
+            },
+            {
+                "address": "e6",
+                "name": "EXIT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

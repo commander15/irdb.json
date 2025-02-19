@@ -1,0 +1,49 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "VCR FFWD >> (SURR)"
+            },
+            {
+                "address": "a",
+                "name": "VCR REW << (2)"
+            },
+            {
+                "address": "b",
+                "name": "VCR STOP [] (PARAMTR"
+            },
+            {
+                "address": "14",
+                "name": "VCR PLAY > (CTR MODE"
+            },
+            {
+                "address": "16",
+                "name": "VCR TV/VCR (EFFECT)"
+            },
+            {
+                "address": "17",
+                "name": "VCR POWER (CLEAR)"
+            },
+            {
+                "address": "18",
+                "name": "VCR CHAN V (INPT ADJ"
+            },
+            {
+                "address": "19",
+                "name": "VCR CHAN ^ (T TONE)"
+            },
+            {
+                "address": "1a",
+                "name": "VCR PAUSE (SET +)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

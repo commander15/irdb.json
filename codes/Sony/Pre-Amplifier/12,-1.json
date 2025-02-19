@@ -1,0 +1,57 @@
+{
+    "display_name": "Sony Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "TV"
+            },
+            {
+                "address": "19",
+                "name": "LD"
+            },
+            {
+                "address": "33",
+                "name": "DYNAMICS"
+            },
+            {
+                "address": "3f",
+                "name": "SURROUND"
+            },
+            {
+                "address": "5a",
+                "name": "SUB"
+            },
+            {
+                "address": "74",
+                "name": "PARAMETER SUB"
+            },
+            {
+                "address": "76",
+                "name": "PARAMETER MAIN"
+            },
+            {
+                "address": "78",
+                "name": "DPC LEFT >"
+            },
+            {
+                "address": "79",
+                "name": "DPC LEFT <"
+            },
+            {
+                "address": "7a",
+                "name": "DPC RIGHT <"
+            },
+            {
+                "address": "7b",
+                "name": "DPC RIGHT >"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

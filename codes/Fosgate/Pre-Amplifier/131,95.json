@@ -1,0 +1,21 @@
+{
+    "display_name": "Fosgate Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "51",
+                "name": "MEMORY"
+            },
+            {
+                "address": "5c",
+                "name": "EXIT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Fosgate",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

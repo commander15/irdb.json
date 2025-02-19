@@ -1,0 +1,113 @@
+{
+    "display_name": "Canon Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "name": "POWER"
+            },
+            {
+                "address": "41",
+                "name": "MENU"
+            },
+            {
+                "address": "42",
+                "name": "COMPUTER 1"
+            },
+            {
+                "address": "43",
+                "name": "COMPUTER 2"
+            },
+            {
+                "address": "44",
+                "name": "VIDEO/S"
+            },
+            {
+                "address": "45",
+                "name": "AUTO PC"
+            },
+            {
+                "address": "46",
+                "name": "KEYSTONE"
+            },
+            {
+                "address": "47",
+                "name": "CURSOR UP/1"
+            },
+            {
+                "address": "48",
+                "name": "CURSOR DOWN/3"
+            },
+            {
+                "address": "49",
+                "name": "CURSOR LEFT/4"
+            },
+            {
+                "address": "4a",
+                "name": "CURSOR RIGHT/2"
+            },
+            {
+                "address": "4b",
+                "name": "SPOT"
+            },
+            {
+                "address": "50",
+                "name": "IMAGE"
+            },
+            {
+                "address": "51",
+                "name": "FREEZE"
+            },
+            {
+                "address": "52",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "53",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "54",
+                "name": "MUTE"
+            },
+            {
+                "address": "55",
+                "name": "P-TIMER"
+            },
+            {
+                "address": "56",
+                "name": "D.ZOOM UP"
+            },
+            {
+                "address": "57",
+                "name": "D.ZOOM DOWN"
+            },
+            {
+                "address": "58",
+                "name": "NO SHOW"
+            },
+            {
+                "address": "59",
+                "name": "R-CLICK"
+            },
+            {
+                "address": "5a",
+                "name": "OK"
+            },
+            {
+                "address": "5b",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "5c",
+                "name": "PAGE DOWN"
+            }
+        ],
+        "device_address": "2040",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Canon",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

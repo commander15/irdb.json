@@ -1,0 +1,73 @@
+{
+    "display_name": "CIS BOX TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "e",
+                "name": "GUIDE"
+            },
+            {
+                "address": "12",
+                "name": "VOL UP"
+            },
+            {
+                "address": "13",
+                "name": "VOL DN"
+            },
+            {
+                "address": "2a",
+                "name": "ANT"
+            },
+            {
+                "address": "2e",
+                "name": "PWR ON"
+            },
+            {
+                "address": "2f",
+                "name": "PWR OFF"
+            },
+            {
+                "address": "3a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "40",
+                "name": "IN1"
+            },
+            {
+                "address": "41",
+                "name": "IN2"
+            },
+            {
+                "address": "42",
+                "name": "IN3"
+            },
+            {
+                "address": "47",
+                "name": "IN4"
+            },
+            {
+                "address": "48",
+                "name": "IN5"
+            },
+            {
+                "address": "5b",
+                "name": "PIP ON OFF"
+            },
+            {
+                "address": "5e",
+                "name": "PIC MODE"
+            },
+            {
+                "address": "63",
+                "name": "EXIT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,153 @@
+{
+    "display_name": "Cambridge Audio Unknown_Audio",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "KEY_SETUP"
+            },
+            {
+                "address": "2",
+                "name": "PLII_NEO6"
+            },
+            {
+                "address": "3",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "6",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "7",
+                "name": "TEST_TONE"
+            },
+            {
+                "address": "9",
+                "name": "DSP_MODE"
+            },
+            {
+                "address": "a",
+                "name": "BASS_TREBLE"
+            },
+            {
+                "address": "c",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "d",
+                "name": "CH_SELECT"
+            },
+            {
+                "address": "e",
+                "name": "STEREO_MONO"
+            },
+            {
+                "address": "f",
+                "name": "X_KEY_1_DIRECT"
+            },
+            {
+                "address": "11",
+                "name": "I-O"
+            },
+            {
+                "address": "12",
+                "name": "KEY_SUBTITLE"
+            },
+            {
+                "address": "13",
+                "name": "DYNAMIC"
+            },
+            {
+                "address": "14",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "15",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "16",
+                "name": "PTY"
+            },
+            {
+                "address": "17",
+                "name": "DDEX_DTSES"
+            },
+            {
+                "address": "1a",
+                "name": "STEREO"
+            },
+            {
+                "address": "1b",
+                "name": "APS"
+            },
+            {
+                "address": "1c",
+                "name": "TUNER_AM_FM"
+            },
+            {
+                "address": "1d",
+                "name": "STORE"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_MODE"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "20",
+                "name": "LFE_TRIM"
+            },
+            {
+                "address": "21",
+                "name": "KEY_ENTER"
+            },
+            {
+                "address": "22",
+                "name": "KEY_DVD"
+            },
+            {
+                "address": "23",
+                "name": "KEY_VIDEO"
+            },
+            {
+                "address": "24",
+                "name": "X_KEY_VIDEO2"
+            },
+            {
+                "address": "25",
+                "name": "X_KEY_VIDEO3"
+            },
+            {
+                "address": "26",
+                "name": "TAPE_MD_CDR"
+            },
+            {
+                "address": "27",
+                "name": "CD_AUX"
+            },
+            {
+                "address": "60",
+                "name": "INPUT_MODE"
+            },
+            {
+                "address": "a0",
+                "name": "DELAY"
+            }
+        ],
+        "device_address": "c0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Cambridge Audio",
+    "model": "",
+    "name": "",
+    "target": "Unknown_Audio"
+}

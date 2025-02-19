@@ -1,0 +1,89 @@
+{
+    "display_name": "JVC Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "53",
+                "name": "DAT STOP"
+            },
+            {
+                "address": "56",
+                "name": "DAT FFWD"
+            },
+            {
+                "address": "57",
+                "name": "DAT REW"
+            },
+            {
+                "address": "5c",
+                "name": "DAT PLAY"
+            },
+            {
+                "address": "5d",
+                "name": "DAT PAUSE"
+            },
+            {
+                "address": "68",
+                "name": "DAT <<"
+            },
+            {
+                "address": "69",
+                "name": "DAT >>"
+            },
+            {
+                "address": "70",
+                "name": "DAT 0"
+            },
+            {
+                "address": "71",
+                "name": "DAT 1"
+            },
+            {
+                "address": "72",
+                "name": "DAT 2"
+            },
+            {
+                "address": "73",
+                "name": "DAT 3"
+            },
+            {
+                "address": "74",
+                "name": "DAT 4"
+            },
+            {
+                "address": "75",
+                "name": "DAT 5"
+            },
+            {
+                "address": "76",
+                "name": "DAT 6"
+            },
+            {
+                "address": "77",
+                "name": "DAT 7"
+            },
+            {
+                "address": "78",
+                "name": "DAT 8"
+            },
+            {
+                "address": "79",
+                "name": "DAT 9"
+            },
+            {
+                "address": "7e",
+                "name": "DAT 10"
+            },
+            {
+                "address": "7f",
+                "name": "DAT +10"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

@@ -1,0 +1,101 @@
+{
+    "display_name": "JVC Mini System",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "SLEEP"
+            },
+            {
+                "address": "3",
+                "name": "WAKE UP/SLEEP"
+            },
+            {
+                "address": "b",
+                "name": "INPUT: FM/AM"
+            },
+            {
+                "address": "b",
+                "name": "TUNER"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "1c",
+                "name": "FADE MUTING"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "VOL+"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "VOL-"
+            },
+            {
+                "address": "28",
+                "name": ""
+            },
+            {
+                "address": "31",
+                "name": "BASS"
+            },
+            {
+                "address": "37",
+                "name": "TREBLE"
+            },
+            {
+                "address": "38",
+                "name": "SEA MODE"
+            },
+            {
+                "address": "3c",
+                "name": "PHONO"
+            },
+            {
+                "address": "3e",
+                "name": "INPUT: MD/AUX"
+            },
+            {
+                "address": "3e",
+                "name": "AUX"
+            },
+            {
+                "address": "58",
+                "name": "LIVE-S MODE"
+            },
+            {
+                "address": "5a",
+                "name": "FM MODE"
+            },
+            {
+                "address": "70",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "75",
+                "name": "AHB PRO"
+            },
+            {
+                "address": "77",
+                "name": "AUTO PRESET"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Mini System"
+}

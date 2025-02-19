@@ -1,0 +1,113 @@
+{
+    "display_name": "AMC Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "TEST"
+            },
+            {
+                "address": "82",
+                "name": "MUTE"
+            },
+            {
+                "address": "84",
+                "name": "SSE"
+            },
+            {
+                "address": "88",
+                "name": "D1/D2"
+            },
+            {
+                "address": "8f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "99",
+                "name": "AM/FM"
+            },
+            {
+                "address": "9a",
+                "name": "PRESET +"
+            },
+            {
+                "address": "9b",
+                "name": "PRESET -"
+            },
+            {
+                "address": "9c",
+                "name": "SCAN +"
+            },
+            {
+                "address": "9d",
+                "name": "SCAN -"
+            },
+            {
+                "address": "c0",
+                "name": "TUNER"
+            },
+            {
+                "address": "c1",
+                "name": "CD"
+            },
+            {
+                "address": "c2",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "c3",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "c4",
+                "name": "VCR 1"
+            },
+            {
+                "address": "c5",
+                "name": "VCR 2"
+            },
+            {
+                "address": "c6",
+                "name": "LD"
+            },
+            {
+                "address": "c8",
+                "name": "VIDEO"
+            },
+            {
+                "address": "d8",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d9",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "da",
+                "name": "POWER"
+            },
+            {
+                "address": "dc",
+                "name": "MONO"
+            },
+            {
+                "address": "dd",
+                "name": "NORMAL STEREO"
+            },
+            {
+                "address": "de",
+                "name": "DOLBY PROLOGIC"
+            },
+            {
+                "address": "df",
+                "name": "PBX/THX CINEMA"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "AMC",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

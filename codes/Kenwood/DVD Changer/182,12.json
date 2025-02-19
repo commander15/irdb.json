@@ -1,0 +1,661 @@
+{
+    "display_name": "Kenwood DVD Changer",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "0 /X"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "1 /K"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "2 /L"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3 /M"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4 /O"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5 /P"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6 /Q"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7 /S"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8 /T"
+            },
+            {
+                "address": "8",
+                "name": "0"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9 /U"
+            },
+            {
+                "address": "a",
+                "name": "+10"
+            },
+            {
+                "address": "a",
+                "name": "Y /+10"
+            },
+            {
+                "address": "b",
+                "name": "+100"
+            },
+            {
+                "address": "b",
+                "name": "W +100"
+            },
+            {
+                "address": "b",
+                "name": "+ 100"
+            },
+            {
+                "address": "c",
+                "name": "MAIN ACTIVE"
+            },
+            {
+                "address": "c",
+                "name": "MAIN"
+            },
+            {
+                "address": "d",
+                "name": "SUB1"
+            },
+            {
+                "address": "d",
+                "name": "SUB 1"
+            },
+            {
+                "address": "e",
+                "name": "SUB2"
+            },
+            {
+                "address": "e",
+                "name": "SUB 2"
+            },
+            {
+                "address": "11",
+                "name": "STOP"
+            },
+            {
+                "address": "12",
+                "name": "PAUSE"
+            },
+            {
+                "address": "12",
+                "name": "PAUSE/SPACE"
+            },
+            {
+                "address": "12",
+                "name": "SPACE"
+            },
+            {
+                "address": "13",
+                "name": ">PLAY"
+            },
+            {
+                "address": "13",
+                "name": "PLAY"
+            },
+            {
+                "address": "13",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "14",
+                "name": "REW <<"
+            },
+            {
+                "address": "14",
+                "name": "REW/DELETE"
+            },
+            {
+                "address": "14",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "14",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "14",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "14",
+                "name": "DELETE"
+            },
+            {
+                "address": "15",
+                "name": "FF >>"
+            },
+            {
+                "address": "15",
+                "name": "FF/CHARAC"
+            },
+            {
+                "address": "15",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "15",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "15",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "15",
+                "name": "CHARACTER"
+            },
+            {
+                "address": "16",
+                "name": "<<<<"
+            },
+            {
+                "address": "16",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "16",
+                "name": "/<<"
+            },
+            {
+                "address": "16",
+                "name": "PREVIOUS TRACK"
+            },
+            {
+                "address": "17",
+                "name": ">>>>"
+            },
+            {
+                "address": "17",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "17",
+                "name": ">>/"
+            },
+            {
+                "address": "17",
+                "name": "NEXT TRACK"
+            },
+            {
+                "address": "19",
+                "name": "REPEAT"
+            },
+            {
+                "address": "19",
+                "name": "B. /REPEAT"
+            },
+            {
+                "address": "1a",
+                "name": "C"
+            },
+            {
+                "address": "1a",
+                "name": "CLEAR /N"
+            },
+            {
+                "address": "1a",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1b",
+                "name": "CHECK"
+            },
+            {
+                "address": "1c",
+                "name": "SET"
+            },
+            {
+                "address": "1f",
+                "name": "P.MODE"
+            },
+            {
+                "address": "1f",
+                "name": "PGM /J"
+            },
+            {
+                "address": "1f",
+                "name": "P. MODE"
+            },
+            {
+                "address": "1f",
+                "name": "PROGRAM (PGM)"
+            },
+            {
+                "address": "40",
+                "name": "DELETE"
+            },
+            {
+                "address": "43",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "43",
+                "name": "REPEAT A-B"
+            },
+            {
+                "address": "4c",
+                "name": "DISC SEL"
+            },
+            {
+                "address": "4c",
+                "name": "DISC SEL. /G"
+            },
+            {
+                "address": "4c",
+                "name": "DISC SEL."
+            },
+            {
+                "address": "4d",
+                "name": "DISC UP"
+            },
+            {
+                "address": "4d",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "4d",
+                "name": "+"
+            },
+            {
+                "address": "4d",
+                "name": "DISC +"
+            },
+            {
+                "address": "4e",
+                "name": "DIC DOWN"
+            },
+            {
+                "address": "4e",
+                "name": "-"
+            },
+            {
+                "address": "4e",
+                "name": "DISC -"
+            },
+            {
+                "address": "4f",
+                "name": "A- /RANDOM"
+            },
+            {
+                "address": "4f",
+                "name": "RANDOM"
+            },
+            {
+                "address": "51",
+                "name": "DISC 1"
+            },
+            {
+                "address": "52",
+                "name": "DISC 2"
+            },
+            {
+                "address": "53",
+                "name": "DISC 3"
+            },
+            {
+                "address": "54",
+                "name": "DISC 4"
+            },
+            {
+                "address": "55",
+                "name": "DISC 5"
+            },
+            {
+                "address": "58",
+                "name": "STEP -"
+            },
+            {
+                "address": "59",
+                "name": "STEP +"
+            },
+            {
+                "address": "5a",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "5b",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "5e",
+                "name": "TIME DISP"
+            },
+            {
+                "address": "5e",
+                "name": "TIME /I"
+            },
+            {
+                "address": "5f",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "80",
+                "name": "D' PLUS1"
+            },
+            {
+                "address": "80",
+                "name": "PLUS 1"
+            },
+            {
+                "address": "81",
+                "name": "E( PLUS2"
+            },
+            {
+                "address": "81",
+                "name": "PLUS 2"
+            },
+            {
+                "address": "82",
+                "name": "F) PLUS3"
+            },
+            {
+                "address": "82",
+                "name": "PLUS 3"
+            },
+            {
+                "address": "88",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "89",
+                "name": "POWER ON"
+            },
+            {
+                "address": "8c",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "8c",
+                "name": "DISP. /H"
+            },
+            {
+                "address": "8c",
+                "name": "DIMMER"
+            },
+            {
+                "address": "8c",
+                "name": "DISP. BRIGHTNESS"
+            },
+            {
+                "address": "8f",
+                "name": "ALL DATA READ"
+            },
+            {
+                "address": "90",
+                "name": "LIBRARY"
+            },
+            {
+                "address": "91",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "91",
+                "name": "POWER ON"
+            },
+            {
+                "address": "91",
+                "name": "POWER"
+            },
+            {
+                "address": "92",
+                "name": "TITLE INPUT"
+            },
+            {
+                "address": "95",
+                "name": "USER FILE NAME"
+            },
+            {
+                "address": "96",
+                "name": "TEXT DISP"
+            },
+            {
+                "address": "97",
+                "name": "ALL INFO"
+            },
+            {
+                "address": "98",
+                "name": "T.SEARCH"
+            },
+            {
+                "address": "c0",
+                "name": "SET UP"
+            },
+            {
+                "address": "c0",
+                "name": "SETUP"
+            },
+            {
+                "address": "c1",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "c1",
+                "name": "TOP MENU/FOLDER"
+            },
+            {
+                "address": "c1",
+                "name": "TOP MENU/FOLDER SEAR"
+            },
+            {
+                "address": "c1",
+                "name": "MP3 FOLDER SEARCH"
+            },
+            {
+                "address": "c2",
+                "name": "MENU"
+            },
+            {
+                "address": "c2",
+                "name": "MENU/FILE S."
+            },
+            {
+                "address": "c2",
+                "name": "FILE SEARCH / MENU"
+            },
+            {
+                "address": "c2",
+                "name": "MP3 FILE SEARCH"
+            },
+            {
+                "address": "c3",
+                "name": "ANGLE"
+            },
+            {
+                "address": "c4",
+                "name": "RETURN"
+            },
+            {
+                "address": "c5",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "c6",
+                "name": "SUBTITLE ON/OFF"
+            },
+            {
+                "address": "c8",
+                "name": "MODE"
+            },
+            {
+                "address": "c9",
+                "name": "AUDIO"
+            },
+            {
+                "address": "c9",
+                "name": "C/ AUDIO"
+            },
+            {
+                "address": "cb",
+                "name": "P.B.C."
+            },
+            {
+                "address": "cc",
+                "name": "P.AUDIO"
+            },
+            {
+                "address": "cc",
+                "name": "PURE AUDIO /R"
+            },
+            {
+                "address": "cc",
+                "name": "PURE AUDIO"
+            },
+            {
+                "address": "cd",
+                "name": "SQ.MODE"
+            },
+            {
+                "address": "cd",
+                "name": "SEQ. MODE"
+            },
+            {
+                "address": "ce",
+                "name": "DISC FLIP"
+            },
+            {
+                "address": "cf",
+                "name": "LIBRARY"
+            },
+            {
+                "address": "d1",
+                "name": "PAGE +"
+            },
+            {
+                "address": "d1",
+                "name": "/\\ /V SEQ. PAGE"
+            },
+            {
+                "address": "d1",
+                "name": "SEQ. PAGE UP"
+            },
+            {
+                "address": "d2",
+                "name": "PAGE -"
+            },
+            {
+                "address": "d2",
+                "name": "\\/ /Z SEQ.PAGE"
+            },
+            {
+                "address": "d2",
+                "name": "SEQ PAGE DOWN"
+            },
+            {
+                "address": "d3",
+                "name": "ENTER"
+            },
+            {
+                "address": "d3",
+                "name": "SELECT"
+            },
+            {
+                "address": "d4",
+                "name": "INDEX +"
+            },
+            {
+                "address": "d5",
+                "name": "INDEX -"
+            },
+            {
+                "address": "d6",
+                "name": "UP"
+            },
+            {
+                "address": "d6",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "d7",
+                "name": "DOWN"
+            },
+            {
+                "address": "d7",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "d8",
+                "name": "LEFT"
+            },
+            {
+                "address": "d8",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "d9",
+                "name": "RIGHT"
+            },
+            {
+                "address": "d9",
+                "name": "CURSOR RIGHT"
+            }
+        ],
+        "device_address": "b6000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "DVD Changer"
+}

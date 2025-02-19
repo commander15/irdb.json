@@ -1,0 +1,77 @@
+{
+    "display_name": "Extron Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "6"
+            },
+            {
+                "address": "1",
+                "name": "DISPLAY/POWER"
+            },
+            {
+                "address": "2",
+                "name": "DISPLAY/MUTE"
+            },
+            {
+                "address": "3",
+                "name": "RGB/MUTE"
+            },
+            {
+                "address": "7",
+                "name": "1"
+            },
+            {
+                "address": "8",
+                "name": "2"
+            },
+            {
+                "address": "9",
+                "name": "3"
+            },
+            {
+                "address": "a",
+                "name": "AUDIO/MUTE"
+            },
+            {
+                "address": "c",
+                "name": "4"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "ENTER"
+            },
+            {
+                "address": "11",
+                "name": "7"
+            },
+            {
+                "address": "12",
+                "name": "0"
+            },
+            {
+                "address": "15",
+                "name": "9"
+            },
+            {
+                "address": "18",
+                "name": "5"
+            },
+            {
+                "address": "19",
+                "name": "FUNCTION"
+            }
+        ],
+        "device_address": "8000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Extron",
+    "model": "",
+    "name": "",
+    "target": "Switcher"
+}

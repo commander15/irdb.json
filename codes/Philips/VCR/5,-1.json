@@ -1,0 +1,129 @@
+{
+    "display_name": "Philips VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "START+"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "2",
+                "name": "STOP +"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "DATE +"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "START-"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "STOP -"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "DATE -"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "20",
+                "name": "CHANNEL+"
+            },
+            {
+                "address": "21",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "29",
+                "name": "PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "34",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "35",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "45",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "57",
+                "name": "OK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

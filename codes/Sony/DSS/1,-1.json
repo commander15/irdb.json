@@ -1,0 +1,45 @@
+{
+    "display_name": "Sony DSS",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "12",
+                "name": "VOL+"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "13",
+                "name": "VOL-"
+            },
+            {
+                "address": "25",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "36",
+                "name": "SLEEP"
+            },
+            {
+                "address": "60",
+                "name": "MENU"
+            },
+            {
+                "address": "64",
+                "name": "PIC MODE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DSS"
+}

@@ -1,0 +1,189 @@
+{
+    "display_name": "Dymond RGB LED Strip",
+    "ir": {
+        "commands": [
+            {
+                "address": "5c",
+                "name": "Brighter"
+            },
+            {
+                "address": "5d",
+                "name": "Darker"
+            },
+            {
+                "address": "41",
+                "name": "Next"
+            },
+            {
+                "address": "40",
+                "name": "On"
+            },
+            {
+                "address": "58",
+                "name": "Red"
+            },
+            {
+                "address": "59",
+                "name": "Green"
+            },
+            {
+                "address": "45",
+                "name": "Blue"
+            },
+            {
+                "address": "44",
+                "name": "White"
+            },
+            {
+                "address": "54",
+                "name": "Orange"
+            },
+            {
+                "address": "55",
+                "name": "Mint"
+            },
+            {
+                "address": "49",
+                "name": "Saphire"
+            },
+            {
+                "address": "48",
+                "name": "Light pink 1"
+            },
+            {
+                "address": "50",
+                "name": "Mango"
+            },
+            {
+                "address": "51",
+                "name": "Middle blue"
+            },
+            {
+                "address": "4d",
+                "name": "Violet"
+            },
+            {
+                "address": "4c",
+                "name": "Light pink 2"
+            },
+            {
+                "address": "1c",
+                "name": "Tangerine"
+            },
+            {
+                "address": "1d",
+                "name": "Picton blue"
+            },
+            {
+                "address": "1e",
+                "name": "Rose Quartz"
+            },
+            {
+                "address": "1f",
+                "name": "Light blue 1"
+            },
+            {
+                "address": "18",
+                "name": "Yellow"
+            },
+            {
+                "address": "19",
+                "name": "Cyan"
+            },
+            {
+                "address": "1a",
+                "name": "Pink"
+            },
+            {
+                "address": "1b",
+                "name": "Light blue 2"
+            },
+            {
+                "address": "14",
+                "name": "Red up"
+            },
+            {
+                "address": "15",
+                "name": "Green up"
+            },
+            {
+                "address": "16",
+                "name": "Blue up"
+            },
+            {
+                "address": "17",
+                "name": "Quick"
+            },
+            {
+                "address": "10",
+                "name": "Red down"
+            },
+            {
+                "address": "11",
+                "name": "Green down"
+            },
+            {
+                "address": "12",
+                "name": "Blue down"
+            },
+            {
+                "address": "13",
+                "name": "Slow"
+            },
+            {
+                "address": "c",
+                "name": "DIY1"
+            },
+            {
+                "address": "d",
+                "name": "DIY2"
+            },
+            {
+                "address": "e",
+                "name": "DIY3"
+            },
+            {
+                "address": "f",
+                "name": "AUTO"
+            },
+            {
+                "address": "8",
+                "name": "DIY4"
+            },
+            {
+                "address": "9",
+                "name": "DIY5"
+            },
+            {
+                "address": "a",
+                "name": "DIY6"
+            },
+            {
+                "address": "b",
+                "name": "Flash"
+            },
+            {
+                "address": "4",
+                "name": "Jump 3"
+            },
+            {
+                "address": "5",
+                "name": "Jump 7"
+            },
+            {
+                "address": "6",
+                "name": "Fade 3"
+            },
+            {
+                "address": "7",
+                "name": "Fade 7"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Dymond",
+    "model": "",
+    "name": "",
+    "target": "RGB LED Strip"
+}

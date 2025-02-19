@@ -1,0 +1,49 @@
+{
+    "display_name": "Advanced Acoustics Unknown_Acoustic",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "c",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "10",
+                "name": "digital"
+            },
+            {
+                "address": "14",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "48",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "4c",
+                "name": "phono"
+            },
+            {
+                "address": "50",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "54",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "55",
+                "name": "KEY_VOLUMEUP"
+            }
+        ],
+        "device_address": "12000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Advanced Acoustics",
+    "model": "",
+    "name": "",
+    "target": "Unknown_Acoustic"
+}

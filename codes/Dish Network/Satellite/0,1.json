@@ -1,0 +1,169 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "10",
+                "name": "CURSER SELECT"
+            },
+            {
+                "address": "10",
+                "name": "SELECT"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "17",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "TV/VID"
+            },
+            {
+                "address": "18",
+                "name": "CURSOR RIGHT(BROWSE)"
+            },
+            {
+                "address": "18",
+                "name": "RIGHT"
+            },
+            {
+                "address": "1a",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1a",
+                "name": "UP"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR LEFT (THEMES)"
+            },
+            {
+                "address": "1c",
+                "name": "LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "DOWN"
+            },
+            {
+                "address": "1f",
+                "name": "REC"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "24",
+                "name": "SYS INFO"
+            },
+            {
+                "address": "25",
+                "name": "*-FORMAT"
+            },
+            {
+                "address": "25",
+                "name": "*"
+            },
+            {
+                "address": "26",
+                "name": "#-SEARCH"
+            },
+            {
+                "address": "26",
+                "name": "#"
+            },
+            {
+                "address": "27",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

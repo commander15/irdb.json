@@ -1,0 +1,41 @@
+{
+    "display_name": "Denon Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "95",
+                "name": "SURROUND CINEMA"
+            },
+            {
+                "address": "95",
+                "name": "SURR CINEMA MAIN"
+            },
+            {
+                "address": "96",
+                "name": "SURR MUSIC MAIN"
+            },
+            {
+                "address": "97",
+                "name": "SURR GAME MAIN"
+            },
+            {
+                "address": "98",
+                "name": "NIGHT"
+            },
+            {
+                "address": "9d",
+                "name": "ROOM EQ"
+            },
+            {
+                "address": "9d",
+                "name": "EQUALIZER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

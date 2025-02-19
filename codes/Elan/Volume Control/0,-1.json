@@ -1,0 +1,29 @@
+{
+    "display_name": "Elan Volume Control",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "ON"
+            },
+            {
+                "address": "21",
+                "name": "OFF"
+            },
+            {
+                "address": "22",
+                "name": "UP"
+            },
+            {
+                "address": "23",
+                "name": "DOWN"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Velleman"
+    },
+    "manufacturer": "Elan",
+    "model": "",
+    "name": "",
+    "target": "Volume Control"
+}

@@ -1,0 +1,41 @@
+{
+    "display_name": "Telemann PC HDTV Tuner Card",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "b",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "c",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "10",
+                "name": "INPUT"
+            },
+            {
+                "address": "15",
+                "name": "TV"
+            },
+            {
+                "address": "1e",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Telemann",
+    "model": "",
+    "name": "",
+    "target": "PC HDTV Tuner Card"
+}

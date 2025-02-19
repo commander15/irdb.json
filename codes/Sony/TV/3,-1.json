@@ -1,0 +1,65 @@
+{
+    "display_name": "Sony TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "2b",
+                "name": "CLOCK"
+            },
+            {
+                "address": "4c",
+                "name": "AUDIO/RED"
+            },
+            {
+                "address": "4c",
+                "name": "AUDIO MENU"
+            },
+            {
+                "address": "4c",
+                "name": "RED"
+            },
+            {
+                "address": "4d",
+                "name": "PICTURE/GREEN"
+            },
+            {
+                "address": "4d",
+                "name": "GREEN"
+            },
+            {
+                "address": "4d",
+                "name": "VIDEO MENU"
+            },
+            {
+                "address": "4e",
+                "name": "MULTISELECT/YELLOW"
+            },
+            {
+                "address": "4e",
+                "name": "MULTI-PIP"
+            },
+            {
+                "address": "4e",
+                "name": "YELLOW"
+            },
+            {
+                "address": "4f",
+                "name": "16/9/BLUE"
+            },
+            {
+                "address": "4f",
+                "name": "BLUE"
+            },
+            {
+                "address": "4f",
+                "name": "ZOOM"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

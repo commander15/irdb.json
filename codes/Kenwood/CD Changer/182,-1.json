@@ -1,0 +1,101 @@
+{
+    "display_name": "Kenwood CD Changer",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "11",
+                "name": "STOP"
+            },
+            {
+                "address": "13",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "16",
+                "name": "DISC SKIP DOWN"
+            },
+            {
+                "address": "16",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "17",
+                "name": "DISC SKIP UP"
+            },
+            {
+                "address": "17",
+                "name": "NEXT"
+            },
+            {
+                "address": "19",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1a",
+                "name": "CLEAR"
+            },
+            {
+                "address": "4f",
+                "name": "RANDOM"
+            },
+            {
+                "address": "91",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "9c",
+                "name": "DISC SELECTOR"
+            },
+            {
+                "address": "d2",
+                "name": "BEST SELECTION"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "CD Changer"
+}

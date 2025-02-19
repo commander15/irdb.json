@@ -1,0 +1,93 @@
+{
+    "display_name": "Linn Classic music",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOL+"
+            },
+            {
+                "address": "11",
+                "name": "VOL-"
+            },
+            {
+                "address": "14",
+                "name": "TUN"
+            },
+            {
+                "address": "15",
+                "name": "CD"
+            },
+            {
+                "address": "16",
+                "name": "TP1"
+            },
+            {
+                "address": "17",
+                "name": "TP2"
+            },
+            {
+                "address": "18",
+                "name": "AUX"
+            },
+            {
+                "address": "1a",
+                "name": "BAL R"
+            },
+            {
+                "address": "1b",
+                "name": "BAL L"
+            },
+            {
+                "address": "26",
+                "name": "TIMER"
+            },
+            {
+                "address": "29",
+                "name": "ALARM"
+            },
+            {
+                "address": "2a",
+                "name": "SLEEP"
+            },
+            {
+                "address": "2b",
+                "name": "TIME UP"
+            },
+            {
+                "address": "2c",
+                "name": "TIMEDN"
+            },
+            {
+                "address": "38",
+                "name": "LISTEN"
+            },
+            {
+                "address": "6b",
+                "name": "BASS+"
+            },
+            {
+                "address": "6c",
+                "name": "BASS-"
+            },
+            {
+                "address": "6d",
+                "name": "TREB+"
+            },
+            {
+                "address": "6e",
+                "name": "TREB-"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Linn",
+    "model": "",
+    "name": "",
+    "target": "Classic music"
+}

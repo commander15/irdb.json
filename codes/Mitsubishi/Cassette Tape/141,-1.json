@@ -1,0 +1,117 @@
+{
+    "display_name": "Mitsubishi Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "PAUSE "
+            },
+            {
+                "address": "d",
+                "name": "10+"
+            },
+            {
+                "address": "e",
+                "name": "AUTO SPACE"
+            },
+            {
+                "address": "10",
+                "name": "PROG/EDIT"
+            },
+            {
+                "address": "11",
+                "name": "CALL"
+            },
+            {
+                "address": "13",
+                "name": "CLEAR"
+            },
+            {
+                "address": "14",
+                "name": "A<->B"
+            },
+            {
+                "address": "15",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "16",
+                "name": "FF >>"
+            },
+            {
+                "address": "17",
+                "name": "FR <<"
+            },
+            {
+                "address": "1a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1c",
+                "name": "PLAY >"
+            },
+            {
+                "address": "1d",
+                "name": "FS >>"
+            },
+            {
+                "address": "1e",
+                "name": "RS <<"
+            },
+            {
+                "address": "1f",
+                "name": "STOP []"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

@@ -1,0 +1,77 @@
+{
+    "display_name": "Marantz Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "2a",
+                "name": "MUTE"
+            },
+            {
+                "address": "2c",
+                "name": "DECK A"
+            },
+            {
+                "address": "2c",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "2e",
+                "name": "DECK B"
+            },
+            {
+                "address": "2e",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "2f",
+                "name": "REVERSE PLAY"
+            },
+            {
+                "address": "2f",
+                "name": "RECALL"
+            },
+            {
+                "address": "30",
+                "name": "REC PAUSE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "32",
+                "name": "REW"
+            },
+            {
+                "address": "32",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "34",
+                "name": "FF"
+            },
+            {
+                "address": "34",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

@@ -1,0 +1,333 @@
+{
+    "display_name": "Denon DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "0",
+                "name": "STOP []"
+            },
+            {
+                "address": "1",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "4",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "4",
+                "name": "SLOW/SEARCH <<"
+            },
+            {
+                "address": "4",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "4",
+                "name": "<<SLOW/SEARCH>>"
+            },
+            {
+                "address": "5",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "5",
+                "name": "SLOW/SEARCH >>"
+            },
+            {
+                "address": "5",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "5",
+                "name": ""
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "STILL/PAUSE ><"
+            },
+            {
+                "address": "6",
+                "name": "STILL/PAUSE"
+            },
+            {
+                "address": "6",
+                "name": ""
+            },
+            {
+                "address": "7",
+                "name": "SLOW <"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "a",
+                "name": "PLAY >"
+            },
+            {
+                "address": "f",
+                "name": "SLOW >"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO"
+            },
+            {
+                "address": "3d",
+                "name": "POWER"
+            },
+            {
+                "address": "3e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "48",
+                "name": "A-B"
+            },
+            {
+                "address": "48",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "49",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "49",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "49",
+                "name": "FRAME <<"
+            },
+            {
+                "address": "49",
+                "name": "SKIP/SEARCH <<"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4a",
+                "name": "FRAME >>"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP/SEARCH >>"
+            },
+            {
+                "address": "80",
+                "name": "MENU"
+            },
+            {
+                "address": "81",
+                "name": "RETURN"
+            },
+            {
+                "address": "82",
+                "name": "ENTER"
+            },
+            {
+                "address": "82",
+                "name": "SELECT"
+            },
+            {
+                "address": "83",
+                "name": "CLEAR"
+            },
+            {
+                "address": "85",
+                "name": "UP"
+            },
+            {
+                "address": "85",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "85",
+                "name": "CURSOR ^"
+            },
+            {
+                "address": "86",
+                "name": "DOWN"
+            },
+            {
+                "address": "86",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "86",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "86",
+                "name": "CURSOR V"
+            },
+            {
+                "address": "87",
+                "name": "LEFT"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "87",
+                "name": "CURSOR <"
+            },
+            {
+                "address": "88",
+                "name": "RIGHT"
+            },
+            {
+                "address": "88",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "88",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "88",
+                "name": "CURSOR >"
+            },
+            {
+                "address": "89",
+                "name": "+10"
+            },
+            {
+                "address": "89",
+                "name": ">10"
+            },
+            {
+                "address": "8c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "8c",
+                "name": "REPEAT MODE"
+            },
+            {
+                "address": "8d",
+                "name": "PLAY MODE"
+            },
+            {
+                "address": "8e",
+                "name": "MARKER"
+            },
+            {
+                "address": "90",
+                "name": "ANGLE"
+            },
+            {
+                "address": "91",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "92",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "93",
+                "name": "OFF/ON"
+            },
+            {
+                "address": "94",
+                "name": "SETUP"
+            },
+            {
+                "address": "94",
+                "name": "SET UP"
+            },
+            {
+                "address": "9b",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "9b",
+                "name": "TITLE"
+            },
+            {
+                "address": "9e",
+                "name": "V.S.S"
+            },
+            {
+                "address": "9e",
+                "name": "V.S.S."
+            }
+        ],
+        "device_address": "b0",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

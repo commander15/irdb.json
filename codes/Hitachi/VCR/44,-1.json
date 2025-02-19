@@ -1,0 +1,29 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "VCR PLUS"
+            },
+            {
+                "address": "3b",
+                "name": "TAPE SPEED"
+            },
+            {
+                "address": "3d",
+                "name": "100/ENT"
+            },
+            {
+                "address": "3d",
+                "name": "VCR 100/ENT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Emerson"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

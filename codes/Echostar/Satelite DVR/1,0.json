@@ -1,0 +1,125 @@
+{
+    "display_name": "Echostar Satelite DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "7",
+                "name": "PAGE --"
+            },
+            {
+                "address": "7",
+                "name": "PAGE -"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "f",
+                "name": "PAGE +"
+            },
+            {
+                "address": "31",
+                "name": "REWIND"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "32",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "32",
+                "name": "FWD"
+            },
+            {
+                "address": "32",
+                "name": "FORWARD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "36",
+                "name": "REPLAY"
+            },
+            {
+                "address": "37",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "DVR"
+            },
+            {
+                "address": "39",
+                "name": "RECORDED EVENTS"
+            },
+            {
+                "address": "3a",
+                "name": "PIP ON/OFF"
+            },
+            {
+                "address": "3a",
+                "name": ""
+            },
+            {
+                "address": "3a",
+                "name": "PIP"
+            },
+            {
+                "address": "3b",
+                "name": "PIP LOCATION"
+            },
+            {
+                "address": "3b",
+                "name": ""
+            },
+            {
+                "address": "3b",
+                "name": "POSITION"
+            },
+            {
+                "address": "3d",
+                "name": "PIP SWAP"
+            },
+            {
+                "address": "3d",
+                "name": ""
+            },
+            {
+                "address": "3d",
+                "name": "SWAP"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Echostar",
+    "model": "",
+    "name": "",
+    "target": "Satelite DVR"
+}

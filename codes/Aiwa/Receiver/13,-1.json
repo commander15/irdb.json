@@ -1,0 +1,37 @@
+{
+    "display_name": "Aiwa Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "TUNER PRESET +"
+            },
+            {
+                "address": "11",
+                "name": "TUNER PRESET -"
+            },
+            {
+                "address": "50",
+                "name": "TUNER INDEX +"
+            },
+            {
+                "address": "51",
+                "name": "TUNER INDEX -"
+            },
+            {
+                "address": "52",
+                "name": "TUNER SELECT"
+            },
+            {
+                "address": "57",
+                "name": "GEQ LINK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Aiwa",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

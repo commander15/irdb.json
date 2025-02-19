@@ -1,0 +1,45 @@
+{
+    "display_name": "Kenwood CD Changer",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "7",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "8",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "c9",
+                "name": "STOP"
+            },
+            {
+                "address": "cb",
+                "name": "PAUSE"
+            },
+            {
+                "address": "cb",
+                "name": "PLAY"
+            },
+            {
+                "address": "ce",
+                "name": "REW"
+            },
+            {
+                "address": "cf",
+                "name": "FFWD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "CD Changer"
+}

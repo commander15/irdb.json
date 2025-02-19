@@ -1,0 +1,89 @@
+{
+    "display_name": "Arcam Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "2",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "3",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "4",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "5",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "6",
+                "name": "PRESET 6"
+            },
+            {
+                "address": "7",
+                "name": "PRESET 7"
+            },
+            {
+                "address": "8",
+                "name": "PRESET 8"
+            },
+            {
+                "address": "9",
+                "name": "PRESET 9"
+            },
+            {
+                "address": "20",
+                "name": "PRESET/TUNE +"
+            },
+            {
+                "address": "21",
+                "name": "PRESET/TUNE -"
+            },
+            {
+                "address": "25",
+                "name": "PRESET/TUNE MODE"
+            },
+            {
+                "address": "6e",
+                "name": "PRESET 10"
+            },
+            {
+                "address": "6f",
+                "name": "PRESET 11"
+            },
+            {
+                "address": "70",
+                "name": "PRESET 12"
+            },
+            {
+                "address": "71",
+                "name": "PRESET 13"
+            },
+            {
+                "address": "72",
+                "name": "PRESET 14"
+            },
+            {
+                "address": "73",
+                "name": "PRESET 15"
+            },
+            {
+                "address": "74",
+                "name": "PRESET 16"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

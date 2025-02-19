@@ -1,0 +1,89 @@
+{
+    "display_name": "Harman Kardon CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PLAY/PAUSE >"
+            },
+            {
+                "address": "2",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "3",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "5",
+                "name": "STOP/CLEAR []"
+            },
+            {
+                "address": "6",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "7",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "e",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "f",
+                "name": "TIME"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Akai"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

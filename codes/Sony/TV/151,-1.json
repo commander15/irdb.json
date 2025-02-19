@@ -1,0 +1,89 @@
+{
+    "display_name": "Sony TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "REVERSE"
+            },
+            {
+                "address": "1c",
+                "name": "FORWARD"
+            },
+            {
+                "address": "1d",
+                "name": "DIGIT SEPARATOR"
+            },
+            {
+                "address": "20",
+                "name": "RECORD"
+            },
+            {
+                "address": "21",
+                "name": "I-LINK"
+            },
+            {
+                "address": "28",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "31",
+                "name": "MEMORY STICK"
+            },
+            {
+                "address": "36",
+                "name": "MENU OPTIONS"
+            },
+            {
+                "address": "38",
+                "name": "MEDIA"
+            },
+            {
+                "address": "3c",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "3d",
+                "name": "NEXT"
+            },
+            {
+                "address": "4d",
+                "name": "PIP ZOOM LEFT"
+            },
+            {
+                "address": "4e",
+                "name": "PIP ZOOM RIGHT"
+            },
+            {
+                "address": "6a",
+                "name": "STORE MODE"
+            },
+            {
+                "address": "78",
+                "name": "PIP ZOOM IN LEFT"
+            },
+            {
+                "address": "79",
+                "name": "PIP ZOOM IN RIGHT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

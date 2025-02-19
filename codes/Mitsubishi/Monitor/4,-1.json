@@ -1,0 +1,125 @@
+{
+    "display_name": "Mitsubishi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "^"
+            },
+            {
+                "address": "0",
+                "name": "^ (CHANNEL)"
+            },
+            {
+                "address": "0",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "0",
+                "name": "CH^"
+            },
+            {
+                "address": "1",
+                "name": "V"
+            },
+            {
+                "address": "1",
+                "name": "V (CHANNEL)"
+            },
+            {
+                "address": "1",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "1",
+                "name": "CHV"
+            },
+            {
+                "address": "2",
+                "name": "VOL ^"
+            },
+            {
+                "address": "2",
+                "name": "VOL^"
+            },
+            {
+                "address": "3",
+                "name": "VOL V"
+            },
+            {
+                "address": "3",
+                "name": "VOLV"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "9",
+                "name": "MUTE"
+            },
+            {
+                "address": "a",
+                "name": "ANT A/B"
+            },
+            {
+                "address": "e",
+                "name": "OFF TIMER"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "QUICK VIEW"
+            },
+            {
+                "address": "1b",
+                "name": "OFF TIMER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

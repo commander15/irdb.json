@@ -1,0 +1,77 @@
+{
+    "display_name": "Atlantic Technology Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3",
+                "name": "AUDIO"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "12",
+                "name": "NIGHT MODE"
+            },
+            {
+                "address": "22",
+                "name": "MULTI ZONE"
+            },
+            {
+                "address": "2a",
+                "name": "PRESET SCAN"
+            },
+            {
+                "address": "32",
+                "name": "TV"
+            },
+            {
+                "address": "48",
+                "name": "MUTE"
+            },
+            {
+                "address": "52",
+                "name": "SIX CH. DIRECT"
+            },
+            {
+                "address": "62",
+                "name": "DOLBY"
+            },
+            {
+                "address": "72",
+                "name": "VCR"
+            },
+            {
+                "address": "a8",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "b8",
+                "name": "MENU"
+            },
+            {
+                "address": "ca",
+                "name": "TAPE"
+            },
+            {
+                "address": "d2",
+                "name": "SAT"
+            },
+            {
+                "address": "f2",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "40",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Atlantic Technology",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

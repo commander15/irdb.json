@@ -1,0 +1,365 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "MAIN/SAP"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "5",
+                "name": "TV RETURN (10)"
+            },
+            {
+                "address": "5",
+                "name": "RETURN"
+            },
+            {
+                "address": "b",
+                "name": "ANT/CABLE"
+            },
+            {
+                "address": "d",
+                "name": "AV STATUS/RESET"
+            },
+            {
+                "address": "11",
+                "name": ""
+            },
+            {
+                "address": "13",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "17",
+                "name": "TV POWER"
+            },
+            {
+                "address": "17",
+                "name": "TV/CAT/SAT POWER"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "TV CH 10 CONTINUE"
+            },
+            {
+                "address": "18",
+                "name": "TV CH -"
+            },
+            {
+                "address": "18",
+                "name": "VIDEO PRESET -"
+            },
+            {
+                "address": "18",
+                "name": "TV CH - (< <<)"
+            },
+            {
+                "address": "18",
+                "name": "TV CHANNEL -"
+            },
+            {
+                "address": "18",
+                "name": "TV PRESET CH -"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "TV CH +10 PRGM"
+            },
+            {
+                "address": "19",
+                "name": "TV CH +"
+            },
+            {
+                "address": "19",
+                "name": "VIDEO PRESET +"
+            },
+            {
+                "address": "19",
+                "name": "TV CH + (> >>)"
+            },
+            {
+                "address": "19",
+                "name": "TV CHANNEL +"
+            },
+            {
+                "address": "19",
+                "name": "TV PRESET CH +"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1e",
+                "name": "TV VOL +"
+            },
+            {
+                "address": "1e",
+                "name": "TV VOL + (+ >)"
+            },
+            {
+                "address": "1e",
+                "name": "TV VOLUME +"
+            },
+            {
+                "address": "1e",
+                "name": "TV VOL+"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "TV VOL -"
+            },
+            {
+                "address": "1f",
+                "name": "TV VOL - (< <<)"
+            },
+            {
+                "address": "1f",
+                "name": "TV VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "TV VOL-"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "20",
+                "name": "0/10"
+            },
+            {
+                "address": "20",
+                "name": "TV CH 0 MAG.PRGM"
+            },
+            {
+                "address": "20",
+                "name": "VIDEO 0"
+            },
+            {
+                "address": "20",
+                "name": "TV 0"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "21",
+                "name": "TV CH 1 63HZ"
+            },
+            {
+                "address": "21",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "21",
+                "name": "TV 1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "TV CH 2 160HZ"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "22",
+                "name": "TV 2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "TV CH 3 400HZ"
+            },
+            {
+                "address": "23",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "23",
+                "name": "TV 3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "TV CH 4 1KHZ"
+            },
+            {
+                "address": "24",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "24",
+                "name": "TV 4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "TV CH 5 2.5KHZ"
+            },
+            {
+                "address": "25",
+                "name": "VIDEO 5"
+            },
+            {
+                "address": "25",
+                "name": "TV 5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "TV CH 6 6.3KHZ"
+            },
+            {
+                "address": "26",
+                "name": "VIDEO 6"
+            },
+            {
+                "address": "26",
+                "name": "TV 6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "27",
+                "name": "TV CH 7/P CH -"
+            },
+            {
+                "address": "27",
+                "name": "VIDEO 7"
+            },
+            {
+                "address": "27",
+                "name": "TV 7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "TV CH 8 CH +"
+            },
+            {
+                "address": "28",
+                "name": "VIDEO 8"
+            },
+            {
+                "address": "28",
+                "name": "TV 8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "TV CH 9"
+            },
+            {
+                "address": "29",
+                "name": "VIDEO 9"
+            },
+            {
+                "address": "29",
+                "name": "TV 9"
+            },
+            {
+                "address": "3c",
+                "name": "CATEGORY PREVIEW"
+            },
+            {
+                "address": "41",
+                "name": "BIPHONIC"
+            },
+            {
+                "address": "45",
+                "name": "VNR"
+            },
+            {
+                "address": "5a",
+                "name": "FUNCTION +"
+            },
+            {
+                "address": "5b",
+                "name": "FUNCTION -"
+            },
+            {
+                "address": "74",
+                "name": "NOTCH"
+            },
+            {
+                "address": "77",
+                "name": "TV 100+ (+10)"
+            },
+            {
+                "address": "77",
+                "name": "100+"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "7b",
+                "name": "FUNCTION FORWARD V"
+            },
+            {
+                "address": "7c",
+                "name": "FUNCTION BACK ^"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

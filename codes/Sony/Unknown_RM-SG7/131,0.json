@@ -1,0 +1,97 @@
+{
+    "display_name": "Sony Unknown_RM-SG7",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "2",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "3",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "7",
+                "name": "TUNER_BAND"
+            },
+            {
+                "address": "c",
+                "name": "FUNCTION"
+            },
+            {
+                "address": "52",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "53",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "54",
+                "name": "DBFB"
+            },
+            {
+                "address": "55",
+                "name": "FILE_SELECT"
+            },
+            {
+                "address": "90",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "91",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "93",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "94",
+                "name": "SKIP_UP"
+            },
+            {
+                "address": "95",
+                "name": "SKIP_DOWN"
+            },
+            {
+                "address": "96",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "97",
+                "name": "FAST_REVERSE"
+            },
+            {
+                "address": "99",
+                "name": "CHECK"
+            },
+            {
+                "address": "9a",
+                "name": "KEY_CLEAR"
+            },
+            {
+                "address": "c0",
+                "name": "DISC_SKIP"
+            },
+            {
+                "address": "d0",
+                "name": "DECK_A_PLAY"
+            },
+            {
+                "address": "d5",
+                "name": "DECK_B_PLAY"
+            }
+        ],
+        "device_address": "83",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-SG7"
+}

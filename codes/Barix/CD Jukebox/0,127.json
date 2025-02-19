@@ -1,0 +1,109 @@
+{
+    "display_name": "Barix CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "PLIST +"
+            },
+            {
+                "address": "1",
+                "name": "OFF"
+            },
+            {
+                "address": "1",
+                "name": "ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER"
+            },
+            {
+                "address": "2",
+                "name": "1"
+            },
+            {
+                "address": "3",
+                "name": "2"
+            },
+            {
+                "address": "4",
+                "name": "3"
+            },
+            {
+                "address": "5",
+                "name": "4"
+            },
+            {
+                "address": "6",
+                "name": "5"
+            },
+            {
+                "address": "7",
+                "name": "6"
+            },
+            {
+                "address": "8",
+                "name": "7"
+            },
+            {
+                "address": "9",
+                "name": "8"
+            },
+            {
+                "address": "a",
+                "name": "9"
+            },
+            {
+                "address": "c",
+                "name": "0"
+            },
+            {
+                "address": "d",
+                "name": "PLIST -"
+            },
+            {
+                "address": "10",
+                "name": "STOP"
+            },
+            {
+                "address": "12",
+                "name": "SONG +"
+            },
+            {
+                "address": "13",
+                "name": "VOL-"
+            },
+            {
+                "address": "15",
+                "name": "VOL +"
+            },
+            {
+                "address": "16",
+                "name": "SONG -"
+            },
+            {
+                "address": "1b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1e",
+                "name": "PLAY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Barix",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

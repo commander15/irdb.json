@@ -1,0 +1,29 @@
+{
+    "display_name": "JVC CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "CHARACTER"
+            },
+            {
+                "address": "c",
+                "name": "ENTER"
+            },
+            {
+                "address": "13",
+                "name": "TITLE INPUT"
+            },
+            {
+                "address": "18",
+                "name": "CANCEL"
+            }
+        ],
+        "device_address": "44",
+        "protocol": "JVC-48"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

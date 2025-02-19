@@ -1,0 +1,321 @@
+{
+    "display_name": "Pioneer TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "a",
+                "name": "VOL +"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "b",
+                "name": "VOL -"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "c",
+                "name": "TV"
+            },
+            {
+                "address": "c",
+                "name": "TV INPUT SEL"
+            },
+            {
+                "address": "d",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "LD INPUT SEL"
+            },
+            {
+                "address": "e",
+                "name": ""
+            },
+            {
+                "address": "e",
+                "name": "INPUT 2"
+            },
+            {
+                "address": "e",
+                "name": "VIDEO2 INPUT SEL"
+            },
+            {
+                "address": "f",
+                "name": ""
+            },
+            {
+                "address": "f",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "f",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "f",
+                "name": "VIDEO1 INPUT SEL"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "10",
+                "name": "CH +"
+            },
+            {
+                "address": "11",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "11",
+                "name": "CH -"
+            },
+            {
+                "address": "14",
+                "name": "PIP ON/OFF"
+            },
+            {
+                "address": "14",
+                "name": "P IN P"
+            },
+            {
+                "address": "15",
+                "name": "CH SCAN"
+            },
+            {
+                "address": "17",
+                "name": "SHIFT"
+            },
+            {
+                "address": "18",
+                "name": "STILL"
+            },
+            {
+                "address": "1c",
+                "name": "POWER"
+            },
+            {
+                "address": "1e",
+                "name": "MTS"
+            },
+            {
+                "address": "1f",
+                "name": "CH ENTER"
+            },
+            {
+                "address": "1f",
+                "name": "ENTER"
+            },
+            {
+                "address": "43",
+                "name": "STD/AV MEM"
+            },
+            {
+                "address": "48",
+                "name": "SLEEP"
+            },
+            {
+                "address": "49",
+                "name": "MUTING"
+            },
+            {
+                "address": "49",
+                "name": "MUTE"
+            },
+            {
+                "address": "4a",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "56",
+                "name": ""
+            },
+            {
+                "address": "56",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "56",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "56",
+                "name": "VIDEO3 INPUT SEL"
+            },
+            {
+                "address": "57",
+                "name": "INPUT"
+            },
+            {
+                "address": "5c",
+                "name": "RETURN"
+            },
+            {
+                "address": "5c",
+                "name": "CH RETURN"
+            },
+            {
+                "address": "8a",
+                "name": "MENU SET"
+            },
+            {
+                "address": "8a",
+                "name": "SET"
+            },
+            {
+                "address": "8b",
+                "name": "MENU"
+            },
+            {
+                "address": "94",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "94",
+                "name": ">"
+            },
+            {
+                "address": "95",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "95",
+                "name": "<"
+            },
+            {
+                "address": "96",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "96",
+                "name": "^"
+            },
+            {
+                "address": "97",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "97",
+                "name": "V"
+            },
+            {
+                "address": "d3",
+                "name": "MODE"
+            },
+            {
+                "address": "d3",
+                "name": "INPUT: ANTENNA"
+            },
+            {
+                "address": "d3",
+                "name": "INPUT: DVD/LD"
+            },
+            {
+                "address": "d3",
+                "name": "INPUT: VIDEO 1"
+            },
+            {
+                "address": "d3",
+                "name": "INPUT: VIDEO 3"
+            },
+            {
+                "address": "d3",
+                "name": "AUTO"
+            },
+            {
+                "address": "d3",
+                "name": "PIP CH -"
+            },
+            {
+                "address": "d3",
+                "name": "PIP CH +"
+            },
+            {
+                "address": "d3",
+                "name": "CC MODE"
+            },
+            {
+                "address": "d3",
+                "name": "CINEMA WIDE"
+            },
+            {
+                "address": "d6",
+                "name": "STROBE"
+            },
+            {
+                "address": "d7",
+                "name": "SWAP"
+            },
+            {
+                "address": "d9",
+                "name": "MULTI"
+            },
+            {
+                "address": "de",
+                "name": ""
+            },
+            {
+                "address": "de",
+                "name": "INPUT 4"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

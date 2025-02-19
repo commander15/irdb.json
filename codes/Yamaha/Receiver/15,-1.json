@@ -1,0 +1,21 @@
+{
+    "display_name": "Yamaha Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2e",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "2f",
+                "name": "VOLUME UP"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA-38(Old)"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

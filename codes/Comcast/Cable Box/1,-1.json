@@ -1,0 +1,25 @@
+{
+    "display_name": "Comcast Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "17",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sharp"
+    },
+    "manufacturer": "Comcast",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

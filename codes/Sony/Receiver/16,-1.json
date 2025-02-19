@@ -1,0 +1,373 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "12",
+                "name": "MASTER VOL +"
+            },
+            {
+                "address": "12",
+                "name": "VOL+"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME (+)"
+            },
+            {
+                "address": "12",
+                "name": "VOL UP"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "13",
+                "name": "MASTER VOL -"
+            },
+            {
+                "address": "13",
+                "name": "VOL-"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME (-)"
+            },
+            {
+                "address": "13",
+                "name": "VOL DOWN"
+            },
+            {
+                "address": "14",
+                "name": "MUTE"
+            },
+            {
+                "address": "14",
+                "name": "MUTING"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME MUTE"
+            },
+            {
+                "address": "15",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "15",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "1d",
+                "name": "AUX"
+            },
+            {
+                "address": "1e",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "1e",
+                "name": "INPUT: VIDEO 2"
+            },
+            {
+                "address": "20",
+                "name": "PHONO"
+            },
+            {
+                "address": "20",
+                "name": "INPUT: PHONO"
+            },
+            {
+                "address": "20",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "20",
+                "name": "MUTING"
+            },
+            {
+                "address": "21",
+                "name": "TUNER INPUT"
+            },
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "21",
+                "name": "INPUT: TUNER"
+            },
+            {
+                "address": "21",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO INPUT"
+            },
+            {
+                "address": "22",
+                "name": "INPUT: VIDEO 1"
+            },
+            {
+                "address": "22",
+                "name": "VID 1"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "22",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO"
+            },
+            {
+                "address": "22",
+                "name": ""
+            },
+            {
+                "address": "23",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "23",
+                "name": "INPUT: TAPE 1"
+            },
+            {
+                "address": "23",
+                "name": "INPUT: TAPE"
+            },
+            {
+                "address": "23",
+                "name": "TAPE"
+            },
+            {
+                "address": "23",
+                "name": "INPUT TAPE"
+            },
+            {
+                "address": "23",
+                "name": "TAPE/MD"
+            },
+            {
+                "address": "25",
+                "name": "CD INPUT"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "25",
+                "name": "INPUT: COMPACT DISC"
+            },
+            {
+                "address": "25",
+                "name": "INPUT: CD"
+            },
+            {
+                "address": "25",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "25",
+                "name": ""
+            },
+            {
+                "address": "25",
+                "name": "INPUT:CD"
+            },
+            {
+                "address": "2e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "2f",
+                "name": ""
+            },
+            {
+                "address": "2f",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2f",
+                "name": "SYSTEM OFF"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "42",
+                "name": "INPUT: VIDEO 3"
+            },
+            {
+                "address": "42",
+                "name": "INPUT FRONT"
+            },
+            {
+                "address": "46",
+                "name": "DAT/MD"
+            },
+            {
+                "address": "46",
+                "name": "INPUT: DAT"
+            },
+            {
+                "address": "46",
+                "name": "MD/DAT"
+            },
+            {
+                "address": "46",
+                "name": "DAT"
+            },
+            {
+                "address": "49",
+                "name": "SND F. ANALOG DIRECT"
+            },
+            {
+                "address": "53",
+                "name": "ON SCREEN DISPLAY"
+            },
+            {
+                "address": "53",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "60",
+                "name": "SLEEP"
+            },
+            {
+                "address": "69",
+                "name": "TAPE INPUT"
+            },
+            {
+                "address": "69",
+                "name": "INPUT MD"
+            },
+            {
+                "address": "69",
+                "name": "MD/TAPE"
+            },
+            {
+                "address": "69",
+                "name": "MD"
+            },
+            {
+                "address": "69",
+                "name": "MD/DAT"
+            },
+            {
+                "address": "69",
+                "name": "INPUT: MD/DAT"
+            },
+            {
+                "address": "6a",
+                "name": "SAT INPUT"
+            },
+            {
+                "address": "6a",
+                "name": "TV/SAT"
+            },
+            {
+                "address": "6a",
+                "name": "TV"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT DBS"
+            },
+            {
+                "address": "6a",
+                "name": "INPUT:TV/SAT"
+            },
+            {
+                "address": "6b",
+                "name": "ENTER"
+            },
+            {
+                "address": "6b",
+                "name": "LASER DISC"
+            },
+            {
+                "address": "6b",
+                "name": "LD"
+            },
+            {
+                "address": "6b",
+                "name": "DVD/LD"
+            },
+            {
+                "address": "6b",
+                "name": "DVD"
+            },
+            {
+                "address": "72",
+                "name": "5.1"
+            },
+            {
+                "address": "72",
+                "name": "5.1CH"
+            },
+            {
+                "address": "72",
+                "name": "5.1 IN"
+            },
+            {
+                "address": "72",
+                "name": "5.1 CH"
+            },
+            {
+                "address": "72",
+                "name": "5.1 INPUT"
+            },
+            {
+                "address": "72",
+                "name": "INPUT: 5.1"
+            },
+            {
+                "address": "7b",
+                "name": ""
+            },
+            {
+                "address": "7b",
+                "name": "INPUT: DVD/LD"
+            },
+            {
+                "address": "7d",
+                "name": "DVD INPUT"
+            },
+            {
+                "address": "7d",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "7d",
+                "name": "DVD/LD"
+            },
+            {
+                "address": "7d",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

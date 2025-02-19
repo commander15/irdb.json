@@ -1,0 +1,97 @@
+{
+    "display_name": "Sony Digital Recorder",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "SELECT"
+            },
+            {
+                "address": "d",
+                "name": "SET"
+            },
+            {
+                "address": "e",
+                "name": "RETURN"
+            },
+            {
+                "address": "f",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1a",
+                "name": "TOP MENU"
+            },
+            {
+                "address": "1b",
+                "name": "MENU"
+            },
+            {
+                "address": "28",
+                "name": "TIME/TEXT"
+            },
+            {
+                "address": "30",
+                "name": "PREV"
+            },
+            {
+                "address": "31",
+                "name": "NEXT"
+            },
+            {
+                "address": "32",
+                "name": "PLAY"
+            },
+            {
+                "address": "33",
+                "name": "REW"
+            },
+            {
+                "address": "34",
+                "name": "FWD"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            },
+            {
+                "address": "39",
+                "name": "PAUSE"
+            },
+            {
+                "address": "54",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "5c",
+                "name": "INSTANT REPLAY"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "79",
+                "name": "C UP"
+            },
+            {
+                "address": "7a",
+                "name": "C DN"
+            },
+            {
+                "address": "7b",
+                "name": "C LF"
+            },
+            {
+                "address": "7c",
+                "name": "C RT"
+            }
+        ],
+        "device_address": "3400",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Digital Recorder"
+}

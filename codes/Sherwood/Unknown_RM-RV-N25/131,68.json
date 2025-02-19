@@ -1,0 +1,273 @@
+{
+    "display_name": "Sherwood Unknown_RM-RV-N25",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "1",
+                "name": "KEY_1"
+            },
+            {
+                "address": "2",
+                "name": "KEY_2"
+            },
+            {
+                "address": "3",
+                "name": "KEY_3"
+            },
+            {
+                "address": "4",
+                "name": "KEY_4"
+            },
+            {
+                "address": "5",
+                "name": "KEY_5"
+            },
+            {
+                "address": "6",
+                "name": "KEY_6"
+            },
+            {
+                "address": "7",
+                "name": "KEY_7"
+            },
+            {
+                "address": "8",
+                "name": "KEY_8"
+            },
+            {
+                "address": "9",
+                "name": "KEY_9"
+            },
+            {
+                "address": "a",
+                "name": "KEY_0"
+            },
+            {
+                "address": "b",
+                "name": "CD_DISC"
+            },
+            {
+                "address": "c",
+                "name": "CD_Stop"
+            },
+            {
+                "address": "d",
+                "name": "CD_Pause"
+            },
+            {
+                "address": "e",
+                "name": "CD_Play"
+            },
+            {
+                "address": "f",
+                "name": "CD_Skip_Back"
+            },
+            {
+                "address": "10",
+                "name": "CD_Skip_Forward"
+            },
+            {
+                "address": "11",
+                "name": "CD_Track_Back"
+            },
+            {
+                "address": "12",
+                "name": "CD_Track_Forward"
+            },
+            {
+                "address": "13",
+                "name": "CD_Repeat"
+            },
+            {
+                "address": "14",
+                "name": "CD_Intro_Scan"
+            },
+            {
+                "address": "18",
+                "name": "P.Scan"
+            },
+            {
+                "address": "1d",
+                "name": "DECKA_Record"
+            },
+            {
+                "address": "1e",
+                "name": "DECKA_Pause"
+            },
+            {
+                "address": "1f",
+                "name": "DECKA_Play_Rev"
+            },
+            {
+                "address": "20",
+                "name": "DECKA_Play_For"
+            },
+            {
+                "address": "21",
+                "name": "DECKA_Stop"
+            },
+            {
+                "address": "22",
+                "name": "DECKA_Fast_Rewind"
+            },
+            {
+                "address": "23",
+                "name": "DECKA_Fast_Forward"
+            },
+            {
+                "address": "25",
+                "name": "DECKB_Record"
+            },
+            {
+                "address": "26",
+                "name": "DECKB_Pause"
+            },
+            {
+                "address": "27",
+                "name": "DECKB_Play_Rev"
+            },
+            {
+                "address": "28",
+                "name": "DECKB_Play_For"
+            },
+            {
+                "address": "29",
+                "name": "DECKB_Stop"
+            },
+            {
+                "address": "2a",
+                "name": "DECKB_Fast_Rewind"
+            },
+            {
+                "address": "2b",
+                "name": "DECKB_Fast_Forward"
+            },
+            {
+                "address": "32",
+                "name": "FUNC_Phono"
+            },
+            {
+                "address": "33",
+                "name": "FUNC_Tape2"
+            },
+            {
+                "address": "34",
+                "name": "FUNC_Tape1"
+            },
+            {
+                "address": "35",
+                "name": "FUNC_Tuner"
+            },
+            {
+                "address": "36",
+                "name": "FUNC_CD"
+            },
+            {
+                "address": "37",
+                "name": "FUNC_Aux"
+            },
+            {
+                "address": "39",
+                "name": "FUNC_LDP"
+            },
+            {
+                "address": "3a",
+                "name": "FUNC_VCR1"
+            },
+            {
+                "address": "3b",
+                "name": "FUNC_VCR2"
+            },
+            {
+                "address": "42",
+                "name": "S.Mode"
+            },
+            {
+                "address": "46",
+                "name": "Display"
+            },
+            {
+                "address": "47",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "4b",
+                "name": "C.Mode"
+            },
+            {
+                "address": "4c",
+                "name": "T.Tone"
+            },
+            {
+                "address": "4d",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "4e",
+                "name": "D.Time"
+            },
+            {
+                "address": "4f",
+                "name": "Center_Level_Down"
+            },
+            {
+                "address": "50",
+                "name": "Center_Level_Up"
+            },
+            {
+                "address": "51",
+                "name": "Rear_Level_Down"
+            },
+            {
+                "address": "52",
+                "name": "Rear_Level_Up"
+            },
+            {
+                "address": "53",
+                "name": "KEY_SUBTITLE"
+            },
+            {
+                "address": "54",
+                "name": "KEY_SUBTITLE"
+            },
+            {
+                "address": "55",
+                "name": "Master_Volume_Up"
+            },
+            {
+                "address": "56",
+                "name": "Master_Volume_Down"
+            },
+            {
+                "address": "5b",
+                "name": "EQ_Display"
+            },
+            {
+                "address": "5c",
+                "name": "EQ_T.Mon"
+            },
+            {
+                "address": "5d",
+                "name": "EQ_Preset"
+            },
+            {
+                "address": "5e",
+                "name": "EQ_User"
+            },
+            {
+                "address": "5f",
+                "name": "EQ_File"
+            }
+        ],
+        "device_address": "830",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Sherwood",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-RV-N25"
+}

@@ -1,0 +1,57 @@
+{
+    "display_name": "NEC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "8",
+                "name": "TV POWER"
+            },
+            {
+                "address": "10",
+                "name": "TV 0"
+            },
+            {
+                "address": "11",
+                "name": "TV 1"
+            },
+            {
+                "address": "12",
+                "name": "TV 2"
+            },
+            {
+                "address": "13",
+                "name": "TV 3"
+            },
+            {
+                "address": "14",
+                "name": "TV 4"
+            },
+            {
+                "address": "15",
+                "name": "TV 5"
+            },
+            {
+                "address": "16",
+                "name": "TV 6"
+            },
+            {
+                "address": "17",
+                "name": "TV 7"
+            },
+            {
+                "address": "18",
+                "name": "TV 8"
+            },
+            {
+                "address": "19",
+                "name": "TV 9"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

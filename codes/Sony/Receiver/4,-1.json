@@ -1,0 +1,29 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "37",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "37",
+                "name": "SYSTEM OFF"
+            },
+            {
+                "address": "37",
+                "name": "SYSTEM STANDBY"
+            },
+            {
+                "address": "37",
+                "name": "STANDBY"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

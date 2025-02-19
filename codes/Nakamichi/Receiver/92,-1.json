@@ -1,0 +1,369 @@
+{
+    "display_name": "Nakamichi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "4",
+                "name": "TUNER SEEK^(TAPE1)"
+            },
+            {
+                "address": "4",
+                "name": "SEEK >"
+            },
+            {
+                "address": "5",
+                "name": "TUNER SEEKV(TAPE1)"
+            },
+            {
+                "address": "5",
+                "name": "SEEK <"
+            },
+            {
+                "address": "6",
+                "name": "TUNER AM(TAPE1)"
+            },
+            {
+                "address": "6",
+                "name": "AM"
+            },
+            {
+                "address": "7",
+                "name": "TUNER FM(TAPE1)"
+            },
+            {
+                "address": "7",
+                "name": "FM"
+            },
+            {
+                "address": "12",
+                "name": "TUNER PRESET^(TAPE1)"
+            },
+            {
+                "address": "12",
+                "name": "PRESET >"
+            },
+            {
+                "address": "13",
+                "name": "TUNER PRESETV(TAPE1)"
+            },
+            {
+                "address": "13",
+                "name": "PRESET <"
+            },
+            {
+                "address": "14",
+                "name": "TAPE1 REC"
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "15",
+                "name": "TAPE1 PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "TAPE PLAY FORWARD"
+            },
+            {
+                "address": "16",
+                "name": "TAPE1 PAUSE "
+            },
+            {
+                "address": "16",
+                "name": "TAPE PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "TAPE1 STOP []"
+            },
+            {
+                "address": "17",
+                "name": "TAPE STOP"
+            },
+            {
+                "address": "40",
+                "name": "SPKS A"
+            },
+            {
+                "address": "41",
+                "name": "SPKS B"
+            },
+            {
+                "address": "42",
+                "name": "SPKS A+B"
+            },
+            {
+                "address": "43",
+                "name": "SPKS OFF"
+            },
+            {
+                "address": "44",
+                "name": "PHONO"
+            },
+            {
+                "address": "45",
+                "name": "CD"
+            },
+            {
+                "address": "46",
+                "name": "TUNER (TAPE1)"
+            },
+            {
+                "address": "46",
+                "name": "TUNER"
+            },
+            {
+                "address": "47",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "47",
+                "name": "VIDEO"
+            },
+            {
+                "address": "48",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "49",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "49",
+                "name": "TAPE"
+            },
+            {
+                "address": "4a",
+                "name": "TAPE 2/VCR"
+            },
+            {
+                "address": "54",
+                "name": "TAPE1 FFWD >>"
+            },
+            {
+                "address": "54",
+                "name": "TAPE FF"
+            },
+            {
+                "address": "55",
+                "name": "TAPE1 REW <<"
+            },
+            {
+                "address": "55",
+                "name": "TAPE REWIND"
+            },
+            {
+                "address": "56",
+                "name": "TAPE1 CUE"
+            },
+            {
+                "address": "56",
+                "name": "CUE"
+            },
+            {
+                "address": "58",
+                "name": "TAPE1 R.PLAY <"
+            },
+            {
+                "address": "58",
+                "name": "TAPE REVERSE PLAY"
+            },
+            {
+                "address": "59",
+                "name": "TAPE1 AZIMUTH >"
+            },
+            {
+                "address": "5a",
+                "name": "TAPE1 AZIMUTH <"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "81",
+                "name": "MUTE"
+            },
+            {
+                "address": "82",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "83",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "84",
+                "name": "TUNER SEEK ^"
+            },
+            {
+                "address": "84",
+                "name": "TUNER SEEK^(TAPE2)"
+            },
+            {
+                "address": "85",
+                "name": "TUNER SEEK V"
+            },
+            {
+                "address": "85",
+                "name": "TUNER SEEKV(TAPE2)"
+            },
+            {
+                "address": "86",
+                "name": "AM"
+            },
+            {
+                "address": "86",
+                "name": "TUNER AM(TAPE2)"
+            },
+            {
+                "address": "87",
+                "name": "FM"
+            },
+            {
+                "address": "87",
+                "name": "TUNER FM(TAPE2)"
+            },
+            {
+                "address": "92",
+                "name": "TUNER PRESET ^"
+            },
+            {
+                "address": "92",
+                "name": "TUNER PRESET^(TAPE2)"
+            },
+            {
+                "address": "93",
+                "name": "TUNER PRESET V"
+            },
+            {
+                "address": "93",
+                "name": "TUNER PRESETV(TAPE2)"
+            },
+            {
+                "address": "94",
+                "name": "TAPE2 REC"
+            },
+            {
+                "address": "95",
+                "name": "TAPE2 PLAY >"
+            },
+            {
+                "address": "96",
+                "name": "TAPE2 PAUSE "
+            },
+            {
+                "address": "97",
+                "name": "TAPE2 STOP []"
+            },
+            {
+                "address": "c0",
+                "name": "SPKS A"
+            },
+            {
+                "address": "c1",
+                "name": "SPKS B"
+            },
+            {
+                "address": "c2",
+                "name": "SPKS A+B"
+            },
+            {
+                "address": "c3",
+                "name": "SPKS OFF"
+            },
+            {
+                "address": "c4",
+                "name": "PHONO"
+            },
+            {
+                "address": "c5",
+                "name": "CD"
+            },
+            {
+                "address": "c6",
+                "name": "TUNER"
+            },
+            {
+                "address": "c6",
+                "name": "TUNER(TAPE2)"
+            },
+            {
+                "address": "c7",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "c8",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "c9",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "ca",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "cb",
+                "name": "TAPE 3/VCR"
+            },
+            {
+                "address": "d4",
+                "name": "TAPE2 FFWD >>"
+            },
+            {
+                "address": "d5",
+                "name": "TAPE2 REW <<"
+            },
+            {
+                "address": "d6",
+                "name": "TAPE2 CUE"
+            },
+            {
+                "address": "d8",
+                "name": "TAPE2 R.PLAY <"
+            },
+            {
+                "address": "d9",
+                "name": "TAPE2 AZIMUTH >"
+            },
+            {
+                "address": "da",
+                "name": "TAPE2 AZIMUTH <"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

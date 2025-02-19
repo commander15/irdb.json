@@ -1,0 +1,153 @@
+{
+    "display_name": "Instant Replay VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP []"
+            },
+            {
+                "address": "1",
+                "name": "EJECT"
+            },
+            {
+                "address": "2",
+                "name": "REW/SEARCH <<"
+            },
+            {
+                "address": "3",
+                "name": "FF/SEARCH >>"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "8",
+                "name": "REC"
+            },
+            {
+                "address": "8",
+                "name": "RECORD"
+            },
+            {
+                "address": "a",
+                "name": "PLAY >"
+            },
+            {
+                "address": "f",
+                "name": "SLOW >"
+            },
+            {
+                "address": "10",
+                "name": "1 (AM)"
+            },
+            {
+                "address": "10",
+                "name": "1 AM"
+            },
+            {
+                "address": "11",
+                "name": "2 (PM)"
+            },
+            {
+                "address": "11",
+                "name": "2 PM"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "20",
+                "name": "POWER"
+            },
+            {
+                "address": "22",
+                "name": "CH SCAN ^"
+            },
+            {
+                "address": "23",
+                "name": "CH SCAN V"
+            },
+            {
+                "address": "25",
+                "name": "SPEED"
+            },
+            {
+                "address": "2a",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "32",
+                "name": "COUNTER MEMORY"
+            },
+            {
+                "address": "33",
+                "name": "RESET"
+            },
+            {
+                "address": "33",
+                "name": "CLEAR RESET"
+            },
+            {
+                "address": "38",
+                "name": "TRACKING ^"
+            },
+            {
+                "address": "38",
+                "name": "V-LOCK TRACKING ^"
+            },
+            {
+                "address": "39",
+                "name": "TRACKING V"
+            },
+            {
+                "address": "39",
+                "name": "V-LOCK TRACKING V"
+            },
+            {
+                "address": "3e",
+                "name": "STANDBY"
+            },
+            {
+                "address": "3f",
+                "name": "OTR"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Panasonic_Old"
+    },
+    "manufacturer": "Instant Replay",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

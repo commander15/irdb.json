@@ -1,0 +1,53 @@
+{
+    "display_name": "Philips Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "f",
+                "name": "OSD"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME+"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME-"
+            },
+            {
+                "address": "1d",
+                "name": "SPEAKERS"
+            },
+            {
+                "address": "50",
+                "name": "UP"
+            },
+            {
+                "address": "51",
+                "name": "DOWN"
+            },
+            {
+                "address": "52",
+                "name": "OK"
+            },
+            {
+                "address": "55",
+                "name": "LEFT"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Philips",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

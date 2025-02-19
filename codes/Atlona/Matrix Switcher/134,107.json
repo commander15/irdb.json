@@ -1,0 +1,81 @@
+{
+    "display_name": "Atlona Matrix Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "OUTPUT D: INPUT 2"
+            },
+            {
+                "address": "1",
+                "name": "OUTPUT A: INPUT 1"
+            },
+            {
+                "address": "2",
+                "name": "OUTPUT A: INPUT 2"
+            },
+            {
+                "address": "3",
+                "name": "OUTPUT A: INPUT 3"
+            },
+            {
+                "address": "4",
+                "name": "OUTPUT B: INPUT 1"
+            },
+            {
+                "address": "5",
+                "name": "OUTPUT B: INPUT 2"
+            },
+            {
+                "address": "6",
+                "name": "OUTPUT B: INPUT 3"
+            },
+            {
+                "address": "7",
+                "name": "OUTPUT C: INPUT 1"
+            },
+            {
+                "address": "8",
+                "name": "OUTPUT C: INPUT 2"
+            },
+            {
+                "address": "9",
+                "name": "OUTPUT C: INPUT 3"
+            },
+            {
+                "address": "11",
+                "name": "OUTPUT D: INPUT 1"
+            },
+            {
+                "address": "12",
+                "name": "POWER"
+            },
+            {
+                "address": "17",
+                "name": "OUTPUT D: INPUT 3"
+            },
+            {
+                "address": "1a",
+                "name": "OUTPUT A: INPUT 4"
+            },
+            {
+                "address": "1b",
+                "name": "OUTPUT C: INPUT 4"
+            },
+            {
+                "address": "1e",
+                "name": "OUTPUT B: INPUT 4"
+            },
+            {
+                "address": "1f",
+                "name": "OUTPUT D: INPUT 4"
+            }
+        ],
+        "device_address": "43000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Atlona",
+    "model": "",
+    "name": "",
+    "target": "Matrix Switcher"
+}

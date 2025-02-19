@@ -1,0 +1,149 @@
+{
+    "display_name": "Sunfire Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "device_address": "b8",
+                "name": "LD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d",
+                "device_address": "b8",
+                "name": "TUNER PRESET 10",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "80",
+                "device_address": "b8",
+                "name": "TUNER PRESET 0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "81",
+                "device_address": "b8",
+                "name": "TUNER PRESET 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "82",
+                "device_address": "b8",
+                "name": "TUNER PRESET 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "83",
+                "device_address": "b8",
+                "name": "TUNER PRESET 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "b8",
+                "name": "TUNER PRESET 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "b8",
+                "name": "TUNER PRESET 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "86",
+                "device_address": "b8",
+                "name": "TUNER PRESET 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "b8",
+                "name": "TUNER PRESET 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "b8",
+                "name": "TUNER PRESET 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "b8",
+                "name": "TUNER PRESET 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "90",
+                "device_address": "b8",
+                "name": "PHONO",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "91",
+                "device_address": "b8",
+                "name": "TUNER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "92",
+                "device_address": "b8",
+                "name": "CD",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "93",
+                "device_address": "b8",
+                "name": "V. AUX",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "95",
+                "device_address": "b8",
+                "name": "DAT/TAPE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "96",
+                "device_address": "b8",
+                "name": "DBS/BS",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "9a",
+                "device_address": "b8",
+                "name": "VOLUME -",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9b",
+                "device_address": "b8",
+                "name": "VOLUME +",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9c",
+                "device_address": "b8",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9d",
+                "device_address": "b8",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "b8",
+                "name": "DSP",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Sunfire",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

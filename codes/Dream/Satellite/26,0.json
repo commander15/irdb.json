@@ -1,0 +1,537 @@
+{
+    "display_name": "Dream Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "0",
+                "name": "DIGIT 0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "DIGIT 1"
+            },
+            {
+                "address": "2",
+                "name": ""
+            },
+            {
+                "address": "2",
+                "name": "ABC"
+            },
+            {
+                "address": "2",
+                "name": "DIGIT 2"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "3",
+                "name": "3DEF"
+            },
+            {
+                "address": "3",
+                "name": "DEF"
+            },
+            {
+                "address": "3",
+                "name": "DIGIT 3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "4",
+                "name": "4GHI"
+            },
+            {
+                "address": "4",
+                "name": "DIGIT 4"
+            },
+            {
+                "address": "4",
+                "name": "GHI"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "5",
+                "name": "5JKL"
+            },
+            {
+                "address": "5",
+                "name": "DIGIT 5"
+            },
+            {
+                "address": "5",
+                "name": "JKL"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "6",
+                "name": "6MNO"
+            },
+            {
+                "address": "6",
+                "name": "DIGIT 6"
+            },
+            {
+                "address": "6",
+                "name": "MNO"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "7",
+                "name": "7PQRS"
+            },
+            {
+                "address": "7",
+                "name": "DIGIT 7"
+            },
+            {
+                "address": "7",
+                "name": "PQRS"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "8",
+                "name": "8TUV"
+            },
+            {
+                "address": "8",
+                "name": "DIGIT 8"
+            },
+            {
+                "address": "8",
+                "name": "TUV"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "9",
+                "name": "9WXYZ"
+            },
+            {
+                "address": "9",
+                "name": "DIGIT 9"
+            },
+            {
+                "address": "9",
+                "name": "WXYZ"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "a",
+                "name": ""
+            },
+            {
+                "address": "b",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "b",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "c",
+                "name": "STOP"
+            },
+            {
+                "address": "c",
+                "name": "TV []"
+            },
+            {
+                "address": "c",
+                "name": "TV"
+            },
+            {
+                "address": "d",
+                "name": "BOUQUET UP"
+            },
+            {
+                "address": "d",
+                "name": "BOUQUET +"
+            },
+            {
+                "address": "d",
+                "name": "CHANNEL UP"
+            },
+            {
+                "address": "d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "e",
+                "name": "BOUQUET DOWN"
+            },
+            {
+                "address": "e",
+                "name": "BOUQUET -"
+            },
+            {
+                "address": "e",
+                "name": "CHANNEL DOWN"
+            },
+            {
+                "address": "e",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "f",
+                "name": "POWER"
+            },
+            {
+                "address": "f",
+                "name": "TV POWER (TOGGLING)"
+            },
+            {
+                "address": "f",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "20",
+                "name": "DREAM"
+            },
+            {
+                "address": "20",
+                "name": "MENU"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "21",
+                "name": "UP"
+            },
+            {
+                "address": "21",
+                "name": "MENU UP"
+            },
+            {
+                "address": "22",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "22",
+                "name": "DOWN"
+            },
+            {
+                "address": "22",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "23",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "23",
+                "name": "LEFT"
+            },
+            {
+                "address": "23",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "24",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "24",
+                "name": "RIGHT"
+            },
+            {
+                "address": "24",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "25",
+                "name": "SELECT"
+            },
+            {
+                "address": "25",
+                "name": "OK"
+            },
+            {
+                "address": "25",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "25",
+                "name": "ENTER"
+            },
+            {
+                "address": "26",
+                "name": "AUDIO"
+            },
+            {
+                "address": "27",
+                "name": "VIDEO"
+            },
+            {
+                "address": "27",
+                "name": "GUIDE"
+            },
+            {
+                "address": "28",
+                "name": "INFO"
+            },
+            {
+                "address": "30",
+                "name": "A"
+            },
+            {
+                "address": "31",
+                "name": "B"
+            },
+            {
+                "address": "32",
+                "name": "C"
+            },
+            {
+                "address": "33",
+                "name": "DDD"
+            },
+            {
+                "address": "34",
+                "name": "SHIFT-STOP"
+            },
+            {
+                "address": "35",
+                "name": "SHIFT-RECORD"
+            },
+            {
+                "address": "40",
+                "name": "REW <<"
+            },
+            {
+                "address": "40",
+                "name": "RED <<"
+            },
+            {
+                "address": "40",
+                "name": ">"
+            },
+            {
+                "address": "40",
+                "name": "RED"
+            },
+            {
+                "address": "40",
+                "name": "REWIND"
+            },
+            {
+                "address": "41",
+                "name": "PLAY"
+            },
+            {
+                "address": "41",
+                "name": "GREEN >"
+            },
+            {
+                "address": "41",
+                "name": "GREEN"
+            },
+            {
+                "address": "42",
+                "name": "PAUSE"
+            },
+            {
+                "address": "42",
+                "name": "YELLOW II"
+            },
+            {
+                "address": "42",
+                "name": "YELLOW"
+            },
+            {
+                "address": "43",
+                "name": "FFW >>"
+            },
+            {
+                "address": "43",
+                "name": "BLUE >>"
+            },
+            {
+                "address": "43",
+                "name": "BACKGROUND"
+            },
+            {
+                "address": "43",
+                "name": "BLUE"
+            },
+            {
+                "address": "43",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "44",
+                "name": "MUTE"
+            },
+            {
+                "address": "45",
+                "name": "TEXT"
+            },
+            {
+                "address": "50",
+                "name": ">"
+            },
+            {
+                "address": "50",
+                "name": "FORWARD"
+            },
+            {
+                "address": "50",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "51",
+                "name": "<"
+            },
+            {
+                "address": "51",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "52",
+                "name": "EXIT"
+            },
+            {
+                "address": "52",
+                "name": "LAME!"
+            },
+            {
+                "address": "53",
+                "name": "RADIO"
+            },
+            {
+                "address": "53",
+                "name": "RADIO O"
+            },
+            {
+                "address": "53",
+                "name": "RECORD"
+            },
+            {
+                "address": "53",
+                "name": "TUNER"
+            },
+            {
+                "address": "54",
+                "name": "HELP"
+            },
+            {
+                "address": "60",
+                "name": "SET-TOP BOX 0"
+            },
+            {
+                "address": "61",
+                "name": "SET-TOP BOX 1"
+            },
+            {
+                "address": "62",
+                "name": "SET-TOP BOX 2"
+            },
+            {
+                "address": "63",
+                "name": "SET-TOP BOX 3"
+            },
+            {
+                "address": "64",
+                "name": "SET-TOP BOX 4"
+            },
+            {
+                "address": "65",
+                "name": "SET-TOP BOX 5"
+            },
+            {
+                "address": "66",
+                "name": "SET-TOP BOX 6"
+            },
+            {
+                "address": "67",
+                "name": "SET-TOP BOX 7"
+            },
+            {
+                "address": "68",
+                "name": "SET-TOP BOX 8"
+            },
+            {
+                "address": "69",
+                "name": "SET-TOP BOX 9"
+            },
+            {
+                "address": "b4",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "e8",
+                "name": "POWER"
+            },
+            {
+                "address": "e8",
+                "name": "POWER ON"
+            },
+            {
+                "address": "f0",
+                "name": "RWD"
+            },
+            {
+                "address": "f1",
+                "name": "PLAY"
+            },
+            {
+                "address": "f2",
+                "name": "PAUSE"
+            },
+            {
+                "address": "f3",
+                "name": "FF"
+            },
+            {
+                "address": "f4",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "1a",
+        "protocol": "XMP-1"
+    },
+    "manufacturer": "Dream",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

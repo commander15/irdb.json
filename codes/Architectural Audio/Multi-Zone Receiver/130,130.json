@@ -1,0 +1,137 @@
+{
+    "display_name": "Architectural Audio Multi-Zone Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "TUNER -"
+            },
+            {
+                "address": "2",
+                "name": "TUNER +"
+            },
+            {
+                "address": "3",
+                "name": "SOURCE 4"
+            },
+            {
+                "address": "4",
+                "name": "STOP"
+            },
+            {
+                "address": "5",
+                "name": "PLAY"
+            },
+            {
+                "address": "6",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "7",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "9",
+                "name": "SOURCE 3"
+            },
+            {
+                "address": "a",
+                "name": "SOURCE 2"
+            },
+            {
+                "address": "b",
+                "name": "SOURCE 1"
+            },
+            {
+                "address": "c",
+                "name": "AM"
+            },
+            {
+                "address": "d",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "e",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "f",
+                "name": "PRESET 7"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "MUTE-TOGGLE"
+            },
+            {
+                "address": "14",
+                "name": "FM"
+            },
+            {
+                "address": "15",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "16",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "17",
+                "name": "PRESET 8"
+            },
+            {
+                "address": "19",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "1a",
+                "name": "ZONE OFF"
+            },
+            {
+                "address": "1b",
+                "name": "MUTE-OFF"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE-ON"
+            },
+            {
+                "address": "1d",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "1e",
+                "name": "PRESET 6"
+            },
+            {
+                "address": "1f",
+                "name": "PRESET 9"
+            },
+            {
+                "address": "60",
+                "name": "PRESET 10"
+            },
+            {
+                "address": "a0",
+                "name": "PRESET 11"
+            },
+            {
+                "address": "e0",
+                "name": "PRESET 12"
+            }
+        ],
+        "device_address": "208",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Architectural Audio",
+    "model": "",
+    "name": "",
+    "target": "Multi-Zone Receiver"
+}

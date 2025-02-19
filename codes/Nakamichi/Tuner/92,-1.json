@@ -1,0 +1,105 @@
+{
+    "display_name": "Nakamichi Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "4",
+                "name": "TUNER SEEK UP"
+            },
+            {
+                "address": "5",
+                "name": "TUNER SEEK DOWN"
+            },
+            {
+                "address": "6",
+                "name": "TUNER AM"
+            },
+            {
+                "address": "7",
+                "name": "TUNER FM"
+            },
+            {
+                "address": "12",
+                "name": "TUNER PRESET UP"
+            },
+            {
+                "address": "13",
+                "name": "TUNER PRESET DOWN"
+            },
+            {
+                "address": "14",
+                "name": "TAPE REC"
+            },
+            {
+                "address": "15",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "TAPE PAUSE "
+            },
+            {
+                "address": "17",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "44",
+                "name": "PHONO"
+            },
+            {
+                "address": "45",
+                "name": "CD"
+            },
+            {
+                "address": "46",
+                "name": "TUNER"
+            },
+            {
+                "address": "47",
+                "name": "VIDEO"
+            },
+            {
+                "address": "49",
+                "name": "TAPE"
+            },
+            {
+                "address": "54",
+                "name": "TAPE FFWD >>"
+            },
+            {
+                "address": "55",
+                "name": "TAPE REW <<"
+            },
+            {
+                "address": "56",
+                "name": "TAPE CUE"
+            },
+            {
+                "address": "58",
+                "name": "TAPE PLAY REV <"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

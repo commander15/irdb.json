@@ -1,0 +1,157 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "AM/FM"
+            },
+            {
+                "address": "20",
+                "name": "SF: BAND"
+            },
+            {
+                "address": "20",
+                "name": "BASS"
+            },
+            {
+                "address": "2c",
+                "name": "SF: EQ"
+            },
+            {
+                "address": "2c",
+                "name": "EQ"
+            },
+            {
+                "address": "2c",
+                "name": "EQ/TONE ON/OFF"
+            },
+            {
+                "address": "36",
+                "name": "MODE +"
+            },
+            {
+                "address": "36",
+                "name": "SF: MODE"
+            },
+            {
+                "address": "36",
+                "name": "SF MODE >"
+            },
+            {
+                "address": "36",
+                "name": "SOUND FIELD MODE"
+            },
+            {
+                "address": "36",
+                "name": "MODE"
+            },
+            {
+                "address": "36",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "36",
+                "name": "NOTHING"
+            },
+            {
+                "address": "37",
+                "name": "MODE -"
+            },
+            {
+                "address": "37",
+                "name": "SF MODE <"
+            },
+            {
+                "address": "4a",
+                "name": "SF: TEST TONE"
+            },
+            {
+                "address": "4a",
+                "name": "TEST"
+            },
+            {
+                "address": "4a",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "4e",
+                "name": "REAR LEVEL (+)"
+            },
+            {
+                "address": "4e",
+                "name": "REAR LEVEL +"
+            },
+            {
+                "address": "4e",
+                "name": "SPEAKER REAR +"
+            },
+            {
+                "address": "4f",
+                "name": "REAR DN"
+            },
+            {
+                "address": "4f",
+                "name": "REAR LEVEL (-)"
+            },
+            {
+                "address": "4f",
+                "name": "REAR LEVEL -"
+            },
+            {
+                "address": "4f",
+                "name": "SPEAKER REAR -"
+            },
+            {
+                "address": "54",
+                "name": "CNTR UP"
+            },
+            {
+                "address": "54",
+                "name": "CENTER LEVEL +"
+            },
+            {
+                "address": "54",
+                "name": "CENTER LEVEL (+)"
+            },
+            {
+                "address": "54",
+                "name": "SPEAKER CENTER +"
+            },
+            {
+                "address": "55",
+                "name": "CNTR DN"
+            },
+            {
+                "address": "55",
+                "name": "CENTER LEVEL -"
+            },
+            {
+                "address": "55",
+                "name": "CENTER LEVEL (-)"
+            },
+            {
+                "address": "55",
+                "name": "SPEAKER CENTER -"
+            },
+            {
+                "address": "7c",
+                "name": "SOUNDFIELD GENRE"
+            },
+            {
+                "address": "7c",
+                "name": "GENRE"
+            },
+            {
+                "address": "7e",
+                "name": "SF: USER/PRE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

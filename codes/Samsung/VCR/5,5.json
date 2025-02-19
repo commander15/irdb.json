@@ -1,0 +1,381 @@
+{
+    "display_name": "Samsung VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "F. ADV/SKIP"
+            },
+            {
+                "address": "0",
+                "name": "SKIP"
+            },
+            {
+                "address": "1",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "1",
+                "name": "TV / VCR"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "1"
+            },
+            {
+                "address": "5",
+                "name": "2"
+            },
+            {
+                "address": "6",
+                "name": "3"
+            },
+            {
+                "address": "8",
+                "name": "4"
+            },
+            {
+                "address": "9",
+                "name": "5"
+            },
+            {
+                "address": "a",
+                "name": "6"
+            },
+            {
+                "address": "c",
+                "name": "7"
+            },
+            {
+                "address": "d",
+                "name": "8"
+            },
+            {
+                "address": "d",
+                "name": "<< 8"
+            },
+            {
+                "address": "e",
+                "name": "9"
+            },
+            {
+                "address": "10",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "10",
+                "name": "CH -"
+            },
+            {
+                "address": "11",
+                "name": "0"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "12",
+                "name": "CH +"
+            },
+            {
+                "address": "13",
+                "name": "SLOW +"
+            },
+            {
+                "address": "13",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "14",
+                "name": "RECORD"
+            },
+            {
+                "address": "14",
+                "name": "RECORD / OTR"
+            },
+            {
+                "address": "15",
+                "name": "STOP"
+            },
+            {
+                "address": "16",
+                "name": "PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "SLOW -"
+            },
+            {
+                "address": "17",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "18",
+                "name": "REWIND"
+            },
+            {
+                "address": "18",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "19",
+                "name": "PLAY"
+            },
+            {
+                "address": "1a",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "1a",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "1d",
+                "name": "CLEAR/RESET"
+            },
+            {
+                "address": "1d",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1f",
+                "name": "MENU"
+            },
+            {
+                "address": "1f",
+                "name": "PROG"
+            },
+            {
+                "address": "20",
+                "name": "EJECT"
+            },
+            {
+                "address": "21",
+                "name": "AUTO"
+            },
+            {
+                "address": "22",
+                "name": "AUDIO"
+            },
+            {
+                "address": "24",
+                "name": "INPUT"
+            },
+            {
+                "address": "24",
+                "name": "LINE IN"
+            },
+            {
+                "address": "26",
+                "name": "100"
+            },
+            {
+                "address": "2b",
+                "name": "INDEX"
+            },
+            {
+                "address": "2c",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "2d",
+                "name": "TRACKING -"
+            },
+            {
+                "address": "2e",
+                "name": "AUDIO DUB"
+            },
+            {
+                "address": "32",
+                "name": "EJECT"
+            },
+            {
+                "address": "33",
+                "name": "CLOCK/COUNTER"
+            },
+            {
+                "address": "3a",
+                "name": "RECORD SPEED"
+            },
+            {
+                "address": "3a",
+                "name": "SP/SLP"
+            },
+            {
+                "address": "3a",
+                "name": "TAPE SPEED"
+            },
+            {
+                "address": "3c",
+                "name": "AUTO"
+            },
+            {
+                "address": "3c",
+                "name": "AUTO TRACKING"
+            },
+            {
+                "address": "3d",
+                "name": "TIMER"
+            },
+            {
+                "address": "3e",
+                "name": "ART"
+            },
+            {
+                "address": "42",
+                "name": "SHIFT <"
+            },
+            {
+                "address": "43",
+                "name": "SHIFT >"
+            },
+            {
+                "address": "45",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "45",
+                "name": "Q. PRO"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "59",
+                "name": "STROBE"
+            },
+            {
+                "address": "59",
+                "name": "INDEX"
+            },
+            {
+                "address": "5c",
+                "name": "OK"
+            },
+            {
+                "address": "67",
+                "name": "100"
+            },
+            {
+                "address": "6e",
+                "name": "INPUT SYSTEM"
+            },
+            {
+                "address": "6f",
+                "name": "OUTPUT SYSTEM"
+            },
+            {
+                "address": "71",
+                "name": "MONITOR"
+            },
+            {
+                "address": "73",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "75",
+                "name": "PICTURE"
+            },
+            {
+                "address": "76",
+                "name": "+"
+            },
+            {
+                "address": "77",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "78",
+                "name": "-"
+            },
+            {
+                "address": "7a",
+                "name": "DIAL -"
+            },
+            {
+                "address": "7a",
+                "name": "DIAL +"
+            },
+            {
+                "address": "7a",
+                "name": ""
+            },
+            {
+                "address": "7a",
+                "name": "FORWARD 2"
+            },
+            {
+                "address": "7a",
+                "name": "REVERSE 1"
+            },
+            {
+                "address": "7a",
+                "name": "REVERSE 2"
+            },
+            {
+                "address": "7a",
+                "name": "<"
+            },
+            {
+                "address": "7a",
+                "name": ">"
+            },
+            {
+                "address": "7a",
+                "name": "<< 2"
+            },
+            {
+                "address": "7a",
+                "name": ">> 2"
+            },
+            {
+                "address": "7a",
+                "name": ">> 8"
+            },
+            {
+                "address": "7a",
+                "name": "<< 30"
+            },
+            {
+                "address": "7a",
+                "name": ">> 30"
+            },
+            {
+                "address": "7a",
+                "name": "<< 1/2"
+            },
+            {
+                "address": "7a",
+                "name": ">> 1/2"
+            },
+            {
+                "address": "7a",
+                "name": "<< 1/4"
+            },
+            {
+                "address": "7a",
+                "name": ">> 1/4"
+            }
+        ],
+        "device_address": "a0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Samsung",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

@@ -1,0 +1,101 @@
+{
+    "display_name": "Pioneer Unknown_AXD-7306",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "17",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_SLEEP"
+            },
+            {
+                "address": "44",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "4c",
+                "name": "KEY_AUX"
+            },
+            {
+                "address": "72",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "73",
+                "name": "KEY_CANCEL"
+            },
+            {
+                "address": "74",
+                "name": "set"
+            },
+            {
+                "address": "90",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "91",
+                "name": "KEY_NEXT"
+            },
+            {
+                "address": "92",
+                "name": "KEY_PREVIOUS"
+            },
+            {
+                "address": "93",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "94",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "9d",
+                "name": "disp"
+            },
+            {
+                "address": "a0",
+                "name": "KEY_RADIO"
+            },
+            {
+                "address": "a0",
+                "name": "am"
+            },
+            {
+                "address": "a0",
+                "name": "KEY_KPMINUS"
+            },
+            {
+                "address": "a0",
+                "name": "KEY_KPPLUS"
+            },
+            {
+                "address": "a2",
+                "name": "md"
+            },
+            {
+                "address": "ce",
+                "name": "timer"
+            },
+            {
+                "address": "da",
+                "name": "sound"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "Unknown_AXD-7306"
+}

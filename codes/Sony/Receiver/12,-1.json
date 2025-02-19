@@ -1,0 +1,117 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "31",
+                "name": "DBFB"
+            },
+            {
+                "address": "31",
+                "name": "SURROUND BASS BOOST"
+            },
+            {
+                "address": "31",
+                "name": "BASS BOOST"
+            },
+            {
+                "address": "3f",
+                "name": "SF: ON/OFF"
+            },
+            {
+                "address": "3f",
+                "name": "SOUND FIELD ON/OFF"
+            },
+            {
+                "address": "3f",
+                "name": "SOUND FIELD TOGGLE"
+            },
+            {
+                "address": "3f",
+                "name": "SURROUND ON/OFF"
+            },
+            {
+                "address": "42",
+                "name": "REAR LEVEL +"
+            },
+            {
+                "address": "43",
+                "name": "REAR LEVEL -"
+            },
+            {
+                "address": "44",
+                "name": "EFFECT/DELAY"
+            },
+            {
+                "address": "77",
+                "name": "CURSOR MODE"
+            },
+            {
+                "address": "77",
+                "name": "ARROW OK"
+            },
+            {
+                "address": "77",
+                "name": "OK"
+            },
+            {
+                "address": "78",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "78",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "79",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7a",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "7a",
+                "name": "BASS (-)"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "7b",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "7b",
+                "name": "BASS (+)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

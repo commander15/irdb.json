@@ -1,0 +1,361 @@
+{
+    "display_name": "Pioneer CD Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "10"
+            },
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "OUTPUT +"
+            },
+            {
+                "address": "b",
+                "name": "OUTPUT"
+            },
+            {
+                "address": "c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "d",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "d",
+                "name": "PROGRAM PLAY"
+            },
+            {
+                "address": "d",
+                "name": "PGM"
+            },
+            {
+                "address": "e",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "e",
+                "name": "FF"
+            },
+            {
+                "address": "f",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "f",
+                "name": "REW"
+            },
+            {
+                "address": "10",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "10",
+                "name": "SONG UP"
+            },
+            {
+                "address": "10",
+                "name": "TRACK >>"
+            },
+            {
+                "address": "10",
+                "name": "TRACK UP"
+            },
+            {
+                "address": "11",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "11",
+                "name": "SONG DOWN"
+            },
+            {
+                "address": "11",
+                "name": "TRACK <<"
+            },
+            {
+                "address": "11",
+                "name": "TRACK DOWN"
+            },
+            {
+                "address": "16",
+                "name": "STOP"
+            },
+            {
+                "address": "17",
+                "name": "PLAY"
+            },
+            {
+                "address": "18",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1c",
+                "name": "POWER"
+            },
+            {
+                "address": "1c",
+                "name": "STBY"
+            },
+            {
+                "address": "1d",
+                "name": "DISC +"
+            },
+            {
+                "address": "1d",
+                "name": "DISC UP"
+            },
+            {
+                "address": "1e",
+                "name": "DISC 1"
+            },
+            {
+                "address": "1e",
+                "name": "D1"
+            },
+            {
+                "address": "1f",
+                "name": "DISC 2"
+            },
+            {
+                "address": "1f",
+                "name": "D2"
+            },
+            {
+                "address": "40",
+                "name": "TRACK SET"
+            },
+            {
+                "address": "41",
+                "name": "DISC SET"
+            },
+            {
+                "address": "43",
+                "name": "TIME"
+            },
+            {
+                "address": "43",
+                "name": "TIME/CHAR"
+            },
+            {
+                "address": "45",
+                "name": "CLEAR"
+            },
+            {
+                "address": "49",
+                "name": "CHECK"
+            },
+            {
+                "address": "4a",
+                "name": "RANDOM PLAY"
+            },
+            {
+                "address": "4a",
+                "name": "RANDOM"
+            },
+            {
+                "address": "50",
+                "name": "DISC 3"
+            },
+            {
+                "address": "50",
+                "name": "D3"
+            },
+            {
+                "address": "53",
+                "name": "DISC 4"
+            },
+            {
+                "address": "53",
+                "name": "D4"
+            },
+            {
+                "address": "57",
+                "name": "DISC 5"
+            },
+            {
+                "address": "57",
+                "name": "D5"
+            },
+            {
+                "address": "5b",
+                "name": "DISC 6"
+            },
+            {
+                "address": "5b",
+                "name": "D6"
+            },
+            {
+                "address": "5d",
+                "name": "DELAY"
+            },
+            {
+                "address": "5e",
+                "name": "HI LITE SCAN"
+            },
+            {
+                "address": "5e",
+                "name": "HI-LITLE"
+            },
+            {
+                "address": "5e",
+                "name": "HI-LITE"
+            },
+            {
+                "address": "81",
+                "name": ""
+            },
+            {
+                "address": "82",
+                "name": ""
+            },
+            {
+                "address": "83",
+                "name": ""
+            },
+            {
+                "address": "92",
+                "name": ""
+            },
+            {
+                "address": "93",
+                "name": ""
+            },
+            {
+                "address": "94",
+                "name": ""
+            },
+            {
+                "address": "95",
+                "name": ""
+            },
+            {
+                "address": "9b",
+                "name": ""
+            },
+            {
+                "address": "9c",
+                "name": ""
+            },
+            {
+                "address": "c0",
+                "name": "ADLC"
+            },
+            {
+                "address": "c0",
+                "name": "FADER"
+            },
+            {
+                "address": "c0",
+                "name": ""
+            },
+            {
+                "address": "c1",
+                "name": "M1"
+            },
+            {
+                "address": "c1",
+                "name": "M2"
+            },
+            {
+                "address": "c1",
+                "name": "M3"
+            },
+            {
+                "address": "c1",
+                "name": ""
+            },
+            {
+                "address": "c1",
+                "name": "DISC -"
+            },
+            {
+                "address": "c1",
+                "name": "MODE"
+            },
+            {
+                "address": "c1",
+                "name": "DISC DOWN"
+            },
+            {
+                "address": "c1",
+                "name": "TITLE INPUT"
+            },
+            {
+                "address": "c2",
+                "name": "BEST"
+            },
+            {
+                "address": "c2",
+                "name": ""
+            },
+            {
+                "address": "c2",
+                "name": "TITLE DISPLAY"
+            },
+            {
+                "address": "c2",
+                "name": "TITTLE SEARCH"
+            },
+            {
+                "address": "c6",
+                "name": "PREVIOUS"
+            },
+            {
+                "address": "c6",
+                "name": "<CURSOR"
+            },
+            {
+                "address": "c6",
+                "name": "CURSOR>"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Pioneer"
+    },
+    "manufacturer": "Pioneer",
+    "model": "",
+    "name": "",
+    "target": "CD Jukebox"
+}

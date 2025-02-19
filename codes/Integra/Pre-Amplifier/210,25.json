@@ -1,0 +1,133 @@
+{
+    "display_name": "Integra Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c0",
+                "name": "SETUP HOME"
+            },
+            {
+                "address": "c1",
+                "name": "AUDIO BALANCE"
+            },
+            {
+                "address": "c2",
+                "name": "AUDIO COAX/OPT AUTO"
+            },
+            {
+                "address": "c3",
+                "name": "RESOLUTION 1080P/24F"
+            },
+            {
+                "address": "c4",
+                "name": "MODE THX MUSIC"
+            },
+            {
+                "address": "c5",
+                "name": "MODE THX GAMES"
+            },
+            {
+                "address": "c6",
+                "name": "MODE NEURAL CINEMA"
+            },
+            {
+                "address": "c7",
+                "name": "MODE NEURAL MUSIC"
+            },
+            {
+                "address": "c9",
+                "name": "RESOLUTION SOURCE"
+            },
+            {
+                "address": "ca",
+                "name": "RESOLUTION THRU"
+            },
+            {
+                "address": "cb",
+                "name": "RESOLUTION AUTO"
+            },
+            {
+                "address": "cc",
+                "name": "RESOLUTION 480P"
+            },
+            {
+                "address": "cd",
+                "name": "RESOLUTION 720P"
+            },
+            {
+                "address": "ce",
+                "name": "RESOLUTION 1080I"
+            },
+            {
+                "address": "cf",
+                "name": "RESOLUTION 1080P"
+            },
+            {
+                "address": "d0",
+                "name": "AUDIO AUTO"
+            },
+            {
+                "address": "d1",
+                "name": "AUDIO ANALOG"
+            },
+            {
+                "address": "d2",
+                "name": "AUDIO MULTI CHANNEL"
+            },
+            {
+                "address": "d3",
+                "name": "AUDIO HDMI"
+            },
+            {
+                "address": "d4",
+                "name": "MODE PLLX THX MUSIC"
+            },
+            {
+                "address": "d6",
+                "name": "MODE PLLX THX GAMES"
+            },
+            {
+                "address": "d7",
+                "name": "MODE NEO THX GAMES"
+            },
+            {
+                "address": "d7",
+                "name": "MODE NEURAL THX GAME"
+            },
+            {
+                "address": "d8",
+                "name": "MODE PLLX THX CINEMA"
+            },
+            {
+                "address": "da",
+                "name": "MODE THX CINEMA"
+            },
+            {
+                "address": "db",
+                "name": "MODE THX SURR EX"
+            },
+            {
+                "address": "dc",
+                "name": "MODE THX ULTRA2"
+            },
+            {
+                "address": "dd",
+                "name": "MODE THX MUSIC MODE2"
+            },
+            {
+                "address": "de",
+                "name": "MODE THX GAMES MODE2"
+            },
+            {
+                "address": "df",
+                "name": "MODE NEURAL THX SURR"
+            }
+        ],
+        "device_address": "-5c000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

@@ -1,0 +1,77 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "AM"
+            },
+            {
+                "address": "1",
+                "name": "FM"
+            },
+            {
+                "address": "3",
+                "name": "1"
+            },
+            {
+                "address": "4",
+                "name": "2"
+            },
+            {
+                "address": "5",
+                "name": "3"
+            },
+            {
+                "address": "6",
+                "name": "4"
+            },
+            {
+                "address": "7",
+                "name": "5"
+            },
+            {
+                "address": "8",
+                "name": "6"
+            },
+            {
+                "address": "9",
+                "name": "7"
+            },
+            {
+                "address": "a",
+                "name": "8"
+            },
+            {
+                "address": "b",
+                "name": "TUNING UP"
+            },
+            {
+                "address": "c",
+                "name": "TUNING DOWN"
+            },
+            {
+                "address": "14",
+                "name": "PAUSE "
+            },
+            {
+                "address": "40",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "41",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "51",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

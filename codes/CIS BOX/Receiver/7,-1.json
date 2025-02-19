@@ -1,0 +1,21 @@
+{
+    "display_name": "CIS BOX Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "PRESET UP"
+            },
+            {
+                "address": "11",
+                "name": "PRESET DOWN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

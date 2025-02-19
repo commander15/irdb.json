@@ -1,0 +1,157 @@
+{
+    "display_name": "Yamaha DVD",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "1",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "7",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "f",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO MODE"
+            },
+            {
+                "address": "3d",
+                "name": "POWER"
+            },
+            {
+                "address": "48",
+                "name": "SIDE A/B"
+            },
+            {
+                "address": "49",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "49",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "4a",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "80",
+                "name": "MENU"
+            },
+            {
+                "address": "81",
+                "name": "RETURN"
+            },
+            {
+                "address": "82",
+                "name": "ENTER"
+            },
+            {
+                "address": "85",
+                "name": "MENU UP"
+            },
+            {
+                "address": "86",
+                "name": "MENU DOWN"
+            },
+            {
+                "address": "87",
+                "name": "MENU LEFT"
+            },
+            {
+                "address": "88",
+                "name": "MENU RIGHT"
+            },
+            {
+                "address": "8c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "90",
+                "name": "ANGLE"
+            },
+            {
+                "address": "91",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "92",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "94",
+                "name": "SET UP"
+            },
+            {
+                "address": "9b",
+                "name": "TITLE"
+            }
+        ],
+        "device_address": "b0",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DVD"
+}

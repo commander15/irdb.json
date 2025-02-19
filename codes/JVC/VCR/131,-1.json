@@ -1,0 +1,33 @@
+{
+    "display_name": "JVC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "TAPE STOP []"
+            },
+            {
+                "address": "6",
+                "name": "TAPE >>"
+            },
+            {
+                "address": "7",
+                "name": "TAPE <<"
+            },
+            {
+                "address": "c",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "d",
+                "name": "TAPE PAUSE "
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

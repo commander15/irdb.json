@@ -1,0 +1,81 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "31",
+                "name": "REWIND"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "32",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "32",
+                "name": "FWD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "36",
+                "name": "SKIP-"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "37",
+                "name": "SKIP+"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FWD"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            },
+            {
+                "address": "39",
+                "name": "DVR"
+            },
+            {
+                "address": "3a",
+                "name": "PIP"
+            },
+            {
+                "address": "3b",
+                "name": "PIP POSTION"
+            },
+            {
+                "address": "3d",
+                "name": "PIP SAWP"
+            }
+        ],
+        "device_address": "20",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

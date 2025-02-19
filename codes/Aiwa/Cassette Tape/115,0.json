@@ -1,0 +1,141 @@
+{
+    "display_name": "Aiwa Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "DECK1 MS >>"
+            },
+            {
+                "address": "2",
+                "name": "DECK1 MS <<"
+            },
+            {
+                "address": "3",
+                "name": "DECK1 REC MUTE"
+            },
+            {
+                "address": "4",
+                "name": "DECK1 REC"
+            },
+            {
+                "address": "5",
+                "name": "DECK1 PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "DECK1 R.PLAY <"
+            },
+            {
+                "address": "7",
+                "name": "DECK1 PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "MONITOR SOURCE/TAPE"
+            },
+            {
+                "address": "a",
+                "name": "DECK1 STOP []"
+            },
+            {
+                "address": "e",
+                "name": "DECK1"
+            },
+            {
+                "address": "f",
+                "name": "COUNTER RESET"
+            },
+            {
+                "address": "f",
+                "name": "DECK2"
+            },
+            {
+                "address": "10",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "11",
+                "name": "MS/CUE >>"
+            },
+            {
+                "address": "11",
+                "name": "DECK2 MS >>"
+            },
+            {
+                "address": "12",
+                "name": "MS/REVIEW <<"
+            },
+            {
+                "address": "12",
+                "name": "DECK2 MS <<"
+            },
+            {
+                "address": "13",
+                "name": "REC MUTE"
+            },
+            {
+                "address": "13",
+                "name": "DECK2 REC MUTE"
+            },
+            {
+                "address": "14",
+                "name": "REC"
+            },
+            {
+                "address": "14",
+                "name": "DECK2 REC"
+            },
+            {
+                "address": "15",
+                "name": "PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "DECK2 PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "DECK2 R.PLAY <"
+            },
+            {
+                "address": "17",
+                "name": "PAUSE"
+            },
+            {
+                "address": "17",
+                "name": "DECK2 PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "STOP []"
+            },
+            {
+                "address": "1a",
+                "name": "DECK2 STOP []"
+            },
+            {
+                "address": "1b",
+                "name": "COUNTER ZERO RETURN"
+            },
+            {
+                "address": "1c",
+                "name": "NORMAL"
+            },
+            {
+                "address": "1d",
+                "name": "HIGH"
+            },
+            {
+                "address": "1f",
+                "name": "DUAL REC"
+            }
+        ],
+        "device_address": "73",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "Aiwa",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

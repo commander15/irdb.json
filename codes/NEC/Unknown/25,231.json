@@ -1,0 +1,141 @@
+{
+    "display_name": "NEC Unknown",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "[2] CHANNEL ^"
+            },
+            {
+                "address": "1",
+                "name": "[2] CHANNEL V"
+            },
+            {
+                "address": "2",
+                "name": "[2] SLOW +"
+            },
+            {
+                "address": "3",
+                "name": "[2] SLOW -"
+            },
+            {
+                "address": "4",
+                "name": "[2] CANCEL/STOP []"
+            },
+            {
+                "address": "5",
+                "name": "[2] ENTER/PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "[2] REC"
+            },
+            {
+                "address": "8",
+                "name": "[2] POWER"
+            },
+            {
+                "address": "9",
+                "name": "[2] RESET"
+            },
+            {
+                "address": "a",
+                "name": "[2] VCR/TV"
+            },
+            {
+                "address": "c",
+                "name": "[2] FF/SRCH >>"
+            },
+            {
+                "address": "d",
+                "name": "[2] REW/SRCH <<"
+            },
+            {
+                "address": "e",
+                "name": "[2] PAUSE/STILL "
+            },
+            {
+                "address": "10",
+                "name": "[2] 1"
+            },
+            {
+                "address": "11",
+                "name": "[2] 2"
+            },
+            {
+                "address": "12",
+                "name": "[2] 3"
+            },
+            {
+                "address": "13",
+                "name": "[2] 4"
+            },
+            {
+                "address": "14",
+                "name": "[2] 5"
+            },
+            {
+                "address": "15",
+                "name": "[2] 6"
+            },
+            {
+                "address": "16",
+                "name": "[2] 7"
+            },
+            {
+                "address": "17",
+                "name": "[2] 8"
+            },
+            {
+                "address": "18",
+                "name": "[2] 9"
+            },
+            {
+                "address": "1a",
+                "name": "[2] 0"
+            },
+            {
+                "address": "1b",
+                "name": "[2] SP/EP"
+            },
+            {
+                "address": "62",
+                "name": "[2] SEARCH INDEX"
+            },
+            {
+                "address": "72",
+                "name": "[2] TAPE RETURN"
+            },
+            {
+                "address": "75",
+                "name": "[2] INDEX WRITE"
+            },
+            {
+                "address": "76",
+                "name": "[2] INDEX ERASE"
+            },
+            {
+                "address": "84",
+                "name": "[2] ADDRESS"
+            },
+            {
+                "address": "85",
+                "name": "[2] TAPE REMAIN"
+            },
+            {
+                "address": "9d",
+                "name": "[2] SEARCH TIME"
+            },
+            {
+                "address": "ef",
+                "name": "[2] CVC"
+            }
+        ],
+        "device_address": "c80",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "Unknown"
+}

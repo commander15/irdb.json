@@ -1,0 +1,181 @@
+{
+    "display_name": "Mitsubishi DVD",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "9"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "PLAY >"
+            },
+            {
+                "address": "5",
+                "name": "LAST PLAY"
+            },
+            {
+                "address": "8",
+                "name": "2"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "b",
+                "name": "CLEAR"
+            },
+            {
+                "address": "c",
+                "name": "MEMORY"
+            },
+            {
+                "address": "f",
+                "name": "T/C"
+            },
+            {
+                "address": "10",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "STOP []"
+            },
+            {
+                "address": "17",
+                "name": "REPEAT"
+            },
+            {
+                "address": "18",
+                "name": "4"
+            },
+            {
+                "address": "1b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE "
+            },
+            {
+                "address": "1e",
+                "name": "+10"
+            },
+            {
+                "address": "20",
+                "name": "5"
+            },
+            {
+                "address": "24",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "25",
+                "name": "FWD >>"
+            },
+            {
+                "address": "28",
+                "name": "6"
+            },
+            {
+                "address": "2c",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "2d",
+                "name": "REV <<"
+            },
+            {
+                "address": "30",
+                "name": "7"
+            },
+            {
+                "address": "34",
+                "name": "SLOW >"
+            },
+            {
+                "address": "35",
+                "name": "ENTER"
+            },
+            {
+                "address": "36",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "3d",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "3e",
+                "name": "RANDOM"
+            },
+            {
+                "address": "40",
+                "name": "TITLE"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR ^"
+            },
+            {
+                "address": "49",
+                "name": "CURSOR V"
+            },
+            {
+                "address": "50",
+                "name": "AUDIO"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "60",
+                "name": "SET UP"
+            },
+            {
+                "address": "63",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "64",
+                "name": "ANGLE"
+            },
+            {
+                "address": "65",
+                "name": "CURSOR <"
+            },
+            {
+                "address": "67",
+                "name": "SUBTITLE ON OFF"
+            },
+            {
+                "address": "6d",
+                "name": "CURSOR >"
+            },
+            {
+                "address": "6f",
+                "name": "RETURN"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "DVD"
+}

@@ -1,0 +1,45 @@
+{
+    "display_name": "Hitachi Display",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "INPUT"
+            },
+            {
+                "address": "a",
+                "name": "LAST CH"
+            },
+            {
+                "address": "b",
+                "name": "MUTE"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Display"
+}

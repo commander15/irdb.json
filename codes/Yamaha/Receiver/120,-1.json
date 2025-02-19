@@ -1,0 +1,233 @@
+{
+    "display_name": "Yamaha Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "STOP"
+            },
+            {
+                "address": "2",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "3",
+                "name": "FWD"
+            },
+            {
+                "address": "4",
+                "name": "REW"
+            },
+            {
+                "address": "7",
+                "name": "RANDOM"
+            },
+            {
+                "address": "c",
+                "name": "REP"
+            },
+            {
+                "address": "f",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "f",
+                "name": "POWER"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET +"
+            },
+            {
+                "address": "1b",
+                "name": "PRESET UP"
+            },
+            {
+                "address": "1c",
+                "name": "PRESET DN"
+            },
+            {
+                "address": "1c",
+                "name": "PRESET DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "ABCDE"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "49",
+                "name": "VCR 1"
+            },
+            {
+                "address": "4a",
+                "name": "HDMI 1"
+            },
+            {
+                "address": "4a",
+                "name": "DVD"
+            },
+            {
+                "address": "4b",
+                "name": "TUNER"
+            },
+            {
+                "address": "4c",
+                "name": "SUBWOOF +"
+            },
+            {
+                "address": "4d",
+                "name": "SUBWOOF -"
+            },
+            {
+                "address": "4e",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "4f",
+                "name": "SLEEP"
+            },
+            {
+                "address": "50",
+                "name": "STEREO"
+            },
+            {
+                "address": "50",
+                "name": "BEAM-STEREO"
+            },
+            {
+                "address": "55",
+                "name": "LEVEL UP"
+            },
+            {
+                "address": "56",
+                "name": "LEVEL DN"
+            },
+            {
+                "address": "5e",
+                "name": "INPUT"
+            },
+            {
+                "address": "5f",
+                "name": "TEST"
+            },
+            {
+                "address": "84",
+                "name": "BASS/TREBLE"
+            },
+            {
+                "address": "86",
+                "name": "CENTER +"
+            },
+            {
+                "address": "87",
+                "name": "CENTER -"
+            },
+            {
+                "address": "88",
+                "name": "SURROUND +"
+            },
+            {
+                "address": "89",
+                "name": "SURROUND -"
+            },
+            {
+                "address": "8a",
+                "name": "NIGHT"
+            },
+            {
+                "address": "8e",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "8f",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "90",
+                "name": "MATRIX 6.1"
+            },
+            {
+                "address": "99",
+                "name": "DOLBY/DTS"
+            },
+            {
+                "address": "99",
+                "name": "SURROUND"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "SET MENU"
+            },
+            {
+                "address": "9e",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "9f",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "a9",
+                "name": "TUNE DOWN"
+            },
+            {
+                "address": "aa",
+                "name": "TUNE UP"
+            },
+            {
+                "address": "bc",
+                "name": "IPOD"
+            },
+            {
+                "address": "c0",
+                "name": "RETURN"
+            },
+            {
+                "address": "c1",
+                "name": "SELECT"
+            },
+            {
+                "address": "c2",
+                "name": "BEAM-5STAR"
+            },
+            {
+                "address": "c3",
+                "name": "BEAM-LCR SURROUN"
+            },
+            {
+                "address": "c4",
+                "name": "BEAM-LCR"
+            },
+            {
+                "address": "d0",
+                "name": "HDMI 2"
+            },
+            {
+                "address": "de",
+                "name": "AUX"
+            },
+            {
+                "address": "df",
+                "name": "TV"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

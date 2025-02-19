@@ -1,0 +1,49 @@
+{
+    "display_name": "Sony VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "SUPERIMPOSE"
+            },
+            {
+                "address": "18",
+                "name": "STOP"
+            },
+            {
+                "address": "19",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "REW"
+            },
+            {
+                "address": "1c",
+                "name": "FF"
+            },
+            {
+                "address": "1e",
+                "name": "REC"
+            },
+            {
+                "address": "26",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "27",
+                "name": "SEARCH <<"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

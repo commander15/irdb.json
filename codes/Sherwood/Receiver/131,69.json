@@ -1,0 +1,65 @@
+{
+    "display_name": "Sherwood Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "74",
+                "name": ""
+            },
+            {
+                "address": "75",
+                "name": "SURR MODE: HALL"
+            },
+            {
+                "address": "76",
+                "name": "SURR MODE: STADIUM"
+            },
+            {
+                "address": "77",
+                "name": "SURR MODE: CHURCH"
+            },
+            {
+                "address": "79",
+                "name": "OPTICAL 1"
+            },
+            {
+                "address": "7b",
+                "name": "ANALOG"
+            },
+            {
+                "address": "7c",
+                "name": "SURR MODE: TRUE SURR"
+            },
+            {
+                "address": "e1",
+                "name": "DIGITAL INPUT"
+            },
+            {
+                "address": "e3",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "e4",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "e5",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "e6",
+                "name": "VIDEO 4"
+            },
+            {
+                "address": "e7",
+                "name": "VIDEO 5"
+            }
+        ],
+        "device_address": "1060",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Sherwood",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

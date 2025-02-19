@@ -1,0 +1,37 @@
+{
+    "display_name": "Monitor Mobile camera",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "Left Arrow"
+            },
+            {
+                "address": "5",
+                "name": "Enter"
+            },
+            {
+                "address": "6",
+                "name": "Right Arrow"
+            },
+            {
+                "address": "12",
+                "name": "Power"
+            },
+            {
+                "address": "1a",
+                "name": "Mode Select"
+            },
+            {
+                "address": "1b",
+                "name": "Video select"
+            }
+        ],
+        "device_address": "43000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Monitor Mobile",
+    "model": "",
+    "name": "",
+    "target": "camera"
+}

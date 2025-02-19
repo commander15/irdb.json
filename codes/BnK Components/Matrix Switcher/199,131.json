@@ -1,0 +1,37 @@
+{
+    "display_name": "BnK Components Matrix Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "021 OFF"
+            },
+            {
+                "address": "2",
+                "name": "021 ON"
+            },
+            {
+                "address": "3",
+                "name": "021 MUTE"
+            },
+            {
+                "address": "23",
+                "name": "021 VOLUME -"
+            },
+            {
+                "address": "24",
+                "name": "021 VOLUME +"
+            },
+            {
+                "address": "4a",
+                "name": "021 IN 6"
+            }
+        ],
+        "device_address": "638",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "BnK Components",
+    "model": "",
+    "name": "",
+    "target": "Matrix Switcher"
+}

@@ -1,0 +1,85 @@
+{
+    "display_name": "Hitachi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "TV 8"
+            },
+            {
+                "address": "5",
+                "name": "TV 9"
+            },
+            {
+                "address": "6",
+                "name": "TV 0"
+            },
+            {
+                "address": "7",
+                "name": "TV DISPLAY"
+            },
+            {
+                "address": "d",
+                "name": "TV 1"
+            },
+            {
+                "address": "e",
+                "name": "TV 2"
+            },
+            {
+                "address": "f",
+                "name": "TV 3"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "17",
+                "name": "TV OPERATE"
+            },
+            {
+                "address": "18",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "19",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "1a",
+                "name": "TV MENU"
+            },
+            {
+                "address": "1b",
+                "name": "MUTE"
+            },
+            {
+                "address": "1c",
+                "name": "TV 4"
+            },
+            {
+                "address": "1d",
+                "name": "TV 5"
+            },
+            {
+                "address": "1e",
+                "name": "TV 6 (CL)"
+            },
+            {
+                "address": "1f",
+                "name": "TV 7"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

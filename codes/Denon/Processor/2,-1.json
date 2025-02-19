@@ -1,0 +1,273 @@
+{
+    "display_name": "Denon Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "48",
+                "name": "TUNER ZONE 3"
+            },
+            {
+                "address": "49",
+                "name": "PHONO ZONE 3"
+            },
+            {
+                "address": "4a",
+                "name": "CD ZONE 3"
+            },
+            {
+                "address": "4e",
+                "name": "DVD ZONE 3"
+            },
+            {
+                "address": "4f",
+                "name": "VDP ZONE 3"
+            },
+            {
+                "address": "52",
+                "name": "TV ZONE 3"
+            },
+            {
+                "address": "53",
+                "name": "DBS ZONE 3"
+            },
+            {
+                "address": "54",
+                "name": "VCR 1 ZONE 3"
+            },
+            {
+                "address": "55",
+                "name": "VCR2 ZONE 3"
+            },
+            {
+                "address": "57",
+                "name": "V AUX ZONE 3"
+            },
+            {
+                "address": "5b",
+                "name": "TAPE ZONE 3"
+            },
+            {
+                "address": "65",
+                "name": "ZONE 3 VOL -"
+            },
+            {
+                "address": "66",
+                "name": "ZONE 3 VOL +"
+            },
+            {
+                "address": "6a",
+                "name": "SURR PUREDIRECT"
+            },
+            {
+                "address": "6a",
+                "name": "SUR PUREDIRECT MAIN"
+            },
+            {
+                "address": "79",
+                "name": "ZONE 2"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON ZN 2"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON ZONE 2"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF ZN 2"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF ZONE 2"
+            },
+            {
+                "address": "7d",
+                "name": "POWER ON ZONE 3"
+            },
+            {
+                "address": "7e",
+                "name": "POWER OFF ZONE 3"
+            },
+            {
+                "address": "c3",
+                "name": "PHONO"
+            },
+            {
+                "address": "c3",
+                "name": "PHONO MAIN"
+            },
+            {
+                "address": "c4",
+                "name": "CD"
+            },
+            {
+                "address": "c4",
+                "name": "IPOD"
+            },
+            {
+                "address": "c4",
+                "name": "CD MAIN"
+            },
+            {
+                "address": "c5",
+                "name": "TUNER"
+            },
+            {
+                "address": "c5",
+                "name": "TUNER MAIN"
+            },
+            {
+                "address": "c8",
+                "name": "DBS"
+            },
+            {
+                "address": "c8",
+                "name": "DBS MAIN"
+            },
+            {
+                "address": "c9",
+                "name": "CABLE TV"
+            },
+            {
+                "address": "c9",
+                "name": "TV"
+            },
+            {
+                "address": "c9",
+                "name": "TV MAIN"
+            },
+            {
+                "address": "c9",
+                "name": "USER 1"
+            },
+            {
+                "address": "ca",
+                "name": "VDP"
+            },
+            {
+                "address": "ca",
+                "name": "VDP MAIN"
+            },
+            {
+                "address": "cc",
+                "name": "MUSIC SERVER"
+            },
+            {
+                "address": "cc",
+                "name": "VIDEO AUX"
+            },
+            {
+                "address": "cc",
+                "name": "V AUX MAIN"
+            },
+            {
+                "address": "cd",
+                "name": "VCR 1"
+            },
+            {
+                "address": "cd",
+                "name": "VCR 1 MAIN"
+            },
+            {
+                "address": "ce",
+                "name": "VCR 2"
+            },
+            {
+                "address": "ce",
+                "name": "VCR2 MAIN"
+            },
+            {
+                "address": "d2",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "d2",
+                "name": "TAPE MAIN"
+            },
+            {
+                "address": "d8",
+                "name": "VIDEO SELECT"
+            },
+            {
+                "address": "dd",
+                "name": "RIGHT ARROW"
+            },
+            {
+                "address": "df",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "df",
+                "name": "OSD"
+            },
+            {
+                "address": "e0",
+                "name": "SELECT/ENTER"
+            },
+            {
+                "address": "e1",
+                "name": "POWER ON MAIN"
+            },
+            {
+                "address": "e2",
+                "name": "POWER OFF MAIN"
+            },
+            {
+                "address": "e3",
+                "name": "DVD"
+            },
+            {
+                "address": "e3",
+                "name": "DVD MAIN"
+            },
+            {
+                "address": "e4",
+                "name": "SURR STANDARD"
+            },
+            {
+                "address": "e4",
+                "name": "SURR STD MAIN"
+            },
+            {
+                "address": "e6",
+                "name": "SURR SIM MAIN"
+            },
+            {
+                "address": "ea",
+                "name": "TEST"
+            },
+            {
+                "address": "ed",
+                "name": "SPEAKER"
+            },
+            {
+                "address": "f0",
+                "name": "MUTE"
+            },
+            {
+                "address": "f1",
+                "name": "VOLUME + MAIN"
+            },
+            {
+                "address": "f1",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "f2",
+                "name": "VOLUME - MAIN"
+            },
+            {
+                "address": "f2",
+                "name": "VOLUME -"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

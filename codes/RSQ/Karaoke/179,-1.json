@@ -1,0 +1,41 @@
+{
+    "display_name": "RSQ Karaoke",
+    "ir": {
+        "commands": [
+            {
+                "address": "b3",
+                "name": "REPLAY"
+            },
+            {
+                "address": "b5",
+                "name": "ON SCREEN"
+            },
+            {
+                "address": "b6",
+                "name": "VIDEO INTRO"
+            },
+            {
+                "address": "b9",
+                "name": "HIGHLIGHT"
+            },
+            {
+                "address": "ba",
+                "name": "B. MARK"
+            },
+            {
+                "address": "bb",
+                "name": "B. SEARCH"
+            },
+            {
+                "address": "bc",
+                "name": "BOOK DIGEST"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "RSQ",
+    "model": "",
+    "name": "",
+    "target": "Karaoke"
+}

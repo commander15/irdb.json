@@ -1,0 +1,433 @@
+{
+    "display_name": "Fujitsu Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": "ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER - ON"
+            },
+            {
+                "address": "2",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "2",
+                "name": "OFF"
+            },
+            {
+                "address": "2",
+                "name": "POWER - OFF"
+            },
+            {
+                "address": "3",
+                "name": "MODE"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO 1 2 3"
+            },
+            {
+                "address": "5",
+                "name": "INPUT - VIDEO"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "6",
+                "name": "INPUT 1 - COMPOSITE"
+            },
+            {
+                "address": "6",
+                "name": "COMPOSITE"
+            },
+            {
+                "address": "6",
+                "name": "VIDEO"
+            },
+            {
+                "address": "8",
+                "name": "RGB"
+            },
+            {
+                "address": "8",
+                "name": "RGB 1 2"
+            },
+            {
+                "address": "8",
+                "name": "INPUT - RGB"
+            },
+            {
+                "address": "9",
+                "name": "INPUT RGB2 - (D-SUB)"
+            },
+            {
+                "address": "9",
+                "name": "RGB DSUB"
+            },
+            {
+                "address": "9",
+                "name": "RGB2: D-SUB15"
+            },
+            {
+                "address": "a",
+                "name": "RGB-BNC"
+            },
+            {
+                "address": "a",
+                "name": "RGB3: 5 BNC"
+            },
+            {
+                "address": "b",
+                "name": "INPUT 2 - S-VIDEO"
+            },
+            {
+                "address": "b",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "c",
+                "name": "COMPONET"
+            },
+            {
+                "address": "c",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "d",
+                "name": "HIDDEN 1"
+            },
+            {
+                "address": "e",
+                "name": "INPUT RGB1 - DVI"
+            },
+            {
+                "address": "e",
+                "name": "RGB DVI"
+            },
+            {
+                "address": "e",
+                "name": "RGB1: DVI-D"
+            },
+            {
+                "address": "10",
+                "name": "SHIFT 1"
+            },
+            {
+                "address": "20",
+                "name": "VOL +"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME - UP"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "20",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "20",
+                "name": "SHIFT 2"
+            },
+            {
+                "address": "20",
+                "name": "VOL UP"
+            },
+            {
+                "address": "21",
+                "name": "VOL -"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME - DOWN"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "21",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "21",
+                "name": "VOL DN"
+            },
+            {
+                "address": "30",
+                "name": "SHIFT 3"
+            },
+            {
+                "address": "3e",
+                "name": "CUR LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "CURSOR - LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "ADJ LEFT"
+            },
+            {
+                "address": "3e",
+                "name": "CURSOR LF"
+            },
+            {
+                "address": "3f",
+                "name": "CUR RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "CURSOR - RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "ADJ RIGHT"
+            },
+            {
+                "address": "3f",
+                "name": "CURSOR RT"
+            },
+            {
+                "address": "40",
+                "name": "MENU"
+            },
+            {
+                "address": "40",
+                "name": "SHIFT 4"
+            },
+            {
+                "address": "41",
+                "name": "CUR UP"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR - UP"
+            },
+            {
+                "address": "41",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "41",
+                "name": "ADJUST >"
+            },
+            {
+                "address": "41",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "41",
+                "name": "UP"
+            },
+            {
+                "address": "41",
+                "name": "ADJ UP"
+            },
+            {
+                "address": "42",
+                "name": "CUR DOWN"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR - DOWN"
+            },
+            {
+                "address": "42",
+                "name": "ADJUST <"
+            },
+            {
+                "address": "42",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "42",
+                "name": "DOWN"
+            },
+            {
+                "address": "42",
+                "name": "ADJ DOWN"
+            },
+            {
+                "address": "42",
+                "name": "CURSOR DN"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR - ENTER"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "5b",
+                "name": "ENTER"
+            },
+            {
+                "address": "5b",
+                "name": "SET"
+            },
+            {
+                "address": "67",
+                "name": "HIDDEN 4"
+            },
+            {
+                "address": "68",
+                "name": "HIDDEN 6"
+            },
+            {
+                "address": "69",
+                "name": "HIDDEN 5"
+            },
+            {
+                "address": "80",
+                "name": "WIDE"
+            },
+            {
+                "address": "80",
+                "name": "SCRN.MODE-WIDE"
+            },
+            {
+                "address": "80",
+                "name": "ASPECT TOGGLE"
+            },
+            {
+                "address": "81",
+                "name": "ASPECT AUTO"
+            },
+            {
+                "address": "82",
+                "name": "SCRN.MODE-NORMAL"
+            },
+            {
+                "address": "82",
+                "name": "NORMAL"
+            },
+            {
+                "address": "82",
+                "name": "ASPECT NORMAL"
+            },
+            {
+                "address": "83",
+                "name": "SCRN.MODE-WIDE1"
+            },
+            {
+                "address": "83",
+                "name": "SCRN.MODE-WIDE2"
+            },
+            {
+                "address": "83",
+                "name": "WIDE 1"
+            },
+            {
+                "address": "83",
+                "name": "WIDE 2"
+            },
+            {
+                "address": "83",
+                "name": "ASPECT WIDE1"
+            },
+            {
+                "address": "84",
+                "name": "ASPECT WIDE2"
+            },
+            {
+                "address": "85",
+                "name": "SCRN.MODE-ZOOM1"
+            },
+            {
+                "address": "85",
+                "name": "ZOOM1"
+            },
+            {
+                "address": "85",
+                "name": "ASPECT ZOOM1"
+            },
+            {
+                "address": "86",
+                "name": "SCRN.MODE-ZOOM2"
+            },
+            {
+                "address": "86",
+                "name": "ZOOM 2"
+            },
+            {
+                "address": "86",
+                "name": "ASPECT ZOOM2"
+            },
+            {
+                "address": "8a",
+                "name": "HIDDEN 8"
+            },
+            {
+                "address": "e0",
+                "name": "LOCK (HIDDEN)"
+            },
+            {
+                "address": "e0",
+                "name": "HIDDEN 7"
+            },
+            {
+                "address": "fa",
+                "name": "MODE (HIDDEN)"
+            },
+            {
+                "address": "fa",
+                "name": "HIDDEN 3"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

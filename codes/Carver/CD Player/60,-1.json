@@ -1,0 +1,149 @@
+{
+    "display_name": "Carver CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2",
+                "name": "SEARCH REV <<"
+            },
+            {
+                "address": "2",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "3",
+                "name": "SEARCH FFWD >>"
+            },
+            {
+                "address": "3",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "4",
+                "name": "STOP []"
+            },
+            {
+                "address": "5",
+                "name": "MEMO"
+            },
+            {
+                "address": "6",
+                "name": "PLAY/PAUSE >/"
+            },
+            {
+                "address": "7",
+                "name": "SKIP +"
+            },
+            {
+                "address": "8",
+                "name": "SKIP -"
+            },
+            {
+                "address": "9",
+                "name": "INTRO"
+            },
+            {
+                "address": "a",
+                "name": "RANDOM"
+            },
+            {
+                "address": "b",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "c",
+                "name": "CLEAR"
+            },
+            {
+                "address": "11",
+                "name": "1 DISC SELECT"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2 DISC SELECT"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3 DISC SELECT"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4 DISC SELECT"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5 DISC SELECT"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6 DISC SELECT"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7 DISC SELECT"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8 DISC SELECT"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9 DISC SELECT"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "10 DISC SELECT"
+            },
+            {
+                "address": "1a",
+                "name": "10"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

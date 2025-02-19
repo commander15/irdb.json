@@ -1,0 +1,65 @@
+{
+    "display_name": "Integra Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "52",
+                "name": "MODE STRAIGHT DECODE"
+            },
+            {
+                "address": "53",
+                "name": "MODE DOLBY EX"
+            },
+            {
+                "address": "54",
+                "name": "MODE MONO"
+            },
+            {
+                "address": "87",
+                "name": "SETUP VIDEO"
+            },
+            {
+                "address": "8a",
+                "name": "INPUT UNIVERSAL PORT"
+            },
+            {
+                "address": "9e",
+                "name": "INPUT USB (FRONT)"
+            },
+            {
+                "address": "9f",
+                "name": "INPUT USB REAR"
+            },
+            {
+                "address": "d0",
+                "name": "MODE LISTEN MODEMOVI"
+            },
+            {
+                "address": "d2",
+                "name": "MODE LISTEN MODEGAME"
+            },
+            {
+                "address": "d3",
+                "name": "HDMI OUT NO ANALOG"
+            },
+            {
+                "address": "d4",
+                "name": "HDMI OUT MAIN"
+            },
+            {
+                "address": "d5",
+                "name": "HDMI OUT SUB"
+            },
+            {
+                "address": "db",
+                "name": "INPUT SIRIUS"
+            }
+        ],
+        "device_address": "d2000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

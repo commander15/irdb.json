@@ -1,0 +1,53 @@
+{
+    "display_name": "Audiovox Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "0",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "0",
+                "name": "MODE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "a",
+                "device_address": "0",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "0",
+                "name": "DN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d",
+                "device_address": "0",
+                "name": "SAVE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "0",
+                "name": "PWR",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Audiovox",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

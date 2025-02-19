@@ -1,0 +1,93 @@
+{
+    "display_name": "HiFi LY35",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1",
+                "name": "MODE"
+            },
+            {
+                "address": "2",
+                "name": "MUTE"
+            },
+            {
+                "address": "3",
+                "name": "BT"
+            },
+            {
+                "address": "5",
+                "name": "TEL"
+            },
+            {
+                "address": "6",
+                "name": "NEXT"
+            },
+            {
+                "address": "7",
+                "name": "REP"
+            },
+            {
+                "address": "9",
+                "name": "FASTFORWARD"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "b",
+                "name": "TX"
+            },
+            {
+                "address": "c",
+                "name": "PREV"
+            },
+            {
+                "address": "d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "e",
+                "name": "OPT"
+            },
+            {
+                "address": "f",
+                "name": "REWIND"
+            },
+            {
+                "address": "10",
+                "name": "RX"
+            },
+            {
+                "address": "11",
+                "name": "USB"
+            },
+            {
+                "address": "12",
+                "name": "AUX"
+            },
+            {
+                "address": "13",
+                "name": "EQ"
+            },
+            {
+                "address": "16",
+                "name": "COA"
+            },
+            {
+                "address": "17",
+                "name": "TF"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "HiFi",
+    "model": "",
+    "name": "",
+    "target": "LY35"
+}

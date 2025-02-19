@@ -1,0 +1,77 @@
+{
+    "display_name": "Griffin iPod",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "1",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2",
+                "name": "PREVIOUS TRACK"
+            },
+            {
+                "address": "3",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "5",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "6",
+                "name": "PAGE -"
+            },
+            {
+                "address": "7",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "8",
+                "name": "NEXT TRACK"
+            },
+            {
+                "address": "9",
+                "name": "VIDEO"
+            },
+            {
+                "address": "a",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "b",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "c",
+                "name": "PAGE +"
+            },
+            {
+                "address": "f",
+                "name": "SETTINGS"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "18",
+                "name": "MENU"
+            },
+            {
+                "address": "1f",
+                "name": "POWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Griffin",
+    "model": "",
+    "name": "",
+    "target": "iPod"
+}

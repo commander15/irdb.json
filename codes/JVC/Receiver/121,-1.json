@@ -1,0 +1,37 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "CD PLAY >"
+            },
+            {
+                "address": "4",
+                "name": "CD CHAPTER <<"
+            },
+            {
+                "address": "5",
+                "name": "CD SEARCH <<"
+            },
+            {
+                "address": "6",
+                "name": "CD SEARCH >>"
+            },
+            {
+                "address": "7",
+                "name": "CD CHAPTER >>"
+            },
+            {
+                "address": "56",
+                "name": "CD STOP []"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,401 @@
+{
+    "display_name": "Hitachi Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "RGB1"
+            },
+            {
+                "address": "10",
+                "name": "PC"
+            },
+            {
+                "address": "11",
+                "name": "RGB2"
+            },
+            {
+                "address": "12",
+                "name": "DVI"
+            },
+            {
+                "address": "12",
+                "name": "HDMI"
+            },
+            {
+                "address": "13",
+                "name": "COMPOSITE VIDEO"
+            },
+            {
+                "address": "13",
+                "name": "VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "S VIDEO"
+            },
+            {
+                "address": "14",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "15",
+                "name": "COMPONENT VIDEO 1"
+            },
+            {
+                "address": "15",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "16",
+                "name": "WIRELESS"
+            },
+            {
+                "address": "17",
+                "name": "STANDBY/ON"
+            },
+            {
+                "address": "17",
+                "name": "STANDBY / ON"
+            },
+            {
+                "address": "17",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "RGB"
+            },
+            {
+                "address": "19",
+                "name": "VIDEO"
+            },
+            {
+                "address": "1a",
+                "name": "SEARCH"
+            },
+            {
+                "address": "1a",
+                "name": "ONE TOUCH"
+            },
+            {
+                "address": "1b",
+                "name": "COMPONENT VIDEO2"
+            },
+            {
+                "address": "1d",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1e",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "20",
+                "name": "MENU"
+            },
+            {
+                "address": "21",
+                "name": "ENTER"
+            },
+            {
+                "address": "21",
+                "name": "MENU SELECT"
+            },
+            {
+                "address": "22",
+                "name": "RESET"
+            },
+            {
+                "address": "24",
+                "name": "AUTO"
+            },
+            {
+                "address": "28",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "28",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "2a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "2a",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "2c",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "2c",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "2e",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "2e",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "30",
+                "name": "POSITION"
+            },
+            {
+                "address": "40",
+                "name": "TIMER"
+            },
+            {
+                "address": "41",
+                "name": "BLANK"
+            },
+            {
+                "address": "50",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "50",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "51",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "51",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "52",
+                "name": "MUTE"
+            },
+            {
+                "address": "52",
+                "name": "MUTE ON/OFF"
+            },
+            {
+                "address": "53",
+                "name": "VOLUME ON"
+            },
+            {
+                "address": "53",
+                "name": "VOLUME"
+            },
+            {
+                "address": "60",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "61",
+                "name": "ZOOM -"
+            },
+            {
+                "address": "62",
+                "name": "FOCUS +"
+            },
+            {
+                "address": "63",
+                "name": "FOCUS -"
+            },
+            {
+                "address": "6a",
+                "name": "LENS SHIFT +"
+            },
+            {
+                "address": "6b",
+                "name": "LENS SHIFT -"
+            },
+            {
+                "address": "6d",
+                "name": "IRIS"
+            },
+            {
+                "address": "72",
+                "name": "BRIGHT +"
+            },
+            {
+                "address": "72",
+                "name": "BRIGHTNESS +"
+            },
+            {
+                "address": "73",
+                "name": "BRIGHT -"
+            },
+            {
+                "address": "73",
+                "name": "BRIGHTNESS -"
+            },
+            {
+                "address": "74",
+                "name": "CONTRAST +"
+            },
+            {
+                "address": "75",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "76",
+                "name": "COLOR +"
+            },
+            {
+                "address": "77",
+                "name": "COLOR -"
+            },
+            {
+                "address": "79",
+                "name": "C. TEMP."
+            },
+            {
+                "address": "7a",
+                "name": "ASPECT"
+            },
+            {
+                "address": "7b",
+                "name": "GAMMA"
+            },
+            {
+                "address": "7c",
+                "name": "GAMMA -1"
+            },
+            {
+                "address": "7d",
+                "name": "GAMMA -2"
+            },
+            {
+                "address": "7e",
+                "name": "GAMMA -3"
+            },
+            {
+                "address": "7f",
+                "name": "GAMMA -4"
+            },
+            {
+                "address": "b0",
+                "name": "MAGNIFY ON"
+            },
+            {
+                "address": "b1",
+                "name": "MAGNIFY OFF"
+            },
+            {
+                "address": "b1",
+                "name": "MAGNIFY +"
+            },
+            {
+                "address": "b2",
+                "name": "MAGNIFY -"
+            },
+            {
+                "address": "b3",
+                "name": "MAGNIFY +"
+            },
+            {
+                "address": "b3",
+                "name": "MAGNIFY OFF"
+            },
+            {
+                "address": "b4",
+                "name": "FREEZE"
+            },
+            {
+                "address": "b5",
+                "name": "PINP"
+            },
+            {
+                "address": "b6",
+                "name": "KEYSTONE"
+            },
+            {
+                "address": "bb",
+                "name": "LIGHT"
+            },
+            {
+                "address": "c0",
+                "name": "VIDEO MEMORY 1"
+            },
+            {
+                "address": "c1",
+                "name": "VIDEO MEMORY 2"
+            },
+            {
+                "address": "c2",
+                "name": "VIDEO MEMORY 3"
+            },
+            {
+                "address": "c3",
+                "name": "VIDEO MEMORY 4"
+            },
+            {
+                "address": "cc",
+                "name": "OPT BLACK"
+            },
+            {
+                "address": "cc",
+                "name": "BLACK"
+            },
+            {
+                "address": "cd",
+                "name": "PICTURE MODE"
+            },
+            {
+                "address": "cd",
+                "name": "MODE"
+            },
+            {
+                "address": "ce",
+                "name": "MEMORY"
+            },
+            {
+                "address": "d0",
+                "name": "PC - P_UP"
+            },
+            {
+                "address": "d0",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "d1",
+                "name": "PC - P_DOWN"
+            },
+            {
+                "address": "d1",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "d2",
+                "name": "PC - F5 (SLIDE SHOW)"
+            },
+            {
+                "address": "d4",
+                "name": "PC - ESCAPE"
+            },
+            {
+                "address": "d4",
+                "name": "ESC"
+            },
+            {
+                "address": "d5",
+                "name": "PC - HOME"
+            },
+            {
+                "address": "d6",
+                "name": "PC - END"
+            }
+        ],
+        "device_address": "10e0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

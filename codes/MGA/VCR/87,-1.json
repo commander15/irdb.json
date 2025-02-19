@@ -1,0 +1,125 @@
+{
+    "display_name": "MGA VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "2"
+            },
+            {
+                "address": "1",
+                "name": "10"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "PLAY"
+            },
+            {
+                "address": "5",
+                "name": "VIDEO/TV"
+            },
+            {
+                "address": "6",
+                "name": "SLOW PLAY"
+            },
+            {
+                "address": "8",
+                "name": "3"
+            },
+            {
+                "address": "9",
+                "name": "11"
+            },
+            {
+                "address": "c",
+                "name": "RECORD"
+            },
+            {
+                "address": "e",
+                "name": "SLOW MOTION +"
+            },
+            {
+                "address": "10",
+                "name": "4"
+            },
+            {
+                "address": "11",
+                "name": "12"
+            },
+            {
+                "address": "14",
+                "name": "STOP"
+            },
+            {
+                "address": "16",
+                "name": "SLOW MOTION -"
+            },
+            {
+                "address": "18",
+                "name": "5"
+            },
+            {
+                "address": "19",
+                "name": "13"
+            },
+            {
+                "address": "1c",
+                "name": "PAUSE"
+            },
+            {
+                "address": "20",
+                "name": "6"
+            },
+            {
+                "address": "21",
+                "name": "U1"
+            },
+            {
+                "address": "24",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "28",
+                "name": "7"
+            },
+            {
+                "address": "29",
+                "name": "U2"
+            },
+            {
+                "address": "2c",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "30",
+                "name": "8"
+            },
+            {
+                "address": "31",
+                "name": "U3"
+            },
+            {
+                "address": "34",
+                "name": "FF ADVANCE"
+            },
+            {
+                "address": "38",
+                "name": "9"
+            },
+            {
+                "address": "39",
+                "name": "U4"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "MGA",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

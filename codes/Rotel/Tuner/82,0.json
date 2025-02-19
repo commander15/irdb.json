@@ -1,0 +1,85 @@
+{
+    "display_name": "Rotel Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STANDBY"
+            },
+            {
+                "address": "2",
+                "name": "AUTO TUNING"
+            },
+            {
+                "address": "3",
+                "name": "BAND"
+            },
+            {
+                "address": "f",
+                "name": "1"
+            },
+            {
+                "address": "10",
+                "name": "2"
+            },
+            {
+                "address": "11",
+                "name": "3"
+            },
+            {
+                "address": "12",
+                "name": "4"
+            },
+            {
+                "address": "13",
+                "name": "5"
+            },
+            {
+                "address": "14",
+                "name": "6"
+            },
+            {
+                "address": "15",
+                "name": "7"
+            },
+            {
+                "address": "16",
+                "name": "+10"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "10"
+            },
+            {
+                "address": "1a",
+                "name": "TUNING -"
+            },
+            {
+                "address": "1a",
+                "name": "TUNE-"
+            },
+            {
+                "address": "1b",
+                "name": "TUNING +"
+            },
+            {
+                "address": "1b",
+                "name": "TUNE+"
+            }
+        ],
+        "device_address": "52",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "Rotel",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

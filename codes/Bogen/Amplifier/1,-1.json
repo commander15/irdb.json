@@ -1,0 +1,97 @@
+{
+    "display_name": "Bogen Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "4",
+                "name": "MIC A"
+            },
+            {
+                "address": "5",
+                "name": "MIC B"
+            },
+            {
+                "address": "7",
+                "name": "TREB"
+            },
+            {
+                "address": "8",
+                "name": "AUX A"
+            },
+            {
+                "address": "9",
+                "name": "AUX B"
+            },
+            {
+                "address": "a",
+                "name": "AUX C"
+            },
+            {
+                "address": "b",
+                "name": "BASS"
+            },
+            {
+                "address": "c",
+                "name": "AMP 1"
+            },
+            {
+                "address": "d",
+                "name": "AMP 2"
+            },
+            {
+                "address": "e",
+                "name": "AMP 3"
+            },
+            {
+                "address": "f",
+                "name": "AUX D"
+            },
+            {
+                "address": "13",
+                "name": "AUTO"
+            },
+            {
+                "address": "14",
+                "name": "BACK"
+            },
+            {
+                "address": "15",
+                "name": "NEXT"
+            },
+            {
+                "address": "17",
+                "name": "^"
+            },
+            {
+                "address": "18",
+                "name": "ENT"
+            },
+            {
+                "address": "19",
+                "name": "EXIT"
+            },
+            {
+                "address": "1a",
+                "name": "PROG"
+            },
+            {
+                "address": "1b",
+                "name": "V"
+            },
+            {
+                "address": "1d",
+                "name": "VOL"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Bogen",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

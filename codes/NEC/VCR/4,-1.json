@@ -1,0 +1,157 @@
+{
+    "display_name": "NEC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "0",
+                "name": "TV CH ^"
+            },
+            {
+                "address": "1",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "1",
+                "name": "TV CH V"
+            },
+            {
+                "address": "2",
+                "name": "TV VOLUME ^"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "2",
+                "name": "TV VOL ^"
+            },
+            {
+                "address": "3",
+                "name": "TV VOLUME V"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "3",
+                "name": "TV VOL V"
+            },
+            {
+                "address": "8",
+                "name": "TV POWER"
+            },
+            {
+                "address": "9",
+                "name": "TV TV/VIDEO"
+            },
+            {
+                "address": "9",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "a",
+                "name": "TV MUTE"
+            },
+            {
+                "address": "a",
+                "name": "MUTE"
+            },
+            {
+                "address": "b",
+                "name": "TV ANT/AUX"
+            },
+            {
+                "address": "10",
+                "name": "TV 0"
+            },
+            {
+                "address": "11",
+                "name": "TV 1"
+            },
+            {
+                "address": "11",
+                "name": "TV 1 (AM/SUN)"
+            },
+            {
+                "address": "12",
+                "name": "TV 2"
+            },
+            {
+                "address": "12",
+                "name": "TV 2 (PM/MON)"
+            },
+            {
+                "address": "13",
+                "name": "TV 3"
+            },
+            {
+                "address": "13",
+                "name": "TV 3 (TUE)"
+            },
+            {
+                "address": "14",
+                "name": "TV 4"
+            },
+            {
+                "address": "14",
+                "name": "TV 4 (WED)"
+            },
+            {
+                "address": "15",
+                "name": "TV 5"
+            },
+            {
+                "address": "15",
+                "name": "TV 5 (THU)"
+            },
+            {
+                "address": "16",
+                "name": "TV 6"
+            },
+            {
+                "address": "16",
+                "name": "TV 6 (FRI)"
+            },
+            {
+                "address": "17",
+                "name": "TV 7"
+            },
+            {
+                "address": "17",
+                "name": "TV 7 (SAT)"
+            },
+            {
+                "address": "18",
+                "name": "TV 8"
+            },
+            {
+                "address": "19",
+                "name": "TV 9"
+            },
+            {
+                "address": "1a",
+                "name": "TV TIMER"
+            },
+            {
+                "address": "1b",
+                "name": "TV RECALL"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

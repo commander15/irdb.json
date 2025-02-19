@@ -1,0 +1,37 @@
+{
+    "display_name": "Hitachi Cable Box",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "AVX"
+            },
+            {
+                "address": "a",
+                "name": "LST-CH"
+            },
+            {
+                "address": "b",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "RECALL"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME V"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "Cable Box"
+}

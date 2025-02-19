@@ -1,0 +1,189 @@
+{
+    "display_name": "Denon Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1b",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1c",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "1e",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "1f",
+                "name": "ENTER"
+            },
+            {
+                "address": "22",
+                "name": "RETURN"
+            },
+            {
+                "address": "23",
+                "name": "MENU"
+            },
+            {
+                "address": "60",
+                "name": "TUNER XM 1"
+            },
+            {
+                "address": "61",
+                "name": "TUNER XM 2"
+            },
+            {
+                "address": "62",
+                "name": "TUNER XM 3"
+            },
+            {
+                "address": "63",
+                "name": "TUNER XM 4"
+            },
+            {
+                "address": "64",
+                "name": "TUNER XM 5"
+            },
+            {
+                "address": "65",
+                "name": "TUNER XM 6"
+            },
+            {
+                "address": "66",
+                "name": "TUNER XM 7"
+            },
+            {
+                "address": "67",
+                "name": "TUNER XM 8"
+            },
+            {
+                "address": "68",
+                "name": "TUNER XM 9"
+            },
+            {
+                "address": "69",
+                "name": "TUNER XM 0"
+            },
+            {
+                "address": "172",
+                "name": "Z3 MUTE"
+            },
+            {
+                "address": "172",
+                "name": "MUTE"
+            },
+            {
+                "address": "285",
+                "name": "STATUS REQUEST"
+            },
+            {
+                "address": "2c7",
+                "name": "AUX ZONE 3"
+            },
+            {
+                "address": "2c7",
+                "name": "Z3 INP AUX"
+            },
+            {
+                "address": "2c7",
+                "name": "TOGGLE NET/USB"
+            },
+            {
+                "address": "2ca",
+                "name": "INPUT XM"
+            },
+            {
+                "address": "2cb",
+                "name": "INPUT HD RADIO"
+            },
+            {
+                "address": "2cc",
+                "name": "INPUT NET"
+            },
+            {
+                "address": "2cd",
+                "name": "INPUT IPOD"
+            },
+            {
+                "address": "2ce",
+                "name": "INPUT USB"
+            },
+            {
+                "address": "2dc",
+                "name": "TOGGLE DVD/HDP"
+            },
+            {
+                "address": "2dd",
+                "name": "Z3 INP VCR 1/2"
+            },
+            {
+                "address": "2de",
+                "name": "Z3 INP VCR 3/4"
+            },
+            {
+                "address": "2df",
+                "name": "TOGGLE VCR/DVR"
+            },
+            {
+                "address": "3bc",
+                "name": "Z3 REPEAT"
+            },
+            {
+                "address": "3bd",
+                "name": "Z3 RANDOM"
+            },
+            {
+                "address": "3be",
+                "name": "Z3 USB DIR. PLAY"
+            },
+            {
+                "address": "3bf",
+                "name": "Z3 FAVORITE DIR.PLAY"
+            },
+            {
+                "address": "3cc",
+                "name": "Z3 PRESET CH+"
+            },
+            {
+                "address": "3cd",
+                "name": "Z3 PRESET CH-"
+            },
+            {
+                "address": "3ce",
+                "name": "Z3 PRESET SHIFT"
+            },
+            {
+                "address": "3d7",
+                "name": "Z3 SEARCH (RDS)"
+            },
+            {
+                "address": "3e0",
+                "name": "Z3 PLAY/PAUSE"
+            },
+            {
+                "address": "3e1",
+                "name": "Z3 STOP"
+            },
+            {
+                "address": "3e3",
+                "name": "Z3 SKIP/TUNE-"
+            },
+            {
+                "address": "3e4",
+                "name": "Z3 SKIP/TUNE+"
+            }
+        ],
+        "device_address": "80",
+        "protocol": "Denon-K"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

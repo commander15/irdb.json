@@ -1,0 +1,61 @@
+{
+    "display_name": "Madrigal CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "33",
+                "name": "AMPLIFIER ON"
+            },
+            {
+                "address": "34",
+                "name": "RECORD OFF"
+            },
+            {
+                "address": "35",
+                "name": "RECORD ON"
+            },
+            {
+                "address": "36",
+                "name": "REGULAR POLARITY"
+            },
+            {
+                "address": "37",
+                "name": "INVERT POLARITY"
+            },
+            {
+                "address": "38",
+                "name": "HALF INTENSITY"
+            },
+            {
+                "address": "39",
+                "name": "FULL INTENSITY"
+            },
+            {
+                "address": "3a",
+                "name": "RECORD MODE"
+            },
+            {
+                "address": "3b",
+                "name": "MONITOR MODE"
+            },
+            {
+                "address": "3c",
+                "name": "OPERATE"
+            },
+            {
+                "address": "3d",
+                "name": "STANDBY"
+            },
+            {
+                "address": "3e",
+                "name": "MUTE (DISCREET)"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "Madrigal",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

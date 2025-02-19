@@ -1,0 +1,61 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "INFO"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "12",
+                "name": "CANCEL"
+            },
+            {
+                "address": "14",
+                "name": "GUIDE"
+            },
+            {
+                "address": "15",
+                "name": "MUTE"
+            },
+            {
+                "address": "18",
+                "name": "BROWSE"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            },
+            {
+                "address": "1f",
+                "name": "RECORD"
+            },
+            {
+                "address": "22",
+                "name": "PAGE +"
+            },
+            {
+                "address": "23",
+                "name": "PAGE -"
+            },
+            {
+                "address": "2c",
+                "name": "AUX"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            }
+        ],
+        "device_address": "18",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

@@ -1,0 +1,101 @@
+{
+    "display_name": "Aragon Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "<<"
+            },
+            {
+                "address": "2",
+                "name": ">>"
+            },
+            {
+                "address": "3",
+                "name": "DTS MODE: MOVIE"
+            },
+            {
+                "address": "4",
+                "name": "DTS MODE: MUSIC"
+            },
+            {
+                "address": "5",
+                "name": "EXIT SETUP MENU"
+            },
+            {
+                "address": "11",
+                "name": "PL: DIMENSION -"
+            },
+            {
+                "address": "12",
+                "name": "PL: DIMENSION +"
+            },
+            {
+                "address": "19",
+                "name": "DD: COMPR: LOW"
+            },
+            {
+                "address": "1a",
+                "name": "DD: COMPR: MEDIUM"
+            },
+            {
+                "address": "1c",
+                "name": "DD: COMPR: OFF"
+            },
+            {
+                "address": "1d",
+                "name": "DD: COMPR: NIGHT"
+            },
+            {
+                "address": "1e",
+                "name": "DISPLAY ON"
+            },
+            {
+                "address": "1f",
+                "name": "DISPLAY OFF"
+            },
+            {
+                "address": "20",
+                "name": "LIGHT ON"
+            },
+            {
+                "address": "21",
+                "name": "LIGHT OFF"
+            },
+            {
+                "address": "22",
+                "name": "LIGHT DIM"
+            },
+            {
+                "address": "24",
+                "name": "THX: ASA MODE:MUSIC"
+            },
+            {
+                "address": "25",
+                "name": "THX: ASA MODE:OFF"
+            },
+            {
+                "address": "26",
+                "name": "THX: EX MODE: ON"
+            },
+            {
+                "address": "27",
+                "name": "THX: EX MODE: OFF"
+            },
+            {
+                "address": "28",
+                "name": "THX: EX MODE: AUTO"
+            },
+            {
+                "address": "29",
+                "name": "THX: ASA MODE:CINEMA"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Aragon",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

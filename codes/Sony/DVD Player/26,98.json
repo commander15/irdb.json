@@ -1,0 +1,165 @@
+{
+    "display_name": "Sony DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "14",
+                "name": "STEP>"
+            },
+            {
+                "address": "20",
+                "name": "AUDIO"
+            },
+            {
+                "address": "20",
+                "name": "FILE"
+            },
+            {
+                "address": "20",
+                "name": "AUDIO / FILE"
+            },
+            {
+                "address": "21",
+                "name": "ANGLE"
+            },
+            {
+                "address": "21",
+                "name": "SORT"
+            },
+            {
+                "address": "21",
+                "name": "ANGLE / SORT"
+            },
+            {
+                "address": "22",
+                "name": "EDIT"
+            },
+            {
+                "address": "22",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "22",
+                "name": "SUBTITLE / EDIT"
+            },
+            {
+                "address": "3d",
+                "name": "DISC -"
+            },
+            {
+                "address": "3d",
+                "name": "DISC SKIP --"
+            },
+            {
+                "address": "3d",
+                "name": "DISC SKIP -"
+            },
+            {
+                "address": "3e",
+                "name": "DISC +"
+            },
+            {
+                "address": "3e",
+                "name": "DISC SKIP"
+            },
+            {
+                "address": "3e",
+                "name": "DISC SKIP +"
+            },
+            {
+                "address": "3f",
+                "name": "FLIP"
+            },
+            {
+                "address": "40",
+                "name": "FOLDER (ALL)"
+            },
+            {
+                "address": "40",
+                "name": "FOLDER .ALL"
+            },
+            {
+                "address": "40",
+                "name": "ALL"
+            },
+            {
+                "address": "40",
+                "name": "FOLDER ALL"
+            },
+            {
+                "address": "41",
+                "name": "DVD FOLDER"
+            },
+            {
+                "address": "41",
+                "name": "FOLDER .DVD"
+            },
+            {
+                "address": "41",
+                "name": "DVD"
+            },
+            {
+                "address": "41",
+                "name": "FOLDER DVD"
+            },
+            {
+                "address": "42",
+                "name": "CD FOLDER"
+            },
+            {
+                "address": "42",
+                "name": "FOLDER .CD"
+            },
+            {
+                "address": "42",
+                "name": "CD"
+            },
+            {
+                "address": "42",
+                "name": "FOLDER CD"
+            },
+            {
+                "address": "43",
+                "name": "FOLDER A"
+            },
+            {
+                "address": "43",
+                "name": "A"
+            },
+            {
+                "address": "44",
+                "name": "FOLDER B"
+            },
+            {
+                "address": "44",
+                "name": "B"
+            },
+            {
+                "address": "45",
+                "name": "FOLDER C"
+            },
+            {
+                "address": "45",
+                "name": "C"
+            },
+            {
+                "address": "46",
+                "name": "FOLDER D"
+            },
+            {
+                "address": "46",
+                "name": "D"
+            },
+            {
+                "address": "79",
+                "name": "ZOOM"
+            }
+        ],
+        "device_address": "68",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

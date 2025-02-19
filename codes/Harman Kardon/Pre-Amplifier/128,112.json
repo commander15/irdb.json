@@ -1,0 +1,203 @@
+{
+    "display_name": "Harman Kardon Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "800000",
+                "name": "CD STOP []",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "2",
+                "device_address": "800000",
+                "name": "CD PLAY >",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "800000",
+                "name": "CD PAUSE ",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "4",
+                "device_address": "800000",
+                "name": "CD SKIP >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5",
+                "device_address": "800000",
+                "name": "CD SKIP <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "800000",
+                "name": "CD SEARCH >>",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "7",
+                "device_address": "800000",
+                "name": "CD SEARCH <<",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "a",
+                "device_address": "800000",
+                "name": "CD REPEAT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "81",
+                "device_address": "800000",
+                "name": "FM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "82",
+                "device_address": "800000",
+                "name": "AM",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "84",
+                "device_address": "800000",
+                "name": "TUNING ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "800000",
+                "name": "TUNING V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "87",
+                "device_address": "800000",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "88",
+                "device_address": "800000",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "89",
+                "device_address": "800000",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8a",
+                "device_address": "800000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8b",
+                "device_address": "800000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8c",
+                "device_address": "800000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "800000",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8e",
+                "device_address": "800000",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8f",
+                "device_address": "800000",
+                "name": "SHIFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "800000",
+                "name": "SEEK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "800000",
+                "name": "RECEIVER POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "800000",
+                "name": "PHONO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c3",
+                "device_address": "800000",
+                "name": "TUNER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c4",
+                "device_address": "800000",
+                "name": "CD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c5",
+                "device_address": "800000",
+                "name": "A/V 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "800000",
+                "name": "VOLUME ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "800000",
+                "name": "VOLUME V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ca",
+                "device_address": "800000",
+                "name": "VCR/TAPE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "800000",
+                "name": "VCR/TAPE 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d4",
+                "device_address": "800000",
+                "name": "A/V 2",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

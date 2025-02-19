@@ -1,0 +1,49 @@
+{
+    "display_name": "Kenwood Unknown_rc-p800",
+    "ir": {
+        "commands": [
+            {
+                "address": "11",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "13",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "16",
+                "name": "KEY_BACK"
+            },
+            {
+                "address": "17",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "19",
+                "name": "KEY_AGAIN"
+            },
+            {
+                "address": "1f",
+                "name": "pmode"
+            },
+            {
+                "address": "48",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "49",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "c1",
+                "name": "bboost"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Unknown_rc-p800"
+}

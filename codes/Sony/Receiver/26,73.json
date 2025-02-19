@@ -1,0 +1,45 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "ENTER"
+            },
+            {
+                "address": "e",
+                "name": "RETURN/EXIT"
+            },
+            {
+                "address": "2e",
+                "name": ""
+            },
+            {
+                "address": "34",
+                "name": "D.TUNING"
+            },
+            {
+                "address": "79",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "7a",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR RIGHT"
+            }
+        ],
+        "device_address": "3400",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

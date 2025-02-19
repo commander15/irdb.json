@@ -1,0 +1,537 @@
+{
+    "display_name": "Lexicon Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "MENU UP ARROW"
+            },
+            {
+                "address": "1",
+                "name": "UP"
+            },
+            {
+                "address": "2",
+                "name": "OSD OFF"
+            },
+            {
+                "address": "3",
+                "name": "FRONT PANEL OFF"
+            },
+            {
+                "address": "3",
+                "name": "FP OFF"
+            },
+            {
+                "address": "4",
+                "name": "FRONT PANEL ON"
+            },
+            {
+                "address": "4",
+                "name": "FP ON"
+            },
+            {
+                "address": "5",
+                "name": "OSD ON"
+            },
+            {
+                "address": "8",
+                "name": "MENU SELECT"
+            },
+            {
+                "address": "8",
+                "name": "SELECT"
+            },
+            {
+                "address": "a",
+                "name": "MENU DONE"
+            },
+            {
+                "address": "a",
+                "name": "DONE"
+            },
+            {
+                "address": "c",
+                "name": "INPUT TAPE"
+            },
+            {
+                "address": "c",
+                "name": "TAPE"
+            },
+            {
+                "address": "d",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "d",
+                "name": "TUNER"
+            },
+            {
+                "address": "e",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "e",
+                "name": "CD"
+            },
+            {
+                "address": "f",
+                "name": "INPUT AUX"
+            },
+            {
+                "address": "f",
+                "name": "AUX"
+            },
+            {
+                "address": "10",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "10",
+                "name": "TV"
+            },
+            {
+                "address": "11",
+                "name": "INPUT V-DISC"
+            },
+            {
+                "address": "11",
+                "name": "V DISC"
+            },
+            {
+                "address": "12",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "12",
+                "name": "DVD"
+            },
+            {
+                "address": "13",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "13",
+                "name": "VCR 1"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME MUTE"
+            },
+            {
+                "address": "15",
+                "name": "MUTE"
+            },
+            {
+                "address": "16",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "17",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "18",
+                "name": "POWER ON"
+            },
+            {
+                "address": "19",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1a",
+                "name": "FX UP"
+            },
+            {
+                "address": "1b",
+                "name": "FX DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "MENU DOWN ARROW"
+            },
+            {
+                "address": "1d",
+                "name": "DOWN"
+            },
+            {
+                "address": "20",
+                "name": "FX DOLBY"
+            },
+            {
+                "address": "20",
+                "name": "DOLBY"
+            },
+            {
+                "address": "21",
+                "name": "FX THX"
+            },
+            {
+                "address": "21",
+                "name": "THX"
+            },
+            {
+                "address": "22",
+                "name": "FX LOGIC 7"
+            },
+            {
+                "address": "22",
+                "name": "LOGIC 7"
+            },
+            {
+                "address": "23",
+                "name": "FX DTS"
+            },
+            {
+                "address": "23",
+                "name": "DTS"
+            },
+            {
+                "address": "24",
+                "name": "FX 2-CHANNEL"
+            },
+            {
+                "address": "24",
+                "name": "2 CH"
+            },
+            {
+                "address": "25",
+                "name": "FX PARTY"
+            },
+            {
+                "address": "25",
+                "name": "PARTY"
+            },
+            {
+                "address": "26",
+                "name": "FX TV MATRIX"
+            },
+            {
+                "address": "26",
+                "name": "TV MATRIX"
+            },
+            {
+                "address": "27",
+                "name": "FX MUSIC"
+            },
+            {
+                "address": "27",
+                "name": "MUSIC"
+            },
+            {
+                "address": "42",
+                "name": "R/Z-2 + OSD OFF"
+            },
+            {
+                "address": "43",
+                "name": "R/Z-2 + FP OFF"
+            },
+            {
+                "address": "44",
+                "name": "R/Z-2 + FP ON"
+            },
+            {
+                "address": "45",
+                "name": "MENU STATUS"
+            },
+            {
+                "address": "48",
+                "name": "Z-2 BALANCE RIGHT"
+            },
+            {
+                "address": "4a",
+                "name": "Z-2 BALANCE LEFT"
+            },
+            {
+                "address": "4c",
+                "name": "R/Z-2 INPUT TAPE"
+            },
+            {
+                "address": "4d",
+                "name": "R/Z-2 INPUT TUNER"
+            },
+            {
+                "address": "4e",
+                "name": "R/Z-2 INPUT CD"
+            },
+            {
+                "address": "4f",
+                "name": "R/Z-2 INPUT AUX"
+            },
+            {
+                "address": "50",
+                "name": "R/Z-2 INPUT TV"
+            },
+            {
+                "address": "51",
+                "name": "R/Z-2 INPUT V-DISC"
+            },
+            {
+                "address": "52",
+                "name": "R/Z-2 INPUT DVD"
+            },
+            {
+                "address": "53",
+                "name": "R/Z-2 INPUT VCR"
+            },
+            {
+                "address": "55",
+                "name": "Z-2 MUTE"
+            },
+            {
+                "address": "56",
+                "name": "Z-2 VOLUME -"
+            },
+            {
+                "address": "57",
+                "name": "Z-2 VOLUME +"
+            },
+            {
+                "address": "58",
+                "name": "Z-2 ON"
+            },
+            {
+                "address": "59",
+                "name": "Z-2 OFF"
+            },
+            {
+                "address": "5a",
+                "name": "MENU LOCK ON LOCK"
+            },
+            {
+                "address": "5b",
+                "name": "R/Z-2 + FX DOWN"
+            },
+            {
+                "address": "60",
+                "name": "Z-2 VOLUME TO -30DB"
+            },
+            {
+                "address": "61",
+                "name": "Z-2 VOLUME TO -20DB"
+            },
+            {
+                "address": "62",
+                "name": "Z-2 VOLUME TO -10DB"
+            },
+            {
+                "address": "63",
+                "name": "Z-2 VOLUME TO +00DB"
+            },
+            {
+                "address": "64",
+                "name": "VOLUME TO -30 DB"
+            },
+            {
+                "address": "65",
+                "name": "VOLUME TO -20 DB"
+            },
+            {
+                "address": "66",
+                "name": "VOLUME TO -10 DB"
+            },
+            {
+                "address": "67",
+                "name": "VOLUME TO +00 DB"
+            },
+            {
+                "address": "81",
+                "name": "BALANCE FRONT"
+            },
+            {
+                "address": "81",
+                "name": "FRONT FADER"
+            },
+            {
+                "address": "82",
+                "name": "MENU BACK OFF"
+            },
+            {
+                "address": "83",
+                "name": "SHIFT + FP OFF"
+            },
+            {
+                "address": "84",
+                "name": "SHIFT + FP ON"
+            },
+            {
+                "address": "85",
+                "name": "MENU BACK ON"
+            },
+            {
+                "address": "88",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "88",
+                "name": "R BALANCE"
+            },
+            {
+                "address": "8a",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "8a",
+                "name": "L BALANCE"
+            },
+            {
+                "address": "8c",
+                "name": "EQ LOUDNESS OFF"
+            },
+            {
+                "address": "8c",
+                "name": "LOUDNESS OFF"
+            },
+            {
+                "address": "8d",
+                "name": "EQ TILT -"
+            },
+            {
+                "address": "8e",
+                "name": "EQ TREBLE -"
+            },
+            {
+                "address": "8e",
+                "name": "TREBLE DOWN"
+            },
+            {
+                "address": "8f",
+                "name": "EQ BASS -"
+            },
+            {
+                "address": "8f",
+                "name": "BASS LEVEL DOWN"
+            },
+            {
+                "address": "90",
+                "name": "EQ LOUDNESS ON"
+            },
+            {
+                "address": "90",
+                "name": "LOUDNESS ON"
+            },
+            {
+                "address": "91",
+                "name": "EQ TILT +"
+            },
+            {
+                "address": "92",
+                "name": "EQ TREBLE +"
+            },
+            {
+                "address": "92",
+                "name": "TREBLE UP"
+            },
+            {
+                "address": "93",
+                "name": "EQ BASS +"
+            },
+            {
+                "address": "93",
+                "name": "BASS LEVEL UP"
+            },
+            {
+                "address": "95",
+                "name": "VOLUME FULL MUTE"
+            },
+            {
+                "address": "96",
+                "name": "VOLUME -5 DB"
+            },
+            {
+                "address": "97",
+                "name": "VOLUME +5 DB"
+            },
+            {
+                "address": "98",
+                "name": "PGM TRIGGER ON"
+            },
+            {
+                "address": "99",
+                "name": "PGM TRIGGER OFF"
+            },
+            {
+                "address": "9a",
+                "name": "BALANCE CENTERED"
+            },
+            {
+                "address": "9b",
+                "name": "EQ OFF"
+            },
+            {
+                "address": "9d",
+                "name": "BALANCE REAR"
+            },
+            {
+                "address": "9d",
+                "name": "REAR FADER"
+            },
+            {
+                "address": "a0",
+                "name": "FX NIGHTCLUB"
+            },
+            {
+                "address": "a0",
+                "name": "NIGHTCLUB"
+            },
+            {
+                "address": "a1",
+                "name": "FX CONCERT HALL"
+            },
+            {
+                "address": "a1",
+                "name": "CONCERT HALL"
+            },
+            {
+                "address": "a2",
+                "name": "FX CHURCH"
+            },
+            {
+                "address": "a2",
+                "name": "CHURCH"
+            },
+            {
+                "address": "a3",
+                "name": "FX CATHEDRAL"
+            },
+            {
+                "address": "a3",
+                "name": "CATHEDRAL"
+            },
+            {
+                "address": "a4",
+                "name": "INPUT EP / 2-CHANNEL"
+            },
+            {
+                "address": "a5",
+                "name": "FX PANORAMA"
+            },
+            {
+                "address": "a5",
+                "name": "PANORAMA"
+            },
+            {
+                "address": "a6",
+                "name": "FX MONO LOGIC"
+            },
+            {
+                "address": "a6",
+                "name": "MONO LOGIC"
+            },
+            {
+                "address": "a7",
+                "name": "FX MUSIC SURROUND"
+            },
+            {
+                "address": "a7",
+                "name": "MUSIC LOGIC"
+            }
+        ],
+        "device_address": "214",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Lexicon",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

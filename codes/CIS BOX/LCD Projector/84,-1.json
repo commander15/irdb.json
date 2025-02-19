@@ -1,0 +1,73 @@
+{
+    "display_name": "CIS BOX LCD Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2a",
+                "name": "INPUT VIDEO 1"
+            },
+            {
+                "address": "2b",
+                "name": "INPUT VIDEO 2"
+            },
+            {
+                "address": "2c",
+                "name": "INPUT RGB"
+            },
+            {
+                "address": "2e",
+                "name": "PWR ON"
+            },
+            {
+                "address": "2f",
+                "name": "PWR OFF"
+            },
+            {
+                "address": "31",
+                "name": "SELECT+"
+            },
+            {
+                "address": "32",
+                "name": "SELECT -"
+            },
+            {
+                "address": "41",
+                "name": "FOCUS IN"
+            },
+            {
+                "address": "42",
+                "name": "FOCUS OUT"
+            },
+            {
+                "address": "54",
+                "name": "ZOOM IN"
+            },
+            {
+                "address": "55",
+                "name": "ZOOM OUT"
+            },
+            {
+                "address": "56",
+                "name": "AUTO"
+            },
+            {
+                "address": "59",
+                "name": "SELECT"
+            },
+            {
+                "address": "5f",
+                "name": "INPUT S VIDEO"
+            },
+            {
+                "address": "7b",
+                "name": "RESET"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "LCD Projector"
+}

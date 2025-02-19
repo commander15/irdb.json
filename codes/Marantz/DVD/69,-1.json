@@ -1,0 +1,181 @@
+{
+    "display_name": "Marantz DVD",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "0"
+            },
+            {
+                "address": "d",
+                "name": "SLOW >"
+            },
+            {
+                "address": "12",
+                "name": "POWER"
+            },
+            {
+                "address": "13",
+                "name": "FWD >>"
+            },
+            {
+                "address": "14",
+                "name": "STOP []"
+            },
+            {
+                "address": "15",
+                "name": "PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "19",
+                "name": "REW <<"
+            },
+            {
+                "address": "20",
+                "name": "SETUP"
+            },
+            {
+                "address": "21",
+                "name": "ENTER"
+            },
+            {
+                "address": "22",
+                "name": "RETURN"
+            },
+            {
+                "address": "23",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "24",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "25",
+                "name": "+10"
+            },
+            {
+                "address": "26",
+                "name": "T"
+            },
+            {
+                "address": "27",
+                "name": "AUDIO"
+            },
+            {
+                "address": "28",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "29",
+                "name": "ANGLE"
+            },
+            {
+                "address": "2a",
+                "name": "MEMORY"
+            },
+            {
+                "address": "2b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "2c",
+                "name": "A-B RPT"
+            },
+            {
+                "address": "2d",
+                "name": "LAST PLAY"
+            },
+            {
+                "address": "2e",
+                "name": "RANDOM"
+            },
+            {
+                "address": "2f",
+                "name": "SUBTITLE ON OFF"
+            },
+            {
+                "address": "4d",
+                "name": "CURSOR >"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR <"
+            },
+            {
+                "address": "80",
+                "name": "CURSOR ^"
+            },
+            {
+                "address": "81",
+                "name": "CURSOR V"
+            },
+            {
+                "address": "84",
+                "name": "MENU"
+            },
+            {
+                "address": "de",
+                "name": "TITLE"
+            },
+            {
+                "address": "ef",
+                "name": "CLEAR"
+            },
+            {
+                "address": "f5",
+                "name": "OPEN/CLOSE"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "DVD"
+}

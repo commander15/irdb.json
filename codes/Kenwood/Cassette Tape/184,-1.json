@@ -1,0 +1,105 @@
+{
+    "display_name": "Kenwood Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "90",
+                "name": "PHONO"
+            },
+            {
+                "address": "91",
+                "name": "TUNER"
+            },
+            {
+                "address": "92",
+                "name": "CD"
+            },
+            {
+                "address": "93",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "94",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "95",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "96",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "9a",
+                "name": "VOL CONTROL V"
+            },
+            {
+                "address": "9b",
+                "name": "VOL CONTROL ^"
+            },
+            {
+                "address": "9c",
+                "name": "MUTE"
+            },
+            {
+                "address": "9d",
+                "name": "POWER"
+            },
+            {
+                "address": "d0",
+                "name": "TAPEA R.PLAY <"
+            },
+            {
+                "address": "d1",
+                "name": "TAPEA PLAY >"
+            },
+            {
+                "address": "d2",
+                "name": "TAPEA REW <<"
+            },
+            {
+                "address": "d3",
+                "name": "TAPEA FF >>"
+            },
+            {
+                "address": "d5",
+                "name": "TAPEA STOP []"
+            },
+            {
+                "address": "d8",
+                "name": "TAPEB REV PLAY <"
+            },
+            {
+                "address": "d9",
+                "name": "TAPEB PLAY >"
+            },
+            {
+                "address": "da",
+                "name": "TAPEB REW <<"
+            },
+            {
+                "address": "db",
+                "name": "TAPEB FF >>"
+            },
+            {
+                "address": "dc",
+                "name": "TAPEB PAUSE (ONLY)"
+            },
+            {
+                "address": "dd",
+                "name": "TAPEB STOP []"
+            },
+            {
+                "address": "de",
+                "name": "TAPEB REC (ONLY)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

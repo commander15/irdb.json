@@ -1,0 +1,61 @@
+{
+    "display_name": "NAD Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "99",
+                "name": "PAUSE"
+            },
+            {
+                "address": "99",
+                "name": "PAUSE "
+            },
+            {
+                "address": "9a",
+                "name": "RECORD"
+            },
+            {
+                "address": "9a",
+                "name": "REC"
+            },
+            {
+                "address": "9c",
+                "name": "PLAY"
+            },
+            {
+                "address": "9c",
+                "name": "PLAY >"
+            },
+            {
+                "address": "9d",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "9d",
+                "name": "FF >>"
+            },
+            {
+                "address": "9e",
+                "name": "REWIND"
+            },
+            {
+                "address": "9e",
+                "name": "REW <<"
+            },
+            {
+                "address": "9f",
+                "name": "STOP"
+            },
+            {
+                "address": "9f",
+                "name": "STOP []"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

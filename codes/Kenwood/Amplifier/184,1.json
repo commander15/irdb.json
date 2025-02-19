@@ -1,0 +1,41 @@
+{
+    "display_name": "Kenwood Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "5a",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "5e",
+                "name": "TIMER"
+            },
+            {
+                "address": "91",
+                "name": "FOLDER NEXT"
+            },
+            {
+                "address": "92",
+                "name": "FOLDER PREV"
+            },
+            {
+                "address": "cc",
+                "name": "INPUT SELECTOR"
+            },
+            {
+                "address": "d4",
+                "name": "RANDOM"
+            },
+            {
+                "address": "d5",
+                "name": "TONE TURN OVER"
+            }
+        ],
+        "device_address": "170",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kenwood",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

@@ -1,0 +1,657 @@
+{
+    "display_name": "Loewe TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "KEY 0"
+            },
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "KEY 1"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "KEY 2"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "KEY 3"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "KEY 4"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "KEY 5"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "KEY 6"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "KEY 7"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "KEY 8"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "KEY 9"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "a",
+                "name": "PIP ON/OFF"
+            },
+            {
+                "address": "a",
+                "name": "INPUT TOGGLE"
+            },
+            {
+                "address": "a",
+                "name": "PIP"
+            },
+            {
+                "address": "a",
+                "name": "INOUT"
+            },
+            {
+                "address": "a",
+                "name": "PIP AUDIO MONITOR"
+            },
+            {
+                "address": "b",
+                "name": "MENU"
+            },
+            {
+                "address": "b",
+                "name": "MENU KEY"
+            },
+            {
+                "address": "b",
+                "name": "M (MENY)"
+            },
+            {
+                "address": "c",
+                "name": "TV ON/OFF"
+            },
+            {
+                "address": "c",
+                "name": "POWER TOGGLE"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "e",
+                "name": "NORMAL"
+            },
+            {
+                "address": "e",
+                "name": "POWER ON"
+            },
+            {
+                "address": "e",
+                "name": "POWER: ON"
+            },
+            {
+                "address": "f",
+                "name": "EPG"
+            },
+            {
+                "address": "f",
+                "name": "FAVORITE"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "10",
+                "name": "GER"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR"
+            },
+            {
+                "address": "11",
+                "name": "NSTER"
+            },
+            {
+                "address": "12",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "13",
+                "name": "INPUT: COMPONENT 1"
+            },
+            {
+                "address": "13",
+                "name": "VID 1C / ANT A"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "14",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "14",
+                "name": "VGA"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "16",
+                "name": "TV ON"
+            },
+            {
+                "address": "16",
+                "name": "POWER ON"
+            },
+            {
+                "address": "17",
+                "name": "PROGRAM -"
+            },
+            {
+                "address": "17",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "18",
+                "name": "PROGRAM +"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "19",
+                "name": "TV OFF"
+            },
+            {
+                "address": "19",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "1a",
+                "name": "GREEN"
+            },
+            {
+                "address": "1a",
+                "name": "WINDOW"
+            },
+            {
+                "address": "1a",
+                "name": "N KNAPP"
+            },
+            {
+                "address": "1a",
+                "name": ""
+            },
+            {
+                "address": "1b",
+                "name": "RED"
+            },
+            {
+                "address": "1b",
+                "name": "FORMAT"
+            },
+            {
+                "address": "1b",
+                "name": "D KNAPP"
+            },
+            {
+                "address": "1c",
+                "name": "VCR 1"
+            },
+            {
+                "address": "1c",
+                "name": "INPUT VCR"
+            },
+            {
+                "address": "1e",
+                "name": "DVD"
+            },
+            {
+                "address": "1e",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "1f",
+                "name": "INPUT: FRONT"
+            },
+            {
+                "address": "1f",
+                "name": "FRONT / VID 1C"
+            },
+            {
+                "address": "20",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "20",
+                "name": ""
+            },
+            {
+                "address": "20",
+                "name": "CURSOR UPP"
+            },
+            {
+                "address": "21",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "21",
+                "name": ""
+            },
+            {
+                "address": "21",
+                "name": "CURSOR NER"
+            },
+            {
+                "address": "21",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "22",
+                "name": "INPUT: VIDEO 2"
+            },
+            {
+                "address": "22",
+                "name": "POWER: OFF"
+            },
+            {
+                "address": "23",
+                "name": "PICTURE"
+            },
+            {
+                "address": "23",
+                "name": "VIDEO"
+            },
+            {
+                "address": "23",
+                "name": "BILDMENY"
+            },
+            {
+                "address": "24",
+                "name": "SAT"
+            },
+            {
+                "address": "24",
+                "name": "INPUT: ANT B"
+            },
+            {
+                "address": "24",
+                "name": "INPUT SAT"
+            },
+            {
+                "address": "25",
+                "name": "STB"
+            },
+            {
+                "address": "25",
+                "name": "INPUT: ANTENNA A"
+            },
+            {
+                "address": "25",
+                "name": "ANT A"
+            },
+            {
+                "address": "25",
+                "name": "INPUT STB"
+            },
+            {
+                "address": "26",
+                "name": "OK"
+            },
+            {
+                "address": "26",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "27",
+                "name": "INFO"
+            },
+            {
+                "address": "27",
+                "name": "I (INFO)"
+            },
+            {
+                "address": "28",
+                "name": "BLUE"
+            },
+            {
+                "address": "28",
+                "name": "SWAP"
+            },
+            {
+                "address": "28",
+                "name": "KNAPP"
+            },
+            {
+                "address": "2b",
+                "name": "YELLOW"
+            },
+            {
+                "address": "2b",
+                "name": "PIP"
+            },
+            {
+                "address": "2b",
+                "name": "GUL KNAPP"
+            },
+            {
+                "address": "2e",
+                "name": "INFO 2"
+            },
+            {
+                "address": "31",
+                "name": "ASSIST+MENU"
+            },
+            {
+                "address": "31",
+                "name": "EDIT FAVORITES"
+            },
+            {
+                "address": "31",
+                "name": "V ="
+            },
+            {
+                "address": "31",
+                "name": "ASSIST"
+            },
+            {
+                "address": "31",
+                "name": "VIDEO"
+            },
+            {
+                "address": "33",
+                "name": "INPUT: 2 (2)"
+            },
+            {
+                "address": "33",
+                "name": "INPUT: VIDEO 2 2ND"
+            },
+            {
+                "address": "34",
+                "name": "INPUT: S-VIDEO 1"
+            },
+            {
+                "address": "34",
+                "name": "VID 1S"
+            },
+            {
+                "address": "35",
+                "name": "RADIO MODE"
+            },
+            {
+                "address": "35",
+                "name": "AUDIO"
+            },
+            {
+                "address": "35",
+                "name": "LJUDMENY"
+            },
+            {
+                "address": "35",
+                "name": "SAT RADIO"
+            },
+            {
+                "address": "36",
+                "name": "INPUT: RGB 1080I"
+            },
+            {
+                "address": "37",
+                "name": "INPUT: RGB 480P"
+            },
+            {
+                "address": "38",
+                "name": "INPUT: DVD 480P"
+            },
+            {
+                "address": "3c",
+                "name": "TELETEXT"
+            },
+            {
+                "address": "3c",
+                "name": "FREEZE"
+            },
+            {
+                "address": "3c",
+                "name": "T (TEXT)"
+            },
+            {
+                "address": "3c",
+                "name": "TEXT"
+            },
+            {
+                "address": "3f",
+                "name": "END KEY"
+            },
+            {
+                "address": "3f",
+                "name": "EXIT"
+            },
+            {
+                "address": "3f",
+                "name": "E (EXIT)"
+            },
+            {
+                "address": "3f",
+                "name": "END"
+            },
+            {
+                "address": "40",
+                "name": "SOUND MENU"
+            },
+            {
+                "address": "40",
+                "name": "MUTE"
+            },
+            {
+                "address": "40",
+                "name": "SOUND"
+            },
+            {
+                "address": "48",
+                "name": "TV MODE ON"
+            },
+            {
+                "address": "49",
+                "name": "RADIO MODE ON"
+            },
+            {
+                "address": "4a",
+                "name": "AV INPUT MENU"
+            },
+            {
+                "address": "4a",
+                "name": "INPUT AV"
+            },
+            {
+                "address": "4e",
+                "name": "EPG2"
+            },
+            {
+                "address": "4e",
+                "name": "EPG"
+            },
+            {
+                "address": "4e",
+                "name": "* EPG"
+            },
+            {
+                "address": "4f",
+                "name": "INFO KEY"
+            },
+            {
+                "address": "4f",
+                "name": "INFO"
+            },
+            {
+                "address": "58",
+                "name": "PIP #"
+            },
+            {
+                "address": "58",
+                "name": "PIP"
+            },
+            {
+                "address": "58",
+                "name": "# PIP"
+            },
+            {
+                "address": "5a",
+                "name": "ASPECT RATIO"
+            },
+            {
+                "address": "5a",
+                "name": "TITLE"
+            },
+            {
+                "address": "5a",
+                "name": "FORMAT"
+            },
+            {
+                "address": "5b",
+                "name": "TIMER DIALOG"
+            },
+            {
+                "address": "5b",
+                "name": "REC MENU"
+            },
+            {
+                "address": "5b",
+                "name": "TIMER"
+            },
+            {
+                "address": "5c",
+                "name": "DR+ ARCHIVE"
+            },
+            {
+                "address": "6e",
+                "name": "INPUT: VGA"
+            },
+            {
+                "address": "6f",
+                "name": "INPUT: VIDEO 3"
+            },
+            {
+                "address": "70",
+                "name": "INPUT: DVI"
+            },
+            {
+                "address": "71",
+                "name": "INPUT: COMPONENT 2"
+            },
+            {
+                "address": "72",
+                "name": "AV1"
+            },
+            {
+                "address": "73",
+                "name": "AV2"
+            },
+            {
+                "address": "74",
+                "name": "AV3"
+            },
+            {
+                "address": "75",
+                "name": "AVS"
+            },
+            {
+                "address": "76",
+                "name": "VGA"
+            },
+            {
+                "address": "77",
+                "name": "HDMI 1"
+            },
+            {
+                "address": "78",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "79",
+                "name": "HDMI 2"
+            },
+            {
+                "address": "7a",
+                "name": "HDMI 3"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Loewe",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

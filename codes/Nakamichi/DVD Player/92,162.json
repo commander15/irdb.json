@@ -1,0 +1,157 @@
+{
+    "display_name": "Nakamichi DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "AUDIO"
+            },
+            {
+                "address": "1",
+                "name": "Z - TRACK ( + )"
+            },
+            {
+                "address": "2",
+                "name": "Z - TRACK ( - )"
+            },
+            {
+                "address": "3",
+                "name": "Z - PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "Z - PLAY"
+            },
+            {
+                "address": "9",
+                "name": "Z - FAST FORWARD"
+            },
+            {
+                "address": "b",
+                "name": "SEARCH"
+            },
+            {
+                "address": "f",
+                "name": "Z - FAST REWIND"
+            },
+            {
+                "address": "10",
+                "name": "EJECT"
+            },
+            {
+                "address": "10",
+                "name": "Z - STOP"
+            },
+            {
+                "address": "11",
+                "name": "CLEAR"
+            },
+            {
+                "address": "13",
+                "name": "POWER"
+            },
+            {
+                "address": "14",
+                "name": "ANGLE"
+            },
+            {
+                "address": "18",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "1a",
+                "name": "SUBTITLE - ON / OFF"
+            },
+            {
+                "address": "1b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1d",
+                "name": "MODE"
+            },
+            {
+                "address": "40",
+                "name": "1"
+            },
+            {
+                "address": "41",
+                "name": "2"
+            },
+            {
+                "address": "42",
+                "name": "3"
+            },
+            {
+                "address": "43",
+                "name": "4"
+            },
+            {
+                "address": "44",
+                "name": "5"
+            },
+            {
+                "address": "45",
+                "name": "6"
+            },
+            {
+                "address": "46",
+                "name": "7"
+            },
+            {
+                "address": "47",
+                "name": "8"
+            },
+            {
+                "address": "48",
+                "name": "9"
+            },
+            {
+                "address": "49",
+                "name": "0"
+            },
+            {
+                "address": "4b",
+                "name": "CURSOR - ENTER"
+            },
+            {
+                "address": "4b",
+                "name": "ENTER"
+            },
+            {
+                "address": "4e",
+                "name": "RETURN"
+            },
+            {
+                "address": "4f",
+                "name": "TITLE"
+            },
+            {
+                "address": "50",
+                "name": "MENU"
+            },
+            {
+                "address": "58",
+                "name": "CURSOR - RIGHT"
+            },
+            {
+                "address": "59",
+                "name": "CURSOR - LEFT"
+            },
+            {
+                "address": "5c",
+                "name": "CURSOR - UP"
+            },
+            {
+                "address": "5d",
+                "name": "CURSOR - DOWN"
+            }
+        ],
+        "device_address": "170",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

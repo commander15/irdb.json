@@ -1,0 +1,29 @@
+{
+    "display_name": "Dish Network Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DN"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "34",
+                "name": "DISH HOME"
+            }
+        ],
+        "device_address": "2",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

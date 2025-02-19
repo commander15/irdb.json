@@ -1,0 +1,69 @@
+{
+    "display_name": "Yamaha DSP",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "1"
+            },
+            {
+                "address": "1",
+                "name": "9"
+            },
+            {
+                "address": "8",
+                "name": "2"
+            },
+            {
+                "address": "9",
+                "name": "0"
+            },
+            {
+                "address": "a",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "10",
+                "name": "3"
+            },
+            {
+                "address": "12",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "18",
+                "name": "4"
+            },
+            {
+                "address": "20",
+                "name": "5"
+            },
+            {
+                "address": "24",
+                "name": ">>"
+            },
+            {
+                "address": "28",
+                "name": "6"
+            },
+            {
+                "address": "2c",
+                "name": "<<"
+            },
+            {
+                "address": "30",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "DSP"
+}

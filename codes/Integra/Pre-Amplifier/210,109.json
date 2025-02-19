@@ -1,0 +1,117 @@
+{
+    "display_name": "Integra Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TUNE PRESET UP"
+            },
+            {
+                "address": "1",
+                "name": "TUNE PRESET DOWN"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "4",
+                "name": "POWER ON"
+            },
+            {
+                "address": "5",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "8",
+                "name": "INPUT TAPE 1"
+            },
+            {
+                "address": "9",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "a",
+                "name": "INPUT PHONO"
+            },
+            {
+                "address": "b",
+                "name": "INPUT TUNER"
+            },
+            {
+                "address": "d",
+                "name": "INPUT V3 GAME/TV"
+            },
+            {
+                "address": "e",
+                "name": "INPUT V2 CBL/SAT"
+            },
+            {
+                "address": "f",
+                "name": "INPUT V1 VCR/DVR"
+            },
+            {
+                "address": "44",
+                "name": "MODE DIRECT"
+            },
+            {
+                "address": "46",
+                "name": "INPUT FM"
+            },
+            {
+                "address": "47",
+                "name": "INPUT AM"
+            },
+            {
+                "address": "4c",
+                "name": "MODE LISTEN MODEUP"
+            },
+            {
+                "address": "5d",
+                "name": "SLEEP TIME"
+            },
+            {
+                "address": "82",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "83",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "84",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "85",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "97",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "9a",
+                "name": "SPK TEST TONE"
+            },
+            {
+                "address": "9c",
+                "name": "INPUT V6 PC"
+            },
+            {
+                "address": "9f",
+                "name": "INPUT V4 AUX1"
+            }
+        ],
+        "device_address": "1a4000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Integra",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

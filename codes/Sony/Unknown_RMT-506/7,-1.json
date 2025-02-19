@@ -1,0 +1,41 @@
+{
+    "display_name": "Sony Unknown_RMT-506",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "19",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "23",
+                "name": "KEY_SLOW"
+            },
+            {
+                "address": "5a",
+                "name": "Data_Screen"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RMT-506"
+}

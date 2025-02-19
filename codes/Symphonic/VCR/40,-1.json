@@ -1,0 +1,125 @@
+{
+    "display_name": "Symphonic VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "4",
+                "name": "FAST FORWARD >>"
+            },
+            {
+                "address": "6",
+                "name": "SELECT"
+            },
+            {
+                "address": "7",
+                "name": "INDEX"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "b",
+                "name": "PAUSE"
+            },
+            {
+                "address": "c",
+                "name": "REWIND <<"
+            },
+            {
+                "address": "d",
+                "name": "SLOW"
+            },
+            {
+                "address": "e",
+                "name": "TIME"
+            },
+            {
+                "address": "f",
+                "name": "ADD/DELETE"
+            },
+            {
+                "address": "14",
+                "name": "MEMORY"
+            },
+            {
+                "address": "14",
+                "name": "TAPE COUNTER"
+            },
+            {
+                "address": "15",
+                "name": "MENU"
+            },
+            {
+                "address": "1a",
+                "name": "RECORD"
+            },
+            {
+                "address": "1c",
+                "name": "STOP"
+            },
+            {
+                "address": "1f",
+                "name": "1"
+            },
+            {
+                "address": "20",
+                "name": "POWER/TIMER RECORD"
+            },
+            {
+                "address": "21",
+                "name": "2"
+            },
+            {
+                "address": "22",
+                "name": "3"
+            },
+            {
+                "address": "23",
+                "name": "4"
+            },
+            {
+                "address": "24",
+                "name": "5"
+            },
+            {
+                "address": "25",
+                "name": "6"
+            },
+            {
+                "address": "26",
+                "name": "7"
+            },
+            {
+                "address": "27",
+                "name": "8"
+            },
+            {
+                "address": "28",
+                "name": "9"
+            },
+            {
+                "address": "29",
+                "name": "0"
+            },
+            {
+                "address": "39",
+                "name": "BLANK"
+            },
+            {
+                "address": "3d",
+                "name": "EJECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Emerson"
+    },
+    "manufacturer": "Symphonic",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

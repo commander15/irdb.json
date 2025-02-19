@@ -1,0 +1,709 @@
+{
+    "display_name": "Classe Audio Surround Sound",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "TAPE MON TOGGLE T0"
+            },
+            {
+                "address": "1",
+                "name": "TAPE MON TOGGLE T1"
+            },
+            {
+                "address": "2",
+                "name": "INPUT1 T0"
+            },
+            {
+                "address": "2",
+                "name": "INPUT1 T1"
+            },
+            {
+                "address": "3",
+                "name": "INPUT2 T0"
+            },
+            {
+                "address": "3",
+                "name": "INPUT2 T1"
+            },
+            {
+                "address": "4",
+                "name": "INPUT3 T0"
+            },
+            {
+                "address": "4",
+                "name": "INPUT3 T1"
+            },
+            {
+                "address": "5",
+                "name": "INPUT4 T0"
+            },
+            {
+                "address": "5",
+                "name": "INPUT4 T1"
+            },
+            {
+                "address": "6",
+                "name": "INPUT5 T0"
+            },
+            {
+                "address": "6",
+                "name": "INPUT5 T1"
+            },
+            {
+                "address": "7",
+                "name": "INPUT6 T0"
+            },
+            {
+                "address": "7",
+                "name": "INPUT6 T1"
+            },
+            {
+                "address": "8",
+                "name": "INPUT7 T0"
+            },
+            {
+                "address": "8",
+                "name": "INPUT7 T1"
+            },
+            {
+                "address": "9",
+                "name": "INPUT8 T0"
+            },
+            {
+                "address": "9",
+                "name": "INPUT8 T1"
+            },
+            {
+                "address": "a",
+                "name": "INPUT UP T0"
+            },
+            {
+                "address": "a",
+                "name": "INPUT UP T1"
+            },
+            {
+                "address": "b",
+                "name": "INPUT DOWN T0"
+            },
+            {
+                "address": "b",
+                "name": "INPUT DOWN T1"
+            },
+            {
+                "address": "c",
+                "name": "STANDBY TOGGLE T0"
+            },
+            {
+                "address": "c",
+                "name": "STANDBY TOGGLE T1"
+            },
+            {
+                "address": "e",
+                "name": "INFO T0"
+            },
+            {
+                "address": "e",
+                "name": "INFO T1"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY T0"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY T1"
+            },
+            {
+                "address": "12",
+                "name": "THX T0"
+            },
+            {
+                "address": "12",
+                "name": "THX T1"
+            },
+            {
+                "address": "13",
+                "name": "LATE NIGHT TOGGLE T0"
+            },
+            {
+                "address": "13",
+                "name": "LATE NIGHT TOGGLE T1"
+            },
+            {
+                "address": "14",
+                "name": "ZONE T0"
+            },
+            {
+                "address": "14",
+                "name": "ZONE T1"
+            },
+            {
+                "address": "15",
+                "name": "TRIM T0"
+            },
+            {
+                "address": "15",
+                "name": "TRIM T1"
+            },
+            {
+                "address": "44",
+                "name": "MODE T0"
+            },
+            {
+                "address": "44",
+                "name": "MODE T1"
+            },
+            {
+                "address": "54",
+                "name": "MENU T0"
+            },
+            {
+                "address": "54",
+                "name": "MENU T1"
+            },
+            {
+                "address": "55",
+                "name": "HOME T0"
+            },
+            {
+                "address": "55",
+                "name": "HOME T1"
+            },
+            {
+                "address": "58",
+                "name": "NAVIGATE UP T0"
+            },
+            {
+                "address": "58",
+                "name": "NAVIGATE UP T1"
+            },
+            {
+                "address": "59",
+                "name": "NAVIGATE DOWN T0"
+            },
+            {
+                "address": "59",
+                "name": "NAVIGATE DOWN T1"
+            },
+            {
+                "address": "5a",
+                "name": "NAVIGATE LEFT T0"
+            },
+            {
+                "address": "5a",
+                "name": "NAVIGATE LEFT T1"
+            },
+            {
+                "address": "5b",
+                "name": "NAVIGATE RIGHT T0"
+            },
+            {
+                "address": "5b",
+                "name": "NAVIGATE RIGHT T1"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER T0"
+            },
+            {
+                "address": "5c",
+                "name": "ENTER T1"
+            },
+            {
+                "address": "78",
+                "name": "INPUT9 T0"
+            },
+            {
+                "address": "78",
+                "name": "INPUT9 T1"
+            },
+            {
+                "address": "79",
+                "name": "INPUT10 T0"
+            },
+            {
+                "address": "79",
+                "name": "INPUT10 T1"
+            },
+            {
+                "address": "7a",
+                "name": "INPUT11 (7.1) T0"
+            },
+            {
+                "address": "7a",
+                "name": "INPUT11 (7.1) T1"
+            },
+            {
+                "address": "7b",
+                "name": "INPUT12 (TAPE) T0"
+            },
+            {
+                "address": "7b",
+                "name": "INPUT12 (TAPE) T1"
+            },
+            {
+                "address": "91",
+                "name": "ZONE MUTE T0"
+            },
+            {
+                "address": "91",
+                "name": "ZONE MUTE T1"
+            },
+            {
+                "address": "92",
+                "name": "ZONE UNMUTE T0"
+            },
+            {
+                "address": "92",
+                "name": "ZONE UNMUTE T1"
+            },
+            {
+                "address": "93",
+                "name": "ZONE MUTE TOGGLE T0"
+            },
+            {
+                "address": "93",
+                "name": "ZONE MUTE TOGGLE T1"
+            },
+            {
+                "address": "94",
+                "name": "ZONE VOL UP T0"
+            },
+            {
+                "address": "94",
+                "name": "ZONE VOL UP T1"
+            },
+            {
+                "address": "95",
+                "name": "ZONE VOL DOWN T0"
+            },
+            {
+                "address": "95",
+                "name": "ZONE VOL DOWN T1"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T0"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T1"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T0"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T1"
+            },
+            {
+                "address": "9a",
+                "name": "TAPE MON ON T0"
+            },
+            {
+                "address": "9a",
+                "name": "TAPE MON ON T1"
+            },
+            {
+                "address": "9b",
+                "name": "TAPE MON OFF T0"
+            },
+            {
+                "address": "9b",
+                "name": "TAPE MON OFF T1"
+            },
+            {
+                "address": "9c",
+                "name": "THX ON T0"
+            },
+            {
+                "address": "9c",
+                "name": "THX ON T1"
+            },
+            {
+                "address": "9d",
+                "name": "THX OFF T0"
+            },
+            {
+                "address": "9d",
+                "name": "THX OFF T1"
+            },
+            {
+                "address": "a0",
+                "name": "LATE NIGHT ON T0"
+            },
+            {
+                "address": "a0",
+                "name": "LATE NIGHT ON T1"
+            },
+            {
+                "address": "a1",
+                "name": "LATE NIGHT OFF T0"
+            },
+            {
+                "address": "a1",
+                "name": "LATE NIGHT OFF T1"
+            },
+            {
+                "address": "a2",
+                "name": "TRIM FRONT T0"
+            },
+            {
+                "address": "a2",
+                "name": "TRIM FRONT T1"
+            },
+            {
+                "address": "a3",
+                "name": "TRIM CENTER T0"
+            },
+            {
+                "address": "a3",
+                "name": "TRIM CENTER T1"
+            },
+            {
+                "address": "a4",
+                "name": "TRIM SURR T0"
+            },
+            {
+                "address": "a4",
+                "name": "TRIM SURR T1"
+            },
+            {
+                "address": "a5",
+                "name": "TRIM SUB T0"
+            },
+            {
+                "address": "a5",
+                "name": "TRIM SUB T1"
+            },
+            {
+                "address": "a9",
+                "name": "ZONE INPUT 1 T0"
+            },
+            {
+                "address": "a9",
+                "name": "ZONE INPUT 1 T1"
+            },
+            {
+                "address": "aa",
+                "name": "ZONE INPUT 2 T0"
+            },
+            {
+                "address": "aa",
+                "name": "ZONE INPUT 2 T1"
+            },
+            {
+                "address": "ab",
+                "name": "ZONE INPUT 3 T0"
+            },
+            {
+                "address": "ab",
+                "name": "ZONE INPUT 3 T1"
+            },
+            {
+                "address": "ac",
+                "name": "ZONE INPUT 4 T0"
+            },
+            {
+                "address": "ac",
+                "name": "ZONE INPUT 4 T1"
+            },
+            {
+                "address": "ad",
+                "name": "ZONE INPUT 5 T0"
+            },
+            {
+                "address": "ad",
+                "name": "ZONE INPUT 5 T1"
+            },
+            {
+                "address": "ae",
+                "name": "ZONE INPUT 6 T0"
+            },
+            {
+                "address": "ae",
+                "name": "ZONE INPUT 6 T1"
+            },
+            {
+                "address": "af",
+                "name": "ZONE INPUT 7 T0"
+            },
+            {
+                "address": "af",
+                "name": "ZONE INPUT 7 T1"
+            },
+            {
+                "address": "b0",
+                "name": "ZONE INPUT 8 T0"
+            },
+            {
+                "address": "b0",
+                "name": "ZONE INPUT 8 T1"
+            },
+            {
+                "address": "b1",
+                "name": "ZONE INPUT 9 T0"
+            },
+            {
+                "address": "b1",
+                "name": "ZONE INPUT 9 T1"
+            },
+            {
+                "address": "b2",
+                "name": "ZONE INPUT 10 T0"
+            },
+            {
+                "address": "b2",
+                "name": "ZONE INPUT 10 T1"
+            },
+            {
+                "address": "b9",
+                "name": "LISTEN.POS.1 T0"
+            },
+            {
+                "address": "b9",
+                "name": "LISTEN.POS.1 T1"
+            },
+            {
+                "address": "ba",
+                "name": "LISTEN.POS.2 T0"
+            },
+            {
+                "address": "ba",
+                "name": "LISTEN.POS.2 T1"
+            },
+            {
+                "address": "bb",
+                "name": "LISTEN.POS.3 T0"
+            },
+            {
+                "address": "bb",
+                "name": "LISTEN.POS.3 T1"
+            },
+            {
+                "address": "bc",
+                "name": "LISTEN.POS.4 T0"
+            },
+            {
+                "address": "bc",
+                "name": "LISTEN.POS.4 T1"
+            },
+            {
+                "address": "c1",
+                "name": "MULTI T0"
+            },
+            {
+                "address": "c1",
+                "name": "MULTI T1"
+            },
+            {
+                "address": "c2",
+                "name": "MULTI+THX T0"
+            },
+            {
+                "address": "c2",
+                "name": "MULTI+THX T1"
+            },
+            {
+                "address": "c3",
+                "name": "DOLBY PRO LOGIC T0"
+            },
+            {
+                "address": "c3",
+                "name": "DOLBY PRO LOGIE T1"
+            },
+            {
+                "address": "c4",
+                "name": "DOLBY PL+THX T0"
+            },
+            {
+                "address": "c4",
+                "name": "DOLBY PL+THX T1"
+            },
+            {
+                "address": "c6",
+                "name": "MM NAT T0"
+            },
+            {
+                "address": "c6",
+                "name": "MM NAT T1"
+            },
+            {
+                "address": "c7",
+                "name": "MM PARTY T0"
+            },
+            {
+                "address": "c7",
+                "name": "MM PARTY T1"
+            },
+            {
+                "address": "cc",
+                "name": "MONO T0"
+            },
+            {
+                "address": "cc",
+                "name": "MONO T1"
+            },
+            {
+                "address": "cd",
+                "name": "MONO+THX T0"
+            },
+            {
+                "address": "cd",
+                "name": "MONO+THX T1"
+            },
+            {
+                "address": "cf",
+                "name": "SURR. 6.1 T0"
+            },
+            {
+                "address": "cf",
+                "name": "SURR. 6.1 T1"
+            },
+            {
+                "address": "d0",
+                "name": "STEREO T0"
+            },
+            {
+                "address": "d0",
+                "name": "STEREO T1"
+            },
+            {
+                "address": "d1",
+                "name": "STEREO+THX T0"
+            },
+            {
+                "address": "d1",
+                "name": "STEREO+THX T1"
+            },
+            {
+                "address": "d2",
+                "name": "DOLBY PLII MOVIE T0"
+            },
+            {
+                "address": "d2",
+                "name": "DOLBY PLII MOVIE T1"
+            },
+            {
+                "address": "d3",
+                "name": "DPLII M+THX T0"
+            },
+            {
+                "address": "d3",
+                "name": "DPLII M+THX T1"
+            },
+            {
+                "address": "d4",
+                "name": "DPLII MUZ T0"
+            },
+            {
+                "address": "d4",
+                "name": "DPLII MUZ T1"
+            },
+            {
+                "address": "e4",
+                "name": "DOLBY DIGITAL EX T0"
+            },
+            {
+                "address": "e4",
+                "name": "DOLBY DIGITAL EX T1"
+            },
+            {
+                "address": "e5",
+                "name": "THX ULTRA 2 MUSIC T0"
+            },
+            {
+                "address": "e5",
+                "name": "THX ULTRA 2 MUSIC T1"
+            },
+            {
+                "address": "e6",
+                "name": "THX ULTRA 2 CIN T0"
+            },
+            {
+                "address": "e6",
+                "name": "THX ULTRA 2 CIN T1"
+            },
+            {
+                "address": "e7",
+                "name": "THX SURR EX T0"
+            },
+            {
+                "address": "e7",
+                "name": "THX SURR EX T1"
+            },
+            {
+                "address": "e8",
+                "name": "DTS NEO6 T0"
+            },
+            {
+                "address": "e8",
+                "name": "DTS NEO6 T1"
+            },
+            {
+                "address": "e9",
+                "name": "DTS NEO6+T T0"
+            },
+            {
+                "address": "e9",
+                "name": "DTS NEO6+T T1"
+            },
+            {
+                "address": "ea",
+                "name": "DTS NEO6 CIN T0"
+            },
+            {
+                "address": "ea",
+                "name": "DTS NEO6 CIN T1"
+            },
+            {
+                "address": "eb",
+                "name": "D NEO6 CIN+T T0"
+            },
+            {
+                "address": "eb",
+                "name": "D NEO6 CIN+T T1"
+            },
+            {
+                "address": "ec",
+                "name": "DTS NEO6 MUZ T0"
+            },
+            {
+                "address": "ec",
+                "name": "DTS NEO6 MUZ T1"
+            },
+            {
+                "address": "ed",
+                "name": "DTS MTX6 T0"
+            },
+            {
+                "address": "ed",
+                "name": "DTS MTX6 T1"
+            },
+            {
+                "address": "ee",
+                "name": "DTS MTX6+T T0"
+            },
+            {
+                "address": "ee",
+                "name": "DTS MTX6+T T1"
+            },
+            {
+                "address": "ef",
+                "name": "STEREO 24/96 T0"
+            },
+            {
+                "address": "ef",
+                "name": "STEREO 24/96 T1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Surround Sound"
+}

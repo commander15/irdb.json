@@ -1,0 +1,245 @@
+{
+    "display_name": "Runco Video Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "c000000",
+                "name": "R",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "c000000",
+                "name": "B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "c000000",
+                "name": "OPERATE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "c000000",
+                "name": "OPERATE MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "c000000",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "c000000",
+                "name": "DISPLAY",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "8",
+                "device_address": "c000000",
+                "name": "POWER ON",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "c000000",
+                "name": "END",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "c000000",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "15",
+                "device_address": "c000000",
+                "name": "STATIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "c000000",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "c000000",
+                "name": "IDTV 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "c000000",
+                "name": "1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "19",
+                "device_address": "c000000",
+                "name": "IDTV 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "c000000",
+                "name": "2",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "c000000",
+                "name": "IDTV 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "c000000",
+                "name": "3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1b",
+                "device_address": "c000000",
+                "name": "IDTV 4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "c000000",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "c000000",
+                "name": "IDTV 5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "c000000",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "c000000",
+                "name": "RGB 6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "c000000",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1e",
+                "device_address": "c000000",
+                "name": "RGB 7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "c000000",
+                "name": "RGB 8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "c000000",
+                "name": "RGB 9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "41",
+                "device_address": "c000000",
+                "name": "HDTV",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "c000000",
+                "name": "NORMAL",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "45",
+                "device_address": "c000000",
+                "name": "SOUND MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "c000000",
+                "name": "PICTURE MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "c000000",
+                "name": "INPUT LIST",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5c",
+                "device_address": "c000000",
+                "name": "CUR UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "c000000",
+                "name": "CURSOR UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5d",
+                "device_address": "c000000",
+                "name": "CUR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "c000000",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "c000000",
+                "name": "CUR RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "c000000",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "5f",
+                "device_address": "c000000",
+                "name": "CUR LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5f",
+                "device_address": "c000000",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Runco",
+    "model": "",
+    "name": "",
+    "target": "Video Projector"
+}

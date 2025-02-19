@@ -1,0 +1,23 @@
+{
+    "display_name": "Sunfire Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "19",
+                "device_address": "5c0",
+                "name": "SURROUND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "5c0",
+                "name": "VCR 1",
+                "protocol": "NEC2"
+            }
+        ]
+    },
+    "manufacturer": "Sunfire",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

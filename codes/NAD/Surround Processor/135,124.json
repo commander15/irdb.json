@@ -1,0 +1,251 @@
+{
+    "display_name": "NAD Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "device_address": "70000000",
+                "name": "CD >",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "2",
+                "device_address": "70000000",
+                "name": "CD []",
+                "protocol": "NEC"
+            },
+            {
+                "address": "5",
+                "device_address": "70000000",
+                "name": "CD <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "70000000",
+                "name": "CD >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "17",
+                "device_address": "70000000",
+                "name": "CD DISC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "20",
+                "device_address": "70000000",
+                "name": "SLEEP",
+                "protocol": "NEC"
+            },
+            {
+                "address": "21",
+                "device_address": "70000000",
+                "name": "MULTI SOURCE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "22",
+                "device_address": "70000000",
+                "name": "MULTI VOLUME ^",
+                "protocol": "NEC"
+            },
+            {
+                "address": "23",
+                "device_address": "70000000",
+                "name": "MULTI VOLUME V",
+                "protocol": "NEC"
+            },
+            {
+                "address": "24",
+                "device_address": "70000000",
+                "name": "BANK",
+                "protocol": "NEC"
+            },
+            {
+                "address": "4a",
+                "device_address": "70000000",
+                "name": "CD ",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "80",
+                "device_address": "70000000",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "85",
+                "device_address": "70000000",
+                "name": "CD",
+                "protocol": "NEC"
+            },
+            {
+                "address": "88",
+                "device_address": "70000000",
+                "name": "MASTER VOLUME ^",
+                "protocol": "NEC"
+            },
+            {
+                "address": "89",
+                "device_address": "70000000",
+                "name": "PHONO",
+                "protocol": "NEC"
+            },
+            {
+                "address": "8c",
+                "device_address": "70000000",
+                "name": "MASTER VOLUME V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8d",
+                "device_address": "70000000",
+                "name": "TAPE 1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "91",
+                "device_address": "70000000",
+                "name": "TAPE 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "94",
+                "device_address": "70000000",
+                "name": "MUTE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "99",
+                "device_address": "70000000",
+                "name": "TAPE ",
+                "protocol": "NEC"
+            },
+            {
+                "address": "9a",
+                "device_address": "70000000",
+                "name": "TAPE REC",
+                "protocol": "NEC"
+            },
+            {
+                "address": "9c",
+                "device_address": "70000000",
+                "name": "TAPE >",
+                "protocol": "NEC"
+            },
+            {
+                "address": "9d",
+                "device_address": "70000000",
+                "name": "TAPE >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9e",
+                "device_address": "70000000",
+                "name": "TAPE <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9f",
+                "device_address": "70000000",
+                "name": "TAPE []",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c0",
+                "device_address": "70000000",
+                "name": "VIDEO 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "c1",
+                "device_address": "70000000",
+                "name": "VIDEO 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c2",
+                "device_address": "70000000",
+                "name": "VIDEO 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "cc",
+                "device_address": "70000000",
+                "name": "MODE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "cd",
+                "device_address": "70000000",
+                "name": "TEST",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ce",
+                "device_address": "70000000",
+                "name": "SPEAKERS MAIN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "70000000",
+                "name": "SPEAKERS REMOTE",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d0",
+                "device_address": "70000000",
+                "name": "CENTER VOLUME ^",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d1",
+                "device_address": "70000000",
+                "name": "BANK V",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d2",
+                "device_address": "70000000",
+                "name": "BANK ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d5",
+                "device_address": "70000000",
+                "name": "CENTER VOLUME V",
+                "protocol": "NEC"
+            },
+            {
+                "address": "d6",
+                "device_address": "70000000",
+                "name": "REAR VOLUME ^",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d7",
+                "device_address": "70000000",
+                "name": "REAR VOLUME V",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "da",
+                "device_address": "70000000",
+                "name": "DELAY",
+                "protocol": "NEC"
+            },
+            {
+                "address": "dd",
+                "device_address": "70000000",
+                "name": "TUNER",
+                "protocol": "NEC"
+            }
+        ]
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

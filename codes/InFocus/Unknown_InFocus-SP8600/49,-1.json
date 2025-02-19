@@ -1,0 +1,73 @@
+{
+    "display_name": "InFocus Unknown_InFocus-SP8600",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "83",
+                "name": "source"
+            },
+            {
+                "address": "84",
+                "name": "keystone_dec"
+            },
+            {
+                "address": "85",
+                "name": "keystone_inc"
+            },
+            {
+                "address": "86",
+                "name": "auto"
+            },
+            {
+                "address": "87",
+                "name": "KEY_MENU"
+            },
+            {
+                "address": "89",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "8c",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "8e",
+                "name": "freeze"
+            },
+            {
+                "address": "8f",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "c1",
+                "name": "KEY_UP"
+            },
+            {
+                "address": "c2",
+                "name": "KEY_DOWN"
+            },
+            {
+                "address": "c3",
+                "name": "KEY_LEFT"
+            },
+            {
+                "address": "c4",
+                "name": "KEY_RIGHT"
+            },
+            {
+                "address": "c5",
+                "name": "KEY_ENTER"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "InFocus",
+    "model": "",
+    "name": "",
+    "target": "Unknown_InFocus-SP8600"
+}

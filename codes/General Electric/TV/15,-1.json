@@ -1,0 +1,125 @@
+{
+    "display_name": "General Electric TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "DONE"
+            },
+            {
+                "address": "8",
+                "name": "MENU"
+            },
+            {
+                "address": "27",
+                "name": "PREV CH"
+            },
+            {
+                "address": "2a",
+                "name": "POWER"
+            },
+            {
+                "address": "2c",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "2c",
+                "name": "CURSOR V"
+            },
+            {
+                "address": "2d",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "2d",
+                "name": "CURSOR ^"
+            },
+            {
+                "address": "2e",
+                "name": "CURSOR -"
+            },
+            {
+                "address": "2e",
+                "name": ""
+            },
+            {
+                "address": "2f",
+                "name": "CURSOR +"
+            },
+            {
+                "address": "2f",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "30",
+                "name": "0"
+            },
+            {
+                "address": "31",
+                "name": "1"
+            },
+            {
+                "address": "32",
+                "name": "2"
+            },
+            {
+                "address": "33",
+                "name": "3"
+            },
+            {
+                "address": "34",
+                "name": "4"
+            },
+            {
+                "address": "35",
+                "name": "5"
+            },
+            {
+                "address": "36",
+                "name": "6"
+            },
+            {
+                "address": "37",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "39",
+                "name": "9"
+            },
+            {
+                "address": "3a",
+                "name": "POWER ON"
+            },
+            {
+                "address": "3b",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "3c",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "3f",
+                "name": "MUTE"
+            },
+            {
+                "address": "53",
+                "name": "SKIP:30"
+            },
+            {
+                "address": "a3",
+                "name": "INPUT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA"
+    },
+    "manufacturer": "General Electric",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

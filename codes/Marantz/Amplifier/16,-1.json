@@ -1,0 +1,69 @@
+{
+    "display_name": "Marantz Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "d",
+                "name": "MUTE ATT"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1d",
+                "name": "SPEAKER A/B"
+            },
+            {
+                "address": "22",
+                "name": "SOURCE DIRECT"
+            },
+            {
+                "address": "32",
+                "name": "LOUDNESS"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "53",
+                "name": "EXIT MENU"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "57",
+                "name": "ENTER (OK)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

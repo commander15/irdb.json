@@ -1,0 +1,317 @@
+{
+    "display_name": "Fast TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0-A"
+            },
+            {
+                "address": "0",
+                "name": "0-B"
+            },
+            {
+                "address": "1",
+                "name": "1-A"
+            },
+            {
+                "address": "1",
+                "name": "1-B"
+            },
+            {
+                "address": "2",
+                "name": "2-A"
+            },
+            {
+                "address": "2",
+                "name": "2-B"
+            },
+            {
+                "address": "3",
+                "name": "3-A"
+            },
+            {
+                "address": "3",
+                "name": "3-B"
+            },
+            {
+                "address": "4",
+                "name": "4-A"
+            },
+            {
+                "address": "4",
+                "name": "4-B"
+            },
+            {
+                "address": "5",
+                "name": "5-A"
+            },
+            {
+                "address": "5",
+                "name": "5-B"
+            },
+            {
+                "address": "6",
+                "name": "6-A"
+            },
+            {
+                "address": "6",
+                "name": "6-B"
+            },
+            {
+                "address": "7",
+                "name": "7-A"
+            },
+            {
+                "address": "7",
+                "name": "7-B"
+            },
+            {
+                "address": "8",
+                "name": "8-A"
+            },
+            {
+                "address": "8",
+                "name": "8-B"
+            },
+            {
+                "address": "9",
+                "name": "9-A"
+            },
+            {
+                "address": "9",
+                "name": "9-B"
+            },
+            {
+                "address": "c",
+                "name": "POWER-A"
+            },
+            {
+                "address": "c",
+                "name": "POWER-B"
+            },
+            {
+                "address": "d",
+                "name": "MUTE-A"
+            },
+            {
+                "address": "d",
+                "name": "MUTE-B"
+            },
+            {
+                "address": "f",
+                "name": "GRUEN-A"
+            },
+            {
+                "address": "f",
+                "name": "GRUEN-B"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR RIGHT-A"
+            },
+            {
+                "address": "10",
+                "name": "CURSOR RIGHT-B"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR LEFT-A"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR LEFT-B"
+            },
+            {
+                "address": "20",
+                "name": "PROGR+_A"
+            },
+            {
+                "address": "20",
+                "name": "PROGR+_B"
+            },
+            {
+                "address": "21",
+                "name": "PROGR-_A"
+            },
+            {
+                "address": "21",
+                "name": "PROGR-_B"
+            },
+            {
+                "address": "22",
+                "name": "VOR-A"
+            },
+            {
+                "address": "22",
+                "name": "VOR-B"
+            },
+            {
+                "address": "29",
+                "name": "OK-A"
+            },
+            {
+                "address": "29",
+                "name": "OK-B"
+            },
+            {
+                "address": "2d",
+                "name": "IPG-A"
+            },
+            {
+                "address": "2d",
+                "name": "IPG-B"
+            },
+            {
+                "address": "32",
+                "name": "PLAY-A"
+            },
+            {
+                "address": "32",
+                "name": "PLAY-B"
+            },
+            {
+                "address": "34",
+                "name": "FFW-A"
+            },
+            {
+                "address": "34",
+                "name": "FFW-B"
+            },
+            {
+                "address": "36",
+                "name": "STOP-A"
+            },
+            {
+                "address": "36",
+                "name": "STOP-B"
+            },
+            {
+                "address": "37",
+                "name": "REW-A"
+            },
+            {
+                "address": "37",
+                "name": "REW-B"
+            },
+            {
+                "address": "3c",
+                "name": "EXIT-A"
+            },
+            {
+                "address": "3c",
+                "name": "EXIT-B"
+            },
+            {
+                "address": "41",
+                "name": "VOL-_A"
+            },
+            {
+                "address": "41",
+                "name": "VOL-_B"
+            },
+            {
+                "address": "42",
+                "name": "VOL+_A"
+            },
+            {
+                "address": "42",
+                "name": "VOL+_B"
+            },
+            {
+                "address": "48",
+                "name": "I/II-A"
+            },
+            {
+                "address": "48",
+                "name": "I/II-B"
+            },
+            {
+                "address": "5c",
+                "name": "ZURUECK-A"
+            },
+            {
+                "address": "5c",
+                "name": "ZURUECK-B"
+            },
+            {
+                "address": "5d",
+                "name": "STEP-A"
+            },
+            {
+                "address": "5d",
+                "name": "STEP-B"
+            },
+            {
+                "address": "5e",
+                "name": "JOBS-A"
+            },
+            {
+                "address": "5e",
+                "name": "JOBS-B"
+            },
+            {
+                "address": "5f",
+                "name": "ARCH-A"
+            },
+            {
+                "address": "5f",
+                "name": "ARCH-B"
+            },
+            {
+                "address": "71",
+                "name": "BLAU-A"
+            },
+            {
+                "address": "71",
+                "name": "BLAU-B"
+            },
+            {
+                "address": "72",
+                "name": "GELB-A"
+            },
+            {
+                "address": "72",
+                "name": "GELB-B"
+            },
+            {
+                "address": "73",
+                "name": "?-A"
+            },
+            {
+                "address": "73",
+                "name": "?-B"
+            },
+            {
+                "address": "74",
+                "name": "TVTV-A"
+            },
+            {
+                "address": "74",
+                "name": "TVTV-B"
+            },
+            {
+                "address": "75",
+                "name": "ROT-A"
+            },
+            {
+                "address": "75",
+                "name": "ROT-B"
+            },
+            {
+                "address": "7d",
+                "name": "LIVE-A"
+            },
+            {
+                "address": "7d",
+                "name": "LIVE-B"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Fast",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,45 @@
+{
+    "display_name": "Fujitsu Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOL +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "VOL --"
+            },
+            {
+                "address": "11",
+                "name": "VOL -"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DN"
+            },
+            {
+                "address": "12",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "84000",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

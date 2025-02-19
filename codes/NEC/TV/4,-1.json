@@ -1,0 +1,109 @@
+{
+    "display_name": "NEC TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "0",
+                "name": "CH ^"
+            },
+            {
+                "address": "1",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "1",
+                "name": "CH V"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "2",
+                "name": "VOL ^"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "3",
+                "name": "VOL V"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "9",
+                "name": "TV/VIDEO"
+            },
+            {
+                "address": "a",
+                "name": "MUTE"
+            },
+            {
+                "address": "b",
+                "name": "ANT/AUX"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "1"
+            },
+            {
+                "address": "12",
+                "name": "2"
+            },
+            {
+                "address": "13",
+                "name": "3"
+            },
+            {
+                "address": "14",
+                "name": "4"
+            },
+            {
+                "address": "15",
+                "name": "5"
+            },
+            {
+                "address": "16",
+                "name": "6"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "8"
+            },
+            {
+                "address": "19",
+                "name": "9"
+            },
+            {
+                "address": "1a",
+                "name": "TIMER"
+            },
+            {
+                "address": "1b",
+                "name": "RECALL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

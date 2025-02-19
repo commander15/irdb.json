@@ -1,0 +1,101 @@
+{
+    "display_name": "Hitachi TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "81",
+                "name": "INPUT"
+            },
+            {
+                "address": "84",
+                "name": "0"
+            },
+            {
+                "address": "85",
+                "name": "1"
+            },
+            {
+                "address": "86",
+                "name": "2"
+            },
+            {
+                "address": "87",
+                "name": "3"
+            },
+            {
+                "address": "88",
+                "name": "4"
+            },
+            {
+                "address": "89",
+                "name": "5"
+            },
+            {
+                "address": "8a",
+                "name": "6"
+            },
+            {
+                "address": "8b",
+                "name": "7"
+            },
+            {
+                "address": "8c",
+                "name": "8"
+            },
+            {
+                "address": "8d",
+                "name": "9"
+            },
+            {
+                "address": "8f",
+                "name": "EXIT"
+            },
+            {
+                "address": "90",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "92",
+                "name": "GUIDE"
+            },
+            {
+                "address": "93",
+                "name": "INFO"
+            },
+            {
+                "address": "94",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "95",
+                "name": "POWER"
+            },
+            {
+                "address": "97",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "99",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "e9",
+                "name": "SVCS"
+            },
+            {
+                "address": "f0",
+                "name": "MENU"
+            },
+            {
+                "address": "f6",
+                "name": "SCHED"
+            }
+        ],
+        "device_address": "60000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Hitachi",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,77 @@
+{
+    "display_name": "Celadon IR to RS232",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "1ec",
+                "name": "VIDEO 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "1",
+                "device_address": "1ec",
+                "name": "VIDEO 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "2",
+                "device_address": "1ec",
+                "name": "VIDEO 3",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "3",
+                "device_address": "1ec",
+                "name": "HD",
+                "protocol": "NEC"
+            },
+            {
+                "address": "4",
+                "device_address": "1ec",
+                "name": "HD2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "5",
+                "device_address": "1ec",
+                "name": "RGB 1",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "6",
+                "device_address": "1ec",
+                "name": "RGB 3",
+                "protocol": "NEC"
+            },
+            {
+                "address": "7",
+                "device_address": "1ec",
+                "name": "RGB 2",
+                "protocol": "NEC"
+            },
+            {
+                "address": "9",
+                "device_address": "1ec",
+                "name": "ZOOM",
+                "protocol": "NEC"
+            },
+            {
+                "address": "a",
+                "device_address": "1ec",
+                "name": "NORMAL",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "b",
+                "device_address": "1ec",
+                "name": "FULL",
+                "protocol": "NEC"
+            }
+        ]
+    },
+    "manufacturer": "Celadon",
+    "model": "",
+    "name": "",
+    "target": "IR to RS232"
+}

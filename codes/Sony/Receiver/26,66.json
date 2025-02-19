@@ -1,0 +1,73 @@
+{
+    "display_name": "Sony Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "15",
+                "name": "POWER"
+            },
+            {
+                "address": "1e",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "20",
+                "name": "PHONO"
+            },
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "22",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "23",
+                "name": "TAPE"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "42",
+                "name": "VIDEO 3"
+            },
+            {
+                "address": "69",
+                "name": "MD/DAT"
+            },
+            {
+                "address": "6a",
+                "name": "TV"
+            },
+            {
+                "address": "6b",
+                "name": "LD"
+            },
+            {
+                "address": "7b",
+                "name": "CINEMA STUDIO A"
+            },
+            {
+                "address": "7d",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "68",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

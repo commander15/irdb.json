@@ -1,0 +1,37 @@
+{
+    "display_name": "Bang Olufsen CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "30",
+                "name": "TRACK -"
+            },
+            {
+                "address": "31",
+                "name": "TRACK +"
+            },
+            {
+                "address": "32",
+                "name": "PLAY"
+            },
+            {
+                "address": "33",
+                "name": "SCAN -"
+            },
+            {
+                "address": "34",
+                "name": "SCAN +"
+            },
+            {
+                "address": "38",
+                "name": "STOP"
+            }
+        ],
+        "device_address": "3400",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "Bang Olufsen",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

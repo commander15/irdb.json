@@ -1,0 +1,41 @@
+{
+    "display_name": "Airmate Fan",
+    "ir": {
+        "commands": [
+            {
+                "address": "9",
+                "name": "Oscillation"
+            },
+            {
+                "address": "11",
+                "name": "Timer"
+            },
+            {
+                "address": "21",
+                "name": "Fan mode"
+            },
+            {
+                "address": "41",
+                "name": "Speed"
+            },
+            {
+                "address": "63",
+                "name": "Light"
+            },
+            {
+                "address": "81",
+                "name": "Shutdown"
+            },
+            {
+                "address": "c3",
+                "name": "Presets"
+            }
+        ],
+        "device_address": "6",
+        "protocol": "F12"
+    },
+    "manufacturer": "Airmate",
+    "model": "",
+    "name": "",
+    "target": "Fan"
+}

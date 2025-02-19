@@ -1,0 +1,29 @@
+{
+    "display_name": "Carver Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "STOP"
+            },
+            {
+                "address": "1c",
+                "name": "FF"
+            },
+            {
+                "address": "1d",
+                "name": "REW"
+            }
+        ],
+        "device_address": "66",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

@@ -1,0 +1,341 @@
+{
+    "display_name": "Audio Research Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "0",
+                "name": "DISPLAY B"
+            },
+            {
+                "address": "0",
+                "name": "DISPLAY A"
+            },
+            {
+                "address": "1",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "POWER B"
+            },
+            {
+                "address": "1",
+                "name": "POWER A"
+            },
+            {
+                "address": "2",
+                "name": "CD"
+            },
+            {
+                "address": "2",
+                "name": "CD B"
+            },
+            {
+                "address": "2",
+                "name": "CD A"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "3",
+                "name": "TUNER B"
+            },
+            {
+                "address": "3",
+                "name": "TUNER A"
+            },
+            {
+                "address": "4",
+                "name": "VIDEO"
+            },
+            {
+                "address": "4",
+                "name": "VIDEO B"
+            },
+            {
+                "address": "4",
+                "name": "VIDEO 1 A"
+            },
+            {
+                "address": "4",
+                "name": "VIDEO 1 B"
+            },
+            {
+                "address": "8",
+                "name": "PHONO"
+            },
+            {
+                "address": "8",
+                "name": "PHONO B"
+            },
+            {
+                "address": "8",
+                "name": "PHONO A"
+            },
+            {
+                "address": "9",
+                "name": "AUX 1"
+            },
+            {
+                "address": "9",
+                "name": "AUX 1 B"
+            },
+            {
+                "address": "9",
+                "name": "AUX 1 A"
+            },
+            {
+                "address": "a",
+                "name": "AUX 2"
+            },
+            {
+                "address": "a",
+                "name": "AUX 2 B"
+            },
+            {
+                "address": "a",
+                "name": "AUX 2 A"
+            },
+            {
+                "address": "b",
+                "name": "MONITOR A"
+            },
+            {
+                "address": "b",
+                "name": "MONITOR B"
+            },
+            {
+                "address": "c",
+                "name": "GAIN A"
+            },
+            {
+                "address": "c",
+                "name": "GAIN B"
+            },
+            {
+                "address": "f",
+                "name": "VOL UP"
+            },
+            {
+                "address": "f",
+                "name": "VOL UP B"
+            },
+            {
+                "address": "f",
+                "name": "VOLUME + A"
+            },
+            {
+                "address": "f",
+                "name": "VOLUME + B"
+            },
+            {
+                "address": "11",
+                "name": "BAL L"
+            },
+            {
+                "address": "11",
+                "name": "BAL L B"
+            },
+            {
+                "address": "11",
+                "name": "BALANCE LEFT A"
+            },
+            {
+                "address": "11",
+                "name": "BALANCE LEFT B"
+            },
+            {
+                "address": "13",
+                "name": "BAL R"
+            },
+            {
+                "address": "13",
+                "name": "BAL R B"
+            },
+            {
+                "address": "13",
+                "name": "BALANCE RIGHT A"
+            },
+            {
+                "address": "13",
+                "name": "BALANCE RIGHT B"
+            },
+            {
+                "address": "15",
+                "name": "VOL DN"
+            },
+            {
+                "address": "15",
+                "name": "VOL DN B"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME - A"
+            },
+            {
+                "address": "15",
+                "name": "VOLUME - B"
+            },
+            {
+                "address": "17",
+                "name": "BAL/SE"
+            },
+            {
+                "address": "17",
+                "name": "BAL/SE B"
+            },
+            {
+                "address": "17",
+                "name": "BAL/SE A"
+            },
+            {
+                "address": "18",
+                "name": "HOURS"
+            },
+            {
+                "address": "18",
+                "name": "HOURS B"
+            },
+            {
+                "address": "18",
+                "name": "HOURS A"
+            },
+            {
+                "address": "19",
+                "name": "PROC"
+            },
+            {
+                "address": "19",
+                "name": "PROC B"
+            },
+            {
+                "address": "19",
+                "name": "PROC A"
+            },
+            {
+                "address": "1a",
+                "name": "INVERT"
+            },
+            {
+                "address": "1a",
+                "name": "INVERT B"
+            },
+            {
+                "address": "1a",
+                "name": "INVERT A"
+            },
+            {
+                "address": "1b",
+                "name": "MUTE"
+            },
+            {
+                "address": "1b",
+                "name": "MUTE B"
+            },
+            {
+                "address": "1b",
+                "name": "MUTE A"
+            },
+            {
+                "address": "1c",
+                "name": "MONO"
+            },
+            {
+                "address": "1c",
+                "name": "MONO B"
+            },
+            {
+                "address": "1c",
+                "name": "STEREO/MONO A"
+            },
+            {
+                "address": "1c",
+                "name": "STEREO/MONO B"
+            },
+            {
+                "address": "20",
+                "name": "POWER OFF A"
+            },
+            {
+                "address": "20",
+                "name": "POWER OFF B"
+            },
+            {
+                "address": "21",
+                "name": "POWER ON A"
+            },
+            {
+                "address": "21",
+                "name": "POWER ON B"
+            },
+            {
+                "address": "22",
+                "name": "MUTE OFF A"
+            },
+            {
+                "address": "22",
+                "name": "MUTE OFF B"
+            },
+            {
+                "address": "23",
+                "name": "MUTE ON A"
+            },
+            {
+                "address": "23",
+                "name": "MUTE ON B"
+            },
+            {
+                "address": "24",
+                "name": "MONIT OFF A"
+            },
+            {
+                "address": "24",
+                "name": "MONIT OFF B"
+            },
+            {
+                "address": "25",
+                "name": "MONITOR ON A"
+            },
+            {
+                "address": "25",
+                "name": "MONITOR ON B"
+            },
+            {
+                "address": "28",
+                "name": "LO GAIN A"
+            },
+            {
+                "address": "28",
+                "name": "LO GAIN B"
+            },
+            {
+                "address": "29",
+                "name": "MED GAIN A"
+            },
+            {
+                "address": "29",
+                "name": "MED GAIN B"
+            },
+            {
+                "address": "2a",
+                "name": "HI GAIN A"
+            },
+            {
+                "address": "2a",
+                "name": "HI GAIN B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Research",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

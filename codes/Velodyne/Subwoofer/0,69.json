@@ -1,0 +1,33 @@
+{
+    "display_name": "Velodyne Subwoofer",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "85",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "86",
+                "name": "RESET"
+            },
+            {
+                "address": "87",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "c4",
+                "name": "MUTE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Velodyne",
+    "model": "",
+    "name": "",
+    "target": "Subwoofer"
+}

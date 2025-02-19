@@ -1,0 +1,37 @@
+{
+    "display_name": "Audio Refinement Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "SEARCH +"
+            },
+            {
+                "address": "11",
+                "name": "SEARCH -"
+            },
+            {
+                "address": "1c",
+                "name": "FM/AM"
+            },
+            {
+                "address": "2b",
+                "name": "TUNER"
+            },
+            {
+                "address": "3c",
+                "name": "PRESET -"
+            },
+            {
+                "address": "3f",
+                "name": "PRESET +"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Refinement",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

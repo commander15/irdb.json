@@ -1,0 +1,253 @@
+{
+    "display_name": "Carver CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "SKIP FWD >>"
+            },
+            {
+                "address": "81",
+                "name": "SKIP REV <<"
+            },
+            {
+                "address": "81",
+                "name": "PAUSE/STOP"
+            },
+            {
+                "address": "83",
+                "name": "PLAY >"
+            },
+            {
+                "address": "84",
+                "name": "STOP []"
+            },
+            {
+                "address": "84",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "85",
+                "name": "PLAY >"
+            },
+            {
+                "address": "85",
+                "name": "SKIP -"
+            },
+            {
+                "address": "86",
+                "name": "SKIP +"
+            },
+            {
+                "address": "87",
+                "name": "DISC SKIP +"
+            },
+            {
+                "address": "87",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "88",
+                "name": "DISC SKIP -"
+            },
+            {
+                "address": "88",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "89",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "89",
+                "name": "A-B"
+            },
+            {
+                "address": "8a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "8a",
+                "name": "REPEAT"
+            },
+            {
+                "address": "8b",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "8c",
+                "name": "SCAN FWD >>"
+            },
+            {
+                "address": "8c",
+                "name": "1"
+            },
+            {
+                "address": "8d",
+                "name": "SCAN REV <<"
+            },
+            {
+                "address": "8d",
+                "name": "2"
+            },
+            {
+                "address": "8e",
+                "name": "PAUSE"
+            },
+            {
+                "address": "8e",
+                "name": "3"
+            },
+            {
+                "address": "8f",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "8f",
+                "name": "4"
+            },
+            {
+                "address": "90",
+                "name": "1"
+            },
+            {
+                "address": "90",
+                "name": "5"
+            },
+            {
+                "address": "91",
+                "name": "2"
+            },
+            {
+                "address": "91",
+                "name": "6"
+            },
+            {
+                "address": "92",
+                "name": "3"
+            },
+            {
+                "address": "92",
+                "name": "7"
+            },
+            {
+                "address": "93",
+                "name": "4"
+            },
+            {
+                "address": "93",
+                "name": "8"
+            },
+            {
+                "address": "94",
+                "name": "5"
+            },
+            {
+                "address": "95",
+                "name": "6"
+            },
+            {
+                "address": "95",
+                "name": "9"
+            },
+            {
+                "address": "96",
+                "name": "7"
+            },
+            {
+                "address": "96",
+                "name": "0"
+            },
+            {
+                "address": "97",
+                "name": "8"
+            },
+            {
+                "address": "97",
+                "name": "CONTINUE"
+            },
+            {
+                "address": "98",
+                "name": "9"
+            },
+            {
+                "address": "99",
+                "name": "+10"
+            },
+            {
+                "address": "9a",
+                "name": "0"
+            },
+            {
+                "address": "9a",
+                "name": "SOFT EQ"
+            },
+            {
+                "address": "9b",
+                "name": "DISC 1"
+            },
+            {
+                "address": "9c",
+                "name": "DISC 2"
+            },
+            {
+                "address": "9c",
+                "name": "CLEAR"
+            },
+            {
+                "address": "9d",
+                "name": "DISC 3"
+            },
+            {
+                "address": "9e",
+                "name": "DISC 4"
+            },
+            {
+                "address": "9f",
+                "name": "DISC 5"
+            },
+            {
+                "address": "9f",
+                "name": "RANDOM"
+            },
+            {
+                "address": "c9",
+                "name": "REPEAT"
+            },
+            {
+                "address": "ca",
+                "name": "CLEAR"
+            },
+            {
+                "address": "cb",
+                "name": "CALL"
+            },
+            {
+                "address": "cc",
+                "name": "LEVEL FILE"
+            },
+            {
+                "address": "cd",
+                "name": "TIME"
+            },
+            {
+                "address": "ce",
+                "name": "RANDOM"
+            },
+            {
+                "address": "db",
+                "name": "FADER"
+            },
+            {
+                "address": "dd",
+                "name": "EQ"
+            }
+        ],
+        "device_address": "38000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Carver",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

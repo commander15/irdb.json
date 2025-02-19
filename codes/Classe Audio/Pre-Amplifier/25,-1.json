@@ -1,0 +1,201 @@
+{
+    "display_name": "Classe Audio Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "STANDBY"
+            },
+            {
+                "address": "c",
+                "name": ""
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": ""
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "f",
+                "name": ""
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": ""
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": ""
+            },
+            {
+                "address": "14",
+                "name": "AUD1"
+            },
+            {
+                "address": "14",
+                "name": ""
+            },
+            {
+                "address": "15",
+                "name": "AUD2"
+            },
+            {
+                "address": "15",
+                "name": ""
+            },
+            {
+                "address": "16",
+                "name": "AUD3"
+            },
+            {
+                "address": "16",
+                "name": ""
+            },
+            {
+                "address": "20",
+                "name": "MODE >"
+            },
+            {
+                "address": "20",
+                "name": ""
+            },
+            {
+                "address": "21",
+                "name": "MENU"
+            },
+            {
+                "address": "21",
+                "name": ""
+            },
+            {
+                "address": "21",
+                "name": "MUTE"
+            },
+            {
+                "address": "22",
+                "name": "UP"
+            },
+            {
+                "address": "22",
+                "name": ""
+            },
+            {
+                "address": "23",
+                "name": "LEFT"
+            },
+            {
+                "address": "23",
+                "name": ""
+            },
+            {
+                "address": "24",
+                "name": "RIGHT"
+            },
+            {
+                "address": "24",
+                "name": ""
+            },
+            {
+                "address": "25",
+                "name": "DOWN"
+            },
+            {
+                "address": "25",
+                "name": ""
+            },
+            {
+                "address": "26",
+                "name": "ENTER"
+            },
+            {
+                "address": "26",
+                "name": ""
+            },
+            {
+                "address": "30",
+                "name": "AV1"
+            },
+            {
+                "address": "30",
+                "name": ""
+            },
+            {
+                "address": "31",
+                "name": "AV2"
+            },
+            {
+                "address": "31",
+                "name": ""
+            },
+            {
+                "address": "32",
+                "name": "AV3"
+            },
+            {
+                "address": "32",
+                "name": ""
+            },
+            {
+                "address": "33",
+                "name": "AV4"
+            },
+            {
+                "address": "33",
+                "name": ""
+            },
+            {
+                "address": "38",
+                "name": "MODE <"
+            },
+            {
+                "address": "38",
+                "name": ""
+            },
+            {
+                "address": "39",
+                "name": "THX"
+            },
+            {
+                "address": "39",
+                "name": ""
+            },
+            {
+                "address": "3c",
+                "name": "AUTO"
+            },
+            {
+                "address": "3c",
+                "name": ""
+            },
+            {
+                "address": "3d",
+                "name": "COMPR"
+            },
+            {
+                "address": "3d",
+                "name": ""
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

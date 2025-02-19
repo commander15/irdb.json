@@ -1,0 +1,85 @@
+{
+    "display_name": "Panasonic Unknown_cd",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "STOP/CLEAR"
+            },
+            {
+                "address": "81",
+                "name": "KEY_AGAIN"
+            },
+            {
+                "address": "84",
+                "name": "KEY_BACK"
+            },
+            {
+                "address": "85",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "87",
+                "name": "KEY_PLAYPAUSE"
+            },
+            {
+                "address": "8b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "ac",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "b0",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "b1",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "b5",
+                "name": "XBS"
+            },
+            {
+                "address": "b6",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "b8",
+                "name": "BAND"
+            },
+            {
+                "address": "bf",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "e4",
+                "name": "FM_MODE"
+            },
+            {
+                "address": "e7",
+                "name": "TUNER_CH_UP"
+            },
+            {
+                "address": "e8",
+                "name": "TUNER_CH_DOWN"
+            },
+            {
+                "address": "e9",
+                "name": "TUNER+"
+            },
+            {
+                "address": "ea",
+                "name": "TUNER-"
+            }
+        ],
+        "device_address": "280",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "Unknown_cd"
+}

@@ -1,0 +1,347 @@
+{
+    "display_name": "Denon Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "83",
+                "device_address": "0",
+                "name": "DIGITAL DBS/BS",
+                "protocol": "Denon"
+            },
+            {
+                "address": "84",
+                "device_address": "0",
+                "name": "DIGITAL VDP",
+                "protocol": "Denon"
+            },
+            {
+                "address": "85",
+                "device_address": "0",
+                "name": "DIGITAL CD",
+                "protocol": "Denon"
+            },
+            {
+                "address": "86",
+                "device_address": "0",
+                "name": "DIGITAL DAT",
+                "protocol": "Denon"
+            },
+            {
+                "address": "b9",
+                "device_address": "0",
+                "name": "A",
+                "protocol": "Denon"
+            },
+            {
+                "address": "ba",
+                "device_address": "0",
+                "name": "B",
+                "protocol": "Denon"
+            },
+            {
+                "address": "bb",
+                "device_address": "0",
+                "name": "C",
+                "protocol": "Denon"
+            },
+            {
+                "address": "bc",
+                "device_address": "0",
+                "name": "D",
+                "protocol": "Denon"
+            },
+            {
+                "address": "bd",
+                "device_address": "0",
+                "name": "E",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c1",
+                "device_address": "0",
+                "name": "1",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c2",
+                "device_address": "0",
+                "name": "2",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c3",
+                "device_address": "0",
+                "name": "3",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c4",
+                "device_address": "0",
+                "name": "4",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c5",
+                "device_address": "0",
+                "name": "5",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c6",
+                "device_address": "0",
+                "name": "6",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c7",
+                "device_address": "0",
+                "name": "7",
+                "protocol": "Denon"
+            },
+            {
+                "address": "c7",
+                "device_address": "0",
+                "name": "",
+                "protocol": "Denon{1}"
+            },
+            {
+                "address": "c8",
+                "device_address": "0",
+                "name": "8",
+                "protocol": "Denon"
+            },
+            {
+                "address": "cc",
+                "device_address": "0",
+                "name": "MEMORY",
+                "protocol": "Denon"
+            },
+            {
+                "address": "cd",
+                "device_address": "0",
+                "name": "SHIFT/PTY",
+                "protocol": "Denon"
+            },
+            {
+                "address": "cd",
+                "device_address": "0",
+                "name": "SHIFT PRESET BANK",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d2",
+                "device_address": "0",
+                "name": "RDS",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d3",
+                "device_address": "0",
+                "name": "CT",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d4",
+                "device_address": "0",
+                "name": "PTY",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d5",
+                "device_address": "0",
+                "name": "TUNER CH V",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d5",
+                "device_address": "0",
+                "name": "CH DN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d5",
+                "device_address": "0",
+                "name": "PRESET CH DOWN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d5",
+                "device_address": "0",
+                "name": "PRESET CH V",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d6",
+                "device_address": "0",
+                "name": "TUNER CH ^",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d6",
+                "device_address": "0",
+                "name": "CH UP",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d6",
+                "device_address": "0",
+                "name": "PRESET CH UP",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d6",
+                "device_address": "0",
+                "name": "PRESET CH ^",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d7",
+                "device_address": "0",
+                "name": "TUNER BAND",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d7",
+                "device_address": "0",
+                "name": "BAND",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "TUNER AT/MANU",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "MODE",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "AUTO/MANUAL",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d8",
+                "device_address": "0",
+                "name": "AUTO MUTE/MANU",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "TUNER TUNE ^",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "TUNE UP",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "UP",
+                "protocol": "Denon"
+            },
+            {
+                "address": "d9",
+                "device_address": "0",
+                "name": "TUNING ^",
+                "protocol": "Denon"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "TUNER TUNE V",
+                "protocol": "Denon"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "TUNE DN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "DOWN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "da",
+                "device_address": "0",
+                "name": "TUNING V",
+                "protocol": "Denon"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "TUNER RF",
+                "protocol": "Denon"
+            },
+            {
+                "address": "db",
+                "device_address": "0",
+                "name": "RF ATT",
+                "protocol": "Denon"
+            },
+            {
+                "address": "dc",
+                "device_address": "0",
+                "name": "TUNER P.SCAN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "dc",
+                "device_address": "0",
+                "name": "P.SCAN",
+                "protocol": "Denon"
+            },
+            {
+                "address": "dd",
+                "device_address": "0",
+                "name": "TUNER POWER",
+                "protocol": "Denon"
+            },
+            {
+                "address": "dd",
+                "device_address": "0",
+                "name": "POWER",
+                "protocol": "Denon"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "DISPLAY",
+                "protocol": "Denon"
+            },
+            {
+                "address": "de",
+                "device_address": "0",
+                "name": "PANEL",
+                "protocol": "Denon"
+            },
+            {
+                "address": "df",
+                "device_address": "0",
+                "name": "DIMMER",
+                "protocol": "Denon"
+            },
+            {
+                "address": "f9",
+                "device_address": "0",
+                "name": "SEARCH",
+                "protocol": "Denon"
+            }
+        ]
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

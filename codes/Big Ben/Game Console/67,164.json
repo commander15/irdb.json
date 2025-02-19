@@ -1,0 +1,73 @@
+{
+    "display_name": "Big Ben Game Console",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "1",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "2",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "3",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "4",
+                "name": "DISPLAY INFO/ SELECT"
+            },
+            {
+                "address": "5",
+                "name": "PLAY/PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "HOME"
+            },
+            {
+                "address": "7",
+                "name": "QUICK MENU -TRIANGLE"
+            },
+            {
+                "address": "8",
+                "name": "QUIT -CIRCLE"
+            },
+            {
+                "address": "9",
+                "name": "MENU DVD -SQUARE"
+            },
+            {
+                "address": "a",
+                "name": "OK -CROSS"
+            },
+            {
+                "address": "b",
+                "name": "L1 -SLIP <"
+            },
+            {
+                "address": "c",
+                "name": "L2 -REW"
+            },
+            {
+                "address": "d",
+                "name": "R1 -SKIP >"
+            },
+            {
+                "address": "e",
+                "name": "R2 -FFW"
+            }
+        ],
+        "device_address": "430",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Big Ben",
+    "model": "",
+    "name": "",
+    "target": "Game Console"
+}

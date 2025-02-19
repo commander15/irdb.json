@@ -1,0 +1,77 @@
+{
+    "display_name": "Chief Manufacturing Motorized Lift",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "device_address": "0",
+                "name": "POWER OFF",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "PRESET 1",
+                "protocol": "NEC"
+            },
+            {
+                "address": "3",
+                "device_address": "0",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4",
+                "device_address": "0",
+                "name": "PRESET 2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5",
+                "device_address": "0",
+                "name": "IN/OUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "6",
+                "device_address": "0",
+                "name": "ARROW LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "0",
+                "name": "ARROW RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "8",
+                "device_address": "0",
+                "name": "ARROW UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "9",
+                "device_address": "0",
+                "name": "ARROW DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "10",
+                "device_address": "0",
+                "name": "PRESET 3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "0",
+                "name": "PRESET 4",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Chief Manufacturing",
+    "model": "",
+    "name": "",
+    "target": "Motorized Lift"
+}

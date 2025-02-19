@@ -1,0 +1,305 @@
+{
+    "display_name": "Emerson TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "43",
+                "device_address": "21c",
+                "name": "A-B",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "21c",
+                "name": "REPEAT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "21c",
+                "name": "REWIND",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "53",
+                "device_address": "21c",
+                "name": "FORWARD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "57",
+                "device_address": "21c",
+                "name": "SEARCH MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "21c",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5b",
+                "device_address": "21c",
+                "name": "PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5c",
+                "device_address": "21c",
+                "name": "MODE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "21c",
+                "name": "PLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "60",
+                "device_address": "21c",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "70",
+                "device_address": "21c",
+                "name": "TITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "71",
+                "device_address": "21c",
+                "name": "DISC MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "72",
+                "device_address": "21c",
+                "name": "ENTER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "73",
+                "device_address": "21c",
+                "name": "RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "79",
+                "device_address": "21c",
+                "name": "ANGLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7a",
+                "device_address": "21c",
+                "name": "SUBTITLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7b",
+                "device_address": "21c",
+                "name": "AUDIO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "81",
+                "device_address": "21c",
+                "name": "V.SURR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c6",
+                "device_address": "21c",
+                "name": "RIGHT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c7",
+                "device_address": "21c",
+                "name": "LEFT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c8",
+                "device_address": "21c",
+                "name": "CHANNEL DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c9",
+                "device_address": "21c",
+                "name": "PICTURE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cb",
+                "device_address": "21c",
+                "name": "SLEEP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "21c",
+                "name": "",
+                "protocol": "NEC"
+            },
+            {
+                "address": "cd",
+                "device_address": "21c",
+                "name": "SELECT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cd",
+                "device_address": "21c",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "cf",
+                "device_address": "21c",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "d0",
+                "device_address": "21c",
+                "name": "CHANNEL UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "df",
+                "device_address": "21c",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e0",
+                "device_address": "21c",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e1",
+                "device_address": "21c",
+                "name": "2",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e2",
+                "device_address": "21c",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e3",
+                "device_address": "21c",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e4",
+                "device_address": "21c",
+                "name": "5",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e5",
+                "device_address": "21c",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e6",
+                "device_address": "21c",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e7",
+                "device_address": "21c",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e8",
+                "device_address": "21c",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "e9",
+                "device_address": "21c",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ec",
+                "device_address": "21c",
+                "name": "100+",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "ef",
+                "device_address": "21c",
+                "name": "SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f0",
+                "device_address": "21c",
+                "name": "VOLUME UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f1",
+                "device_address": "21c",
+                "name": "VOLUME DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f3",
+                "device_address": "21c",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f6",
+                "device_address": "21c",
+                "name": "UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "f7",
+                "device_address": "21c",
+                "name": "DOWN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fa",
+                "device_address": "21c",
+                "name": "RECORD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fb",
+                "device_address": "21c",
+                "name": "SPEED",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "fc",
+                "device_address": "21c",
+                "name": "C.RESET",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Emerson",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

@@ -1,0 +1,165 @@
+{
+    "display_name": "Panasonic Laser Disc",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "STOP"
+            },
+            {
+                "address": "1",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "4",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "5",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "6",
+                "name": "PAUSE"
+            },
+            {
+                "address": "a",
+                "name": "PLAY"
+            },
+            {
+                "address": "c",
+                "name": "STILL/STEP >"
+            },
+            {
+                "address": "d",
+                "name": "STILL/STEP <"
+            },
+            {
+                "address": "10",
+                "name": "1"
+            },
+            {
+                "address": "11",
+                "name": "2"
+            },
+            {
+                "address": "12",
+                "name": "3"
+            },
+            {
+                "address": "13",
+                "name": "4"
+            },
+            {
+                "address": "14",
+                "name": "5"
+            },
+            {
+                "address": "15",
+                "name": "6"
+            },
+            {
+                "address": "16",
+                "name": "7"
+            },
+            {
+                "address": "17",
+                "name": "8"
+            },
+            {
+                "address": "18",
+                "name": "9"
+            },
+            {
+                "address": "19",
+                "name": "0"
+            },
+            {
+                "address": "33",
+                "name": "AUDIO SELECT"
+            },
+            {
+                "address": "3d",
+                "name": "POWER"
+            },
+            {
+                "address": "46",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "47",
+                "name": "REPEAT"
+            },
+            {
+                "address": "48",
+                "name": "A-B REPEAT"
+            },
+            {
+                "address": "49",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "4a",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4d",
+                "name": "RANDOM"
+            },
+            {
+                "address": "55",
+                "name": "TIME MODE"
+            },
+            {
+                "address": "91",
+                "name": "FP DISPLAY"
+            },
+            {
+                "address": "a0",
+                "name": "CLEAR"
+            },
+            {
+                "address": "a1",
+                "name": "RECALL"
+            },
+            {
+                "address": "a4",
+                "name": "+10"
+            },
+            {
+                "address": "aa",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "ad",
+                "name": "EDIT"
+            },
+            {
+                "address": "c0",
+                "name": "MODE"
+            },
+            {
+                "address": "c3",
+                "name": "SIDE A"
+            },
+            {
+                "address": "c4",
+                "name": "SIDE B"
+            },
+            {
+                "address": "d0",
+                "name": "D/A CX"
+            },
+            {
+                "address": "d2",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "90",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "Laser Disc"
+}

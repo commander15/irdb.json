@@ -1,0 +1,289 @@
+{
+    "display_name": "Mitsubishi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TV 1"
+            },
+            {
+                "address": "1",
+                "name": "TV 9"
+            },
+            {
+                "address": "2",
+                "name": "TV POWER"
+            },
+            {
+                "address": "2",
+                "name": "POWER"
+            },
+            {
+                "address": "7",
+                "name": "TV CANCEL"
+            },
+            {
+                "address": "8",
+                "name": "TV 2"
+            },
+            {
+                "address": "9",
+                "name": "TV 0"
+            },
+            {
+                "address": "a",
+                "name": "TV CHANNEL ^"
+            },
+            {
+                "address": "a",
+                "name": "TV SCAN ^ (CH ^)"
+            },
+            {
+                "address": "a",
+                "name": "TV SCAN ^(CH ^)"
+            },
+            {
+                "address": "f",
+                "name": "Q.V."
+            },
+            {
+                "address": "f",
+                "name": "TV Q.V."
+            },
+            {
+                "address": "f",
+                "name": "TV QV"
+            },
+            {
+                "address": "10",
+                "name": "TV 3"
+            },
+            {
+                "address": "12",
+                "name": "TV CHANNEL V"
+            },
+            {
+                "address": "12",
+                "name": "TV SCAN V (CH V)"
+            },
+            {
+                "address": "12",
+                "name": "TV SCAN V(CH V)"
+            },
+            {
+                "address": "17",
+                "name": "TV OFF-T OTR"
+            },
+            {
+                "address": "17",
+                "name": "TV OFF-T/OTR"
+            },
+            {
+                "address": "17",
+                "name": "TV SLEEP"
+            },
+            {
+                "address": "18",
+                "name": "TV 4"
+            },
+            {
+                "address": "1b",
+                "name": "TV DISPLAY"
+            },
+            {
+                "address": "1b",
+                "name": "TV DATA ON SCREEN"
+            },
+            {
+                "address": "1b",
+                "name": "TV INFO"
+            },
+            {
+                "address": "20",
+                "name": "TV 5"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "22",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "28",
+                "name": "TV 6"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2a",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "30",
+                "name": "TV 7"
+            },
+            {
+                "address": "32",
+                "name": "MUTE"
+            },
+            {
+                "address": "35",
+                "name": "TV ENTER"
+            },
+            {
+                "address": "35",
+                "name": "TV ENTER (EXCH)"
+            },
+            {
+                "address": "38",
+                "name": "TV 8"
+            },
+            {
+                "address": "39",
+                "name": "TV ANT A/B"
+            },
+            {
+                "address": "3a",
+                "name": "TV INPUT"
+            },
+            {
+                "address": "3a",
+                "name": "TV VCR/TV"
+            },
+            {
+                "address": "3a",
+                "name": "TV VIDEO/TV"
+            },
+            {
+                "address": "40",
+                "name": "TV AUDIO VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "TV FUNC.VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "TV VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "TV FUNC VIDEO"
+            },
+            {
+                "address": "40",
+                "name": "TV VIDEO ^"
+            },
+            {
+                "address": "41",
+                "name": "TV JOG/ADJ+(IN SRCH)"
+            },
+            {
+                "address": "41",
+                "name": "TV ADJUST +"
+            },
+            {
+                "address": "41",
+                "name": "TV ADJUST ^"
+            },
+            {
+                "address": "48",
+                "name": "TV VIDEO V"
+            },
+            {
+                "address": "49",
+                "name": "TV JOG/ADJ-(IN SRCH)"
+            },
+            {
+                "address": "49",
+                "name": "TV ADJUST -"
+            },
+            {
+                "address": "49",
+                "name": "TV ADJUST V"
+            },
+            {
+                "address": "4e",
+                "name": "TV SQV"
+            },
+            {
+                "address": "50",
+                "name": "TV FUNC.AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "TV AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "TV FUNC AUDIO"
+            },
+            {
+                "address": "50",
+                "name": "TV AUDIO ^"
+            },
+            {
+                "address": "52",
+                "name": "TV MENU"
+            },
+            {
+                "address": "58",
+                "name": "TV AUDIO V"
+            },
+            {
+                "address": "5f",
+                "name": "PIP SOURCE"
+            },
+            {
+                "address": "5f",
+                "name": "TV SOURCE"
+            },
+            {
+                "address": "65",
+                "name": "TV ADJUST <"
+            },
+            {
+                "address": "6d",
+                "name": "TV ADJUST >"
+            },
+            {
+                "address": "76",
+                "name": "TV PIP CH ^"
+            },
+            {
+                "address": "77",
+                "name": "PIP"
+            },
+            {
+                "address": "77",
+                "name": "TV PIP"
+            },
+            {
+                "address": "7d",
+                "name": "TV HOME"
+            },
+            {
+                "address": "7e",
+                "name": "TV PIP CH V"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

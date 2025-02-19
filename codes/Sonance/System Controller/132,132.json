@@ -1,0 +1,61 @@
+{
+    "display_name": "Sonance System Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "TV/SAT"
+            },
+            {
+                "address": "2",
+                "name": "TAPE"
+            },
+            {
+                "address": "3",
+                "name": "VCR"
+            },
+            {
+                "address": "9",
+                "name": "CD"
+            },
+            {
+                "address": "a",
+                "name": "DVD"
+            },
+            {
+                "address": "b",
+                "name": "TUNER"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "12",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "13",
+                "name": "MUTE"
+            },
+            {
+                "address": "19",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1a",
+                "name": "ALL OFF"
+            },
+            {
+                "address": "1b",
+                "name": "POWER OFF"
+            }
+        ],
+        "device_address": "840",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Sonance",
+    "model": "",
+    "name": "",
+    "target": "System Controller"
+}

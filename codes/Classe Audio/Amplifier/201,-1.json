@@ -1,0 +1,189 @@
+{
+    "display_name": "Classe Audio Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "POWER TOGGLE AMP1 T0"
+            },
+            {
+                "address": "1",
+                "name": "POWER TOGGLE AMP1 T1"
+            },
+            {
+                "address": "2",
+                "name": "POWER TOGGLE AMP2 T0"
+            },
+            {
+                "address": "2",
+                "name": "POWER TOGGLE AMP2 T1"
+            },
+            {
+                "address": "3",
+                "name": "POWER TOGGLE AMP3 T0"
+            },
+            {
+                "address": "3",
+                "name": "POWER TOGGLE AMP3 T1"
+            },
+            {
+                "address": "4",
+                "name": "POWER TOGGLE AMP4 T0"
+            },
+            {
+                "address": "4",
+                "name": "POWER TOGGLE AMP4 T1"
+            },
+            {
+                "address": "5",
+                "name": "POWER TOGGLE AMP5 T0"
+            },
+            {
+                "address": "5",
+                "name": "POWER TOGGLE AMP5 T1"
+            },
+            {
+                "address": "6",
+                "name": "POWER TOGGLE AMP6 T0"
+            },
+            {
+                "address": "6",
+                "name": "POWER TOGGLE AMP6 T1"
+            },
+            {
+                "address": "7",
+                "name": "POWER TOGGLE AMP7 T0"
+            },
+            {
+                "address": "7",
+                "name": "POWER TOGGLE AMP7 T1"
+            },
+            {
+                "address": "8",
+                "name": "POWER TOGGLE AMP8 T0"
+            },
+            {
+                "address": "8",
+                "name": "POWER TOGGLE AMP8 T1"
+            },
+            {
+                "address": "9",
+                "name": "POWER TOGGLE AMP9 T0"
+            },
+            {
+                "address": "9",
+                "name": "POWER TOGGLE AMP9 T1"
+            },
+            {
+                "address": "c",
+                "name": "STANDBY TOGGLE T0"
+            },
+            {
+                "address": "c",
+                "name": "STANDBY TOGGLE T1"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE T0"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE T1"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY STEP TOG T0"
+            },
+            {
+                "address": "f",
+                "name": "DISPLAY STEP TOG T1"
+            },
+            {
+                "address": "78",
+                "name": "POWER TOG AMP10 T0"
+            },
+            {
+                "address": "78",
+                "name": "POWER TOG AMP10 T1"
+            },
+            {
+                "address": "79",
+                "name": "POWER TOG AMP11 T0"
+            },
+            {
+                "address": "79",
+                "name": "POWER TOG AMP11 T1"
+            },
+            {
+                "address": "7a",
+                "name": "POWER TOG AMP12 T0"
+            },
+            {
+                "address": "7a",
+                "name": "POWER TOG AMP12 T1"
+            },
+            {
+                "address": "7b",
+                "name": "POWER TOG AMP13 T0"
+            },
+            {
+                "address": "7b",
+                "name": "POWER TOG AMP13 T1"
+            },
+            {
+                "address": "7c",
+                "name": "POWER TOG AMP14 T0"
+            },
+            {
+                "address": "7c",
+                "name": "POWER TOG AMP14 T1"
+            },
+            {
+                "address": "7d",
+                "name": "POWER TOG AMP15 T0"
+            },
+            {
+                "address": "7d",
+                "name": "POWER TOG AMP15 T1"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T0"
+            },
+            {
+                "address": "96",
+                "name": "OPERATE T1"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T0"
+            },
+            {
+                "address": "97",
+                "name": "STANDBY T1"
+            },
+            {
+                "address": "98",
+                "name": "MUTE T0"
+            },
+            {
+                "address": "98",
+                "name": "MUTE T1"
+            },
+            {
+                "address": "99",
+                "name": "UNMUTE T0"
+            },
+            {
+                "address": "99",
+                "name": "UNMUTE T1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

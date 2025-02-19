@@ -1,0 +1,29 @@
+{
+    "display_name": "Sony DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOL UP"
+            },
+            {
+                "address": "13",
+                "name": "VOL DOWN"
+            },
+            {
+                "address": "15",
+                "name": "TV ON/OFF"
+            },
+            {
+                "address": "25",
+                "name": "TV/VIDEO"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Sony12"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

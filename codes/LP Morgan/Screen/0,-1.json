@@ -1,0 +1,37 @@
+{
+    "display_name": "LP Morgan Screen",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "EVEN - UP"
+            },
+            {
+                "address": "1",
+                "name": "ODD - UP"
+            },
+            {
+                "address": "2",
+                "name": "EVEN - DOWN"
+            },
+            {
+                "address": "2",
+                "name": "ODD - DOWN"
+            },
+            {
+                "address": "3",
+                "name": "EVEN - STOP"
+            },
+            {
+                "address": "3",
+                "name": "ODD - STOP"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RECS80"
+    },
+    "manufacturer": "LP Morgan",
+    "model": "",
+    "name": "",
+    "target": "Screen"
+}

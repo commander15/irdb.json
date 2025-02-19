@@ -1,0 +1,143 @@
+{
+    "display_name": "Apple MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "device_address": "40000000",
+                "name": ">> NEXT TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "3",
+                "device_address": "40000000",
+                "name": "NEXT TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "7",
+                "device_address": "40000000",
+                "name": "VOL+ VOLUME DOWN",
+                "protocol": "NEC"
+            },
+            {
+                "address": "7",
+                "device_address": "40000000",
+                "name": "",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "40000000",
+                "name": "<< PREV TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "b",
+                "device_address": "40000000",
+                "name": "PREVIOUS TRACK",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "c",
+                "device_address": "40000000",
+                "name": "NEXT CHAPTER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "d",
+                "device_address": "40000000",
+                "name": "PREV CHAPTER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "e",
+                "device_address": "40000000",
+                "name": "STOP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "f",
+                "device_address": "40000000",
+                "name": "PLAY/RESUME",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "10",
+                "device_address": "40000000",
+                "name": "PAUSE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "11",
+                "device_address": "40000000",
+                "name": "MUTE TOGGLE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "14",
+                "device_address": "40000000",
+                "name": "NEXT PLAYLIST",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "15",
+                "device_address": "40000000",
+                "name": "PREVIOUS PLAYLIST",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "16",
+                "device_address": "40000000",
+                "name": "SHUFFLE",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "17",
+                "device_address": "40000000",
+                "name": "VOL- VOLUME UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "18",
+                "device_address": "40000000",
+                "name": "REPEAT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1a",
+                "device_address": "40000000",
+                "name": "POWER OFF",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1b",
+                "device_address": "40000000",
+                "name": "POWER ON",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1f",
+                "device_address": "40000000",
+                "name": ">II PLAY/PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "40000000",
+                "name": "PLAY/PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "40000000",
+                "name": "",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "Apple",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

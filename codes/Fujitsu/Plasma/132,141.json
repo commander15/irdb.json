@@ -1,0 +1,105 @@
+{
+    "display_name": "Fujitsu Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "b",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "c",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "e",
+                "name": "CH RETURN"
+            },
+            {
+                "address": "e",
+                "name": "CHANNEL RETURN"
+            },
+            {
+                "address": "12",
+                "name": "MTS/STEREO"
+            },
+            {
+                "address": "30",
+                "name": "ANTENNA"
+            },
+            {
+                "address": "31",
+                "name": "CABLE"
+            },
+            {
+                "address": "40",
+                "name": "1"
+            },
+            {
+                "address": "41",
+                "name": "2"
+            },
+            {
+                "address": "42",
+                "name": "3"
+            },
+            {
+                "address": "43",
+                "name": "4"
+            },
+            {
+                "address": "44",
+                "name": "5"
+            },
+            {
+                "address": "45",
+                "name": "6"
+            },
+            {
+                "address": "46",
+                "name": "7"
+            },
+            {
+                "address": "47",
+                "name": "8"
+            },
+            {
+                "address": "48",
+                "name": "9"
+            },
+            {
+                "address": "4a",
+                "name": "0"
+            },
+            {
+                "address": "58",
+                "name": "."
+            },
+            {
+                "address": "58",
+                "name": "\".\""
+            },
+            {
+                "address": "5a",
+                "name": "FAVORITE"
+            },
+            {
+                "address": "5b",
+                "name": "INFO"
+            },
+            {
+                "address": "5c",
+                "name": "GUIDE"
+            },
+            {
+                "address": "5d",
+                "name": "CC"
+            }
+        ],
+        "device_address": "108000",
+        "protocol": "Fujitsu"
+    },
+    "manufacturer": "Fujitsu",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

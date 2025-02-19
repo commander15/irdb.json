@@ -1,0 +1,193 @@
+{
+    "display_name": "Nakamichi Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "3",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "4",
+                "name": "PHONO"
+            },
+            {
+                "address": "6",
+                "name": "TUNER P.SCAN P.CALL"
+            },
+            {
+                "address": "7",
+                "name": "AM/FM"
+            },
+            {
+                "address": "e",
+                "name": "VCR 1"
+            },
+            {
+                "address": "f",
+                "name": "VCR 2"
+            },
+            {
+                "address": "3b",
+                "name": "VDP"
+            },
+            {
+                "address": "40",
+                "name": "TUNER 0"
+            },
+            {
+                "address": "41",
+                "name": "TUNER 1"
+            },
+            {
+                "address": "42",
+                "name": "TUNER 2"
+            },
+            {
+                "address": "43",
+                "name": "TUNER 3"
+            },
+            {
+                "address": "44",
+                "name": "TUNER 4"
+            },
+            {
+                "address": "45",
+                "name": "TUNER 5"
+            },
+            {
+                "address": "46",
+                "name": "TUNER 6"
+            },
+            {
+                "address": "47",
+                "name": "TUNER 7"
+            },
+            {
+                "address": "48",
+                "name": "TUNER 8"
+            },
+            {
+                "address": "49",
+                "name": "TUNER 9"
+            },
+            {
+                "address": "4f",
+                "name": "CONTROL ^"
+            },
+            {
+                "address": "50",
+                "name": "CONTROL V"
+            },
+            {
+                "address": "68",
+                "name": "SUPER BASS"
+            },
+            {
+                "address": "6a",
+                "name": "BASS"
+            },
+            {
+                "address": "6c",
+                "name": "TREBLE"
+            },
+            {
+                "address": "6e",
+                "name": "BALANCE"
+            },
+            {
+                "address": "78",
+                "name": "TUNER"
+            },
+            {
+                "address": "79",
+                "name": "CD"
+            },
+            {
+                "address": "7f",
+                "name": "SOURCE DIRECT"
+            },
+            {
+                "address": "b2",
+                "name": "TUNER TUNING ^"
+            },
+            {
+                "address": "b3",
+                "name": "TUNER TUNING V"
+            },
+            {
+                "address": "e0",
+                "name": "SURROUND OFF"
+            },
+            {
+                "address": "e1",
+                "name": "DOLBY PRO.LOGIC"
+            },
+            {
+                "address": "e3",
+                "name": "HALL"
+            },
+            {
+                "address": "e4",
+                "name": "NATURAL"
+            },
+            {
+                "address": "e5",
+                "name": "STADIUM"
+            },
+            {
+                "address": "e7",
+                "name": "CENTER MODE"
+            },
+            {
+                "address": "e9",
+                "name": "DELAY TIME"
+            },
+            {
+                "address": "f0",
+                "name": "REAR LEVEL"
+            },
+            {
+                "address": "f2",
+                "name": "CENTER LEVEL"
+            },
+            {
+                "address": "f4",
+                "name": "MEMORY CALL"
+            },
+            {
+                "address": "f6",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "f7",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "fb",
+                "name": "TEST TONE"
+            },
+            {
+                "address": "fe",
+                "name": "SPATIAL"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Nakamichi",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

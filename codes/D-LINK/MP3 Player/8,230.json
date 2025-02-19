@@ -1,0 +1,239 @@
+{
+    "display_name": "D-LINK MP3 Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "device_address": "200",
+                "name": "PAGE DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "11",
+                "device_address": "200",
+                "name": "CURSOR RIGHT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "12",
+                "device_address": "200",
+                "name": "MENU",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "13",
+                "device_address": "200",
+                "name": "ON LINE MEDIA",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "14",
+                "device_address": "200",
+                "name": "CURSOR UP",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "15",
+                "device_address": "200",
+                "name": "CURSOR ENTER",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "16",
+                "device_address": "200",
+                "name": "CURSOR DOWN",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "18",
+                "device_address": "200",
+                "name": "PAGE UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "19",
+                "device_address": "200",
+                "name": "RETURN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1a",
+                "device_address": "200",
+                "name": "MUTE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1b",
+                "device_address": "200",
+                "name": "PHOTO",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1c",
+                "device_address": "200",
+                "name": "VOL DN",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1d",
+                "device_address": "200",
+                "name": "CURSOR LEFT",
+                "protocol": "NEC2"
+            },
+            {
+                "address": "1e",
+                "device_address": "200",
+                "name": "SETUP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "1f",
+                "device_address": "200",
+                "name": "MUSIC",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "40",
+                "device_address": "200",
+                "name": "3",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "42",
+                "device_address": "200",
+                "name": "1",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "43",
+                "device_address": "200",
+                "name": "POWER",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "44",
+                "device_address": "200",
+                "name": "6",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "46",
+                "device_address": "200",
+                "name": "4",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "47",
+                "device_address": "200",
+                "name": "HOME",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "48",
+                "device_address": "200",
+                "name": "9",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "49",
+                "device_address": "200",
+                "name": "8",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4a",
+                "device_address": "200",
+                "name": "7",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4b",
+                "device_address": "200",
+                "name": "VOL UP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4c",
+                "device_address": "200",
+                "name": "CLEAR",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "4d",
+                "device_address": "200",
+                "name": "0",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "50",
+                "device_address": "200",
+                "name": "VIDEO OUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "51",
+                "device_address": "200",
+                "name": "DISPLAY",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "52",
+                "device_address": "200",
+                "name": "NEXT >>",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "54",
+                "device_address": "200",
+                "name": "AUDIO OUT",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "55",
+                "device_address": "200",
+                "name": "SEARCH",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "56",
+                "device_address": "200",
+                "name": "PREV <<",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "58",
+                "device_address": "200",
+                "name": "SHUFFLE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "59",
+                "device_address": "200",
+                "name": "PLAY/PAUSE",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5a",
+                "device_address": "200",
+                "name": "FWD",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5d",
+                "device_address": "200",
+                "name": "STOP",
+                "protocol": "NEC1"
+            },
+            {
+                "address": "5e",
+                "device_address": "200",
+                "name": "REV",
+                "protocol": "NEC1"
+            }
+        ]
+    },
+    "manufacturer": "D-LINK",
+    "model": "",
+    "name": "",
+    "target": "MP3 Player"
+}

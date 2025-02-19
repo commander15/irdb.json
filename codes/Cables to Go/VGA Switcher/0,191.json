@@ -1,0 +1,37 @@
+{
+    "display_name": "Cables to Go VGA Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "IN 1"
+            },
+            {
+                "address": "a",
+                "name": "INPUT 1"
+            },
+            {
+                "address": "c",
+                "name": "INPUT 3"
+            },
+            {
+                "address": "e",
+                "name": "INPUT 4"
+            },
+            {
+                "address": "1f",
+                "name": "IN 2"
+            },
+            {
+                "address": "1f",
+                "name": "INPUT 2"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Cables to Go",
+    "model": "",
+    "name": "",
+    "target": "VGA Switcher"
+}

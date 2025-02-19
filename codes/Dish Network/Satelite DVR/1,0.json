@@ -1,0 +1,117 @@
+{
+    "display_name": "Dish Network Satelite DVR",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "name": "PLAY"
+            },
+            {
+                "address": "7",
+                "name": "PAGE -"
+            },
+            {
+                "address": "7",
+                "name": "PAGE DOWN"
+            },
+            {
+                "address": "7",
+                "name": "PAGE-"
+            },
+            {
+                "address": "f",
+                "name": "PAGE +"
+            },
+            {
+                "address": "f",
+                "name": "PAGE UP"
+            },
+            {
+                "address": "f",
+                "name": "PAGE+"
+            },
+            {
+                "address": "31",
+                "name": "BACK"
+            },
+            {
+                "address": "31",
+                "name": "REWIND"
+            },
+            {
+                "address": "32",
+                "name": "FORWARD"
+            },
+            {
+                "address": "32",
+                "name": "FAST FORWARD"
+            },
+            {
+                "address": "32",
+                "name": "FFWD"
+            },
+            {
+                "address": "34",
+                "name": "DISH"
+            },
+            {
+                "address": "34",
+                "name": "DISH BUTTON"
+            },
+            {
+                "address": "36",
+                "name": "REPLAY"
+            },
+            {
+                "address": "36",
+                "name": "SKIP BACK"
+            },
+            {
+                "address": "37",
+                "name": "SKIP FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "PVR"
+            },
+            {
+                "address": "39",
+                "name": "RECORDED EVENTS"
+            },
+            {
+                "address": "39",
+                "name": "DVR"
+            },
+            {
+                "address": "3a",
+                "name": "PIP"
+            },
+            {
+                "address": "3a",
+                "name": "PIP ON/SIZE"
+            },
+            {
+                "address": "3b",
+                "name": "POSITION"
+            },
+            {
+                "address": "3b",
+                "name": "PIP POSITION"
+            },
+            {
+                "address": "3d",
+                "name": "SWAP"
+            },
+            {
+                "address": "3d",
+                "name": "PIP SWAP"
+            }
+        ],
+        "device_address": "1",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "Dish Network",
+    "model": "",
+    "name": "",
+    "target": "Satelite DVR"
+}

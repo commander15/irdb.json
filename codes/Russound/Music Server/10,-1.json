@@ -1,0 +1,109 @@
+{
+    "display_name": "Russound Music Server",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "INFO"
+            },
+            {
+                "address": "81",
+                "name": "MENU"
+            },
+            {
+                "address": "82",
+                "name": "EXIT"
+            },
+            {
+                "address": "83",
+                "name": "HELP"
+            },
+            {
+                "address": "84",
+                "name": "GENRE"
+            },
+            {
+                "address": "84",
+                "name": ""
+            },
+            {
+                "address": "86",
+                "name": "ARTIST"
+            },
+            {
+                "address": "87",
+                "name": "SEARCH"
+            },
+            {
+                "address": "88",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "89",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "8a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "8b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "8c",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "8d",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "8e",
+                "name": "PLAY"
+            },
+            {
+                "address": "8f",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "a5",
+                "name": "THEME"
+            },
+            {
+                "address": "b0",
+                "name": "POWER"
+            },
+            {
+                "address": "b1",
+                "name": "STREAM 1"
+            },
+            {
+                "address": "b2",
+                "name": "STREAM 2"
+            },
+            {
+                "address": "b3",
+                "name": "STREAM 3"
+            },
+            {
+                "address": "b4",
+                "name": "F1"
+            },
+            {
+                "address": "b5",
+                "name": "F2"
+            },
+            {
+                "address": "b6",
+                "name": "F3"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "DirecTV"
+    },
+    "manufacturer": "Russound",
+    "model": "",
+    "name": "",
+    "target": "Music Server"
+}

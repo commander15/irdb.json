@@ -1,0 +1,489 @@
+{
+    "display_name": "Marantz Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "c",
+                "name": "POWER ON/OFF"
+            },
+            {
+                "address": "c",
+                "name": "POWER"
+            },
+            {
+                "address": "c",
+                "name": "M-POWER"
+            },
+            {
+                "address": "c",
+                "name": "SOURCE ON/OFF"
+            },
+            {
+                "address": "c",
+                "name": "POWER (TOGGLE)"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "d",
+                "name": "MUTE ON/OFF"
+            },
+            {
+                "address": "d",
+                "name": "AUDIO MUTE - ATT"
+            },
+            {
+                "address": "f",
+                "name": "OSD INFO"
+            },
+            {
+                "address": "f",
+                "name": "OSD"
+            },
+            {
+                "address": "f",
+                "name": "0EN4"
+            },
+            {
+                "address": "f",
+                "name": "OSD INFO. DISPLAY"
+            },
+            {
+                "address": "f",
+                "name": "INFO"
+            },
+            {
+                "address": "f",
+                "name": "AMP - OSD"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "MAIN VOL UP"
+            },
+            {
+                "address": "10",
+                "name": "MASTER VOLUME UP"
+            },
+            {
+                "address": "10",
+                "name": "VOL+"
+            },
+            {
+                "address": "10",
+                "name": "VOL +"
+            },
+            {
+                "address": "10",
+                "name": "MAIN VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "MAIN VOL DOWN"
+            },
+            {
+                "address": "11",
+                "name": ""
+            },
+            {
+                "address": "11",
+                "name": "MASTER VOLUME DOWN"
+            },
+            {
+                "address": "11",
+                "name": "VOL-"
+            },
+            {
+                "address": "11",
+                "name": "VOL -"
+            },
+            {
+                "address": "11",
+                "name": "MAIN VOLUME DOWN"
+            },
+            {
+                "address": "16",
+                "name": "BASS +"
+            },
+            {
+                "address": "16",
+                "name": "BASS ++"
+            },
+            {
+                "address": "16",
+                "name": ""
+            },
+            {
+                "address": "16",
+                "name": "BASS UP"
+            },
+            {
+                "address": "16",
+                "name": "BASS+"
+            },
+            {
+                "address": "17",
+                "name": "BASS -"
+            },
+            {
+                "address": "17",
+                "name": "BASS--"
+            },
+            {
+                "address": "17",
+                "name": "BASS DOWN"
+            },
+            {
+                "address": "17",
+                "name": "BASS-"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE +"
+            },
+            {
+                "address": "18",
+                "name": "TREB ++"
+            },
+            {
+                "address": "18",
+                "name": "TREB +"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE UP"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE-"
+            },
+            {
+                "address": "18",
+                "name": "TREBLE+"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE -"
+            },
+            {
+                "address": "19",
+                "name": "TREB--"
+            },
+            {
+                "address": "19",
+                "name": "TREB -"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE DOWN"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE+"
+            },
+            {
+                "address": "19",
+                "name": "TREBLE-"
+            },
+            {
+                "address": "1a",
+                "name": "BALANCE RIGHT"
+            },
+            {
+                "address": "1a",
+                "name": "BAL >"
+            },
+            {
+                "address": "1b",
+                "name": "BALANCE LEFT"
+            },
+            {
+                "address": "1b",
+                "name": "DC TRIGGER-1 ON"
+            },
+            {
+                "address": "1b",
+                "name": "BAL <"
+            },
+            {
+                "address": "1d",
+                "name": "SPEAKER SEL."
+            },
+            {
+                "address": "1d",
+                "name": "SPKR MODE"
+            },
+            {
+                "address": "1d",
+                "name": "SPKR A/B"
+            },
+            {
+                "address": "1d",
+                "name": "SPKR A / B"
+            },
+            {
+                "address": "1d",
+                "name": "ENTER"
+            },
+            {
+                "address": "1d",
+                "name": "SPEAKER A-B"
+            },
+            {
+                "address": "22",
+                "name": "SOURCE DIRECT"
+            },
+            {
+                "address": "22",
+                "name": "SOURCE DIRECT - PURE"
+            },
+            {
+                "address": "22",
+                "name": "PURE DIRECT"
+            },
+            {
+                "address": "22",
+                "name": "P. DIRECT"
+            },
+            {
+                "address": "22",
+                "name": "MODE - DIRECT"
+            },
+            {
+                "address": "22",
+                "name": "DIRECT"
+            },
+            {
+                "address": "22",
+                "name": "S-DIRECT"
+            },
+            {
+                "address": "23",
+                "name": "SPEAKER A ON/OFF"
+            },
+            {
+                "address": "23",
+                "name": "SPEAKER-A ON/OFF"
+            },
+            {
+                "address": "25",
+                "name": "SORROUND MODE"
+            },
+            {
+                "address": "25",
+                "name": "MODE"
+            },
+            {
+                "address": "25",
+                "name": "0"
+            },
+            {
+                "address": "25",
+                "name": "SURROUND MODE"
+            },
+            {
+                "address": "25",
+                "name": "SURROUND"
+            },
+            {
+                "address": "25",
+                "name": "MODE - SURROUND"
+            },
+            {
+                "address": "26",
+                "name": "SLEEP"
+            },
+            {
+                "address": "27",
+                "name": "SPEAKER B ON/OFF"
+            },
+            {
+                "address": "27",
+                "name": "SPEAKER-B ON/OFF"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR +"
+            },
+            {
+                "address": "50",
+                "name": "ARROW UP"
+            },
+            {
+                "address": "50",
+                "name": "UP ARROW"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR - UP"
+            },
+            {
+                "address": "50",
+                "name": "SELECT DOWN"
+            },
+            {
+                "address": "50",
+                "name": "SELECT UP"
+            },
+            {
+                "address": "50",
+                "name": "UP"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR-"
+            },
+            {
+                "address": "51",
+                "name": "ARROW DOWN"
+            },
+            {
+                "address": "51",
+                "name": "DOWN ARROW"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR - DOWN"
+            },
+            {
+                "address": "51",
+                "name": "DOWN"
+            },
+            {
+                "address": "52",
+                "name": "OK/OSD MENU"
+            },
+            {
+                "address": "52",
+                "name": "OSD MENU ON/OK"
+            },
+            {
+                "address": "52",
+                "name": "OK"
+            },
+            {
+                "address": "52",
+                "name": "ARROW ENTER"
+            },
+            {
+                "address": "52",
+                "name": "ENTER"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "52",
+                "name": "AMP - ENTER"
+            },
+            {
+                "address": "52",
+                "name": "AMP - MENU"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR SELECT"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR OK"
+            },
+            {
+                "address": "52",
+                "name": "CURSOR - OK"
+            },
+            {
+                "address": "53",
+                "name": "EXIT MENU"
+            },
+            {
+                "address": "53",
+                "name": "EXIT"
+            },
+            {
+                "address": "53",
+                "name": "AMP - MENU OFF"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "55",
+                "name": "ARROW LEFT"
+            },
+            {
+                "address": "55",
+                "name": "LEFT ARROW"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR - LEFT"
+            },
+            {
+                "address": "55",
+                "name": "SELECT LEFT"
+            },
+            {
+                "address": "55",
+                "name": "LEFT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "ARROW RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT ARROW"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR - RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "SELECT RIGHT"
+            },
+            {
+                "address": "56",
+                "name": "RIGHT"
+            },
+            {
+                "address": "57",
+                "name": "ENTER"
+            },
+            {
+                "address": "57",
+                "name": "ENTER (OK)"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

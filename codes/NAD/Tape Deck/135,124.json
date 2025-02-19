@@ -1,0 +1,37 @@
+{
+    "display_name": "NAD Tape Deck",
+    "ir": {
+        "commands": [
+            {
+                "address": "99",
+                "name": "pause"
+            },
+            {
+                "address": "9a",
+                "name": "Record"
+            },
+            {
+                "address": "9c",
+                "name": "play"
+            },
+            {
+                "address": "9d",
+                "name": "ffwd"
+            },
+            {
+                "address": "9e",
+                "name": "rwd"
+            },
+            {
+                "address": "9f",
+                "name": "stop"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "nec1"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Tape Deck"
+}

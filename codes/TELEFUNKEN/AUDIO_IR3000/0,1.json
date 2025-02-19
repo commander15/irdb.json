@@ -1,0 +1,141 @@
+{
+    "display_name": "TELEFUNKEN AUDIO_IR3000",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE1_PLAY_BKWD"
+            },
+            {
+                "address": "1",
+                "name": "TAPE1_PLAY_FWD"
+            },
+            {
+                "address": "2",
+                "name": "TAPE1_FWD"
+            },
+            {
+                "address": "3",
+                "name": "TAPE1_REW"
+            },
+            {
+                "address": "4",
+                "name": "TAPE1_STOP"
+            },
+            {
+                "address": "5",
+                "name": "TAPE2_BKWD_PLAY"
+            },
+            {
+                "address": "6",
+                "name": "TAPE2_FWD_PLAY"
+            },
+            {
+                "address": "7",
+                "name": "TAPE2_FWD"
+            },
+            {
+                "address": "8",
+                "name": "TUNER_UP"
+            },
+            {
+                "address": "9",
+                "name": "TUNER_DOWN"
+            },
+            {
+                "address": "a",
+                "name": "CD_STOP"
+            },
+            {
+                "address": "b",
+                "name": "TAPE2_REW"
+            },
+            {
+                "address": "c",
+                "name": "CD_FWD_SKIP"
+            },
+            {
+                "address": "d",
+                "name": "CD_BKWD_SKIP"
+            },
+            {
+                "address": "e",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "f",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "10",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "11",
+                "name": "TAPE2_STOP"
+            },
+            {
+                "address": "12",
+                "name": "TAPE2_BKWD_REC"
+            },
+            {
+                "address": "13",
+                "name": "TAPE2_FWD_REC"
+            },
+            {
+                "address": "14",
+                "name": "TAPE2_REC_MUTE"
+            },
+            {
+                "address": "15",
+                "name": "TUNER_SLEEP"
+            },
+            {
+                "address": "16",
+                "name": "TUNER_PRESET_UP"
+            },
+            {
+                "address": "17",
+                "name": "KEY_MUTE"
+            },
+            {
+                "address": "18",
+                "name": "TUNER_BAND"
+            },
+            {
+                "address": "19",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "1a",
+                "name": "TUNER_PRESET_DOWN"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "1c",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "1d",
+                "name": "AUX2"
+            },
+            {
+                "address": "1e",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "1f",
+                "name": "AUX1"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Aiwa"
+    },
+    "manufacturer": "TELEFUNKEN",
+    "model": "",
+    "name": "",
+    "target": "AUDIO_IR3000"
+}

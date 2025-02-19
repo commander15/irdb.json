@@ -1,0 +1,65 @@
+{
+    "display_name": "CIS BOX Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "12",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "13",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "1e",
+                "name": "VID 2"
+            },
+            {
+                "address": "21",
+                "name": "TUNER"
+            },
+            {
+                "address": "22",
+                "name": "VID 1"
+            },
+            {
+                "address": "23",
+                "name": "TAPE"
+            },
+            {
+                "address": "25",
+                "name": "CD"
+            },
+            {
+                "address": "2e",
+                "name": "ON"
+            },
+            {
+                "address": "2f",
+                "name": "OFF"
+            },
+            {
+                "address": "42",
+                "name": "VID 3"
+            },
+            {
+                "address": "69",
+                "name": "MD"
+            },
+            {
+                "address": "6a",
+                "name": "TV SAT"
+            },
+            {
+                "address": "7d",
+                "name": "DVD"
+            }
+        ],
+        "device_address": "c800",
+        "protocol": "Sony20"
+    },
+    "manufacturer": "CIS BOX",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,61 @@
+{
+    "display_name": "Sony Unknown_RM-X47",
+    "ir": {
+        "commands": [
+            {
+                "address": "d",
+                "name": "off"
+            },
+            {
+                "address": "11",
+                "name": "sound"
+            },
+            {
+                "address": "12",
+                "name": "sound+"
+            },
+            {
+                "address": "13",
+                "name": "sound-"
+            },
+            {
+                "address": "14",
+                "name": "att"
+            },
+            {
+                "address": "1b",
+                "name": "seek-"
+            },
+            {
+                "address": "1c",
+                "name": "seek+"
+            },
+            {
+                "address": "28",
+                "name": "dspl"
+            },
+            {
+                "address": "30",
+                "name": "KEY_FASTFORWARD"
+            },
+            {
+                "address": "31",
+                "name": "KEY_REWIND"
+            },
+            {
+                "address": "46",
+                "name": "KEY_CYCLEWINDOWS"
+            },
+            {
+                "address": "47",
+                "name": "KEY_MODE"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Sony15"
+    },
+    "manufacturer": "Sony",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RM-X47"
+}

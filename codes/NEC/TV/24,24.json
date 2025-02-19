@@ -1,0 +1,57 @@
+{
+    "display_name": "NEC TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "DVD/HD"
+            },
+            {
+                "address": "ad",
+                "name": "WIDE"
+            },
+            {
+                "address": "b0",
+                "name": "CUR UP"
+            },
+            {
+                "address": "b1",
+                "name": "CUR DN"
+            },
+            {
+                "address": "b2",
+                "name": "CUR LF"
+            },
+            {
+                "address": "b3",
+                "name": "CUR RT"
+            },
+            {
+                "address": "c0",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c4",
+                "name": "PROCEED"
+            },
+            {
+                "address": "c9",
+                "name": "POINTER"
+            },
+            {
+                "address": "ca",
+                "name": "ZOOM +"
+            },
+            {
+                "address": "cb",
+                "name": "ZOOM -"
+            }
+        ],
+        "device_address": "18000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

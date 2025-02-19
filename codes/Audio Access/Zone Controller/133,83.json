@@ -1,0 +1,81 @@
+{
+    "display_name": "Audio Access Zone Controller",
+    "ir": {
+        "commands": [
+            {
+                "address": "80",
+                "name": "TUNER"
+            },
+            {
+                "address": "81",
+                "name": "CD"
+            },
+            {
+                "address": "82",
+                "name": "TAPE"
+            },
+            {
+                "address": "83",
+                "name": "POWER"
+            },
+            {
+                "address": "85",
+                "name": "AUX"
+            },
+            {
+                "address": "86",
+                "name": "VIDEO"
+            },
+            {
+                "address": "8d",
+                "name": "VOLUME V"
+            },
+            {
+                "address": "8e",
+                "name": "VOLUME ^"
+            },
+            {
+                "address": "8f",
+                "name": "MUTE"
+            },
+            {
+                "address": "94",
+                "name": "TV/VCR"
+            },
+            {
+                "address": "95",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "96",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "97",
+                "name": "PAUSE"
+            },
+            {
+                "address": "9c",
+                "name": "REW <<"
+            },
+            {
+                "address": "9d",
+                "name": "STOP []"
+            },
+            {
+                "address": "9e",
+                "name": "PLAY >"
+            },
+            {
+                "address": "9f",
+                "name": "FF >>"
+            }
+        ],
+        "device_address": "4280000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Audio Access",
+    "model": "",
+    "name": "",
+    "target": "Zone Controller"
+}

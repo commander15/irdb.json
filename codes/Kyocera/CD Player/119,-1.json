@@ -1,0 +1,61 @@
+{
+    "display_name": "Kyocera CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "18",
+                "name": "STOP []"
+            },
+            {
+                "address": "19",
+                "name": "PLAY >"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE "
+            },
+            {
+                "address": "1b",
+                "name": "REPEAT"
+            },
+            {
+                "address": "1c",
+                "name": "SKIP <"
+            },
+            {
+                "address": "1d",
+                "name": "SKIP >"
+            },
+            {
+                "address": "1e",
+                "name": "FFWD >>"
+            },
+            {
+                "address": "1f",
+                "name": "REW <<"
+            },
+            {
+                "address": "4b",
+                "name": "C/AC"
+            },
+            {
+                "address": "4c",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "4d",
+                "name": "REMAIN"
+            },
+            {
+                "address": "4e",
+                "name": "MEMORY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Kyocera",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

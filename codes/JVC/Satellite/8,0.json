@@ -1,0 +1,29 @@
+{
+    "display_name": "JVC Satellite",
+    "ir": {
+        "commands": [
+            {
+                "address": "16",
+                "name": "VIEW"
+            },
+            {
+                "address": "19",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "1d",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "2b",
+                "name": "VCR"
+            }
+        ],
+        "device_address": "8",
+        "protocol": "Dish_Network"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Satellite"
+}

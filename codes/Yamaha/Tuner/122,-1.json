@@ -1,0 +1,81 @@
+{
+    "display_name": "Yamaha Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "10",
+                "name": "PRESET +"
+            },
+            {
+                "address": "11",
+                "name": "PRESET -"
+            },
+            {
+                "address": "12",
+                "name": "ABCDE"
+            },
+            {
+                "address": "1f",
+                "name": "POWER"
+            },
+            {
+                "address": "e0",
+                "name": "BANK A"
+            },
+            {
+                "address": "e1",
+                "name": "BANK B"
+            },
+            {
+                "address": "e2",
+                "name": "BANK C"
+            },
+            {
+                "address": "e3",
+                "name": "BANK D"
+            },
+            {
+                "address": "e4",
+                "name": "BANK E"
+            },
+            {
+                "address": "e5",
+                "name": "PRESET 1"
+            },
+            {
+                "address": "e6",
+                "name": "PRESET 2"
+            },
+            {
+                "address": "e7",
+                "name": "PRESET 3"
+            },
+            {
+                "address": "e8",
+                "name": "PRESET 4"
+            },
+            {
+                "address": "e9",
+                "name": "PRESET 5"
+            },
+            {
+                "address": "ea",
+                "name": "PRESET 6"
+            },
+            {
+                "address": "eb",
+                "name": "PRESET 7"
+            },
+            {
+                "address": "ec",
+                "name": "PRESET 8"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Tuner"
+}

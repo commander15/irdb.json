@@ -1,0 +1,37 @@
+{
+    "display_name": "Fedders Air Conditioner",
+    "ir": {
+        "commands": [
+            {
+                "address": "2",
+                "name": "ON/OFF"
+            },
+            {
+                "address": "9",
+                "name": "MODE"
+            },
+            {
+                "address": "a",
+                "name": "TEMP/TIME +"
+            },
+            {
+                "address": "11",
+                "name": "TEMP/TIME -"
+            },
+            {
+                "address": "19",
+                "name": "TIMER"
+            },
+            {
+                "address": "1a",
+                "name": "FAN SPEED"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Fedders",
+    "model": "",
+    "name": "",
+    "target": "Air Conditioner"
+}

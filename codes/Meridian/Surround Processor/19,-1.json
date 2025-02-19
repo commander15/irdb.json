@@ -1,0 +1,445 @@
+{
+    "display_name": "Meridian Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "0"
+            },
+            {
+                "address": "1",
+                "name": "1"
+            },
+            {
+                "address": "2",
+                "name": "2"
+            },
+            {
+                "address": "3",
+                "name": "3"
+            },
+            {
+                "address": "4",
+                "name": "4"
+            },
+            {
+                "address": "5",
+                "name": "5"
+            },
+            {
+                "address": "6",
+                "name": "6"
+            },
+            {
+                "address": "7",
+                "name": "7"
+            },
+            {
+                "address": "8",
+                "name": "8"
+            },
+            {
+                "address": "9",
+                "name": "9"
+            },
+            {
+                "address": "c",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "c",
+                "name": "OFF/POWER"
+            },
+            {
+                "address": "c",
+                "name": "OFF"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "1d",
+                "name": "REPAET/A-B"
+            },
+            {
+                "address": "1d",
+                "name": "REPEAT"
+            },
+            {
+                "address": "20",
+                "name": ">L/PAGE"
+            },
+            {
+                "address": "20",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "21",
+                "name": "L</PAGE"
+            },
+            {
+                "address": "21",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "21",
+                "name": ""
+            },
+            {
+                "address": "28",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "2e",
+                "name": "STORE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE/PHASE"
+            },
+            {
+                "address": "30",
+                "name": "PAUSE"
+            },
+            {
+                "address": "31",
+                "name": "CLEAR"
+            },
+            {
+                "address": "32",
+                "name": "<<"
+            },
+            {
+                "address": "34",
+                "name": ">>"
+            },
+            {
+                "address": "34",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "35",
+                "name": "PLAY/AUDIO"
+            },
+            {
+                "address": "35",
+                "name": "PLAY"
+            },
+            {
+                "address": "36",
+                "name": "STOP/OPEN"
+            },
+            {
+                "address": "36",
+                "name": "STOP"
+            },
+            {
+                "address": "37",
+                "name": "RECORD"
+            },
+            {
+                "address": "48",
+                "name": "RECORD/RED"
+            },
+            {
+                "address": "49",
+                "name": "BAND/GREEN"
+            },
+            {
+                "address": "4a",
+                "name": "ANGLE/YELLOW"
+            },
+            {
+                "address": "4b",
+                "name": "OSD/BLUE"
+            },
+            {
+                "address": "4c",
+                "name": "INPUT: LD"
+            },
+            {
+                "address": "4c",
+                "name": "GAME"
+            },
+            {
+                "address": "4c",
+                "name": "INPUT LD"
+            },
+            {
+                "address": "4c",
+                "name": "LD"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "50",
+                "name": ""
+            },
+            {
+                "address": "51",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "52",
+                "name": "MENU/SETUP"
+            },
+            {
+                "address": "53",
+                "name": "DSP PRESET STORE"
+            },
+            {
+                "address": "53",
+                "name": "STORE"
+            },
+            {
+                "address": "53",
+                "name": "RETURN"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "55",
+                "name": "CURSOE LEFT"
+            },
+            {
+                "address": "55",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "56",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "57",
+                "name": "CLEAR"
+            },
+            {
+                "address": "57",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "5d",
+                "name": "DSP"
+            },
+            {
+                "address": "5e",
+                "name": "UP"
+            },
+            {
+                "address": "5f",
+                "name": "DOWN"
+            },
+            {
+                "address": "60",
+                "name": "LEFT"
+            },
+            {
+                "address": "61",
+                "name": "RIGHT"
+            },
+            {
+                "address": "6b",
+                "name": "INPUT: CD"
+            },
+            {
+                "address": "6b",
+                "name": "CD"
+            },
+            {
+                "address": "6b",
+                "name": "INPUT CD"
+            },
+            {
+                "address": "6c",
+                "name": "INPUT: RADIO"
+            },
+            {
+                "address": "6c",
+                "name": "RADIO"
+            },
+            {
+                "address": "6d",
+                "name": "INPUT: TAPE 1"
+            },
+            {
+                "address": "6d",
+                "name": "TAPE"
+            },
+            {
+                "address": "6d",
+                "name": "INPUT TAPE 1"
+            },
+            {
+                "address": "6d",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "6e",
+                "name": "INPUT: TAPE 2"
+            },
+            {
+                "address": "6e",
+                "name": "SAT"
+            },
+            {
+                "address": "6e",
+                "name": "INPUT TAPE 2"
+            },
+            {
+                "address": "6e",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "6f",
+                "name": "INPUT: CABLE"
+            },
+            {
+                "address": "6f",
+                "name": "CABLE"
+            },
+            {
+                "address": "6f",
+                "name": "INPUT CABLE"
+            },
+            {
+                "address": "70",
+                "name": "INPUT: VCR 1"
+            },
+            {
+                "address": "70",
+                "name": "VCR1"
+            },
+            {
+                "address": "70",
+                "name": "INPUT VCR 1"
+            },
+            {
+                "address": "70",
+                "name": "VCR 1"
+            },
+            {
+                "address": "71",
+                "name": "INPUT: VCR 2"
+            },
+            {
+                "address": "71",
+                "name": "VCR2"
+            },
+            {
+                "address": "71",
+                "name": "INPUT VCR 2"
+            },
+            {
+                "address": "71",
+                "name": "VCR 2"
+            },
+            {
+                "address": "72",
+                "name": "INPUT: LP"
+            },
+            {
+                "address": "72",
+                "name": "LP"
+            },
+            {
+                "address": "72",
+                "name": "AUX"
+            },
+            {
+                "address": "72",
+                "name": "INPUT LP"
+            },
+            {
+                "address": "73",
+                "name": "INPUT: TV"
+            },
+            {
+                "address": "73",
+                "name": "TV"
+            },
+            {
+                "address": "73",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "73",
+                "name": ""
+            },
+            {
+                "address": "74",
+                "name": "INPUT: DVD"
+            },
+            {
+                "address": "74",
+                "name": "DVD"
+            },
+            {
+                "address": "74",
+                "name": "INPUT DVD"
+            },
+            {
+                "address": "75",
+                "name": "INPUT: CDR"
+            },
+            {
+                "address": "75",
+                "name": "DISC"
+            },
+            {
+                "address": "75",
+                "name": "INPUT CDR"
+            },
+            {
+                "address": "75",
+                "name": "CDR"
+            },
+            {
+                "address": "79",
+                "name": "DSP PRESETS"
+            },
+            {
+                "address": "79",
+                "name": "TOP MENU/#"
+            },
+            {
+                "address": "79",
+                "name": "."
+            },
+            {
+                "address": "7a",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Meridian",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

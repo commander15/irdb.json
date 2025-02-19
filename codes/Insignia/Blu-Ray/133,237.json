@@ -1,0 +1,161 @@
+{
+    "display_name": "Insignia Blu-Ray",
+    "ir": {
+        "commands": [
+            {
+                "address": "6",
+                "name": "POWER"
+            },
+            {
+                "address": "9",
+                "name": "AUDIO"
+            },
+            {
+                "address": "a",
+                "name": "SUBTITLE"
+            },
+            {
+                "address": "b",
+                "name": "DISC MENU"
+            },
+            {
+                "address": "c",
+                "name": "POP UP MENU"
+            },
+            {
+                "address": "d",
+                "name": "SETUP"
+            },
+            {
+                "address": "f",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "11",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "13",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "17",
+                "name": "ENTER"
+            },
+            {
+                "address": "19",
+                "name": "STOP"
+            },
+            {
+                "address": "1a",
+                "name": "PAUSE"
+            },
+            {
+                "address": "1a",
+                "name": "PLAY"
+            },
+            {
+                "address": "1c",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "1d",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "1e",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "1f",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "24",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "26",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "27",
+                "name": "ANGLE"
+            },
+            {
+                "address": "28",
+                "name": "0"
+            },
+            {
+                "address": "2a",
+                "name": "1"
+            },
+            {
+                "address": "2c",
+                "name": "2"
+            },
+            {
+                "address": "2e",
+                "name": "3"
+            },
+            {
+                "address": "30",
+                "name": "4"
+            },
+            {
+                "address": "32",
+                "name": "5"
+            },
+            {
+                "address": "34",
+                "name": "6"
+            },
+            {
+                "address": "36",
+                "name": "7"
+            },
+            {
+                "address": "38",
+                "name": "8"
+            },
+            {
+                "address": "3a",
+                "name": "9"
+            },
+            {
+                "address": "3c",
+                "name": "ZOOM"
+            },
+            {
+                "address": "3e",
+                "name": "REPEAT"
+            },
+            {
+                "address": "3f",
+                "name": "A-B"
+            },
+            {
+                "address": "40",
+                "name": "CLEAR"
+            },
+            {
+                "address": "45",
+                "name": "SEARCH"
+            },
+            {
+                "address": "46",
+                "name": "RETURN"
+            }
+        ],
+        "device_address": "10a000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Insignia",
+    "model": "",
+    "name": "",
+    "target": "Blu-Ray"
+}

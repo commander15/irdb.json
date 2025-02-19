@@ -1,0 +1,49 @@
+{
+    "display_name": "RCA Unknown_TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "27",
+                "name": "GO_BACK"
+            },
+            {
+                "address": "2a",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "2c",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "2d",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "2e",
+                "name": "LEFT_ARROW"
+            },
+            {
+                "address": "2f",
+                "name": "RIGHT_ARROW"
+            },
+            {
+                "address": "3c",
+                "name": "KEY_INFO"
+            },
+            {
+                "address": "3f",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "f4",
+                "name": "KEY_OK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RCA-38"
+    },
+    "manufacturer": "RCA",
+    "model": "",
+    "name": "",
+    "target": "Unknown_TV"
+}

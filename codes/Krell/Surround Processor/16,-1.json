@@ -1,0 +1,25 @@
+{
+    "display_name": "Krell Surround Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "28",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "28",
+                "name": "AMP"
+            },
+            {
+                "address": "29",
+                "name": "METER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Krell",
+    "model": "",
+    "name": "",
+    "target": "Surround Processor"
+}

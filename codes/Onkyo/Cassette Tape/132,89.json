@@ -1,0 +1,189 @@
+{
+    "display_name": "Onkyo Cassette Tape",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "POWER"
+            },
+            {
+                "address": "5",
+                "name": "DECKA OPEN/CLOSE"
+            },
+            {
+                "address": "6",
+                "name": "DECKA SRCH FWD >>"
+            },
+            {
+                "address": "7",
+                "name": "DECKA SRCH REV <<"
+            },
+            {
+                "address": "b",
+                "name": "DECKA REC/MUTE"
+            },
+            {
+                "address": "c",
+                "name": "DECKA STOP []"
+            },
+            {
+                "address": "d",
+                "name": "DECKA PLAY >"
+            },
+            {
+                "address": "e",
+                "name": "DECKA REVERSE PLAY <"
+            },
+            {
+                "address": "10",
+                "name": "DECKA REC/PAUSE"
+            },
+            {
+                "address": "11",
+                "name": "DECKA FWD >>"
+            },
+            {
+                "address": "12",
+                "name": "DECKA REW <<"
+            },
+            {
+                "address": "13",
+                "name": "STOP []"
+            },
+            {
+                "address": "13",
+                "name": "DECKB STOP []"
+            },
+            {
+                "address": "15",
+                "name": "PLAY >"
+            },
+            {
+                "address": "15",
+                "name": "DECKB PLAY >"
+            },
+            {
+                "address": "16",
+                "name": "PLAY R. <"
+            },
+            {
+                "address": "16",
+                "name": "PLAY REVERSE <"
+            },
+            {
+                "address": "16",
+                "name": "DECKB REVERSE PLAY<"
+            },
+            {
+                "address": "18",
+                "name": "REC/PAUSE"
+            },
+            {
+                "address": "18",
+                "name": "DECKB REC/PAUSE"
+            },
+            {
+                "address": "19",
+                "name": "FFWD >>"
+            },
+            {
+                "address": "19",
+                "name": "DECKB FWD >>"
+            },
+            {
+                "address": "1a",
+                "name": "REW <<"
+            },
+            {
+                "address": "1a",
+                "name": "DECKB REW <<"
+            },
+            {
+                "address": "1b",
+                "name": "REC/MUTE"
+            },
+            {
+                "address": "1b",
+                "name": "DECKB REC/MUTE"
+            },
+            {
+                "address": "1d",
+                "name": "SEARCH FWD >>"
+            },
+            {
+                "address": "1e",
+                "name": "SEARCH REV <<"
+            },
+            {
+                "address": "48",
+                "name": "RANDOM PLAY"
+            },
+            {
+                "address": "49",
+                "name": "MONITOR"
+            },
+            {
+                "address": "4a",
+                "name": "DECKA RESET"
+            },
+            {
+                "address": "4b",
+                "name": "DECKA TAPE SIZE"
+            },
+            {
+                "address": "53",
+                "name": "DECKB OPEN/CLOSE"
+            },
+            {
+                "address": "54",
+                "name": "SRCH REV <<"
+            },
+            {
+                "address": "54",
+                "name": "DECKB SRCH REV <<"
+            },
+            {
+                "address": "55",
+                "name": "SRCH FWD >>"
+            },
+            {
+                "address": "55",
+                "name": "DECKB SRCH FWD >>"
+            },
+            {
+                "address": "5d",
+                "name": "RESET"
+            },
+            {
+                "address": "5d",
+                "name": "DECKB RESET"
+            },
+            {
+                "address": "5e",
+                "name": "ELAPSE REMAIN"
+            },
+            {
+                "address": "5e",
+                "name": "ELAPSED/REMAIN"
+            },
+            {
+                "address": "5f",
+                "name": "T-SIZE"
+            },
+            {
+                "address": "5f",
+                "name": "TAPE SIZE"
+            },
+            {
+                "address": "5f",
+                "name": "DECKB TAPE SIZE"
+            }
+        ],
+        "device_address": "8000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Onkyo",
+    "model": "",
+    "name": "",
+    "target": "Cassette Tape"
+}

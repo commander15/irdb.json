@@ -1,0 +1,149 @@
+{
+    "display_name": "Mitsubishi Monitor",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SET/STELLEN"
+            },
+            {
+                "address": "0",
+                "name": "SET"
+            },
+            {
+                "address": "1",
+                "name": "BRT."
+            },
+            {
+                "address": "2",
+                "name": "CONT."
+            },
+            {
+                "address": "4",
+                "name": "VOL."
+            },
+            {
+                "address": "5",
+                "name": "BAL."
+            },
+            {
+                "address": "7",
+                "name": "DEGAU./ENTMAGN"
+            },
+            {
+                "address": "7",
+                "name": "DEGAU."
+            },
+            {
+                "address": "8",
+                "name": "DISP.OFF(AUS)"
+            },
+            {
+                "address": "8",
+                "name": "MUTE"
+            },
+            {
+                "address": "c",
+                "name": "TTL"
+            },
+            {
+                "address": "e",
+                "name": "ANALOG 2"
+            },
+            {
+                "address": "e",
+                "name": "RGB 2"
+            },
+            {
+                "address": "10",
+                "name": "0"
+            },
+            {
+                "address": "11",
+                "name": "9"
+            },
+            {
+                "address": "13",
+                "name": "UP (+)"
+            },
+            {
+                "address": "13",
+                "name": "UP"
+            },
+            {
+                "address": "16",
+                "name": "VIDEO 1"
+            },
+            {
+                "address": "17",
+                "name": "ENTER"
+            },
+            {
+                "address": "18",
+                "name": "VIDEO 2"
+            },
+            {
+                "address": "1e",
+                "name": "ANALOG 1"
+            },
+            {
+                "address": "1e",
+                "name": "RGB 1"
+            },
+            {
+                "address": "44",
+                "name": "POWER"
+            },
+            {
+                "address": "45",
+                "name": "CAL/CLR"
+            },
+            {
+                "address": "46",
+                "name": "1"
+            },
+            {
+                "address": "47",
+                "name": "2"
+            },
+            {
+                "address": "4c",
+                "name": "DOWN (-)"
+            },
+            {
+                "address": "4c",
+                "name": "DOWN"
+            },
+            {
+                "address": "50",
+                "name": "3"
+            },
+            {
+                "address": "52",
+                "name": "8"
+            },
+            {
+                "address": "53",
+                "name": "7"
+            },
+            {
+                "address": "54",
+                "name": "4"
+            },
+            {
+                "address": "55",
+                "name": "5"
+            },
+            {
+                "address": "56",
+                "name": "6"
+            }
+        ],
+        "device_address": "820",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "Monitor"
+}

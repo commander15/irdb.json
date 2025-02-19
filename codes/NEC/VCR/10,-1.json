@@ -1,0 +1,73 @@
+{
+    "display_name": "NEC VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "CHANNEL ^"
+            },
+            {
+                "address": "1",
+                "name": "CHANNEL V"
+            },
+            {
+                "address": "2",
+                "name": "SKIP SEARCH"
+            },
+            {
+                "address": "4",
+                "name": "STOP []"
+            },
+            {
+                "address": "5",
+                "name": "PLAY >"
+            },
+            {
+                "address": "6",
+                "name": "REC"
+            },
+            {
+                "address": "7",
+                "name": "AUDIO DUB"
+            },
+            {
+                "address": "8",
+                "name": "POWER"
+            },
+            {
+                "address": "a",
+                "name": "VIDEO/TV"
+            },
+            {
+                "address": "c",
+                "name": "FF/SRCH >>"
+            },
+            {
+                "address": "d",
+                "name": "REW/SRCH <<"
+            },
+            {
+                "address": "e",
+                "name": "PAUSE/STILL "
+            },
+            {
+                "address": "f",
+                "name": "EJECT"
+            },
+            {
+                "address": "1c",
+                "name": "X2"
+            },
+            {
+                "address": "1d",
+                "name": "SLOW"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NEC",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

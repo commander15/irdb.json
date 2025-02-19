@@ -1,0 +1,141 @@
+{
+    "display_name": "Yamaha Unknown_RX-CX800",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "TAPE_PLAY"
+            },
+            {
+                "address": "1",
+                "name": "TAPE_REVERSE"
+            },
+            {
+                "address": "2",
+                "name": "TAPE_FAST_FORWARD"
+            },
+            {
+                "address": "3",
+                "name": "TAPE_STOP"
+            },
+            {
+                "address": "4",
+                "name": "TAPE_RECORD/PAUSE"
+            },
+            {
+                "address": "5",
+                "name": "TAPE_REC_MUTE"
+            },
+            {
+                "address": "6",
+                "name": "TAPE_DECK_A/B"
+            },
+            {
+                "address": "7",
+                "name": "TAPE_DIR_DECK_A"
+            },
+            {
+                "address": "8",
+                "name": "CD_PLAY"
+            },
+            {
+                "address": "9",
+                "name": "CD_PAUSE/STOP"
+            },
+            {
+                "address": "a",
+                "name": "CD_SKIP_FORWARD"
+            },
+            {
+                "address": "b",
+                "name": "CD_SKIP_REVERSE"
+            },
+            {
+                "address": "c",
+                "name": "CD_SEARCH_FORWARD"
+            },
+            {
+                "address": "d",
+                "name": "CD_SEARCH_REVERSE"
+            },
+            {
+                "address": "e",
+                "name": "PHONO_PLAY/CUT"
+            },
+            {
+                "address": "f",
+                "name": "VCR1"
+            },
+            {
+                "address": "10",
+                "name": "TUNER_PRESET_UP"
+            },
+            {
+                "address": "11",
+                "name": "TUNER_PRESET_DOWN"
+            },
+            {
+                "address": "12",
+                "name": "TUNER_A/B/C"
+            },
+            {
+                "address": "13",
+                "name": "VCR2"
+            },
+            {
+                "address": "14",
+                "name": "PHONO"
+            },
+            {
+                "address": "15",
+                "name": "KEY_CD"
+            },
+            {
+                "address": "16",
+                "name": "KEY_TUNER"
+            },
+            {
+                "address": "17",
+                "name": "CDV"
+            },
+            {
+                "address": "18",
+                "name": "DAT"
+            },
+            {
+                "address": "19",
+                "name": "KEY_TAPE"
+            },
+            {
+                "address": "1a",
+                "name": "KEY_VOLUMEUP"
+            },
+            {
+                "address": "1b",
+                "name": "KEY_VOLUMEDOWN"
+            },
+            {
+                "address": "1c",
+                "name": "MUTING"
+            },
+            {
+                "address": "1f",
+                "name": "KEY_POWER"
+            },
+            {
+                "address": "40",
+                "name": "TAPE_DIR_DECK_B"
+            },
+            {
+                "address": "56",
+                "name": "SOURCE_DIRECT"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "NEC"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RX-CX800"
+}

@@ -1,0 +1,97 @@
+{
+    "display_name": "JVC Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "DAP DELAY/EFECT(<<)"
+            },
+            {
+                "address": "0",
+                "name": "SURR EFFECT + (9)"
+            },
+            {
+                "address": "0",
+                "name": "EFFECT"
+            },
+            {
+                "address": "1",
+                "name": "SURR EFFECT - (8)"
+            },
+            {
+                "address": "5",
+                "name": "DAP MODE ()"
+            },
+            {
+                "address": "5",
+                "name": "DAP MODE (0)"
+            },
+            {
+                "address": "8",
+                "name": "SURR:MIDNIGHT"
+            },
+            {
+                "address": "33",
+                "name": "INPUT - USB"
+            },
+            {
+                "address": "60",
+                "name": "CSRP MODE"
+            },
+            {
+                "address": "70",
+                "name": "^ (SHIFT+^)"
+            },
+            {
+                "address": "70",
+                "name": "CURSOR ^"
+            },
+            {
+                "address": "71",
+                "name": "V (SHIFT+V)"
+            },
+            {
+                "address": "71",
+                "name": "CURSOR V"
+            },
+            {
+                "address": "72",
+                "name": "> (SHIFT+>)"
+            },
+            {
+                "address": "72",
+                "name": "CURSOR >"
+            },
+            {
+                "address": "73",
+                "name": "< (SHIFT+<)"
+            },
+            {
+                "address": "73",
+                "name": "CURSOR <"
+            },
+            {
+                "address": "78",
+                "name": "EXIT (SHIFT+CHANNEL)"
+            },
+            {
+                "address": "78",
+                "name": "MENU EXIT"
+            },
+            {
+                "address": "79",
+                "name": "SET (SHIFT+MUTE)"
+            },
+            {
+                "address": "79",
+                "name": "MENU SET"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

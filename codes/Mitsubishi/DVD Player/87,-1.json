@@ -1,0 +1,129 @@
+{
+    "display_name": "Mitsubishi DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "VCR 1"
+            },
+            {
+                "address": "1",
+                "name": "VCR 9"
+            },
+            {
+                "address": "2",
+                "name": "VCR POWER"
+            },
+            {
+                "address": "4",
+                "name": "VCR PLAY>"
+            },
+            {
+                "address": "5",
+                "name": "VCR/TV"
+            },
+            {
+                "address": "8",
+                "name": "VCR 2"
+            },
+            {
+                "address": "9",
+                "name": "VCR 0"
+            },
+            {
+                "address": "a",
+                "name": "VCR CHANNEL ^"
+            },
+            {
+                "address": "b",
+                "name": "VCR CANCEL"
+            },
+            {
+                "address": "c",
+                "name": "VCR RECORD"
+            },
+            {
+                "address": "e",
+                "name": "VCR JOG/ADJ+(IND SRC"
+            },
+            {
+                "address": "10",
+                "name": "VCR 3"
+            },
+            {
+                "address": "12",
+                "name": "VCR CHANNEL V"
+            },
+            {
+                "address": "14",
+                "name": "VCR STOP[]"
+            },
+            {
+                "address": "16",
+                "name": "VCR JOG/ADJ-(IND SRC"
+            },
+            {
+                "address": "18",
+                "name": "VCR 4"
+            },
+            {
+                "address": "1c",
+                "name": "VCR PAUSE"
+            },
+            {
+                "address": "20",
+                "name": "VCR 5"
+            },
+            {
+                "address": "24",
+                "name": "VCR FFWD>>"
+            },
+            {
+                "address": "27",
+                "name": "VCR DISPLAY"
+            },
+            {
+                "address": "28",
+                "name": "VCR 6"
+            },
+            {
+                "address": "2c",
+                "name": "VCR REW<<"
+            },
+            {
+                "address": "30",
+                "name": "VCR 7"
+            },
+            {
+                "address": "33",
+                "name": "QUICK PROGRAM"
+            },
+            {
+                "address": "35",
+                "name": "VCR ENTER"
+            },
+            {
+                "address": "38",
+                "name": "VCR 8"
+            },
+            {
+                "address": "3a",
+                "name": "VCR INPUT"
+            },
+            {
+                "address": "40",
+                "name": "VCR AUDIO/VIDEO"
+            },
+            {
+                "address": "52",
+                "name": "VCR MENU"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Mitsubishi"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

@@ -1,0 +1,165 @@
+{
+    "display_name": "Denon Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "83",
+                "name": "DIGITAL DBS/BS"
+            },
+            {
+                "address": "84",
+                "name": "DIGITAL VDP"
+            },
+            {
+                "address": "85",
+                "name": "DIGITAL CD"
+            },
+            {
+                "address": "86",
+                "name": "DIGITAL DAT"
+            },
+            {
+                "address": "8c",
+                "name": "AMP CD DIRECT"
+            },
+            {
+                "address": "9d",
+                "name": "STEREO T.M."
+            },
+            {
+                "address": "9e",
+                "name": "DIRECT T.S."
+            },
+            {
+                "address": "9f",
+                "name": "PARAM.DSP.REC"
+            },
+            {
+                "address": "a0",
+                "name": "AMP PARAMETER"
+            },
+            {
+                "address": "a0",
+                "name": "PARAM.MAIN"
+            },
+            {
+                "address": "a1",
+                "name": "PARAM.SUB"
+            },
+            {
+                "address": "a2",
+                "name": "AMP CLEAR"
+            },
+            {
+                "address": "a2",
+                "name": "PARAM.CLEAR"
+            },
+            {
+                "address": "a3",
+                "name": "AMP SET +"
+            },
+            {
+                "address": "a3",
+                "name": "PARAM.SET +"
+            },
+            {
+                "address": "a4",
+                "name": "AMP SET -"
+            },
+            {
+                "address": "a4",
+                "name": "PARAM.SET -"
+            },
+            {
+                "address": "a6",
+                "name": "AMP EFFECT"
+            },
+            {
+                "address": "a7",
+                "name": "AMP INPUT ADJ."
+            },
+            {
+                "address": "a9",
+                "name": "AMP MEMORY"
+            },
+            {
+                "address": "aa",
+                "name": "AMP PERSONAL MEM 1"
+            },
+            {
+                "address": "ab",
+                "name": "AMP PERSONAL MEM 2"
+            },
+            {
+                "address": "b2",
+                "name": "VIDEO OFF"
+            },
+            {
+                "address": "d5",
+                "name": "AMP TUNER PRESET V"
+            },
+            {
+                "address": "d5",
+                "name": "TUNER CH V"
+            },
+            {
+                "address": "d5",
+                "name": "TUNER PRESET V"
+            },
+            {
+                "address": "d5",
+                "name": "TUNER PRESET CH DN"
+            },
+            {
+                "address": "d6",
+                "name": "AMP TUNER PRESET ^"
+            },
+            {
+                "address": "d6",
+                "name": "TUNER CH ^"
+            },
+            {
+                "address": "d6",
+                "name": "TUNER PRESET ^"
+            },
+            {
+                "address": "d6",
+                "name": "TUNER PRESET CH UP"
+            },
+            {
+                "address": "d7",
+                "name": "TUNER BAND"
+            },
+            {
+                "address": "d8",
+                "name": "TUNER AT/MANU"
+            },
+            {
+                "address": "d9",
+                "name": "TUNER TUNE ^"
+            },
+            {
+                "address": "da",
+                "name": "TUNER TUNE V"
+            },
+            {
+                "address": "db",
+                "name": "TUNER RF"
+            },
+            {
+                "address": "dc",
+                "name": "TUNER P.SCAN"
+            },
+            {
+                "address": "dd",
+                "name": "TUNER POWER"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "Denon"
+    },
+    "manufacturer": "Denon",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

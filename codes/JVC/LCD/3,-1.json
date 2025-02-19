@@ -1,0 +1,109 @@
+{
+    "display_name": "JVC LCD",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "INFO"
+            },
+            {
+                "address": "a",
+                "name": "OK"
+            },
+            {
+                "address": "17",
+                "name": "POWER"
+            },
+            {
+                "address": "18",
+                "name": "CHANNEL -"
+            },
+            {
+                "address": "19",
+                "name": "CHANNEL +"
+            },
+            {
+                "address": "1c",
+                "name": "MUTE"
+            },
+            {
+                "address": "1e",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "1f",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "20",
+                "name": "0"
+            },
+            {
+                "address": "21",
+                "name": "1"
+            },
+            {
+                "address": "22",
+                "name": "2"
+            },
+            {
+                "address": "23",
+                "name": "3"
+            },
+            {
+                "address": "24",
+                "name": "4"
+            },
+            {
+                "address": "25",
+                "name": "5"
+            },
+            {
+                "address": "26",
+                "name": "6"
+            },
+            {
+                "address": "27",
+                "name": "7"
+            },
+            {
+                "address": "28",
+                "name": "8"
+            },
+            {
+                "address": "29",
+                "name": "9"
+            },
+            {
+                "address": "5a",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "5b",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "7a",
+                "name": "MENU"
+            },
+            {
+                "address": "7b",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "7c",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "e6",
+                "name": "BACK"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "LCD"
+}

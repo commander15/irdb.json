@@ -1,0 +1,285 @@
+{
+    "display_name": "Axonix DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "40",
+                "name": "0"
+            },
+            {
+                "address": "40",
+                "name": "0 B"
+            },
+            {
+                "address": "41",
+                "name": "1"
+            },
+            {
+                "address": "41",
+                "name": "1 B"
+            },
+            {
+                "address": "42",
+                "name": "2 B"
+            },
+            {
+                "address": "42",
+                "name": "2"
+            },
+            {
+                "address": "43",
+                "name": "3"
+            },
+            {
+                "address": "43",
+                "name": "3 B"
+            },
+            {
+                "address": "44",
+                "name": "4"
+            },
+            {
+                "address": "44",
+                "name": "4 B"
+            },
+            {
+                "address": "45",
+                "name": "5"
+            },
+            {
+                "address": "45",
+                "name": "5 B"
+            },
+            {
+                "address": "46",
+                "name": "6"
+            },
+            {
+                "address": "46",
+                "name": "6 B"
+            },
+            {
+                "address": "47",
+                "name": "7"
+            },
+            {
+                "address": "47",
+                "name": "7 B"
+            },
+            {
+                "address": "47",
+                "name": "8"
+            },
+            {
+                "address": "47",
+                "name": "8 B"
+            },
+            {
+                "address": "47",
+                "name": "9"
+            },
+            {
+                "address": "47",
+                "name": "9 B"
+            },
+            {
+                "address": "4a",
+                "name": "POWER"
+            },
+            {
+                "address": "4a",
+                "name": "POWER B"
+            },
+            {
+                "address": "4c",
+                "name": "PAGE +"
+            },
+            {
+                "address": "4c",
+                "name": "PAGE + B"
+            },
+            {
+                "address": "4d",
+                "name": "VOL + B"
+            },
+            {
+                "address": "4d",
+                "name": "VOL +"
+            },
+            {
+                "address": "4e",
+                "name": "PAGE -"
+            },
+            {
+                "address": "4e",
+                "name": "PAGE - B"
+            },
+            {
+                "address": "4f",
+                "name": "VOL -"
+            },
+            {
+                "address": "4f",
+                "name": "VOL - B"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "50",
+                "name": "CURSOR UP B"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "51",
+                "name": "CURSOR LEFT B"
+            },
+            {
+                "address": "52",
+                "name": "ENTER B"
+            },
+            {
+                "address": "52",
+                "name": "ENTER"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR RIGHT B"
+            },
+            {
+                "address": "53",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "54",
+                "name": "CURSOR DOWN B"
+            },
+            {
+                "address": "54",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "55",
+                "name": "EXIT"
+            },
+            {
+                "address": "55",
+                "name": "EXIT B"
+            },
+            {
+                "address": "56",
+                "name": "OPTIONS"
+            },
+            {
+                "address": "56",
+                "name": "OPTIONS B"
+            },
+            {
+                "address": "57",
+                "name": "PLAY B"
+            },
+            {
+                "address": "57",
+                "name": "PLAY"
+            },
+            {
+                "address": "58",
+                "name": "PAUSE B"
+            },
+            {
+                "address": "58",
+                "name": "PAUSE"
+            },
+            {
+                "address": "59",
+                "name": "STOP B"
+            },
+            {
+                "address": "59",
+                "name": "STOP"
+            },
+            {
+                "address": "5a",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "5a",
+                "name": "SKIP << B"
+            },
+            {
+                "address": "5b",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "5b",
+                "name": "SKIP >> B"
+            },
+            {
+                "address": "5c",
+                "name": "RECORD"
+            },
+            {
+                "address": "5c",
+                "name": "RECORD B"
+            },
+            {
+                "address": "5d",
+                "name": "SCAN <<"
+            },
+            {
+                "address": "5d",
+                "name": "SCAN << B"
+            },
+            {
+                "address": "5e",
+                "name": "SCAN >>"
+            },
+            {
+                "address": "5e",
+                "name": "SCAN >> B"
+            },
+            {
+                "address": "60",
+                "name": "HOME"
+            },
+            {
+                "address": "60",
+                "name": "HOME B"
+            },
+            {
+                "address": "61",
+                "name": "MOVIES"
+            },
+            {
+                "address": "61",
+                "name": "MOVIES B"
+            },
+            {
+                "address": "62",
+                "name": "MUSIC"
+            },
+            {
+                "address": "62",
+                "name": "MUSIC B"
+            },
+            {
+                "address": "63",
+                "name": "PHOTOS"
+            },
+            {
+                "address": "63",
+                "name": "PHOTOS B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5-7F"
+    },
+    "manufacturer": "Axonix",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

@@ -1,0 +1,57 @@
+{
+    "display_name": "Mitsubishi VCR",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "2"
+            },
+            {
+                "address": "a",
+                "name": "4"
+            },
+            {
+                "address": "a",
+                "name": ""
+            },
+            {
+                "address": "a",
+                "name": "7"
+            },
+            {
+                "address": "2a",
+                "name": "COUNTER ZERO STOP"
+            },
+            {
+                "address": "2a",
+                "name": "VIDEO / TV"
+            },
+            {
+                "address": "4a",
+                "name": "-"
+            },
+            {
+                "address": "4a",
+                "name": "+"
+            },
+            {
+                "address": "4a",
+                "name": ""
+            },
+            {
+                "address": "6a",
+                "name": "CANCEL"
+            },
+            {
+                "address": "6a",
+                "name": "CURSOR UP"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "Akai"
+    },
+    "manufacturer": "Mitsubishi",
+    "model": "",
+    "name": "",
+    "target": "VCR"
+}

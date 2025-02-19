@@ -1,0 +1,241 @@
+{
+    "display_name": "Epson Projector",
+    "ir": {
+        "commands": [
+            {
+                "address": "2a",
+                "name": "S. TONE"
+            },
+            {
+                "address": "2c",
+                "name": "CONTRAST"
+            },
+            {
+                "address": "2c",
+                "name": "CONTRAST -"
+            },
+            {
+                "address": "2d",
+                "name": "COLOR TEMP."
+            },
+            {
+                "address": "2d",
+                "name": "COLOR TEMP"
+            },
+            {
+                "address": "70",
+                "name": "VIDEO"
+            },
+            {
+                "address": "70",
+                "name": "SOURCE VIDEO"
+            },
+            {
+                "address": "70",
+                "name": "INPUT VIDEO"
+            },
+            {
+                "address": "71",
+                "name": "SOURCE INPUT A"
+            },
+            {
+                "address": "71",
+                "name": "INPUT A"
+            },
+            {
+                "address": "71",
+                "name": "COMPONENT"
+            },
+            {
+                "address": "72",
+                "name": "SOURCE D4"
+            },
+            {
+                "address": "72",
+                "name": "INPUT D4/SCART"
+            },
+            {
+                "address": "73",
+                "name": "INPUT HDMI"
+            },
+            {
+                "address": "73",
+                "name": "HDMI 1"
+            },
+            {
+                "address": "76",
+                "name": "USB"
+            },
+            {
+                "address": "77",
+                "name": "HDMI 2"
+            },
+            {
+                "address": "7e",
+                "name": "GAMMA"
+            },
+            {
+                "address": "84",
+                "name": "ESC"
+            },
+            {
+                "address": "84",
+                "name": "ESCAPE"
+            },
+            {
+                "address": "85",
+                "name": "CURSOR ENTER"
+            },
+            {
+                "address": "85",
+                "name": "SELECT"
+            },
+            {
+                "address": "85",
+                "name": "ENTER"
+            },
+            {
+                "address": "8a",
+                "name": "ASPECT"
+            },
+            {
+                "address": "8b",
+                "name": "MEMORY"
+            },
+            {
+                "address": "8c",
+                "name": "SOURCE SEARCH"
+            },
+            {
+                "address": "8c",
+                "name": "FOCUS"
+            },
+            {
+                "address": "8e",
+                "name": "ZOOM"
+            },
+            {
+                "address": "8f",
+                "name": "COLOR MODE"
+            },
+            {
+                "address": "90",
+                "name": "POWER"
+            },
+            {
+                "address": "90",
+                "name": "ON"
+            },
+            {
+                "address": "91",
+                "name": "OFF"
+            },
+            {
+                "address": "92",
+                "name": "FREEZE"
+            },
+            {
+                "address": "93",
+                "name": "A/V MUTE"
+            },
+            {
+                "address": "93",
+                "name": "BLANK"
+            },
+            {
+                "address": "94",
+                "name": "COMPUTER"
+            },
+            {
+                "address": "95",
+                "name": "HELP"
+            },
+            {
+                "address": "96",
+                "name": "PATTERN"
+            },
+            {
+                "address": "98",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "99",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "9a",
+                "name": "MENU"
+            },
+            {
+                "address": "9c",
+                "name": "SOURCE S-VIDEO"
+            },
+            {
+                "address": "9c",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "9c",
+                "name": "S-VIDEO"
+            },
+            {
+                "address": "9d",
+                "name": "SOURCE INPUT B"
+            },
+            {
+                "address": "9d",
+                "name": "INPUT B"
+            },
+            {
+                "address": "9d",
+                "name": "PC"
+            },
+            {
+                "address": "9e",
+                "name": "AUTO"
+            },
+            {
+                "address": "9f",
+                "name": "USER"
+            },
+            {
+                "address": "b0",
+                "name": "CURSOR UP"
+            },
+            {
+                "address": "b0",
+                "name": "UP"
+            },
+            {
+                "address": "b1",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "b1",
+                "name": "RIGHT"
+            },
+            {
+                "address": "b2",
+                "name": "CURSOR DOWN"
+            },
+            {
+                "address": "b2",
+                "name": "DOWN"
+            },
+            {
+                "address": "b3",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "b3",
+                "name": "LEFT"
+            }
+        ],
+        "device_address": "10600000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Epson",
+    "model": "",
+    "name": "",
+    "target": "Projector"
+}

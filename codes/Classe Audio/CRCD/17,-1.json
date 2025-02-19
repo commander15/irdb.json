@@ -1,0 +1,85 @@
+{
+    "display_name": "Classe Audio CRCD",
+    "ir": {
+        "commands": [
+            {
+                "address": "1c",
+                "name": "MONO T0"
+            },
+            {
+                "address": "1c",
+                "name": "MONO T1"
+            },
+            {
+                "address": "22",
+                "name": "- (SCAN/TUNE) T0"
+            },
+            {
+                "address": "22",
+                "name": "- (SCAN/TUNE) T1"
+            },
+            {
+                "address": "28",
+                "name": "+ (SCAN/TUNE) T0"
+            },
+            {
+                "address": "28",
+                "name": "+ (SCAN/TUNE) T1"
+            },
+            {
+                "address": "2e",
+                "name": "BAND T0"
+            },
+            {
+                "address": "2e",
+                "name": "BAND T1"
+            },
+            {
+                "address": "37",
+                "name": "STORE T0"
+            },
+            {
+                "address": "37",
+                "name": "STORE T1"
+            },
+            {
+                "address": "38",
+                "name": "PRESET T0"
+            },
+            {
+                "address": "38",
+                "name": "PRESET T1"
+            },
+            {
+                "address": "39",
+                "name": "SIGNAL T0"
+            },
+            {
+                "address": "39",
+                "name": "SIGNAL T1"
+            },
+            {
+                "address": "3a",
+                "name": "TUNE T0"
+            },
+            {
+                "address": "3a",
+                "name": "TUNE T1"
+            },
+            {
+                "address": "3b",
+                "name": "SCAN T0"
+            },
+            {
+                "address": "3b",
+                "name": "SCAN T1"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Classe Audio",
+    "model": "",
+    "name": "",
+    "target": "CRCD"
+}

@@ -1,0 +1,25 @@
+{
+    "display_name": "Panasonic DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "30",
+                "name": "SUPER SURROUND"
+            },
+            {
+                "address": "ae",
+                "name": "MIX 2CH"
+            },
+            {
+                "address": "ec",
+                "name": "SIMULATED STEREO"
+            }
+        ],
+        "device_address": "2800000",
+        "protocol": "Panasonic"
+    },
+    "manufacturer": "Panasonic",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

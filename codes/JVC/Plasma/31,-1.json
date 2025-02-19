@@ -1,0 +1,25 @@
+{
+    "display_name": "JVC Plasma",
+    "ir": {
+        "commands": [
+            {
+                "address": "da",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "dd",
+                "name": "POWER ON"
+            },
+            {
+                "address": "e1",
+                "name": "COMPONENT"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Plasma"
+}

@@ -1,0 +1,129 @@
+{
+    "display_name": "Hewlett Packard TV",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER ON"
+            },
+            {
+                "address": "1",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "a",
+                "name": "TUNER 1"
+            },
+            {
+                "address": "a",
+                "name": "INPUT TV"
+            },
+            {
+                "address": "b",
+                "name": "TUNER 2"
+            },
+            {
+                "address": "c",
+                "name": "TUNER 3"
+            },
+            {
+                "address": "d",
+                "name": "AV 1"
+            },
+            {
+                "address": "d",
+                "name": "INPUT AV1"
+            },
+            {
+                "address": "e",
+                "name": "AV 2"
+            },
+            {
+                "address": "e",
+                "name": "INPUT AV2"
+            },
+            {
+                "address": "f",
+                "name": "AV 3"
+            },
+            {
+                "address": "f",
+                "name": "INPUT AV3"
+            },
+            {
+                "address": "10",
+                "name": "SV 1"
+            },
+            {
+                "address": "11",
+                "name": "SV 2"
+            },
+            {
+                "address": "12",
+                "name": "SV 3"
+            },
+            {
+                "address": "12",
+                "name": "INPUT S-VIDEO"
+            },
+            {
+                "address": "13",
+                "name": "YPRPB 1"
+            },
+            {
+                "address": "13",
+                "name": "INPUT YPBRPR1"
+            },
+            {
+                "address": "14",
+                "name": "YPRPB 2"
+            },
+            {
+                "address": "14",
+                "name": "INPUT YPBRPR2"
+            },
+            {
+                "address": "15",
+                "name": "HDMI 1"
+            },
+            {
+                "address": "15",
+                "name": "INPUT HDMI"
+            },
+            {
+                "address": "16",
+                "name": "HDMI 2"
+            },
+            {
+                "address": "17",
+                "name": "RGB 1"
+            },
+            {
+                "address": "17",
+                "name": "INPUT DVI"
+            },
+            {
+                "address": "18",
+                "name": "RGB 2"
+            },
+            {
+                "address": "18",
+                "name": "INPUT RGB"
+            },
+            {
+                "address": "19",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "1a",
+                "name": "MUTE OFF"
+            }
+        ],
+        "device_address": "40000",
+        "protocol": "MCE"
+    },
+    "manufacturer": "Hewlett Packard",
+    "model": "",
+    "name": "",
+    "target": "TV"
+}

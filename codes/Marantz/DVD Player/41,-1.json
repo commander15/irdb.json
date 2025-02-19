@@ -1,0 +1,25 @@
+{
+    "display_name": "Marantz DVD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "c9",
+                "name": "POWER OFF -DISCRETE1"
+            },
+            {
+                "address": "c9",
+                "name": "POWER ON -DISCRETE2"
+            },
+            {
+                "address": "ca",
+                "name": "POWER OFF -DISCRETE2"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC6"
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "DVD Player"
+}

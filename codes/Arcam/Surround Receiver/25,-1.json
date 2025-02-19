@@ -1,0 +1,29 @@
+{
+    "display_name": "Arcam Surround Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "20",
+                "name": "TUNER + A"
+            },
+            {
+                "address": "20",
+                "name": "TUNER + B"
+            },
+            {
+                "address": "21",
+                "name": "TUNER - A"
+            },
+            {
+                "address": "21",
+                "name": "TUNER - B"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Arcam",
+    "model": "",
+    "name": "",
+    "target": "Surround Receiver"
+}

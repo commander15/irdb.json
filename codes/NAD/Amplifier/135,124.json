@@ -1,0 +1,149 @@
+{
+    "display_name": "NAD Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CD PLAY/PAUSE >/"
+            },
+            {
+                "address": "2",
+                "name": "CD STOP []"
+            },
+            {
+                "address": "4",
+                "name": "CD SCAN <<"
+            },
+            {
+                "address": "5",
+                "name": "CD SKIP <"
+            },
+            {
+                "address": "6",
+                "name": "CD SKIP >"
+            },
+            {
+                "address": "7",
+                "name": "CD SCAN >>"
+            },
+            {
+                "address": "1c",
+                "name": "CD CDR"
+            },
+            {
+                "address": "80",
+                "name": "POWER"
+            },
+            {
+                "address": "81",
+                "name": "FM"
+            },
+            {
+                "address": "82",
+                "name": "AM"
+            },
+            {
+                "address": "84",
+                "name": "VIDEO"
+            },
+            {
+                "address": "85",
+                "name": "CD"
+            },
+            {
+                "address": "86",
+                "name": "TUNER SCAN <<"
+            },
+            {
+                "address": "87",
+                "name": "TUNER SCAN >>"
+            },
+            {
+                "address": "88",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "89",
+                "name": "PHONO"
+            },
+            {
+                "address": "8a",
+                "name": "TUNER 1"
+            },
+            {
+                "address": "8b",
+                "name": "TUNER 5"
+            },
+            {
+                "address": "8c",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "8d",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "8e",
+                "name": "TUNER 2"
+            },
+            {
+                "address": "8f",
+                "name": "TUNER 6"
+            },
+            {
+                "address": "91",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "92",
+                "name": "TUNER 3"
+            },
+            {
+                "address": "93",
+                "name": "TUNER 7"
+            },
+            {
+                "address": "94",
+                "name": "LOW LEVEL"
+            },
+            {
+                "address": "96",
+                "name": "TUNER 4"
+            },
+            {
+                "address": "97",
+                "name": "TUNER 8 BANK"
+            },
+            {
+                "address": "99",
+                "name": "TAPE PAUSE "
+            },
+            {
+                "address": "9a",
+                "name": "TAPE REC"
+            },
+            {
+                "address": "9c",
+                "name": "TAPE PLAY >"
+            },
+            {
+                "address": "9d",
+                "name": "TAPE SCAN >>"
+            },
+            {
+                "address": "9e",
+                "name": "TAPE SCAN <<"
+            },
+            {
+                "address": "9f",
+                "name": "TAPE STOP []"
+            }
+        ],
+        "device_address": "70000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "NAD",
+    "model": "",
+    "name": "",
+    "target": "Amplifier"
+}

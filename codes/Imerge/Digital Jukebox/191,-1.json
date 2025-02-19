@@ -1,0 +1,89 @@
+{
+    "display_name": "Imerge Digital Jukebox",
+    "ir": {
+        "commands": [
+            {
+                "address": "cd",
+                "name": "1A"
+            },
+            {
+                "address": "ce",
+                "name": "2A"
+            },
+            {
+                "address": "cf",
+                "name": "3A"
+            },
+            {
+                "address": "d0",
+                "name": "4A"
+            },
+            {
+                "address": "d1",
+                "name": "5A"
+            },
+            {
+                "address": "d2",
+                "name": "6A"
+            },
+            {
+                "address": "d3",
+                "name": "7A"
+            },
+            {
+                "address": "d4",
+                "name": "8A"
+            },
+            {
+                "address": "d5",
+                "name": "9A"
+            },
+            {
+                "address": "d6",
+                "name": "0A"
+            },
+            {
+                "address": "d8",
+                "name": "PAUSE"
+            },
+            {
+                "address": "da",
+                "name": "<<"
+            },
+            {
+                "address": "db",
+                "name": ">>"
+            },
+            {
+                "address": "dd",
+                "name": "STOP"
+            },
+            {
+                "address": "de",
+                "name": "PLAY"
+            },
+            {
+                "address": "e3",
+                "name": "SELECT ALBUM"
+            },
+            {
+                "address": "e7",
+                "name": "SELECT PLAYLIST"
+            },
+            {
+                "address": "e8",
+                "name": "REPEAT"
+            },
+            {
+                "address": "e9",
+                "name": "RANDOM"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Imerge",
+    "model": "",
+    "name": "",
+    "target": "Digital Jukebox"
+}

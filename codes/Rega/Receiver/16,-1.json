@@ -1,0 +1,57 @@
+{
+    "display_name": "Rega Receiver",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "PHONO"
+            },
+            {
+                "address": "2",
+                "name": "CD"
+            },
+            {
+                "address": "3",
+                "name": "TUNER"
+            },
+            {
+                "address": "4",
+                "name": "LINE 1"
+            },
+            {
+                "address": "5",
+                "name": "LINE 2"
+            },
+            {
+                "address": "6",
+                "name": "TAPE 1"
+            },
+            {
+                "address": "7",
+                "name": "TAPE 2"
+            },
+            {
+                "address": "d",
+                "name": "MUTE"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME +"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME -"
+            },
+            {
+                "address": "24",
+                "name": "MONO"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Rega",
+    "model": "",
+    "name": "",
+    "target": "Receiver"
+}

@@ -1,0 +1,69 @@
+{
+    "display_name": "TEAC Unknown_RC-558",
+    "ir": {
+        "commands": [
+            {
+                "address": "a",
+                "name": "counter_clear"
+            },
+            {
+                "address": "c",
+                "name": "auto_monitor"
+            },
+            {
+                "address": "10",
+                "name": "KEY_STOP"
+            },
+            {
+                "address": "11",
+                "name": "KEY_PAUSE"
+            },
+            {
+                "address": "12",
+                "name": "KEY_FORWARD"
+            },
+            {
+                "address": "13",
+                "name": "KEY_PLAY"
+            },
+            {
+                "address": "15",
+                "name": "KEY_BACK"
+            },
+            {
+                "address": "16",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "17",
+                "name": "KEY_RECORD"
+            },
+            {
+                "address": "1f",
+                "name": "display"
+            },
+            {
+                "address": "49",
+                "name": "RTZ"
+            },
+            {
+                "address": "54",
+                "name": "CD_sync_left"
+            },
+            {
+                "address": "5c",
+                "name": "CPS_forward"
+            },
+            {
+                "address": "5d",
+                "name": "CPS_back"
+            }
+        ],
+        "device_address": "-7e000000",
+        "protocol": "NEC"
+    },
+    "manufacturer": "TEAC",
+    "model": "",
+    "name": "",
+    "target": "Unknown_RC-558"
+}

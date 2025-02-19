@@ -1,0 +1,133 @@
+{
+    "display_name": "Yamaha Processor",
+    "ir": {
+        "commands": [
+            {
+                "address": "4",
+                "name": "dts surround"
+            },
+            {
+                "address": "5",
+                "name": "theater 1"
+            },
+            {
+                "address": "6",
+                "name": "theater 2"
+            },
+            {
+                "address": "7",
+                "name": "mono movie"
+            },
+            {
+                "address": "8",
+                "name": "sport"
+            },
+            {
+                "address": "9",
+                "name": "disco"
+            },
+            {
+                "address": "a",
+                "name": "rock"
+            },
+            {
+                "address": "b",
+                "name": "hall"
+            },
+            {
+                "address": "14",
+                "name": "down"
+            },
+            {
+                "address": "1a",
+                "name": "test"
+            },
+            {
+                "address": "1b",
+                "name": "time level"
+            },
+            {
+                "address": "1d",
+                "name": "effect"
+            },
+            {
+                "address": "1e",
+                "name": "right"
+            },
+            {
+                "address": "1e",
+                "name": "level down"
+            },
+            {
+                "address": "1f",
+                "name": "left"
+            },
+            {
+                "address": "1f",
+                "name": "level up"
+            },
+            {
+                "address": "40",
+                "name": "input dvd"
+            },
+            {
+                "address": "41",
+                "name": "input dtv"
+            },
+            {
+                "address": "42",
+                "name": "input vcr"
+            },
+            {
+                "address": "45",
+                "name": "input cd"
+            },
+            {
+                "address": "46",
+                "name": "input tuner"
+            },
+            {
+                "address": "47",
+                "name": "input tape"
+            },
+            {
+                "address": "48",
+                "name": "power toggle"
+            },
+            {
+                "address": "4a",
+                "name": "input cbl sat"
+            },
+            {
+                "address": "50",
+                "name": "input 6ch"
+            },
+            {
+                "address": "51",
+                "name": "set menu"
+            },
+            {
+                "address": "54",
+                "name": "up"
+            },
+            {
+                "address": "57",
+                "name": "sleep"
+            },
+            {
+                "address": "5e",
+                "name": "vol up"
+            },
+            {
+                "address": "5f",
+                "name": "vol down"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "nec1"
+    },
+    "manufacturer": "Yamaha",
+    "model": "",
+    "name": "",
+    "target": "Processor"
+}

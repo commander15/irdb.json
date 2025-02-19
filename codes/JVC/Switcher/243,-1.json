@@ -1,0 +1,101 @@
+{
+    "display_name": "JVC Switcher",
+    "ir": {
+        "commands": [
+            {
+                "address": "90",
+                "name": "OUTPUT MONITOR"
+            },
+            {
+                "address": "91",
+                "name": "MONITOR 1"
+            },
+            {
+                "address": "92",
+                "name": "MONITOR 2"
+            },
+            {
+                "address": "93",
+                "name": "MONITOR 3"
+            },
+            {
+                "address": "94",
+                "name": "MONITOR 4"
+            },
+            {
+                "address": "95",
+                "name": "MONITOR 5"
+            },
+            {
+                "address": "96",
+                "name": "MONITOR 6"
+            },
+            {
+                "address": "97",
+                "name": "POWER"
+            },
+            {
+                "address": "98",
+                "name": "MONITOR 7"
+            },
+            {
+                "address": "9b",
+                "name": "MONITOR OUT Y/C"
+            },
+            {
+                "address": "a1",
+                "name": "SOURCE 1"
+            },
+            {
+                "address": "a2",
+                "name": "SOURCE 2"
+            },
+            {
+                "address": "a3",
+                "name": "SOURCE 3"
+            },
+            {
+                "address": "a4",
+                "name": "SOURCE 4"
+            },
+            {
+                "address": "a5",
+                "name": "SOURCE 5"
+            },
+            {
+                "address": "a6",
+                "name": "SOURCE 6"
+            },
+            {
+                "address": "a7",
+                "name": "SOURCE 7"
+            },
+            {
+                "address": "aa",
+                "name": "DUAL OPERATION"
+            },
+            {
+                "address": "ab",
+                "name": "KEY LOCK"
+            },
+            {
+                "address": "ac",
+                "name": "PROCESSOR VIDEO"
+            },
+            {
+                "address": "ad",
+                "name": "PROCESSOR AUDIO"
+            },
+            {
+                "address": "ae",
+                "name": "AUX"
+            }
+        ],
+        "device_address": "-80000000",
+        "protocol": "JVC"
+    },
+    "manufacturer": "JVC",
+    "model": "",
+    "name": "",
+    "target": "Switcher"
+}

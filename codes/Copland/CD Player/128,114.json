@@ -1,0 +1,137 @@
+{
+    "display_name": "Copland CD Player",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SKIP >>"
+            },
+            {
+                "address": "4",
+                "name": "SKIP <<"
+            },
+            {
+                "address": "5",
+                "name": "PAUSE"
+            },
+            {
+                "address": "6",
+                "name": "SEARCH <<"
+            },
+            {
+                "address": "7",
+                "name": "SEARCH >>"
+            },
+            {
+                "address": "8",
+                "name": "PLAY"
+            },
+            {
+                "address": "9",
+                "name": "STOP"
+            },
+            {
+                "address": "a",
+                "name": "TIME"
+            },
+            {
+                "address": "b",
+                "name": "SPACE"
+            },
+            {
+                "address": "c",
+                "name": "REPEAT"
+            },
+            {
+                "address": "d",
+                "name": "OPEN/CLOSE"
+            },
+            {
+                "address": "e",
+                "name": "A-B"
+            },
+            {
+                "address": "f",
+                "name": "5"
+            },
+            {
+                "address": "10",
+                "name": "4"
+            },
+            {
+                "address": "11",
+                "name": "3"
+            },
+            {
+                "address": "12",
+                "name": "1"
+            },
+            {
+                "address": "13",
+                "name": "2"
+            },
+            {
+                "address": "14",
+                "name": "8"
+            },
+            {
+                "address": "15",
+                "name": "9"
+            },
+            {
+                "address": "16",
+                "name": "0"
+            },
+            {
+                "address": "17",
+                "name": "7"
+            },
+            {
+                "address": "18",
+                "name": "6"
+            },
+            {
+                "address": "19",
+                "name": "CLEAR"
+            },
+            {
+                "address": "1a",
+                "name": "PROGRAM"
+            },
+            {
+                "address": "1b",
+                "name": "SHUFFLE"
+            },
+            {
+                "address": "1c",
+                "name": "+10"
+            },
+            {
+                "address": "1d",
+                "name": "CHECK"
+            },
+            {
+                "address": "1e",
+                "name": "INDEX >>"
+            },
+            {
+                "address": "1f",
+                "name": "INDEX <<"
+            },
+            {
+                "address": "40",
+                "name": "INTRO SCAN"
+            },
+            {
+                "address": "5d",
+                "name": "DISPLAY"
+            }
+        ],
+        "device_address": "2000000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Copland",
+    "model": "",
+    "name": "",
+    "target": "CD Player"
+}

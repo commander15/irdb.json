@@ -1,0 +1,45 @@
+{
+    "display_name": "Harman Kardon Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "1",
+                "name": "CASS PLAY >"
+            },
+            {
+                "address": "2",
+                "name": "CASS REV PLAY <"
+            },
+            {
+                "address": "3",
+                "name": "CASS STOP []"
+            },
+            {
+                "address": "4",
+                "name": "CASS FFWD >>"
+            },
+            {
+                "address": "5",
+                "name": "CASS REW <<"
+            },
+            {
+                "address": "6",
+                "name": "CASS REC/PAUSE"
+            },
+            {
+                "address": "8",
+                "name": "CASS SKIP >>"
+            },
+            {
+                "address": "9",
+                "name": "CASS SKIP <<"
+            }
+        ],
+        "device_address": "2080000",
+        "protocol": "NEC2"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

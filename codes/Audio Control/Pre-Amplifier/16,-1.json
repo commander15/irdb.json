@@ -1,0 +1,325 @@
+{
+    "display_name": "Audio Control Pre-Amplifier",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "SELECT SAT"
+            },
+            {
+                "address": "1",
+                "name": "SELECT PHONO"
+            },
+            {
+                "address": "2",
+                "name": "SELECT AV"
+            },
+            {
+                "address": "3",
+                "name": "SELECT TUNER"
+            },
+            {
+                "address": "4",
+                "name": "SELECT DVD"
+            },
+            {
+                "address": "5",
+                "name": "SELECT TAPE"
+            },
+            {
+                "address": "6",
+                "name": "SELECT VCR"
+            },
+            {
+                "address": "7",
+                "name": "SELECT CD"
+            },
+            {
+                "address": "8",
+                "name": "SELECT AUX"
+            },
+            {
+                "address": "9",
+                "name": "SELECT MULTI-CHANNEL"
+            },
+            {
+                "address": "a",
+                "name": "DIRECT ONOFF TGL"
+            },
+            {
+                "address": "b",
+                "name": "SELECT NET"
+            },
+            {
+                "address": "c",
+                "name": "STAND BY"
+            },
+            {
+                "address": "d",
+                "name": "MUTE ON"
+            },
+            {
+                "address": "d",
+                "name": "MUTE TOGGLE"
+            },
+            {
+                "address": "e",
+                "name": "TREBLE CON. MENU"
+            },
+            {
+                "address": "f",
+                "name": "VIDEO OUT SD PROGR"
+            },
+            {
+                "address": "10",
+                "name": "VOLUME UP"
+            },
+            {
+                "address": "11",
+                "name": "VOLUME DOWN"
+            },
+            {
+                "address": "13",
+                "name": "CYCLE ASPECT RATIO"
+            },
+            {
+                "address": "14",
+                "name": "FOLLOW ZONE 1"
+            },
+            {
+                "address": "17",
+                "name": "VIDEO OUT 720P"
+            },
+            {
+                "address": "1a",
+                "name": "VIDEO OUT 1080I"
+            },
+            {
+                "address": "1b",
+                "name": "VIDEO OUT 1080P"
+            },
+            {
+                "address": "1e",
+                "name": "ROOM EQ ON/OFF"
+            },
+            {
+                "address": "20",
+                "name": "CYCLE DECODE MODE"
+            },
+            {
+                "address": "22",
+                "name": "SELECT DVR"
+            },
+            {
+                "address": "25",
+                "name": "SPEAKER TRIM"
+            },
+            {
+                "address": "27",
+                "name": "BASS CON. MENU"
+            },
+            {
+                "address": "29",
+                "name": "FAVORITE UP"
+            },
+            {
+                "address": "2a",
+                "name": "FAVORITE DOWN"
+            },
+            {
+                "address": "2b",
+                "name": "HOME"
+            },
+            {
+                "address": "2c",
+                "name": "BASS INCREMENT"
+            },
+            {
+                "address": "2d",
+                "name": "BASS DECREMENT"
+            },
+            {
+                "address": "2e",
+                "name": "TREBLE INCREMENT"
+            },
+            {
+                "address": "2f",
+                "name": "CYCLE OUTPUT RES"
+            },
+            {
+                "address": "30",
+                "name": "RANDOM"
+            },
+            {
+                "address": "31",
+                "name": "REPEAT"
+            },
+            {
+                "address": "32",
+                "name": "LIPSYNC CONT MEN"
+            },
+            {
+                "address": "33",
+                "name": "SUB CONTROL MENU"
+            },
+            {
+                "address": "38",
+                "name": "TRACK FORWARD"
+            },
+            {
+                "address": "39",
+                "name": "TRACK BACKWARD"
+            },
+            {
+                "address": "3b",
+                "name": "DISPLAY BRIGHT"
+            },
+            {
+                "address": "40",
+                "name": "FRAME RATE 50HZ"
+            },
+            {
+                "address": "41",
+                "name": "FRAME RATE 60HZ"
+            },
+            {
+                "address": "46",
+                "name": "DOLBY VOL. ON-OFF"
+            },
+            {
+                "address": "46",
+                "name": "USB PLAY/PAUSE"
+            },
+            {
+                "address": "4e",
+                "name": "DISCRETE DIR ON"
+            },
+            {
+                "address": "4f",
+                "name": "DISCRETE DIR OFF"
+            },
+            {
+                "address": "50",
+                "name": "NAVIGATE RIGHT"
+            },
+            {
+                "address": "51",
+                "name": "NAVIGATE LEFT"
+            },
+            {
+                "address": "52",
+                "name": "MENU"
+            },
+            {
+                "address": "55",
+                "name": "NAVIGATE DOWN"
+            },
+            {
+                "address": "56",
+                "name": "NAVIGATE UP"
+            },
+            {
+                "address": "57",
+                "name": "SELECT"
+            },
+            {
+                "address": "5f",
+                "name": "ZONE TOGGLE"
+            },
+            {
+                "address": "62",
+                "name": "TREBLE DECREMENT"
+            },
+            {
+                "address": "64",
+                "name": "LIPSYNC + BY 1MS"
+            },
+            {
+                "address": "65",
+                "name": "LIPSYNC - BY 1MS"
+            },
+            {
+                "address": "66",
+                "name": "DOLBY PL II/IIX GAM"
+            },
+            {
+                "address": "67",
+                "name": "DOLBY PL II/IIX MOV"
+            },
+            {
+                "address": "68",
+                "name": "DOLBY PL II/IIX MUS"
+            },
+            {
+                "address": "6a",
+                "name": "MULTI-CHANNEL AUDIO"
+            },
+            {
+                "address": "6b",
+                "name": "STEREO"
+            },
+            {
+                "address": "6d",
+                "name": "PLII MUSIC CENTER +1"
+            },
+            {
+                "address": "6e",
+                "name": "DOLBY PRO LOGIC"
+            },
+            {
+                "address": "6f",
+                "name": "DTS NEO:6 CINEMA"
+            },
+            {
+                "address": "70",
+                "name": "DTS NEO:6 MUSIC"
+            },
+            {
+                "address": "71",
+                "name": "PLII MUSIC CENTER -1"
+            },
+            {
+                "address": "72",
+                "name": "PLII MUSIC DIM +1"
+            },
+            {
+                "address": "73",
+                "name": "PLII MUSIC DIM -1"
+            },
+            {
+                "address": "74",
+                "name": "PLII PANORAMA ON"
+            },
+            {
+                "address": "75",
+                "name": "PLII PANORAMA OFF"
+            },
+            {
+                "address": "76",
+                "name": "DOLBY EX"
+            },
+            {
+                "address": "78",
+                "name": "MUTE OFF"
+            },
+            {
+                "address": "7b",
+                "name": "POWER ON"
+            },
+            {
+                "address": "7c",
+                "name": "POWER OFF"
+            },
+            {
+                "address": "7e",
+                "name": "VIDEO OUT SD INTERLA"
+            }
+        ],
+        "device_address": "0",
+        "protocol": "RC5"
+    },
+    "manufacturer": "Audio Control",
+    "model": "",
+    "name": "",
+    "target": "Pre-Amplifier"
+}

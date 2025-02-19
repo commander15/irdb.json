@@ -1,0 +1,33 @@
+{
+    "display_name": "Harman Kardon CD-R",
+    "ir": {
+        "commands": [
+            {
+                "address": "21",
+                "name": "STOP"
+            },
+            {
+                "address": "22",
+                "name": "PLAY"
+            },
+            {
+                "address": "23",
+                "name": "PAUSE"
+            },
+            {
+                "address": "24",
+                "name": "TRACKING +"
+            },
+            {
+                "address": "25",
+                "name": "TRACKING -"
+            }
+        ],
+        "device_address": "800000",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Harman Kardon",
+    "model": "",
+    "name": "",
+    "target": "CD-R"
+}

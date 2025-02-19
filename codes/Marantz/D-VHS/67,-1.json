@@ -1,0 +1,281 @@
+{
+    "display_name": "Marantz D-VHS",
+    "ir": {
+        "commands": [
+            {
+                "address": "3",
+                "device_address": "-80000000",
+                "name": "STOP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "4",
+                "device_address": "-80000000",
+                "name": "OPEN/CLOSE",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "6",
+                "device_address": "-80000000",
+                "name": "FAST FORWARD",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PLAY",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "PREV.",
+                "protocol": "JVC"
+            },
+            {
+                "address": "c",
+                "device_address": "-80000000",
+                "name": "REWIND",
+                "protocol": "JVC"
+            },
+            {
+                "address": "d",
+                "device_address": "-80000000",
+                "name": "PAUSE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "CURSOR RIGHT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "14",
+                "device_address": "-80000000",
+                "name": "NEXT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "15",
+                "device_address": "-80000000",
+                "name": "CURSOR LEFT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "17",
+                "device_address": "-80000000",
+                "name": "AUDIO",
+                "protocol": "JVC"
+            },
+            {
+                "address": "18",
+                "device_address": "-80000000",
+                "name": "CURSOR DOWN",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "CURSOR UP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "19",
+                "device_address": "-80000000",
+                "name": "P. SELECT",
+                "protocol": "JVC"
+            },
+            {
+                "address": "1a",
+                "device_address": "-80000000",
+                "name": "",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "1d",
+                "device_address": "-80000000",
+                "name": "ON",
+                "protocol": "JVC"
+            },
+            {
+                "address": "21",
+                "device_address": "-80000000",
+                "name": "1",
+                "protocol": "JVC"
+            },
+            {
+                "address": "22",
+                "device_address": "-80000000",
+                "name": "2",
+                "protocol": "JVC"
+            },
+            {
+                "address": "23",
+                "device_address": "-80000000",
+                "name": "3",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "4",
+                "protocol": "JVC"
+            },
+            {
+                "address": "24",
+                "device_address": "-80000000",
+                "name": "ANGLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "25",
+                "device_address": "-80000000",
+                "name": "5",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "6",
+                "protocol": "JVC"
+            },
+            {
+                "address": "26",
+                "device_address": "-80000000",
+                "name": "SUBTITLE",
+                "protocol": "JVC"
+            },
+            {
+                "address": "27",
+                "device_address": "-80000000",
+                "name": "7",
+                "protocol": "JVC"
+            },
+            {
+                "address": "28",
+                "device_address": "-80000000",
+                "name": "8",
+                "protocol": "JVC"
+            },
+            {
+                "address": "29",
+                "device_address": "-80000000",
+                "name": "9",
+                "protocol": "JVC"
+            },
+            {
+                "address": "30",
+                "device_address": "-80000000",
+                "name": "REC. LINK",
+                "protocol": "JVC"
+            },
+            {
+                "address": "31",
+                "device_address": "-80000000",
+                "name": "REC. SPD.",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "0",
+                "protocol": "JVC"
+            },
+            {
+                "address": "33",
+                "device_address": "-80000000",
+                "name": "AUX",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "<",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "CANCEL",
+                "protocol": "JVC"
+            },
+            {
+                "address": "36",
+                "device_address": "-80000000",
+                "name": "COUNTER RESET",
+                "protocol": "JVC"
+            },
+            {
+                "address": "37",
+                "device_address": "-80000000",
+                "name": "MENU",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "CURSOR ENTER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3c",
+                "device_address": "-80000000",
+                "name": "OK",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "ENTER",
+                "protocol": "JVC"
+            },
+            {
+                "address": "3e",
+                "device_address": "-80000000",
+                "name": "OSD",
+                "protocol": "JVC{2}"
+            },
+            {
+                "address": "84",
+                "device_address": "-80000000",
+                "name": "BACK",
+                "protocol": "JVC"
+            },
+            {
+                "address": "90",
+                "device_address": "-80000000",
+                "name": ">",
+                "protocol": "JVC"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "S. SEARCH",
+                "protocol": "JVC"
+            },
+            {
+                "address": "96",
+                "device_address": "-80000000",
+                "name": "SKIP",
+                "protocol": "JVC"
+            },
+            {
+                "address": "cc",
+                "device_address": "-80000000",
+                "name": "RECORD",
+                "protocol": "JVC"
+            },
+            {
+                "address": "e0",
+                "device_address": "-80000000",
+                "name": "NAVI",
+                "protocol": "JVC"
+            }
+        ]
+    },
+    "manufacturer": "Marantz",
+    "model": "",
+    "name": "",
+    "target": "D-VHS"
+}

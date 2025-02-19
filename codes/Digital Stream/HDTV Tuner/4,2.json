@@ -1,0 +1,153 @@
+{
+    "display_name": "Digital Stream HDTV Tuner",
+    "ir": {
+        "commands": [
+            {
+                "address": "0",
+                "name": "POWER"
+            },
+            {
+                "address": "1",
+                "name": "MUTE"
+            },
+            {
+                "address": "2",
+                "name": "1"
+            },
+            {
+                "address": "3",
+                "name": "2"
+            },
+            {
+                "address": "4",
+                "name": "3"
+            },
+            {
+                "address": "5",
+                "name": "4"
+            },
+            {
+                "address": "6",
+                "name": "5"
+            },
+            {
+                "address": "7",
+                "name": "6"
+            },
+            {
+                "address": "8",
+                "name": "7"
+            },
+            {
+                "address": "9",
+                "name": "8"
+            },
+            {
+                "address": "a",
+                "name": "9"
+            },
+            {
+                "address": "b",
+                "name": "CC"
+            },
+            {
+                "address": "c",
+                "name": "0"
+            },
+            {
+                "address": "d",
+                "name": "AUDIO"
+            },
+            {
+                "address": "e",
+                "name": "ASPECT"
+            },
+            {
+                "address": "f",
+                "name": "FAV-CH"
+            },
+            {
+                "address": "10",
+                "name": "DISPLAY"
+            },
+            {
+                "address": "11",
+                "name": "PREVIOUS CHANNEL"
+            },
+            {
+                "address": "12",
+                "name": "SETUP"
+            },
+            {
+                "address": "13",
+                "name": "CURSOR UP/CH+"
+            },
+            {
+                "address": "14",
+                "name": "CURSOR DOWN/CH-"
+            },
+            {
+                "address": "15",
+                "name": "CURSOR LEFT"
+            },
+            {
+                "address": "16",
+                "name": "CURSOR ENTER/SELECT"
+            },
+            {
+                "address": "17",
+                "name": "CURSOR RIGHT"
+            },
+            {
+                "address": "18",
+                "name": "-"
+            },
+            {
+                "address": "19",
+                "name": "+"
+            },
+            {
+                "address": "1a",
+                "name": "BACK"
+            },
+            {
+                "address": "1b",
+                "name": "MENU"
+            },
+            {
+                "address": "1c",
+                "name": "HELP"
+            },
+            {
+                "address": "1d",
+                "name": "METER"
+            },
+            {
+                "address": "1e",
+                "name": "SLEEP"
+            },
+            {
+                "address": "1f",
+                "name": "CHANNEL ADD"
+            },
+            {
+                "address": "40",
+                "name": "CHANNEL DEL"
+            },
+            {
+                "address": "41",
+                "name": "EXIT"
+            },
+            {
+                "address": "42",
+                "name": "FREEZE"
+            }
+        ],
+        "device_address": "10",
+        "protocol": "NEC1"
+    },
+    "manufacturer": "Digital Stream",
+    "model": "",
+    "name": "",
+    "target": "HDTV Tuner"
+}
