@@ -1,5 +1,5 @@
 {
-    "display_name": "Cox Digital Cable",
+    "display_name": "Digital Cable",
     "ir": {
         "commands": [
             {
@@ -51,15 +51,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CHANNEL -"
             },
             {
@@ -115,19 +115,19 @@
                 "name": "RIGHT"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE UP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PAGE DOWN"
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Cox",
     "model": "",
-    "name": "",
+    "name": "Cox Digital Cable",
     "target": "Digital Cable"
 }

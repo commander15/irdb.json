@@ -1,5 +1,5 @@
 {
-    "display_name": "JBL Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
@@ -19,27 +19,27 @@
                 "name": "PANORAMA NORMAL(1)"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "PANORAMA WIDE(2)"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "PANORAMA BINAURAL(3)"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "BANK"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "AMBIENCE SMALL(4)"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "AMBIENCE MEDIUM(5)"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "AMBIENCE LARGE(6)"
             },
             {
@@ -83,75 +83,75 @@
                 "name": "SRND MONO(13)"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "SRND PRO-LOGIC(14)"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SRND THX CINEMA(15)"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "BALANCE ^"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "VOLUME ^"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "BALANCE <"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "BALANCE >"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "VOLUME V"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "BALANCE V"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "EFFECTS V"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "EFFECTS ^"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "EFX MUTE"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "MAIN MUTE"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "INPUT 1"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "INPUT 2"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "name": "INPUT 3"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "INPUT 4"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "JBL",
     "model": "",
-    "name": "",
+    "name": "JBL Surround Processor",
     "target": "Surround Processor"
 }

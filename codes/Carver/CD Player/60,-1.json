@@ -1,5 +1,5 @@
 {
-    "display_name": "Carver CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -47,15 +47,15 @@
                 "name": "INTRO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RANDOM"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISPLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CLEAR"
             },
             {
@@ -131,11 +131,11 @@
                 "name": "9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "10 DISC SELECT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "10"
             }
         ],
@@ -144,6 +144,6 @@
     },
     "manufacturer": "Carver",
     "model": "",
-    "name": "",
+    "name": "Carver CD Player",
     "target": "CD Player"
 }

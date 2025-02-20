@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -35,23 +35,23 @@
                 "name": "INPUT CD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT PHONO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT TUNER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "INPUT V3 GAME/TV"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT V2 CBL/SAT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "INPUT V1 VCR/DVR"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "INPUT AM"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "MODE LISTEN MODEUP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SLEEP TIME"
             },
             {
@@ -95,23 +95,23 @@
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "SPK TEST TONE"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "INPUT V6 PC"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "INPUT V4 AUX1"
             }
         ],
-        "device_address": "1a4000",
+        "device_address": "1A4000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

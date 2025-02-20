@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -19,47 +19,47 @@
                 "name": "DIGITAL DAT"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "TUNER CH V"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "TUNER CH ^"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "TUNER BAND"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "TUNER AT/MANU"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "TUNER TUNE ^"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "TUNER TUNE V"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "TUNER RF"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "TUNER P.SCAN"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "TUNER POWER"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

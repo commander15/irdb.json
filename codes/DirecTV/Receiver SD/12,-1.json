@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Receiver SD",
+    "display_name": "Receiver SD",
     "ir": {
         "commands": [
             {
@@ -39,23 +39,23 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CH +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAGE UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CH -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREVIOUS"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -172,10 +172,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Receiver SD",
     "target": "Receiver SD"
 }

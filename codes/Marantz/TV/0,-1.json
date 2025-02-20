@@ -1,33 +1,33 @@
 {
-    "display_name": "Marantz TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "POWER ON/OFF",
-                "protocol": "G.I.Cable"
+                "protocol": "G.I.CABLE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "CHANNEL +",
-                "protocol": "G.I.Cable"
+                "protocol": "G.I.CABLE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "CHANNEL -",
-                "protocol": "G.I.Cable"
+                "protocol": "G.I.CABLE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "POWER OFF",
                 "protocol": "RC5"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "",
                 "protocol": "RC5"
@@ -45,19 +45,19 @@
                 "protocol": "RC5"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "0",
                 "name": "ENTER/OK",
                 "protocol": "RC5"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "0",
                 "name": "POWER ON",
                 "protocol": "RC5"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "0",
                 "name": "SWAP",
                 "protocol": "RC5"
@@ -66,6 +66,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz TV",
     "target": "TV"
 }

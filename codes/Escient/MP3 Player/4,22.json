@@ -1,9 +1,9 @@
 {
-    "display_name": "Escient MP3 Player",
+    "display_name": "MP3 Player",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
@@ -27,19 +27,19 @@
                 "name": ""
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "OK/SELECT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SELECT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MENU/VIEW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MENU"
             },
             {
@@ -59,7 +59,7 @@
                 "name": "SEEK BACK"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "RAND"
             },
             {
@@ -76,6 +76,6 @@
     },
     "manufacturer": "Escient",
     "model": "",
-    "name": "",
+    "name": "Escient MP3 Player",
     "target": "MP3 Player"
 }

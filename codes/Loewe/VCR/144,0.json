@@ -1,5 +1,5 @@
 {
-    "display_name": "Loewe VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "RECORD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "LJUD"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "OOOO"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "TIMER"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Loewe",
     "model": "",
-    "name": "",
+    "name": "Loewe VCR",
     "target": "VCR"
 }

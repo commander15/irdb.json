@@ -1,5 +1,5 @@
 {
-    "display_name": "Bell ExpressVu Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "PAGE+"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE -"
             },
             {
@@ -36,10 +36,10 @@
             }
         ],
         "device_address": "1",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Bell ExpressVu",
     "model": "",
-    "name": "",
+    "name": "Bell ExpressVu Satellite",
     "target": "Satellite"
 }

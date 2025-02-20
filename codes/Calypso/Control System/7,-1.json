@@ -1,5 +1,5 @@
 {
-    "display_name": "Calypso Control System",
+    "display_name": "Control System",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "CT 105"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CT 115"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "CT 116"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CT 124"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "CT 098"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "CT 121"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "CT 126"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "CT 102"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "CT 117"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "CT 123"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CT 103"
             },
             {
@@ -128,10 +128,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Calypso",
     "model": "",
-    "name": "",
+    "name": "Calypso Control System",
     "target": "Control System"
 }

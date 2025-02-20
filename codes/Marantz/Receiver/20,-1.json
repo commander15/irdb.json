@@ -1,29 +1,29 @@
 {
-    "display_name": "Marantz Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CD DISC +/A"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CD DISC B/-"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "CD"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "CD INPUT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "INPUT - CD"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "INPUT: CD"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz Receiver",
     "target": "Receiver"
 }

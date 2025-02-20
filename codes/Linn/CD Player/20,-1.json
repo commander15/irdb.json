@@ -1,5 +1,5 @@
 {
-    "display_name": "Linn CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISPLAY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -59,7 +59,7 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN/CLOSE"
             },
             {
@@ -96,6 +96,6 @@
     },
     "manufacturer": "Linn",
     "model": "",
-    "name": "",
+    "name": "Linn CD Player",
     "target": "CD Player"
 }

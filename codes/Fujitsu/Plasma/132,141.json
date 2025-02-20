@@ -1,21 +1,21 @@
 {
-    "display_name": "Fujitsu Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CH RETURN"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL RETURN"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "9"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "0"
             },
             {
@@ -79,27 +79,27 @@
                 "name": "\".\""
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FAVORITE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "INFO"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "GUIDE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CC"
             }
         ],
         "device_address": "108000",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "Fujitsu",
     "model": "",
-    "name": "",
+    "name": "Fujitsu Plasma",
     "target": "Plasma"
 }

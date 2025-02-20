@@ -1,13 +1,13 @@
 {
-    "display_name": "Sony Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "COUNTER MEMORY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "COUNTER RESET"
             },
             {
@@ -19,23 +19,23 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "> PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "<< REWIND"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": ">> FAST FORWARD"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RECORD"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "REC MUTE"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "< PLAY"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "COUNTER MEMORY"
             },
             {
@@ -52,10 +52,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Cassette Tape",
     "target": "Cassette Tape"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "AIM RADIO",
+    "display_name": "RADIO",
     "ir": {
         "commands": [
             {
@@ -23,11 +23,11 @@
                 "name": "Stop_Band"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "Intro"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "Timer"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "KEY_REWIND"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Mem"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "Display"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "KEY_VOLUMEDOWN"
             },
             {
@@ -76,6 +76,6 @@
     },
     "manufacturer": "AIM",
     "model": "",
-    "name": "",
+    "name": "AIM RADIO",
     "target": "RADIO"
 }

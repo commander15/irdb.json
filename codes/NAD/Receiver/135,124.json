@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "CHANNEL"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "5.1 EXT."
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "DYN. R."
             },
             {
@@ -71,7 +71,7 @@
                 "name": "PRESET/TUNE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "CD PAUSE"
             },
             {
@@ -131,31 +131,31 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "1"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "5"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "VOLUME -"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TAPE 1"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TAPE MON"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "2"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "6"
             },
             {
@@ -183,55 +183,55 @@
                 "name": "BANK"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "DECK B REC./PAUSE"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "DECK B STOP"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "DECK B PLAY >"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "DECK B FF"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "DECK B RW"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "VIDEO 2"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "VIDEO 3"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "VIDEO 1"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "MODE"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "TEST"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "TUNE -"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TUNE +"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DECK B PLAY <"
             }
         ],
@@ -240,6 +240,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Receiver",
     "target": "Receiver"
 }

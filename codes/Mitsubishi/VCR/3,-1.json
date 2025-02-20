@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "11"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "12"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "13"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "U1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "U2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "U3"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "U4"
             },
             {
@@ -79,27 +79,27 @@
                 "name": "PLAY >"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REC"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PAUSE "
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF/SEARCH >>"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REW/SEARCH <<"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi VCR",
     "target": "VCR"
 }

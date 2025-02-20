@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Control Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -71,11 +71,11 @@
                 "name": "BAND (TUNER) - R"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TUNING + RIGHT - R"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "TUNING - LEFT - R"
             },
             {
@@ -92,6 +92,6 @@
     },
     "manufacturer": "Audio Control",
     "model": "",
-    "name": "",
+    "name": "Audio Control Receiver",
     "target": "Receiver"
 }

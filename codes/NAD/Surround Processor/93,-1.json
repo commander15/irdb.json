@@ -1,21 +1,21 @@
 {
-    "display_name": "NAD Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
-                "address": "ee",
+                "address": "EE",
                 "name": ""
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "name": ""
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Grundig16"
+        "protocol": "GRUNDIG16"
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Surround Processor",
     "target": "Surround Processor"
 }

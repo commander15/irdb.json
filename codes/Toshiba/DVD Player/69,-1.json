@@ -1,5 +1,5 @@
 {
-    "display_name": "Toshiba DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -75,37 +75,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "-80000000",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "-80000000",
                 "name": "QUICK",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "SLOW",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "Z - SLOW FORWARD",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "-80000000",
                 "name": "REV SLOW",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "-80000000",
                 "name": "Z - SLOW REWIND",
                 "protocol": "NEC1"
@@ -279,37 +279,37 @@
                 "protocol": "NEC"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "-80000000",
                 "name": "MEMORY",
                 "protocol": "NEC1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "REPEAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "A-B REPEAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "-80000000",
                 "name": "LAST PLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "-80000000",
                 "name": "SUBTITLE ON/OFF",
                 "protocol": "NEC1"
@@ -345,37 +345,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "-80000000",
                 "name": "DISC SELECT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "-80000000",
                 "name": "CURSOR RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "-80000000",
                 "name": "RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "-80000000",
                 "name": "ARROW RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "-80000000",
                 "name": "CURSOR - RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "-80000000",
                 "name": "COLOR STREAM SELECT",
                 "protocol": "NEC1"
@@ -465,49 +465,49 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "device_address": "-80000000",
                 "name": "Z - FAST FORWARD",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "device_address": "-80000000",
                 "name": "Z - FAST REWIND",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "-80000000",
                 "name": "TITLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "-80000000",
                 "name": "TOP MENU",
                 "protocol": "NEC1"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "device_address": "-80000000",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "device_address": "-80000000",
                 "name": "ZOOM ( - )",
                 "protocol": "NEC1"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "device_address": "-80000000",
                 "name": "ZOOM ( + )",
                 "protocol": "NEC1"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "-80000000",
                 "name": "OPEN/CLOSE",
                 "protocol": "NEC1"
@@ -516,6 +516,6 @@
     },
     "manufacturer": "Toshiba",
     "model": "",
-    "name": "",
+    "name": "Toshiba DVD Player",
     "target": "DVD Player"
 }

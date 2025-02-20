@@ -1,5 +1,5 @@
 {
-    "display_name": "Adcom Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -35,23 +35,23 @@
                 "name": "6"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "7"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "8"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "AUX"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CD"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DAT/TAPE2"
             },
             {
@@ -91,27 +91,27 @@
                 "name": "FM/AM"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TRACK <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TRACK >>"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME <"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME >"
             }
         ],
         "device_address": "51",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Receiver",
     "target": "Receiver"
 }

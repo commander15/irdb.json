@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "TAPE REW"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TAPE PAUSE"
             },
             {
@@ -27,11 +27,11 @@
                 "name": "TAPE1 STOP []"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "TAPE REC/PLAY"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "TAPE REC/PAUSE"
             }
         ],
@@ -40,6 +40,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Tuner",
     "target": "Tuner"
 }

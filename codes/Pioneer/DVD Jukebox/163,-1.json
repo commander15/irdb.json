@@ -1,5 +1,5 @@
 {
-    "display_name": "Pioneer DVD Jukebox",
+    "display_name": "DVD Jukebox",
     "ir": {
         "commands": [
             {
@@ -135,35 +135,35 @@
                 "name": "UP"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "FORWARD"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "REVERSE"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "NEXT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "PREVIOUS"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PAUSE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer DVD Jukebox",
     "target": "DVD Jukebox"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -31,7 +31,7 @@
                 "name": "TRACK +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REPEAT"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "9"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CLEAR"
             },
             {
@@ -148,6 +148,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC CD Jukebox",
     "target": "CD Jukebox"
 }

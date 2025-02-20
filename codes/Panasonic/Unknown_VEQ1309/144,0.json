@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Unknown_VEQ1309",
+    "display_name": "Unknown_VEQ1309",
     "ir": {
         "commands": [
             {
@@ -23,15 +23,15 @@
                 "name": "KEY_RECORD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_PLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "jogstep+"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "jogstep-"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "KEY_0"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "KEY_102ND"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "vtr"
             },
             {
@@ -135,11 +135,11 @@
                 "name": "jogfwd++++"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "jogstep--"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "jogstep++"
             },
             {
@@ -151,27 +151,27 @@
                 "name": "jog/shuttle_off"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "KEY_AGAIN"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "memory"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "name": "KEY_REWIND"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Unknown_VEQ1309",
     "target": "Unknown_VEQ1309"
 }

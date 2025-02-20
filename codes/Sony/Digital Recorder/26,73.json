@@ -1,29 +1,29 @@
 {
-    "display_name": "Sony Digital Recorder",
+    "display_name": "Digital Recorder",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "SELECT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SET"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RETURN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TOP MENU"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MENU"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "INSTANT REPLAY"
             },
             {
@@ -75,23 +75,23 @@
                 "name": "C UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "C DN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "C LF"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "C RT"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Digital Recorder",
     "target": "Digital Recorder"
 }

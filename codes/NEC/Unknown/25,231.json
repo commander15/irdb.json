@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Unknown",
+    "display_name": "Unknown",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "[2] RESET"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "[2] VCR/TV"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "[2] FF/SRCH >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "[2] REW/SRCH <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "[2] PAUSE/STILL "
             },
             {
@@ -91,11 +91,11 @@
                 "name": "[2] 9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "[2] 0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "[2] SP/EP"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "[2] TAPE REMAIN"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "[2] SEARCH TIME"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "name": "[2] CVC"
             }
         ],
-        "device_address": "c80",
+        "device_address": "C80",
         "protocol": "NEC1"
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Unknown",
     "target": "Unknown"
 }

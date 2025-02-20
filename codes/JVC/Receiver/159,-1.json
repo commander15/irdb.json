@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "ACTIVE HYPER-BASS"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TUNER/BAND"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "AUX"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "PRESET TUNING"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "(SHIFT)DISPLAY"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "(SHIFT)MODE"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "CD 9"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "CD 10"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "CD +10"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "(SHIFT)TIMER ON/OFF"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "CD SRCH >>(UP)"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "CD SRCH <<(DOWN)"
             },
             {
@@ -131,15 +131,15 @@
                 "name": "TAPE MUSIC SCAN <<"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "TAPE REC/PAUSE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "TAPE PLAY >"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TAPE REV PLAY <"
             },
             {
@@ -175,7 +175,7 @@
                 "name": "(SHIFT)REPEAT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CD DOOR"
             },
             {
@@ -191,7 +191,7 @@
                 "name": "TREBLE +"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "TREBLE -"
             }
         ],
@@ -200,6 +200,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Receiver",
     "target": "Receiver"
 }

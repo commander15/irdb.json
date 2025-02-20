@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Blu-Ray",
+    "display_name": "Blu-Ray",
     "ir": {
         "commands": [
             {
@@ -35,19 +35,19 @@
                 "name": "8"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SUBTITLE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "AUDIO"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "ANGLE"
             },
             {
@@ -83,27 +83,27 @@
                 "name": "TRACK <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SCAN >>"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SCAN <<"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PLAY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CLEAR"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISPLAY"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RANDOM"
             },
             {
@@ -131,23 +131,23 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "A-B REPEAT"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SETUP"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "TOP MENU"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SEARCH"
             },
             {
@@ -183,15 +183,15 @@
                 "name": "DIMMER"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "PURE DIRECT"
             }
         ],
         "device_address": "4",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Blu-Ray",
     "target": "Blu-Ray"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -43,43 +43,43 @@
                 "name": "BALANCED 1 T1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT UP T0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT UP T1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT DOWN T0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT DOWN T1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STDBY TOGGLE T0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STDBY TOGGLE T1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INFO T0"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INFO T1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY T0"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY T1"
             },
             {
@@ -131,27 +131,27 @@
                 "name": "NAVIGATE DOWN T1"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "NAVIGATE LEFT T0"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "NAVIGATE LEFT T1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "NAVIGATE RIGHT T0"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "NAVIGATE RIGHT T1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "ENTER T0"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "ENTER T1"
             },
             {
@@ -171,51 +171,51 @@
                 "name": "STANDBY T1"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "TAPE MON ON T0"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "TAPE MON ON T1"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TAPE MON OFF T0"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TAPE MON OFF T1"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "OUTPUT1 TOGGLE"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "OUTPUT2 TOGGLE"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "OUTPUT3 TOGGLE"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "OUTPUT1 ON"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "OUTPUT1 OFF"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "OUTPUT2 OFF"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "name": "OUTPUT3 ON"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "OUTPUT3 OFF"
             }
         ],
@@ -224,6 +224,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

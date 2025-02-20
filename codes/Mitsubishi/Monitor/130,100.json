@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TTL"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "ANALOG 2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RGB 2"
             },
             {
@@ -83,11 +83,11 @@
                 "name": "VIDEO 2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ANALOG 1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RGB 1"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "2"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "DOWN (-)"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "DOWN"
             },
             {
@@ -144,6 +144,6 @@
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Monitor",
     "target": "Monitor"
 }

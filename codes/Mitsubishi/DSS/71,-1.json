@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "MUTE"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": ""
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi DSS",
     "target": "DSS"
 }

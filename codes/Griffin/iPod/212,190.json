@@ -1,5 +1,5 @@
 {
-    "display_name": "Griffin iPod",
+    "display_name": "iPod",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "VIDEO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CURSOR SELECT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PAGE +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SETTINGS"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "MENU"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "POWER"
             }
         ],
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Griffin",
     "model": "",
-    "name": "",
+    "name": "Griffin iPod",
     "target": "iPod"
 }

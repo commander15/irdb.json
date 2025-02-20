@@ -1,5 +1,5 @@
 {
-    "display_name": "Hitachi DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "SETUP"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "AUDIO"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "DISPLAY"
             },
             {
@@ -95,75 +95,75 @@
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "ENTER"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "SEARCH <<"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "REPEAT"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "SEARCH >>"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "SKIP <<"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "SKIP >>"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "STOP"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "CLEAR"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "STEP"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "MODE"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "A-B"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "BOOK MARK"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "ZOOM"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "3D"
             }
         ],
         "device_address": "66",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi DVD Player",
     "target": "DVD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony TiVo",
+    "display_name": "TiVo",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER/JUMP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -67,19 +67,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACK"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FWD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REC ON/OFF"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "ADVANCE"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPLAY"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "TIVO MENU"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GUIDE"
             },
             {
@@ -139,11 +139,11 @@
                 "name": "SELECT"
             }
         ],
-        "device_address": "2e0",
-        "protocol": "Sony20"
+        "device_address": "2E0",
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TiVo",
     "target": "TiVo"
 }

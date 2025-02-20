@@ -1,232 +1,232 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "6",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "AM/FM",
                 "protocol": "NEC1"
             },
             {
                 "address": "19",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "SETUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
-                "device_address": "5c0",
+                "address": "1A",
+                "device_address": "5C0",
                 "name": "CD-2/TAPE2",
                 "protocol": "NEC"
             },
             {
-                "address": "1a",
-                "device_address": "5c0",
+                "address": "1A",
+                "device_address": "5C0",
                 "name": "CD-TAPE 2 INPUT",
                 "protocol": "NEC"
             },
             {
-                "address": "1a",
-                "device_address": "5c0",
+                "address": "1A",
+                "device_address": "5C0",
                 "name": "TAPE 2 MON",
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
-                "device_address": "5c0",
+                "address": "1A",
+                "device_address": "5C0",
                 "name": "CD2/TAPE2 ON/OFF",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "VIDEO3",
                 "protocol": "NEC"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "VIDEO 3 INPUT",
                 "protocol": "NEC"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "DVD INPUT",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "VIDEO 3",
                 "protocol": "NEC"
             },
             {
-                "address": "1d",
-                "device_address": "5c0",
+                "address": "1D",
+                "device_address": "5C0",
                 "name": "VIDEO 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
-                "device_address": "5c0",
+                "address": "1E",
+                "device_address": "5C0",
                 "name": "VIDEO 4",
                 "protocol": "NEC"
             },
             {
-                "address": "1e",
-                "device_address": "5c0",
+                "address": "1E",
+                "device_address": "5C0",
                 "name": "VIDEO 4 INPUT",
                 "protocol": "NEC"
             },
             {
-                "address": "1e",
-                "device_address": "5c0",
+                "address": "1E",
+                "device_address": "5C0",
                 "name": "LD INPUT",
                 "protocol": "NEC2"
             },
             {
-                "address": "1e",
-                "device_address": "5c0",
+                "address": "1E",
+                "device_address": "5C0",
                 "name": "",
                 "protocol": "NEC2"
             },
             {
-                "address": "4d",
-                "device_address": "5c0",
+                "address": "4D",
+                "device_address": "5C0",
                 "name": "TUNER AUTO MEMORY",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "5c0",
+                "address": "4D",
+                "device_address": "5C0",
                 "name": "AUTO MEMORY",
                 "protocol": "NEC1"
             },
             {
                 "address": "54",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "SUB-",
                 "protocol": "NEC1"
             },
             {
                 "address": "55",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "SUB+",
                 "protocol": "NEC1"
             },
             {
                 "address": "58",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "LOUDNESS-",
                 "protocol": "NEC1"
             },
             {
                 "address": "58",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "BASS -",
                 "protocol": "NEC1"
             },
             {
                 "address": "59",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "LOUDNESS+",
                 "protocol": "NEC1"
             },
             {
                 "address": "59",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "BASS +",
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
-                "device_address": "5c0",
+                "address": "5A",
+                "device_address": "5C0",
                 "name": "TONE-",
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
-                "device_address": "5c0",
+                "address": "5A",
+                "device_address": "5C0",
                 "name": "TREBLE -",
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
-                "device_address": "5c0",
+                "address": "5B",
+                "device_address": "5C0",
                 "name": "TONE+",
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
-                "device_address": "5c0",
+                "address": "5B",
+                "device_address": "5C0",
                 "name": "TREBLE +",
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
-                "device_address": "5c0",
+                "address": "5C",
+                "device_address": "5C0",
                 "name": "DOLBY DIG",
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
-                "device_address": "5c0",
+                "address": "5C",
+                "device_address": "5C0",
                 "name": "DOLBY DIGITAL",
                 "protocol": "NEC"
             },
             {
-                "address": "5c",
-                "device_address": "5c0",
+                "address": "5C",
+                "device_address": "5C0",
                 "name": "DOLBY DIGITAL",
                 "protocol": "NEC1"
             },
             {
                 "address": "80",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "DVD INPUT",
                 "protocol": "NEC"
             },
             {
                 "address": "80",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "DVD",
                 "protocol": "NEC"
             },
             {
                 "address": "80",
-                "device_address": "5c0",
+                "device_address": "5C0",
                 "name": "DVD",
                 "protocol": "NEC1"
             },
             {
-                "address": "ca",
-                "device_address": "5c0",
+                "address": "CA",
+                "device_address": "5C0",
                 "name": "ANALOG",
                 "protocol": "NEC1"
             },
             {
-                "address": "cb",
-                "device_address": "5c0",
+                "address": "CB",
+                "device_address": "5C0",
                 "name": "DTS",
                 "protocol": "NEC"
             },
             {
-                "address": "cb",
-                "device_address": "5c0",
+                "address": "CB",
+                "device_address": "5C0",
                 "name": "DTS",
                 "protocol": "NEC1"
             },
             {
-                "address": "cc",
-                "device_address": "5c0",
+                "address": "CC",
+                "device_address": "5C0",
                 "name": "MIDNIGHT MODE",
                 "protocol": "NEC1"
             }
@@ -234,6 +234,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

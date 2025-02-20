@@ -1,5 +1,5 @@
 {
-    "display_name": "Dream Vision DLP Projector",
+    "display_name": "DLP Projector",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "BRITE -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FREEZE"
             },
             {
@@ -67,35 +67,35 @@
                 "name": "LEFT"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PRESETS"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "RESET"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "SOURCE1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "DVI 1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "SOURCE2"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "RGB 2"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SOURCE3"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "COMPONENT 3"
             },
             {
@@ -147,31 +147,31 @@
                 "name": "POWER ON"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "POWER OFF"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "NATIVE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "16:9"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "4:3"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "LETTER BOX"
             }
         ],
-        "device_address": "21c000",
+        "device_address": "21C000",
         "protocol": "NEC1"
     },
     "manufacturer": "Dream Vision",
     "model": "",
-    "name": "",
+    "name": "Dream Vision DLP Projector",
     "target": "DLP Projector"
 }

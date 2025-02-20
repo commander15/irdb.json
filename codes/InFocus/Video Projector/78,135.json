@@ -1,5 +1,5 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "BRIGHTNESS -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FREEZE"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "KEYSTONE -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PRESET"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "SOURCE 1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "SOURCE 2"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SOURCE 3"
             },
             {
@@ -91,27 +91,27 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "POWER ON"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "NATIVE RESIZE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "16:9"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "4:3"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "LETTERBOX"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "NATURAL WIDE RESIZE"
             },
             {
@@ -132,6 +132,6 @@
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

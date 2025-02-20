@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "MODE DSP DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "INPUT SELECT UP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "INPUT SELECT DOWN"
             },
             {
@@ -39,15 +39,15 @@
                 "name": "STANDBY"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "MODE STEREO"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "MODE SURR WRAP UP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "MODE THX WRAP UP"
             },
             {
@@ -83,59 +83,59 @@
                 "name": "SPEAKER LAYOUT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "INPUT DVD/BD"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "STANDBY/ON TOGGLE"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "INPUT HIDDEN 1"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "INPUT HIDDEN 2"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "INPUT HIDDEN 3"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "SETUP AUDIO"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "AUDYSSEY 2EQ WRAP"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "RE-EQ/CINEMA WRAP"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "LATE NIGHT WRAP"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "AUDIO SELECT WRAP"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "MODE THTR DIMENSION"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "SPK SUB LVL CONTROL"
             }
         ],
-        "device_address": "d2000",
+        "device_address": "D2000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

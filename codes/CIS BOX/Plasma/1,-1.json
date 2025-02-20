@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "9"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "0"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "MTS"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "PWR ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "PWR OFF"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "RGB2"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "Y/C"
             },
             {
@@ -104,10 +104,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX Plasma",
     "target": "Plasma"
 }

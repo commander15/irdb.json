@@ -1,209 +1,209 @@
 {
-    "display_name": "Mitsubishi CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "1"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "9"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "DISC ^"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "DISC"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "PLAY"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "PLAY >"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "2"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "0"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "FAST FORWARD"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "SEARCH >>"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "FF >>"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CLEAR"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CANCEL"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "+10"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "INDEX"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "3"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "REVERSE"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "SEARCH <<"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "REW <<"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "DISC 1"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "STOP"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "STOP []"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "DISC V"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "REPEAT"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "4"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DISPLAY"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "PAUSE"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "PAUSE "
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "RANDOM"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "5"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "name": "DISC 2"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "SKIP >>"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "FS (FWD SRCH) >>"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "name": "6"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "DISC 3"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "SKIP <<"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "RS (REV SRCH) <<"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "name": "INTRO SCAN"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "name": "INTRO"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "7"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "name": "DISC 4"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "ADJUST ^"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "ENTER"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "8"
             },
             {
-                "address": "fb",
+                "address": "FB",
                 "name": "DISC 5"
             },
             {
-                "address": "fc",
+                "address": "FC",
                 "name": "ADJUST V"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "MEMORY"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "MENU"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi CD Player",
     "target": "CD Player"
 }

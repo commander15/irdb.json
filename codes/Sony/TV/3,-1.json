@@ -1,65 +1,65 @@
 {
-    "display_name": "Sony TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "CLOCK"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "AUDIO/RED"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "AUDIO MENU"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "RED"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PICTURE/GREEN"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "GREEN"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VIDEO MENU"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "MULTISELECT/YELLOW"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "MULTI-PIP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "YELLOW"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "16/9/BLUE"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "BLUE"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "ZOOM"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TV",
     "target": "TV"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Zenith TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "INFO"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PICTURE"
             },
             {
@@ -15,7 +15,7 @@
                 "name": "CLEAR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "INPUT - DBS"
             },
             {
@@ -27,19 +27,19 @@
                 "name": "RECORD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "GUIDE"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "QUIT"
             }
         ],
         "device_address": "7",
-        "protocol": "Zenith"
+        "protocol": "ZENITH"
     },
     "manufacturer": "Zenith",
     "model": "",
-    "name": "",
+    "name": "Zenith TV",
     "target": "TV"
 }

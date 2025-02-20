@@ -1,5 +1,5 @@
 {
-    "display_name": "Makita Drapery Controller",
+    "display_name": "Drapery Controller",
     "ir": {
         "commands": [
             {
@@ -83,11 +83,11 @@
                 "name": "4 <-->"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "4 -><-"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "5 <-->"
             },
             {
@@ -104,10 +104,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Makita",
     "model": "",
-    "name": "",
+    "name": "Makita Drapery Controller",
     "target": "Drapery Controller"
 }

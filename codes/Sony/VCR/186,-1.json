@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,51 +19,51 @@
                 "name": "GUIDE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PAGE UP"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "THEME"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "LIST"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CURSOR UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAUSE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "MENU UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "UP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "STOP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MENU DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DN"
             },
             {
@@ -135,11 +135,11 @@
                 "name": "CURSOR SELECT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SMART FILE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TAPE GUIDE"
             },
             {
@@ -167,7 +167,7 @@
                 "name": "VIDEO 4"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "VIDEO 5"
             },
             {
@@ -220,10 +220,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony VCR",
     "target": "VCR"
 }

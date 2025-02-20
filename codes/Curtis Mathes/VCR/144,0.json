@@ -1,5 +1,5 @@
 {
-    "display_name": "Curtis Mathes VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "REC/TIME"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW"
             },
             {
@@ -99,7 +99,7 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -107,15 +107,15 @@
                 "name": "COUNTER RESET"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "100"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Curtis Mathes",
     "model": "",
-    "name": "",
+    "name": "Curtis Mathes VCR",
     "target": "VCR"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Novaplex Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -15,23 +15,23 @@
                 "name": "SLEEP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "MENU"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "--->"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SELECT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "LAST"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "BUY"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
@@ -96,10 +96,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Novaplex",
     "model": "",
-    "name": "",
+    "name": "Novaplex Cable Box",
     "target": "Cable Box"
 }

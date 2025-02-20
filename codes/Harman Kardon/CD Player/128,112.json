@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -189,67 +189,67 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "800000",
                 "name": "REPEAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "800000",
                 "name": "REPEAT",
                 "protocol": "NEC2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "800000",
                 "name": "A-B",
                 "protocol": "NEC2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "800000",
                 "name": "REPEAT A-B",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "800000",
                 "name": "SPACE",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "800000",
                 "name": "INTRO SCAN",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "800000",
                 "name": "INTRO",
                 "protocol": "NEC2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "800000",
                 "name": "PROGRAM",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "800000",
                 "name": "PROGRAM",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "800000",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "800000",
                 "name": "CLEAR",
                 "protocol": "NEC2"
@@ -375,79 +375,79 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "800000",
                 "name": "10",
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "800000",
                 "name": "10",
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "800000",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "800000",
                 "name": "CHECK",
                 "protocol": "NEC2"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "800000",
                 "name": "CHECK",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "800000",
                 "name": "TIME",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "800000",
                 "name": "TIME",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "800000",
                 "name": "DISPLAY",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "800000",
                 "name": "DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "800000",
                 "name": "OUTPUT ^",
                 "protocol": "NEC2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "800000",
                 "name": "FOLDER+",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "800000",
                 "name": "OUTPUT V",
                 "protocol": "NEC2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "800000",
                 "name": "FOLDER-",
                 "protocol": "NEC1"
@@ -465,25 +465,25 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "800000",
                 "name": "SHUFFLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "800000",
                 "name": "RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "800000",
                 "name": "PAUSE",
                 "protocol": "NEC2"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "800000",
                 "name": "RANDOM",
                 "protocol": "NEC2"
@@ -573,19 +573,19 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "800000",
                 "name": "DISC -",
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "800000",
                 "name": "SKIP DN",
                 "protocol": "NEC1"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "800000",
                 "name": "INFO",
                 "protocol": "NEC1"
@@ -594,6 +594,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon CD Player",
     "target": "CD Player"
 }

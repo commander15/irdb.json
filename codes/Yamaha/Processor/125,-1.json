@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha Processor",
+    "display_name": "Processor",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "disco"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "rock"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "hall"
             },
             {
@@ -39,31 +39,31 @@
                 "name": "down"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "test"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "time level"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "effect"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "right"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "level down"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "left"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "level up"
             },
             {
@@ -95,7 +95,7 @@
                 "name": "power toggle"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "input cbl sat"
             },
             {
@@ -115,19 +115,19 @@
                 "name": "sleep"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "vol up"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "vol down"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Processor",
     "target": "Processor"
 }

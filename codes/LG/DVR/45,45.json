@@ -1,5 +1,5 @@
 {
-    "display_name": "LG DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "STOP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "1"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "2"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "3"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "4"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "5"
             },
             {
@@ -99,19 +99,19 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TITLE"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "MENU/LIST"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "ANGLE"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "AUDIO"
             },
             {
@@ -143,11 +143,11 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "PIP"
             },
             {
@@ -175,47 +175,47 @@
                 "name": "DUBBING"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "AV"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "I.SKIP"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "REC"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "TIMER REC"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "REC MODE"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "TIMESHIFT"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "THUMBNAIL"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "CHP ADD"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "*"
             }
         ],
-        "device_address": "5a000",
+        "device_address": "5A000",
         "protocol": "NEC1"
     },
     "manufacturer": "LG",
     "model": "",
-    "name": "",
+    "name": "LG DVR",
     "target": "DVR"
 }

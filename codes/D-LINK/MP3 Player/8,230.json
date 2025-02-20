@@ -1,5 +1,5 @@
 {
-    "display_name": "D-LINK MP3 Player",
+    "display_name": "MP3 Player",
     "ir": {
         "commands": [
             {
@@ -57,37 +57,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "200",
                 "name": "MUTE",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "200",
                 "name": "PHOTO",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "200",
                 "name": "VOL DN",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "200",
                 "name": "CURSOR LEFT",
                 "protocol": "NEC2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "200",
                 "name": "SETUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "200",
                 "name": "MUSIC",
                 "protocol": "NEC1"
@@ -141,25 +141,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "200",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "200",
                 "name": "VOL UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "device_address": "200",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "200",
                 "name": "0",
                 "protocol": "NEC1"
@@ -213,19 +213,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "200",
                 "name": "FWD",
                 "protocol": "NEC1"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "200",
                 "name": "STOP",
                 "protocol": "NEC1"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "device_address": "200",
                 "name": "REV",
                 "protocol": "NEC1"
@@ -234,6 +234,6 @@
     },
     "manufacturer": "D-LINK",
     "model": "",
-    "name": "",
+    "name": "D-LINK MP3 Player",
     "target": "MP3 Player"
 }

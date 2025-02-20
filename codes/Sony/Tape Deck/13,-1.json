@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Tape Deck",
+    "display_name": "Tape Deck",
     "ir": {
         "commands": [
             {
@@ -23,11 +23,11 @@
                 "name": ""
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "memory"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "reset"
             },
             {
@@ -47,19 +47,19 @@
                 "name": "pause deck 2"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "play forward"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "rewind deck 2"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "Fast forward"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "record pause"
             },
             {
@@ -111,19 +111,19 @@
                 "name": "pause"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "blank skip"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "display"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Tape Deck",
     "target": "Tape Deck"
 }

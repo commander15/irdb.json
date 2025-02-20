@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Refinement Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "SEARCH -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FM/AM"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "TUNER"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PRESET -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "PRESET +"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Audio Refinement",
     "model": "",
-    "name": "",
+    "name": "Audio Refinement Tuner",
     "target": "Tuner"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Levenhuk Microscope",
+    "display_name": "Microscope",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "50/60Hz"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "Crosshair"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "Sharpness Down"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "Sharpness Up"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "Contrast Up"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "Black and White"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "(Un)Lock File"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "NTL/PAL"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "Defaults"
             },
             {
@@ -92,6 +92,6 @@
     },
     "manufacturer": "Levenhuk",
     "model": "",
-    "name": "",
+    "name": "Levenhuk Microscope",
     "target": "Microscope"
 }

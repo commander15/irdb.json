@@ -1,5 +1,5 @@
 {
-    "display_name": "Sharp Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -31,23 +31,23 @@
                 "name": "ENTER"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "ADJUSTMENT +"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "ADJUSTMENT -"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "MENU"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Sharp",
     "model": "",
-    "name": "",
+    "name": "Sharp Video Projector",
     "target": "Video Projector"
 }

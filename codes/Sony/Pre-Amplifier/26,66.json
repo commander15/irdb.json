@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO 2"
             },
             {
@@ -55,27 +55,27 @@
                 "name": "DAT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "SAT"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "LD"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": ""
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD"
             }
         ],
         "device_address": "68",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

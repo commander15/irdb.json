@@ -1,5 +1,5 @@
 {
-    "display_name": "Runco Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SOURCE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "POWER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CURSOR RIGHT"
             },
             {
@@ -67,35 +67,35 @@
                 "name": "9"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "ENTER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "ARROW DOWN"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MENU"
             }
         ],
-        "device_address": "a",
-        "protocol": "Zenith"
+        "device_address": "A",
+        "protocol": "ZENITH"
     },
     "manufacturer": "Runco",
     "model": "",
-    "name": "",
+    "name": "Runco Video Projector",
     "target": "Video Projector"
 }

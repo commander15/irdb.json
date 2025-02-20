@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -31,31 +31,31 @@
                 "name": "TELETEXT HOLD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TELETEXT STORE LIST"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TELETEXT SIZE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TELETEXT REVEAL"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "TELETEXT LIST"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TELETEXT RESET"
             }
         ],
         "device_address": "100",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic TV",
     "target": "TV"
 }

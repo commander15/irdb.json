@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC S-VHS",
+    "display_name": "S-VHS",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "SPOLA <<"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "POWER ON-OFF"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAUSE"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "MENU"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "OK"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "RECORD"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC S-VHS",
     "target": "S-VHS"
 }

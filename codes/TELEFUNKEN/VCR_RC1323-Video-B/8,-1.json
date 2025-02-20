@@ -1,5 +1,5 @@
 {
-    "display_name": "TELEFUNKEN VCR_RC1323-Video-B",
+    "display_name": "VCR_RC1323-Video-B",
     "ir": {
         "commands": [
             {
@@ -31,11 +31,11 @@
                 "name": "KEY_STOP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "Adjust"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "Index"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "-/Down"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "KEY_0"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "Status"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "Display/Menu"
             },
             {
@@ -99,19 +99,19 @@
                 "name": "SP/LP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "KEY_BLUE"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "tv/vcr"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "OFF"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "Erase"
             },
             {
@@ -127,15 +127,15 @@
                 "name": "KEY_GREEN"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "KEY_REWIND"
             }
         ],
         "device_address": "0",
-        "protocol": "Thomson"
+        "protocol": "THOMSON"
     },
     "manufacturer": "TELEFUNKEN",
     "model": "",
-    "name": "",
+    "name": "TELEFUNKEN VCR_RC1323-Video-B",
     "target": "VCR_RC1323-Video-B"
 }

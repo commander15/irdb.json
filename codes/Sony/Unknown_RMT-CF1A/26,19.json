@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Unknown_RMT-CF1A",
+    "display_name": "Unknown_RMT-CF1A",
     "ir": {
         "commands": [
             {
@@ -51,11 +51,11 @@
                 "name": "KEY_ENTER"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "preset+"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "preset-"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "display"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "bright"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "band"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "tune-"
             }
         ],
-        "device_address": "d00000",
-        "protocol": "Sony20"
+        "device_address": "D00000",
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Unknown_RMT-CF1A",
     "target": "Unknown_RMT-CF1A"
 }

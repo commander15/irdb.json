@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV HDTV Tuner",
+    "display_name": "HDTV Tuner",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV. CH."
             },
             {
@@ -107,11 +107,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -131,15 +131,15 @@
                 "name": "BLUE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MUTE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "VOLUME -"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "VOLUME +"
             },
             {
@@ -148,10 +148,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV HDTV Tuner",
     "target": "HDTV Tuner"
 }

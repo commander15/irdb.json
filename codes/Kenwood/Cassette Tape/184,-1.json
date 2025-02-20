@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -31,67 +31,67 @@
                 "name": "VIDEO 1"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VOL CONTROL V"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "VOL CONTROL ^"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "POWER"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "TAPEA R.PLAY <"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "TAPEA PLAY >"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TAPEA REW <<"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "TAPEA FF >>"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "TAPEA STOP []"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "TAPEB REV PLAY <"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "TAPEB PLAY >"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "TAPEB REW <<"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "TAPEB FF >>"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "TAPEB PAUSE (ONLY)"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "TAPEB STOP []"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "TAPEB REC (ONLY)"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Cassette Tape",
     "target": "Cassette Tape"
 }

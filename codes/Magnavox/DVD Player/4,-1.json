@@ -1,5 +1,5 @@
 {
-    "display_name": "Magnavox DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "PREV"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PLAY"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "STOP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "REPEAT A-B"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SUBTITLE"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUDIO MODE"
             },
             {
@@ -103,15 +103,15 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CURSOR OK"
             },
             {
@@ -127,11 +127,11 @@
                 "name": "ANGLE"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "PREVIEW"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "name": "ZOOM"
             }
         ],
@@ -140,6 +140,6 @@
     },
     "manufacturer": "Magnavox",
     "model": "",
-    "name": "",
+    "name": "Magnavox DVD Player",
     "target": "DVD Player"
 }

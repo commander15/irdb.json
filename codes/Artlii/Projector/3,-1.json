@@ -1,5 +1,5 @@
 {
-    "display_name": "Artlii Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "up"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "left"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "OK"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "back"
             },
             {
@@ -51,23 +51,23 @@
                 "name": "play/pause"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "power"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "menu"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "square"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Artlii",
     "model": "",
-    "name": "",
+    "name": "Artlii Projector",
     "target": "Projector"
 }

@@ -1,13 +1,13 @@
 {
-    "display_name": "Daewoo TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "CODE1 VID 4"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CODE1 VID 3"
             },
             {
@@ -31,19 +31,19 @@
                 "name": "CODE1 VIDE 2"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CODE1 VID 5"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CODE1 VID 1"
             }
         ],
         "device_address": "0",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Daewoo",
     "model": "",
-    "name": "",
+    "name": "Daewoo TV",
     "target": "TV"
 }

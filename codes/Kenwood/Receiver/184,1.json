@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -87,19 +87,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "170",
                 "name": "DSP",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "170",
                 "name": "3STEREO",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "170",
                 "name": "3 STEREO",
                 "protocol": "NEC1"
@@ -195,7 +195,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "170",
                 "name": "N.B.",
                 "protocol": "NEC1"
@@ -267,13 +267,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "170",
                 "name": "M 4",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "170",
                 "name": "VISUAL FIX",
                 "protocol": "NEC1"
@@ -315,49 +315,49 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "device_address": "170",
                 "name": "PTY",
                 "protocol": "NEC1"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "device_address": "170",
                 "name": "THX",
                 "protocol": "NEC"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "device_address": "170",
                 "name": "THX",
                 "protocol": "NEC1"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "device_address": "170",
                 "name": "INPUT",
                 "protocol": "NEC1"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "device_address": "170",
                 "name": "INPUT ^",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "170",
                 "name": "TONE",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "device_address": "170",
                 "name": "INPUT V",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "device_address": "170",
                 "name": "PANEL OPEN-CLOSE",
                 "protocol": "NEC"
@@ -366,6 +366,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

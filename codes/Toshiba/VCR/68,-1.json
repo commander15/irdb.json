@@ -1,5 +1,5 @@
 {
-    "display_name": "Toshiba VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SLOW MOTION -"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SLOW MOTION"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "REWIND <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CHANNEL -"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "TIMER"
             },
             {
@@ -103,15 +103,15 @@
                 "name": "A. SELECT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PROGRAM"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SP/SLP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "I. SELECT"
             },
             {
@@ -123,11 +123,11 @@
                 "name": "RESET"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "name": "CANCEL"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "EJECT"
             }
         ],
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Toshiba",
     "model": "",
-    "name": "",
+    "name": "Toshiba VCR",
     "target": "VCR"
 }

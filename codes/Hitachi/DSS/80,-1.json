@@ -1,5 +1,5 @@
 {
-    "display_name": "Hitachi DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -15,27 +15,27 @@
                 "name": "TV INPUT"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV LAST CH"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TV MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TV 0 (&!/)"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV 1 (ABC)"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TV 2 (DEF)"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV 3 (GHI)"
             },
             {
@@ -59,19 +59,19 @@
                 "name": "TV CH ^"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TV 4 (JKL)"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "TV 5 (MNO)"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV 6 (PQR)"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV 7 (STU)"
             },
             {
@@ -104,6 +104,6 @@
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi DSS",
     "target": "DSS"
 }

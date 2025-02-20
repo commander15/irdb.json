@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "+10"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "AUDIO MONI."
             },
             {
@@ -87,15 +87,15 @@
                 "name": "REPEAT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CLEAR"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CHECK"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "P.MODE"
             },
             {
@@ -115,15 +115,15 @@
                 "name": "REPEAT A-B"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "EDIT"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "INTRO SCAN"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "RANDOM"
             },
             {
@@ -139,23 +139,23 @@
                 "name": "STILL/STEP >"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "MULTI SPEED <"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MULTI SPEED >"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "MULTI SPEED -"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "MULTI SPEED +"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "DISPLAY"
             },
             {
@@ -183,31 +183,31 @@
                 "name": "B"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "PLAY >"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "M-STOP"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "M-SHOT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "POWER"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "CX"
             }
         ],
-        "device_address": "5b000",
+        "device_address": "5B000",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Laser Disc",
     "target": "Laser Disc"
 }

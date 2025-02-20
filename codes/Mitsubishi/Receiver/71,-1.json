@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "TV 0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV CH ^ (SCAN ^)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV SCAN ^"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV QV"
             },
             {
@@ -59,11 +59,11 @@
                 "name": "TV 4"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TV INPUT V"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV DISPLAY"
             },
             {
@@ -91,7 +91,7 @@
                 "name": "TV A"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV INPUT ^"
             },
             {
@@ -124,10 +124,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Receiver",
     "target": "Receiver"
 }

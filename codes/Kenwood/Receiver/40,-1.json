@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -27,27 +27,27 @@
                 "name": "VCR2 ANY V"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VIDEO2 PLAY (P.CALL)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR2 PLAY >"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VIDEO2 PAUSE (AUTO)"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR2 PAUSE "
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VIDEO2 << (TUNING)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCR2 REW <<"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "VCR2 ANY ^"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VIDEO2 REC"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCR2 REC"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VIDEO2 STOP (BAND)"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VCR2 STOP []"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VIDEO2 1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VCR2 1"
             },
             {
@@ -164,10 +164,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Emerson"
+        "protocol": "EMERSON"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

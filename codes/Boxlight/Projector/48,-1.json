@@ -1,5 +1,5 @@
 {
-    "display_name": "Boxlight Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -33,13 +33,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "MENU",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "NORMAL",
                 "protocol": "NEC1"
@@ -63,13 +63,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "0",
                 "name": "FOCUS+",
                 "protocol": "NEC1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "0",
                 "name": "FOCUS-",
                 "protocol": "NEC1"
@@ -81,19 +81,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "device_address": "0",
                 "name": "NO SHOW",
                 "protocol": "NEC1"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "0",
                 "name": "KEYSTONE+",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "0",
                 "name": "KEYSTONE-",
                 "protocol": "NEC1"
@@ -102,6 +102,6 @@
     },
     "manufacturer": "Boxlight",
     "model": "",
-    "name": "",
+    "name": "Boxlight Projector",
     "target": "Projector"
 }

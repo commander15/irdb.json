@@ -1,5 +1,5 @@
 {
-    "display_name": "Dish Network Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE UP"
             },
             {
@@ -63,23 +63,23 @@
                 "name": "PVR"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PIP POSTION"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "PIP SAWP"
             }
         ],
         "device_address": "10",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Dish Network",
     "model": "",
-    "name": "",
+    "name": "Dish Network Satellite",
     "target": "Satellite"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -39,13 +39,13 @@
                 "protocol": "RC6"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "PLAY - 5",
                 "protocol": "RC5"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "PLAY - 6A",
                 "protocol": "RC6"
@@ -54,6 +54,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC DVD Player",
     "target": "DVD Player"
 }

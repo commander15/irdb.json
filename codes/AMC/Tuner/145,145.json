@@ -1,5 +1,5 @@
 {
-    "display_name": "AMC Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -31,15 +31,15 @@
                 "name": "8"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "0"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TUNING - UP"
             },
             {
@@ -60,6 +60,6 @@
     },
     "manufacturer": "AMC",
     "model": "",
-    "name": "",
+    "name": "AMC Tuner",
     "target": "Tuner"
 }

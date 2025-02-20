@@ -1,13 +1,13 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "XM MEMORY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "XM SHIFT"
             },
             {
@@ -119,11 +119,11 @@
                 "name": "XM 0"
             }
         ],
-        "device_address": "e0",
-        "protocol": "Denon-K"
+        "device_address": "E0",
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

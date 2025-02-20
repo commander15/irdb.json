@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Decoder",
+    "display_name": "Decoder",
     "ir": {
         "commands": [
             {
@@ -7,95 +7,95 @@
                 "name": "6 channel"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "up arrow"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "lleft arrow"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "right arrow"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "cinema EQ"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "enter"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "input setup"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "channel select"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "channel volume +"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "channel volume -"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "volume +"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "volume -"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "muting"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "name": "down arrow"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "panel"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "mode"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "stereo"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "ac3 rf"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "name": "input coax 1"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "name": "input coax 2"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "input optical 1"
             },
             {
-                "address": "bf",
+                "address": "BF",
                 "name": "input optical 2"
             }
         ],
         "device_address": "0",
-        "protocol": "denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Decoder",
     "target": "Decoder"
 }

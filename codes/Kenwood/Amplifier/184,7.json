@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "FLAT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "D-BASS"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "PLAY/PAUSE / DIGITAL"
             }
         ],
-        "device_address": "5c00",
+        "device_address": "5C00",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Amplifier",
     "target": "Amplifier"
 }

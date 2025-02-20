@@ -1,5 +1,5 @@
 {
-    "display_name": "iPort iPod",
+    "display_name": "iPod",
     "ir": {
         "commands": [
             {
@@ -11,23 +11,23 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PREVIOUS TRACK"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "NEXT ALBUM"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PREVIOUS ALBUM"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "STOP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PLAY"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "POWER ON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "POWER OFF"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACKLIGHT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PLAY/PAUSE"
             },
             {
@@ -116,6 +116,6 @@
     },
     "manufacturer": "iPort",
     "model": "",
-    "name": "",
+    "name": "iPort iPod",
     "target": "iPod"
 }

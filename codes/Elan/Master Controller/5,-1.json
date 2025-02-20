@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Master Controller",
+    "display_name": "Master Controller",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "AUX 2"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "AUX 3"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "AUX 4"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "AUX 5"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "DBS"
             }
         ],
@@ -60,6 +60,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Master Controller",
     "target": "Master Controller"
 }

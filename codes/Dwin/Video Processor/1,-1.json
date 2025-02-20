@@ -1,5 +1,5 @@
 {
-    "display_name": "Dwin Video Processor",
+    "display_name": "Video Processor",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "+10"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "FAV"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INFO"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "ALT"
             },
             {
@@ -123,23 +123,23 @@
                 "name": "GUIDE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "NEXT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MENU"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PREV CH"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "SELECT"
             },
             {
@@ -151,11 +151,11 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "FLASHBK"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "EXIT"
             },
             {
@@ -167,11 +167,11 @@
                 "name": "CURSOR UP"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "ADJ >"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "CURSOR RIGHT"
             },
             {
@@ -184,10 +184,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Dwin",
     "model": "",
-    "name": "",
+    "name": "Dwin Video Processor",
     "target": "Video Processor"
 }

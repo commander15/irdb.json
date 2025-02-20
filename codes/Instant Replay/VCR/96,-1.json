@@ -1,5 +1,5 @@
 {
-    "display_name": "Instant Replay VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -31,27 +31,27 @@
                 "name": "F.FWD/VI.SRCH >>"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REW/VI.SRCH <<"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STOP []"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "3"
             },
             {
@@ -87,27 +87,27 @@
                 "name": "CHANNEL +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REC/PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "4"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "5"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "6"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "7 (WKL/DLY)"
             },
             {
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Instant Replay",
     "model": "",
-    "name": "",
+    "name": "Instant Replay VCR",
     "target": "VCR"
 }

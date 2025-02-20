@@ -1,18 +1,18 @@
 {
-    "display_name": "Elan HD",
+    "display_name": "HD",
     "ir": {
         "commands": [
             {
                 "address": "2",
                 "device_address": "0",
                 "name": "MUTE",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "3",
                 "device_address": "0",
                 "name": "DND",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "4",
@@ -24,25 +24,25 @@
                 "address": "4",
                 "device_address": "0",
                 "name": "VOLUME +",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "6",
                 "device_address": "0",
                 "name": "BASS+",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "6",
                 "device_address": "0",
                 "name": "BRIGHTNESS -",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "8",
                 "device_address": "0",
                 "name": "TREBLE+",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "24",
@@ -54,24 +54,24 @@
                 "address": "24",
                 "device_address": "0",
                 "name": "VOLUME -",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "26",
                 "device_address": "0",
                 "name": "BASS-",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "27",
                 "device_address": "0",
                 "name": "TREBLE -",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             }
         ]
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan HD",
     "target": "HD"
 }

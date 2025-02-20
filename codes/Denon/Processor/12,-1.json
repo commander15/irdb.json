@@ -1,33 +1,33 @@
 {
-    "display_name": "Denon Processor",
+    "display_name": "Processor",
     "ir": {
         "commands": [
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "LEFT ARROW"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "DBS ZONE 2"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "ZN2 VOL UP"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "ZONE 2 VOL +"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "ZONE 2 VOL DOWN"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "ZONE 2 VOL -"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "PHONO ZONE 2"
             },
             {
@@ -71,79 +71,79 @@
                 "name": "VCR2 ZONE 2"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TV ZONE 2"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "TAPE ZONE 2"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SURR STEREO"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "SURR DIRECT"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "SYSTEM SETUP"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "SETUP"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "SURR PARAMETER"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "SEARCH PARAMETER"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "UP ARROW"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "DOWN ARROW"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "SURR 5CH/7CH STEREO"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "7 CHANNEL"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "VIDEO OFF"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "INPUT"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "ZONE 2 DVD"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "DVD ZONE 2"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "MODE"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Processor",
     "target": "Processor"
 }

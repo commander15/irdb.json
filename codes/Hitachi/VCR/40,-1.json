@@ -1,18 +1,18 @@
 {
-    "display_name": "Hitachi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
                 "address": "0",
                 "device_address": "0",
                 "name": "TV/VCR",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "0",
                 "device_address": "0",
                 "name": "VCR/TV",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "0",
@@ -42,19 +42,19 @@
                 "address": "4",
                 "device_address": "0",
                 "name": "FFWD>>",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "4",
                 "device_address": "0",
                 "name": "CURSOR - RIGHT",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "4",
                 "device_address": "0",
                 "name": "FAST FORWARD >>",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "4",
@@ -66,7 +66,7 @@
                 "address": "4",
                 "device_address": "0",
                 "name": "VCR FFWD >>",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "5",
@@ -78,13 +78,13 @@
                 "address": "6",
                 "device_address": "0",
                 "name": "SELECT",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "6",
                 "device_address": "0",
                 "name": "DISPLAY",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "6",
@@ -96,7 +96,7 @@
                 "address": "7",
                 "device_address": "0",
                 "name": "SEARCH MODE",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "7",
@@ -108,13 +108,13 @@
                 "address": "8",
                 "device_address": "0",
                 "name": "CH -",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "8",
                 "device_address": "0",
                 "name": "CHANNEL -",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "8",
@@ -126,7 +126,7 @@
                 "address": "8",
                 "device_address": "0",
                 "name": "VCR CH V",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "9",
@@ -135,136 +135,136 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "PLAY",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "CURSOR - UP",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "VCR PLAY >",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "PAUSE",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "SLOW +",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "TV POWER",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "VCR PAUSE ",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "REWIND <<",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "<<REWIND",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "CURSOR - LEFT",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "TV CH ^",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "VCR REW <<",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "SLOW >",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "TV CH V",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "VOL ^",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "ADD/DELETE",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "RESET COUNTER",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "EXIT/RESET",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "VOL V",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "ADD/DELETE (RESET)",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "10",
                 "device_address": "0",
                 "name": "CH +",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "10",
                 "device_address": "0",
                 "name": "CHANNEL +",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "10",
@@ -276,7 +276,7 @@
                 "address": "10",
                 "device_address": "0",
                 "name": "VCR CH ^",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "13",
@@ -288,192 +288,192 @@
                 "address": "14",
                 "device_address": "0",
                 "name": "MEMORY",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "14",
                 "device_address": "0",
                 "name": "COUNTER/MEMORY",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "15",
                 "device_address": "0",
                 "name": "MENU",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "RECORD",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "VCR REC",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "STOP",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "CURSOR - DOWN",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "VCR STOP []",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "1",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "VCR 1",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "20",
                 "device_address": "0",
                 "name": "POWER",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "20",
                 "device_address": "0",
                 "name": "VCR POWER",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "21",
                 "device_address": "0",
                 "name": "2",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "21",
                 "device_address": "0",
                 "name": "VCR 2",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "22",
                 "device_address": "0",
                 "name": "3",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "22",
                 "device_address": "0",
                 "name": "VCR 3",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "23",
                 "device_address": "0",
                 "name": "4",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "23",
                 "device_address": "0",
                 "name": "VCR 4",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "24",
                 "device_address": "0",
                 "name": "5",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "24",
                 "device_address": "0",
                 "name": "VCR 5",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "25",
                 "device_address": "0",
                 "name": "6",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "25",
                 "device_address": "0",
                 "name": "VCR 6",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "26",
                 "device_address": "0",
                 "name": "7",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "26",
                 "device_address": "0",
                 "name": "VCR 7",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "27",
                 "device_address": "0",
                 "name": "8",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "27",
                 "device_address": "0",
                 "name": "VCR 8",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "28",
                 "device_address": "0",
                 "name": "9",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "28",
                 "device_address": "0",
                 "name": "VCR 9",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "29",
                 "device_address": "0",
                 "name": "0",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             },
             {
                 "address": "29",
                 "device_address": "0",
                 "name": "VCR 0",
-                "protocol": "Emerson"
+                "protocol": "EMERSON"
             }
         ]
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi VCR",
     "target": "VCR"
 }

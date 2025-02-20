@@ -1,9 +1,9 @@
 {
-    "display_name": "Marantz TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "INPUT: DVD"
             },
             {
@@ -31,63 +31,63 @@
                 "name": "COLOR TEMP"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "MODE: WIDE"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "WIDE"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "CURSOR UP"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "CURSON RIGHT"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "MENU"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "OK"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "POWER OFF"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "ENTER"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "ZOOM +"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "ZOOM -"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "HD 2"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "HD 1"
             }
         ],
@@ -96,6 +96,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz TV",
     "target": "TV"
 }

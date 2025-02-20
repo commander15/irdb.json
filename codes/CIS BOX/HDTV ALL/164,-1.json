@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX HDTV ALL",
+    "display_name": "HDTV ALL",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "CC"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "AUDIO"
             },
             {
@@ -15,15 +15,15 @@
                 "name": "ZOOM CAPTION"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "JUMP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "NORMAL FULL"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "WIDE MODE"
             },
             {
@@ -35,7 +35,7 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "OFF"
             },
             {
@@ -48,10 +48,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX HDTV ALL",
     "target": "HDTV ALL"
 }

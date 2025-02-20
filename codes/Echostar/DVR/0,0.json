@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
@@ -27,23 +27,23 @@
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9"
             },
             {
@@ -75,31 +75,31 @@
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ARROW UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECORD"
             },
             {
@@ -120,10 +120,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar DVR",
     "target": "DVR"
 }

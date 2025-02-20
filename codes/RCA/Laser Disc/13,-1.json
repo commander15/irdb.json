@@ -1,5 +1,5 @@
 {
-    "display_name": "RCA Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SCAN >>"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SCAN <<"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP"
             },
             {
@@ -47,15 +47,15 @@
                 "name": "FRAME <<"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CHAP/TRACK <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CHAP/TRACK >>"
             },
             {
@@ -99,7 +99,7 @@
                 "name": "9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "DISPLAY"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "AUDIO"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "RANDOM"
             },
             {
@@ -127,15 +127,15 @@
                 "name": "REPEAT A * B"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "HI-LITE INTRO"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "CHAP * TIME"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "+10"
             }
         ],
@@ -144,6 +144,6 @@
     },
     "manufacturer": "RCA",
     "model": "",
-    "name": "",
+    "name": "RCA Laser Disc",
     "target": "Laser Disc"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar Dish Network",
+    "display_name": "Dish Network",
     "ir": {
         "commands": [
             {
@@ -27,23 +27,23 @@
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9"
             },
             {
@@ -71,19 +71,19 @@
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ARROW UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW DOWN"
             },
             {
@@ -96,10 +96,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar Dish Network",
     "target": "Dish Network"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Pioneer DVD Changer",
+    "display_name": "DVD Changer",
     "ir": {
         "commands": [
             {
@@ -175,35 +175,35 @@
                 "name": "TOP M"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "SCAN >>"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SCAN <<"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "NEXT TRACK"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "PREV. TRACK"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PAUSE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer DVD Changer",
     "target": "DVD Changer"
 }

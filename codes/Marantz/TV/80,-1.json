@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -9,7 +9,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "MUTE",
                 "protocol": "NEC1"
@@ -57,13 +57,13 @@
                 "protocol": "NEC"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "device_address": "0",
                 "name": "POWER ON",
                 "protocol": "NEC"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "0",
                 "name": "POWER OFF",
                 "protocol": "NEC"
@@ -99,7 +99,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "device_address": "0",
                 "name": "INPUT: RGB 1",
                 "protocol": "NEC1"
@@ -108,6 +108,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz TV",
     "target": "TV"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Fosgate Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -69,7 +69,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "40",
                 "name": "AUX 2",
                 "protocol": "NEC1"
@@ -87,7 +87,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "device_address": "40",
                 "name": "MEMORY",
                 "protocol": "NEC1"
@@ -117,7 +117,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "40",
                 "name": "FAV",
                 "protocol": "NEC1"
@@ -141,79 +141,79 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "40",
                 "name": "DTS",
                 "protocol": "NEC1"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "device_address": "40",
                 "name": "VOLUME +",
                 "protocol": "NEC1"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "device_address": "40",
                 "name": "5",
                 "protocol": "NEC2"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "device_address": "40",
                 "name": "VIDEO 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "device_address": "40",
                 "name": "MENU",
                 "protocol": "NEC1"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "device_address": "40",
                 "name": "TRIM",
                 "protocol": "NEC1"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "device_address": "40",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "40",
                 "name": "3",
                 "protocol": "NEC2"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "device_address": "40",
                 "name": "SAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "device_address": "40",
                 "name": "VIDEO 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "device_address": "40",
                 "name": "STEREO",
                 "protocol": "NEC1"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "device_address": "40",
                 "name": "DVD",
                 "protocol": "NEC1"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "device_address": "40",
                 "name": "DOWN",
                 "protocol": "NEC1"
@@ -222,6 +222,6 @@
     },
     "manufacturer": "Fosgate",
     "model": "",
-    "name": "",
+    "name": "Fosgate Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

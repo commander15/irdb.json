@@ -1,9 +1,9 @@
 {
-    "display_name": "Sony VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "SUPERIMPOSE"
             },
             {
@@ -15,19 +15,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "REC"
             },
             {
@@ -40,10 +40,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony VCR",
     "target": "VCR"
 }

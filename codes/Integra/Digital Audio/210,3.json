@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra Digital Audio",
+    "display_name": "Digital Audio",
     "ir": {
         "commands": [
             {
@@ -39,13 +39,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "690",
                 "name": "TUNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "690",
                 "name": "SLEEP",
                 "protocol": "NEC1"
@@ -54,6 +54,6 @@
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Digital Audio",
     "target": "Digital Audio"
 }

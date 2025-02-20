@@ -1,65 +1,65 @@
 {
-    "display_name": "Panasonic TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "INPUT COMPONENT 1"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "INPUT COMPONENT 2"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "INPUT HDMI 1"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "INPUT HDMI 2"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "INPUT HDMI 3"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "INPUT HDMI 4"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "ASPECT NORMAL"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "ASPECT ZOOM"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "ASPECT JUST"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "ASPECT AUTO"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "ASPECT FULL"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "ASPECT SELECT/SCROLL"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "PIP POSITION"
             }
         ],
         "device_address": "800",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic TV",
     "target": "TV"
 }

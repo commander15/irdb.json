@@ -1,9 +1,9 @@
 {
-    "display_name": "CIS BOX HDTV ALL",
+    "display_name": "HDTV ALL",
     "ir": {
         "commands": [
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "DTV ANT"
             },
             {
@@ -19,19 +19,19 @@
                 "name": "VIDEO7"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "ZOOM -"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "ZOOM +"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX HDTV ALL",
     "target": "HDTV ALL"
 }

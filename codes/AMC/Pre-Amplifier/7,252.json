@@ -1,5 +1,5 @@
 {
-    "display_name": "AMC Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "D1/D2"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "DISPLAY"
             },
             {
@@ -27,79 +27,79 @@
                 "name": "AM/FM"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "PRESET +"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "PRESET -"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "SCAN +"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SCAN -"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "TUNER"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CD"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "TAPE 1"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "TAPE 2"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "VCR 1"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "VCR 2"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "LD"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "VIDEO"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "VOLUME +"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "VOLUME -"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "POWER"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "MONO"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "NORMAL STEREO"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DOLBY PROLOGIC"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "PBX/THX CINEMA"
             }
         ],
@@ -108,6 +108,6 @@
     },
     "manufacturer": "AMC",
     "model": "",
-    "name": "",
+    "name": "AMC Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

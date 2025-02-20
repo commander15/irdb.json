@@ -1,5 +1,5 @@
 {
-    "display_name": "Kathrein DVBS-Receiver",
+    "display_name": "DVBS-Receiver",
     "ir": {
         "commands": [
             {
@@ -87,27 +87,27 @@
                 "name": "9 B"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER B"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE B"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "I"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "I B"
             },
             {
@@ -127,19 +127,19 @@
                 "name": "VOLUME DOWN B"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL UP B"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CHANNEL DOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CHANNEL DOWN B"
             },
             {
@@ -191,11 +191,11 @@
                 "name": "PAUSE B"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TEXT"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TEXT B"
             },
             {
@@ -231,55 +231,55 @@
                 "name": "CURSOR DOWN B"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "LEFT"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT B"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT B"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CURSOR CENTER/OK"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CURSOR CENTER/OK B"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "FAV/RED/ROT"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "FAV/RED/ROT B"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "N"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "N B"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "OPT/YELLOW/GELB"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "OPT/YELLOW/GELB B"
             },
             {
@@ -291,19 +291,19 @@
                 "name": "TV/R/BLUE/BLAU B"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "EPG"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "EPG B"
             }
         ],
         "device_address": "220000",
-        "protocol": "Nokia32"
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Kathrein",
     "model": "",
-    "name": "",
+    "name": "Kathrein DVBS-Receiver",
     "target": "DVBS-Receiver"
 }

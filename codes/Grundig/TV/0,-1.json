@@ -1,5 +1,5 @@
 {
-    "display_name": "Grundig TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -87,7 +87,7 @@
                 "name": "9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ASPECT / >"
             },
             {
@@ -95,31 +95,31 @@
                 "name": "PIP / AUDIO"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "P+ / UP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "P- / DOWN"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "I (MENU) / OSD"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "INFORMATION"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "BLUE / AUDIO"
             },
             {
@@ -127,23 +127,23 @@
                 "name": "TEXT"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "RED / DISPLAY"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "YELLOW / PAUSE"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "GREEN / SLEEP"
             }
         ],
         "device_address": "0",
-        "protocol": "Blaupunkt"
+        "protocol": "BLAUPUNKT"
     },
     "manufacturer": "Grundig",
     "model": "",
-    "name": "",
+    "name": "Grundig TV",
     "target": "TV"
 }

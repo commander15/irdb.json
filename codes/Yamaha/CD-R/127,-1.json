@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha CD-R",
+    "display_name": "CD-R",
     "ir": {
         "commands": [
             {
@@ -35,19 +35,19 @@
                 "name": "SCAN >>"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "CLEAR"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "REPEAT"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "RANDOM"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "INTRO"
             },
             {
@@ -91,87 +91,87 @@
                 "name": "9"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "+10"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "TEXT/TIME"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "REC"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "COPY"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "FINALIZE"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "ERASE"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "TRACK NO. WRITE"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "AMQR"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "INPUT"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "TIMER REC"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "ENTER"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "COMPLETE"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "MODE"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "MENU"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "VALUE +"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "name": "VALUE -"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "name": "CDR"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "HDD"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "BOOKMARK"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "GROUP SKIP -"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "GROUP SKIP +"
             }
         ],
@@ -180,6 +180,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha CD-R",
     "target": "CD-R"
 }

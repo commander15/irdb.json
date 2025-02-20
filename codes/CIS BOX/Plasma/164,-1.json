@@ -1,25 +1,25 @@
 {
-    "display_name": "CIS BOX Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "ASPECT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "ZOOM"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DEGAUSS"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX Plasma",
     "target": "Plasma"
 }

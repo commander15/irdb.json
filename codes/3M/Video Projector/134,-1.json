@@ -1,5 +1,5 @@
 {
-    "display_name": "3M Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "MENU"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BLANK"
             },
             {
@@ -55,7 +55,7 @@
                 "name": "MUTE"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MAGNIFY"
             },
             {
@@ -68,10 +68,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "3M",
     "model": "",
-    "name": "",
+    "name": "3M Video Projector",
     "target": "Video Projector"
 }

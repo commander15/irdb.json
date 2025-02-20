@@ -1,13 +1,13 @@
 {
-    "display_name": "Yamaha DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "STANDBY/ON"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "POWER TOGGLE"
             },
             {
@@ -43,23 +43,23 @@
                 "name": "PRESET8"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PRESET UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PRESET +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PRESET DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -67,23 +67,23 @@
                 "name": "VCR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DVD/CD"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "TUNER"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "SUBWOOF +"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "SUBWOOF -"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SLEEP"
             },
             {
@@ -91,7 +91,7 @@
                 "name": "STEREO"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TEST"
             },
             {
@@ -119,31 +119,31 @@
                 "name": "DOLBY/DTS"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SET MENU"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "MOVIE"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "MUSIC"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "SPORTS"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "GAME"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "VIDEO"
             }
         ],
@@ -152,6 +152,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DVR",
     "target": "DVR"
 }

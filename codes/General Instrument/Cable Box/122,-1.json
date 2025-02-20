@@ -1,17 +1,17 @@
 {
-    "display_name": "General Instrument Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOLUME +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VOLUME -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MUTE"
             }
         ],
@@ -20,6 +20,6 @@
     },
     "manufacturer": "General Instrument",
     "model": "",
-    "name": "",
+    "name": "General Instrument Cable Box",
     "target": "Cable Box"
 }

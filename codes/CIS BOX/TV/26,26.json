@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "9"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "0"
             },
             {
@@ -52,10 +52,10 @@
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX TV",
     "target": "TV"
 }

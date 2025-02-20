@@ -1,17 +1,17 @@
 {
-    "display_name": "Marantz Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PLAY"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PTY / PLAY"
             },
             {
@@ -23,19 +23,19 @@
                 "name": "STOP"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "DVD"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SUB-T/ATT"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": ""
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SUBTITLE"
             },
             {
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz Receiver",
     "target": "Receiver"
 }

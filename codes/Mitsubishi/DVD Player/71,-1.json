@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -27,7 +27,7 @@
                 "name": "TV 0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV CHANNEL ^"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "TV 4"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV DISPLAY"
             },
             {
@@ -59,7 +59,7 @@
                 "name": "TV 6"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME V"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "TV 8"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV INPUT"
             },
             {
@@ -100,10 +100,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi DVD Player",
     "target": "DVD Player"
 }

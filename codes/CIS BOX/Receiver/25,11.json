@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "VID 3"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV SAT"
             }
         ],
-        "device_address": "c800",
-        "protocol": "Sony20"
+        "device_address": "C800",
+        "protocol": "SONY20"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX Receiver",
     "target": "Receiver"
 }

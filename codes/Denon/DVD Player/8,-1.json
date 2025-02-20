@@ -1,1085 +1,1085 @@
 {
-    "display_name": "Denon DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "7e",
+                "address": "7E",
                 "device_address": "0",
                 "name": "SACD SETUP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "device_address": "0",
                 "name": "SASC SETUP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "device_address": "0",
                 "name": "SUPER AUDIO CD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "device_address": "0",
                 "name": "SUPER AUDIO CD SETUP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "device_address": "0",
                 "name": "SUPER AUDIO CD SET",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "81",
                 "device_address": "0",
                 "name": "0",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "81",
                 "device_address": "0",
                 "name": "6",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "82",
                 "device_address": "0",
                 "name": "1",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "83",
                 "device_address": "0",
                 "name": "2",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "84",
                 "device_address": "0",
                 "name": "3",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "85",
                 "device_address": "0",
                 "name": "4",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "85",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "85",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon{2}"
+                "protocol": "DENON{2}"
             },
             {
                 "address": "86",
                 "device_address": "0",
                 "name": "5",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "87",
                 "device_address": "0",
                 "name": "6",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "88",
                 "device_address": "0",
                 "name": "7",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "89",
                 "device_address": "0",
                 "name": "8",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "0",
                 "name": "9",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "device_address": "0",
                 "name": "+10",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "device_address": "0",
                 "name": "10",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "device_address": "0",
                 "name": ">= 10",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "device_address": "0",
                 "name": ">10",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "device_address": "0",
                 "name": "SUBTITLE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon{2}"
+                "protocol": "DENON{2}"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "0",
                 "name": "AUDIO MODE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "0",
                 "name": "AUDIO",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "0",
                 "name": "ANGLE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "90",
                 "device_address": "0",
                 "name": "OPEN/CLOSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "91",
                 "device_address": "0",
                 "name": "MENU",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "92",
                 "device_address": "0",
                 "name": "RETURN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "92",
                 "device_address": "0",
                 "name": "EXIT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "94",
                 "device_address": "0",
                 "name": "REAPEAT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "94",
                 "device_address": "0",
                 "name": "REPEAT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP +",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP FORWARD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP>>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "NEXT TRACK",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP >>I",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "FRAME >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "SKIP>>I",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "98",
                 "device_address": "0",
                 "name": "TRACK >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "SKIP -",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "SKIP REVERSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "SKIP<<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "NEXT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "SKIP <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "PREVIOUS TRACK",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "SKIP I<<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "FRAME <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "I<<SKIP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "<<SKIP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "99",
                 "device_address": "0",
                 "name": "TRACK <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "FAST FORWARD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SLOW/FAST FORWARD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SLOW>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "PREVIOUS",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SHUTTLE FORWARD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SEARCH >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SEARCH >> SLOW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SLOW MOTION +",
-                "protocol": "Denon{2}"
+                "protocol": "DENON{2}"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": ">>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SCAN >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "FRAME >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "FF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SLOW>>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": ">>>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "FWD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "0",
                 "name": "SKIP >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "REWIND",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SLOW/FAST REVERSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SLOW<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SHUTTLE REVERSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SLOW/FAST FORWARD",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SEARCH <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SEARCH << SLOW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SLOW MOTION -",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "<<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SCAN <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "FRAME <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "REW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "<<SLOW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "<<<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "REV",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "0",
                 "name": "SKIP <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "device_address": "0",
                 "name": "MODE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "device_address": "0",
                 "name": "SLOW/FAST REVERSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "device_address": "0",
                 "name": "PAUSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "device_address": "0",
                 "name": "PAUSE/STILL",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "device_address": "0",
                 "name": "STILL/PAUSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "device_address": "0",
                 "name": "PAUSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "device_address": "0",
                 "name": "PLAY",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "device_address": "0",
                 "name": "PLAY >",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "device_address": "0",
                 "name": "STOP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROGRAM/DIRECT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROG/DIR.",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROG/DIRECT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROG/DIR",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROGRAM/DIR",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "0",
                 "name": "PROG./DIRECT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "device_address": "0",
                 "name": "CLEAR",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "device_address": "0",
                 "name": "DISC 1",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "device_address": "0",
                 "name": "DISC 2",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "device_address": "0",
                 "name": "DISC 3",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "device_address": "0",
                 "name": "DISPLAY",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "device_address": "0",
                 "name": "INFO",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "device_address": "0",
                 "name": "DISC 4",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "device_address": "0",
                 "name": "DISC 5",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "device_address": "0",
                 "name": "RANDOM",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "device_address": "0",
                 "name": "DISC SKIP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "CURSOR UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "C-UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "MENU UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "CURSER UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "C UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "0",
                 "name": "UP ARROW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "CURSOR DOWN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "DOWN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "CURSOR DN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "C-DOWN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "MENU DOWN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "CURSER DN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "C DN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "DN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "0",
                 "name": "DOWN ARROW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "CURSOR RIGHT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "RIGHT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "CURSOR RT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "C-RT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "MENU RIGHT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "CURSER RT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "C RT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "0",
                 "name": "RIGHT ARROW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "CURSOR LEFT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "LEFT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "CURSOR LF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "C-LF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "MENU LEFT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "CURSER LEFT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "C LF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "0",
                 "name": "LEFT ARROW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "device_address": "0",
                 "name": "POWER ON",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "device_address": "0",
                 "name": "ON",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "device_address": "0",
                 "name": "POWER",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "device_address": "0",
                 "name": "DVD ON",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "SRS.TS",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "V.S.S.",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "SRS TS",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "VIRTUAL",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "V.S.S",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "device_address": "0",
                 "name": "NTSC/PAL",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "device_address": "0",
                 "name": "MARKER",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "device_address": "0",
                 "name": "A-B REPEAT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "device_address": "0",
                 "name": "A-B",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "device_address": "0",
                 "name": "REPEAT A-B",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "device_address": "0",
                 "name": "SIDE A/B",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "device_address": "0",
                 "name": "CURSOR ENTER",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "device_address": "0",
                 "name": "ENTER",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "device_address": "0",
                 "name": "SELECT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "device_address": "0",
                 "name": "CURSOR SELECT",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "device_address": "0",
                 "name": "SETUP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "device_address": "0",
                 "name": "SET UP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon{2}"
+                "protocol": "DENON{2}"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "TOP MENU",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "TITLE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "TOP MENNU",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "TEST RETURN",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "MODE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "device_address": "0",
                 "name": "MENU",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "device_address": "0",
                 "name": "CALL",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "bf",
+                "address": "BF",
                 "device_address": "0",
                 "name": "FL DISPLAY",
-                "protocol": "Denon"
+                "protocol": "DENON"
             }
         ]
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DVD Player",
     "target": "DVD Player"
 }

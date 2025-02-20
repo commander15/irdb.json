@@ -1,69 +1,69 @@
 {
-    "display_name": "Denon Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "CD"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "TUNER"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "AUX"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "DBS/BS"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "TV"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "VDP"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "V.AUX"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "VCR-1"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "VCR-2"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TAPE-1"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "DAT/TAPE-2"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "MUTING"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "MASTER ^"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "MASTER V"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

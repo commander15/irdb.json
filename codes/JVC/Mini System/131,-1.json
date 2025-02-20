@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Mini System",
+    "display_name": "Mini System",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "DECK B REW"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DECK B<"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DECK B>"
             },
             {
@@ -35,15 +35,15 @@
                 "name": "DECK A REW"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TAPE DECK A<"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TAPE DECK A>"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "DECK B RECORD"
             }
         ],
@@ -52,6 +52,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Mini System",
     "target": "Mini System"
 }

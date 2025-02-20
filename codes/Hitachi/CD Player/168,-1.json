@@ -1,5 +1,5 @@
 {
-    "display_name": "Hitachi CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "AUTO DIG/ANALOG"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CX"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "PAUSE "
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "AUDIO MONITOR"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "+10"
             },
             {
@@ -115,7 +115,7 @@
                 "name": "REPEAT A"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "PROGRAM"
             },
             {
@@ -144,10 +144,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi CD Player",
     "target": "CD Player"
 }

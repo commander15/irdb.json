@@ -1,13 +1,13 @@
 {
-    "display_name": "RCA VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOLUME +"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME -"
             }
         ],
@@ -16,6 +16,6 @@
     },
     "manufacturer": "RCA",
     "model": "",
-    "name": "",
+    "name": "RCA VCR",
     "target": "VCR"
 }

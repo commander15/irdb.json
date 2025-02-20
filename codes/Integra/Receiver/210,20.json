@@ -1,352 +1,352 @@
 {
-    "display_name": "Integra Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "40",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "TUNE UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "40",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "Z2 TUNING UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "41",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "TUNE DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "41",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "Z2 TUNING DOWN",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "d200000",
+                "address": "4D",
+                "device_address": "D200000",
                 "name": "SEARCH MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "d200000",
+                "address": "4D",
+                "device_address": "D200000",
                 "name": "XM SEARCH MODE",
                 "protocol": "NEC1"
             },
             {
                 "address": "80",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE FFWD",
                 "protocol": "NEC2"
             },
             {
                 "address": "81",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE REW",
                 "protocol": "NEC2"
             },
             {
                 "address": "86",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE RETURN",
                 "protocol": "NEC1"
             },
             {
                 "address": "88",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "MUSIC SERVER",
                 "protocol": "NEC1"
             },
             {
                 "address": "89",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "INTERNET RADIO",
                 "protocol": "NEC1"
             },
             {
-                "address": "8d",
-                "device_address": "d200000",
+                "address": "8D",
+                "device_address": "D200000",
                 "name": "NET TUNE PLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "8e",
-                "device_address": "d200000",
+                "address": "8E",
+                "device_address": "D200000",
                 "name": "NET TUNE STOP",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
-                "device_address": "d200000",
+                "address": "8F",
+                "device_address": "D200000",
                 "name": "NET TUNE TRACK +",
                 "protocol": "NEC1"
             },
             {
                 "address": "90",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE TRACK -",
                 "protocol": "NEC1"
             },
             {
                 "address": "91",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE PAUSE",
                 "protocol": "NEC1"
             },
             {
                 "address": "92",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE REPEAT",
                 "protocol": "NEC1"
             },
             {
                 "address": "93",
-                "device_address": "d200000",
+                "device_address": "D200000",
                 "name": "NET TUNE RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "d200000",
+                "address": "9E",
+                "device_address": "D200000",
                 "name": "NET TUNE DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "c0",
-                "device_address": "d200000",
+                "address": "C0",
+                "device_address": "D200000",
                 "name": "NET TUNE UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "c1",
-                "device_address": "d200000",
+                "address": "C1",
+                "device_address": "D200000",
                 "name": "NET TUNE DOWN",
                 "protocol": "NEC2"
             },
             {
-                "address": "c2",
-                "device_address": "d200000",
+                "address": "C2",
+                "device_address": "D200000",
                 "name": "NET TUNE LEFT",
                 "protocol": "NEC2"
             },
             {
-                "address": "c3",
-                "device_address": "d200000",
+                "address": "C3",
+                "device_address": "D200000",
                 "name": "NET TUNE RIGHT",
                 "protocol": "NEC2"
             },
             {
-                "address": "c4",
-                "device_address": "d200000",
+                "address": "C4",
+                "device_address": "D200000",
                 "name": "NET TUNE SELECT",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
-                "device_address": "d200000",
+                "address": "D5",
+                "device_address": "D200000",
                 "name": "1",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
-                "device_address": "d200000",
+                "address": "D5",
+                "device_address": "D200000",
                 "name": "NET TUNE 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
-                "device_address": "d200000",
+                "address": "D5",
+                "device_address": "D200000",
                 "name": "Z2 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
-                "device_address": "d200000",
+                "address": "D5",
+                "device_address": "D200000",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
-                "device_address": "d200000",
+                "address": "D6",
+                "device_address": "D200000",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
-                "device_address": "d200000",
+                "address": "D6",
+                "device_address": "D200000",
                 "name": "NET TUNE 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
-                "device_address": "d200000",
+                "address": "D6",
+                "device_address": "D200000",
                 "name": "Z2 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
-                "device_address": "d200000",
+                "address": "D7",
+                "device_address": "D200000",
                 "name": "3",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
-                "device_address": "d200000",
+                "address": "D7",
+                "device_address": "D200000",
                 "name": "NET TUNE 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
-                "device_address": "d200000",
+                "address": "D7",
+                "device_address": "D200000",
                 "name": "Z2 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "d8",
-                "device_address": "d200000",
+                "address": "D8",
+                "device_address": "D200000",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "d8",
-                "device_address": "d200000",
+                "address": "D8",
+                "device_address": "D200000",
                 "name": "NET TUNE 4",
                 "protocol": "NEC1"
             },
             {
-                "address": "d8",
-                "device_address": "d200000",
+                "address": "D8",
+                "device_address": "D200000",
                 "name": "Z2 4",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
-                "device_address": "d200000",
+                "address": "D9",
+                "device_address": "D200000",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
-                "device_address": "d200000",
+                "address": "D9",
+                "device_address": "D200000",
                 "name": "NET TUNE 5",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
-                "device_address": "d200000",
+                "address": "D9",
+                "device_address": "D200000",
                 "name": "Z2 5",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
-                "device_address": "d200000",
+                "address": "DA",
+                "device_address": "D200000",
                 "name": "6",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
-                "device_address": "d200000",
+                "address": "DA",
+                "device_address": "D200000",
                 "name": "NET TUNE 6",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
-                "device_address": "d200000",
+                "address": "DA",
+                "device_address": "D200000",
                 "name": "Z2 6",
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
-                "device_address": "d200000",
+                "address": "DB",
+                "device_address": "D200000",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
-                "device_address": "d200000",
+                "address": "DB",
+                "device_address": "D200000",
                 "name": "NET TUNE 7",
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
-                "device_address": "d200000",
+                "address": "DB",
+                "device_address": "D200000",
                 "name": "Z2 7",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
-                "device_address": "d200000",
+                "address": "DC",
+                "device_address": "D200000",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
-                "device_address": "d200000",
+                "address": "DC",
+                "device_address": "D200000",
                 "name": "NET TUNE 8",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
-                "device_address": "d200000",
+                "address": "DC",
+                "device_address": "D200000",
                 "name": "Z2 8",
                 "protocol": "NEC1"
             },
             {
-                "address": "dd",
-                "device_address": "d200000",
+                "address": "DD",
+                "device_address": "D200000",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
-                "address": "dd",
-                "device_address": "d200000",
+                "address": "DD",
+                "device_address": "D200000",
                 "name": "NET TUNE 9",
                 "protocol": "NEC1"
             },
             {
-                "address": "dd",
-                "device_address": "d200000",
+                "address": "DD",
+                "device_address": "D200000",
                 "name": "Z2 9",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
-                "device_address": "d200000",
+                "address": "DE",
+                "device_address": "D200000",
                 "name": "0/10",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
-                "device_address": "d200000",
+                "address": "DE",
+                "device_address": "D200000",
                 "name": "NET TUNE 0/10",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
-                "device_address": "d200000",
+                "address": "DE",
+                "device_address": "D200000",
                 "name": "Z2 0/10",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
-                "device_address": "d200000",
+                "address": "DF",
+                "device_address": "D200000",
                 "name": "DIRECT TUNE",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
-                "device_address": "d200000",
+                "address": "DF",
+                "device_address": "D200000",
                 "name": "Z2 DIRECT TUNING",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
-                "device_address": "d200000",
+                "address": "DF",
+                "device_address": "D200000",
                 "name": "DIRECT TUNING",
                 "protocol": "NEC1"
             }
@@ -354,6 +354,6 @@
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Receiver",
     "target": "Receiver"
 }

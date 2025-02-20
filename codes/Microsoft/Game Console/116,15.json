@@ -1,25 +1,25 @@
 {
-    "display_name": "Microsoft Game Console",
+    "display_name": "Game Console",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER ON/OFF"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "ON/OFF"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "START"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "WINDOWS MEDIA CENTER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "INFO"
             },
             {
@@ -99,43 +99,43 @@
                 "name": "STOP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "NEXT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SKIP +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SKIP FORWARD"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PREV"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SKIP -"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SKIP BACK"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "UP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DOWN"
             },
             {
@@ -215,15 +215,15 @@
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DISPLAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DISLPLAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DISPLAY MENU"
             },
             {
@@ -247,11 +247,11 @@
                 "name": "XBOX MENU"
             }
         ],
-        "device_address": "3a0000",
+        "device_address": "3A0000",
         "protocol": "MCE"
     },
     "manufacturer": "Microsoft",
     "model": "",
-    "name": "",
+    "name": "Microsoft Game Console",
     "target": "Game Console"
 }

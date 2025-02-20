@@ -1,109 +1,109 @@
 {
-    "display_name": "Panasonic HDTV Tuner",
+    "display_name": "HDTV Tuner",
     "ir": {
         "commands": [
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "1"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "2"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "3"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "4"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "5"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "6"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "7"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "8"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "9"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "0"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "PAGE UP"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "INFO"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "name": "POWER"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "ENTER"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "GUIDE"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "EXIT"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "CHANNEL +"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "CURSOR UP"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CHANNEL -"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "LAST"
             }
         ],
         "device_address": "200",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic HDTV Tuner",
     "target": "HDTV Tuner"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -63,31 +63,31 @@
                 "protocol": "RC6"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "POWER ON/STANDBY",
                 "protocol": "RC6"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "POWER OFF",
                 "protocol": "RC6"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "POWER",
                 "protocol": "RC6"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "DISPLAY",
                 "protocol": "RC6"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "OSD",
                 "protocol": "RC6"
@@ -105,13 +105,13 @@
                 "protocol": "RC6"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "RANDOM",
                 "protocol": "RC6"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "0",
                 "name": "REPEAT",
                 "protocol": "RC6"
@@ -219,13 +219,13 @@
                 "protocol": "RC6"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "0",
                 "name": "PLAY",
                 "protocol": "RC6"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "0",
                 "name": "POWER ON",
                 "protocol": "RC6"
@@ -255,25 +255,25 @@
                 "protocol": "RC6"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "device_address": "0",
                 "name": "CLEAR",
                 "protocol": "RC6"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "device_address": "0",
                 "name": "REPEAT A-B",
                 "protocol": "RC6"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "device_address": "0",
                 "name": "A-B",
                 "protocol": "RC6"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "device_address": "0",
                 "name": "A-B",
                 "protocol": "RC5"
@@ -297,19 +297,19 @@
                 "protocol": "RC6"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "0",
                 "name": "SUBTITLE",
                 "protocol": "RC6"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "0",
                 "name": "AUDIO",
                 "protocol": "RC6"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "0",
                 "name": "AUDIO MODE",
                 "protocol": "RC6"
@@ -405,49 +405,49 @@
                 "protocol": "RC6"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "0",
                 "name": "LEFT",
                 "protocol": "RC6"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "0",
                 "name": "CURSOR LEFT",
                 "protocol": "RC6"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "0",
                 "name": "ARROW LEFT",
                 "protocol": "RC6"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "0",
                 "name": "RIGHT",
                 "protocol": "RC6"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "0",
                 "name": "CURSOR RIGHT",
                 "protocol": "RC6"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "0",
                 "name": "ARROW RIGHT",
                 "protocol": "RC6"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "0",
                 "name": "ENTER",
                 "protocol": "RC6"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "0",
                 "name": "CURSOR - ENTER",
                 "protocol": "RC6"
@@ -483,19 +483,19 @@
                 "protocol": "RC6"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "device_address": "0",
                 "name": "DISK SKIP",
                 "protocol": "RC6"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "device_address": "0",
                 "name": "DISC SKIP",
                 "protocol": "RC6"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "device_address": "0",
                 "name": "DISCSKIP",
                 "protocol": "RC6"
@@ -537,277 +537,277 @@
                 "protocol": "RC6"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "device_address": "0",
                 "name": "DISK -1",
                 "protocol": "RC6"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "device_address": "0",
                 "name": "DISK 1",
                 "protocol": "RC6"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "device_address": "0",
                 "name": "DISK -2",
                 "protocol": "RC6"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "device_address": "0",
                 "name": "DISK 2",
                 "protocol": "RC6"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "device_address": "0",
                 "name": "DISK -3",
                 "protocol": "RC6"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "device_address": "0",
                 "name": "DISK 3",
                 "protocol": "RC6"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "DISK -4",
                 "protocol": "RC6"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "device_address": "0",
                 "name": "DISK 4",
                 "protocol": "RC6"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "device_address": "0",
                 "name": "DISK -5",
                 "protocol": "RC6"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "device_address": "0",
                 "name": "DISK 5",
                 "protocol": "RC6"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "device_address": "0",
                 "name": "NTSC/PAL",
                 "protocol": "RC6"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "device_address": "0",
                 "name": "HDMI",
                 "protocol": "RC6"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "device_address": "0",
                 "name": "SEARCH MODE1",
                 "protocol": "RC6"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "device_address": "0",
                 "name": "T-C",
                 "protocol": "RC6"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "device_address": "0",
                 "name": "SEARCH MODE",
                 "protocol": "RC6"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "device_address": "0",
                 "name": "SEARCH",
                 "protocol": "RC6"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "device_address": "0",
                 "name": "PAGE",
                 "protocol": "RC6"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "device_address": "0",
                 "name": "FUNCTION MEMO",
                 "protocol": "RC6"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "device_address": "0",
                 "name": "CONDITION MEMO",
                 "protocol": "RC6"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "device_address": "0",
                 "name": "CONDITION",
                 "protocol": "RC6"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "0",
                 "name": "MENU",
                 "protocol": "RC6"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "device_address": "0",
                 "name": "GROUP",
                 "protocol": "RC6"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "device_address": "0",
                 "name": "PLAY MODE",
                 "protocol": "RC6"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "device_address": "0",
                 "name": "MODE",
                 "protocol": "RC6"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "0",
                 "name": "DIGEST",
                 "protocol": "RC6"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "0",
                 "name": "SCAN",
                 "protocol": "RC6"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "device_address": "0",
                 "name": "LAST MEMO",
                 "protocol": "RC6"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "device_address": "0",
                 "name": "RESUME",
                 "protocol": "RC6"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "device_address": "0",
                 "name": "VOCAL",
                 "protocol": "RC6"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "device_address": "0",
                 "name": "MARKER 1",
                 "protocol": "RC6"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "device_address": "0",
                 "name": "MARKER",
                 "protocol": "RC6"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "device_address": "0",
                 "name": "MARKER 2",
                 "protocol": "RC6"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "device_address": "0",
                 "name": "MARKER",
                 "protocol": "RC6"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "device_address": "0",
                 "name": "SEARCH MODE2",
                 "protocol": "RC6"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "device_address": "0",
                 "name": "SEARCH",
                 "protocol": "RC6"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "0",
                 "name": "FRAME <<",
                 "protocol": "RC6"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "0",
                 "name": "PAGE UP",
                 "protocol": "RC6"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "0",
                 "name": "PAGE +",
                 "protocol": "RC6"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "device_address": "0",
                 "name": "FRAME >>",
                 "protocol": "RC6"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "device_address": "0",
                 "name": "PAGE DOWN",
                 "protocol": "RC6"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "device_address": "0",
                 "name": "PAGE -",
                 "protocol": "RC6"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "device_address": "0",
                 "name": "PAGE DN",
                 "protocol": "RC6"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "device_address": "0",
                 "name": "ZOOM",
                 "protocol": "RC6"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "device_address": "0",
                 "name": "",
                 "protocol": "RC6"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "device_address": "0",
                 "name": "VIDEO ON/OFF",
                 "protocol": "RC6"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "device_address": "0",
                 "name": "",
                 "protocol": "RC6"
@@ -816,6 +816,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz DVD Player",
     "target": "DVD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Homecast Satellite Receiver",
+    "display_name": "Satellite Receiver",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "BACK"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OPT / RED"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "A/V+ GREEN"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FAV /YELLOW"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "A-Z/BLUE"
             },
             {
@@ -99,11 +99,11 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR RIGHT"
             },
             {
@@ -183,11 +183,11 @@
                 "name": "MOVE"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "PIP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SLEEP"
             }
         ],
@@ -196,6 +196,6 @@
     },
     "manufacturer": "Homecast",
     "model": "",
-    "name": "",
+    "name": "Homecast Satellite Receiver",
     "target": "Satellite Receiver"
 }

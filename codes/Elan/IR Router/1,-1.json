@@ -1,21 +1,21 @@
 {
-    "display_name": "Elan IR Router",
+    "display_name": "IR Router",
     "ir": {
         "commands": [
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "ALL PORTS ON"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "ALL PORTS OFF"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Velleman"
+        "protocol": "VELLEMAN"
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan IR Router",
     "target": "IR Router"
 }

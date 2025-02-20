@@ -1,9 +1,9 @@
 {
-    "display_name": "Yamaha Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "VCR1"
             },
             {
@@ -31,23 +31,23 @@
                 "name": "MD/TAPE1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOLUME +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VOLUME -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MUTE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "POWER ON"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "POWER OFF"
             },
             {
@@ -75,27 +75,27 @@
                 "name": "2"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "3"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "4"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "5"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "6"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "7"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "8"
             },
             {
@@ -115,7 +115,7 @@
                 "name": "12"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "ON SCREEN"
             }
         ],
@@ -124,6 +124,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Amplifier",
     "target": "Amplifier"
 }

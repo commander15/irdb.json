@@ -1,5 +1,5 @@
 {
-    "display_name": "IR4PS3 Blu-Ray",
+    "display_name": "Blu-Ray",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RETURN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -63,11 +63,11 @@
                 "name": "EJECT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TOP MENU"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "POP UP MENU"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "TIME"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -171,11 +171,11 @@
                 "name": "START"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "L2"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "R2"
             },
             {
@@ -207,23 +207,23 @@
                 "name": "UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "DOWN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "LEFT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "RIGHT"
             }
         ],
-        "device_address": "d0",
-        "protocol": "Sony20"
+        "device_address": "D0",
+        "protocol": "SONY20"
     },
     "manufacturer": "IR4PS3",
     "model": "",
-    "name": "",
+    "name": "IR4PS3 Blu-Ray",
     "target": "Blu-Ray"
 }

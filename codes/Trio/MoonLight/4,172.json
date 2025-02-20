@@ -1,5 +1,5 @@
 {
-    "display_name": "Trio MoonLight",
+    "display_name": "MoonLight",
     "ir": {
         "commands": [
             {
@@ -7,23 +7,23 @@
                 "name": "light up"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "mode"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "100%"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "on off"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "right"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "light down"
             },
             {
@@ -32,10 +32,10 @@
             }
         ],
         "device_address": "4000",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Trio",
     "model": "",
-    "name": "",
+    "name": "Trio MoonLight",
     "target": "MoonLight"
 }

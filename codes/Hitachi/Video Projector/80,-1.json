@@ -1,9 +1,9 @@
 {
-    "display_name": "Hitachi Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "MUTE"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "RESET"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "MENU ^"
             },
             {
@@ -51,15 +51,15 @@
                 "name": "MENU V"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "MENU >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "MENU <"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "BLUE BACK"
             },
             {
@@ -84,6 +84,6 @@
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi Video Projector",
     "target": "Video Projector"
 }

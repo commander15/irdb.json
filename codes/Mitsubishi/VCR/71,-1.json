@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -31,27 +31,27 @@
                 "name": "TV 0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV CHANNEL ^"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV SCAN ^ (CH ^)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV SCAN ^(CH ^)"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "Q.V."
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV Q.V."
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV QV"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "TV 4"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV DISPLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV DATA ON SCREEN"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV INFO"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "TV 6"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME V"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME -"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME DOWN"
             },
             {
@@ -155,15 +155,15 @@
                 "name": "TV ANT A/B"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV INPUT"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV VCR/TV"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV VIDEO/TV"
             },
             {
@@ -215,7 +215,7 @@
                 "name": "TV ADJUST V"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "TV SQV"
             },
             {
@@ -243,11 +243,11 @@
                 "name": "TV AUDIO V"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "PIP SOURCE"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TV SOURCE"
             },
             {
@@ -255,7 +255,7 @@
                 "name": "TV ADJUST <"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "TV ADJUST >"
             },
             {
@@ -271,19 +271,19 @@
                 "name": "TV PIP"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "TV HOME"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "TV PIP CH V"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi VCR",
     "target": "VCR"
 }

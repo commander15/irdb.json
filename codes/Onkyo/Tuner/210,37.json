@@ -1,346 +1,346 @@
 {
-    "display_name": "Onkyo Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "PRESET +",
                 "protocol": "NEC2"
             },
             {
                 "address": "0",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "PRESET >",
                 "protocol": "NEC2"
             },
             {
                 "address": "1",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "PRESET -",
                 "protocol": "NEC2"
             },
             {
                 "address": "1",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "PRESET <",
                 "protocol": "NEC2"
             },
             {
                 "address": "2",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "OUTPUT LEVEL ^",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "OUTPUT LEVEL V",
                 "protocol": "NEC2"
             },
             {
                 "address": "4",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "POWER",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "FM MUTE",
                 "protocol": "NEC1"
             },
             {
                 "address": "7",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a40",
+                "address": "D",
+                "device_address": "1A40",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a40",
+                "address": "E",
+                "device_address": "1A40",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
-                "device_address": "1a40",
+                "address": "F",
+                "device_address": "1A40",
                 "name": "10",
                 "protocol": "NEC1"
             },
             {
                 "address": "10",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "SCAN",
                 "protocol": "NEC1"
             },
             {
                 "address": "10",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "PRESET SCAN",
                 "protocol": "NEC1"
             },
             {
                 "address": "11",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
                 "address": "12",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "3",
                 "protocol": "NEC1"
             },
             {
                 "address": "13",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
                 "address": "14",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "0/10",
                 "protocol": "NEC1"
             },
             {
                 "address": "15",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "1",
                 "protocol": "NEC1"
             },
             {
                 "address": "16",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
                 "address": "17",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "3",
                 "protocol": "NEC1"
             },
             {
                 "address": "18",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
                 "address": "19",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "6",
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
-                "device_address": "1a40",
+                "address": "1A",
+                "device_address": "1A40",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
-                "device_address": "1a40",
+                "address": "1C",
+                "device_address": "1A40",
                 "name": "1",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
-                "device_address": "1a40",
+                "address": "1E",
+                "device_address": "1A40",
                 "name": "MEMORY",
                 "protocol": "NEC1"
             },
             {
                 "address": "40",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "TIMER",
                 "protocol": "NEC2"
             },
             {
                 "address": "40",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "TIMER PRESET +",
                 "protocol": "NEC2"
             },
             {
                 "address": "41",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "TIMER PRESET -",
                 "protocol": "NEC2"
             },
             {
                 "address": "42",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "TUNING +",
                 "protocol": "NEC2"
             },
             {
                 "address": "43",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "TUNING -",
                 "protocol": "NEC2"
             },
             {
                 "address": "45",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "ANTENNA",
                 "protocol": "NEC1"
             },
             {
                 "address": "46",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "RF MODE",
                 "protocol": "NEC1"
             },
             {
                 "address": "47",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "IF BAND",
                 "protocol": "NEC1"
             },
             {
                 "address": "48",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "HI-BLEND",
                 "protocol": "NEC1"
             },
             {
                 "address": "49",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "4c",
-                "device_address": "1a40",
+                "address": "4C",
+                "device_address": "1A40",
                 "name": "GROUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "1a40",
+                "address": "4D",
+                "device_address": "1A40",
                 "name": "ENTER",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
-                "device_address": "1a40",
+                "address": "4E",
+                "device_address": "1A40",
                 "name": "MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
-                "device_address": "1a40",
+                "address": "4F",
+                "device_address": "1A40",
                 "name": "DIMMER",
                 "protocol": "NEC1"
             },
             {
                 "address": "50",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "11",
                 "protocol": "NEC1"
             },
             {
                 "address": "51",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "12",
                 "protocol": "NEC1"
             },
             {
                 "address": "52",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "13",
                 "protocol": "NEC1"
             },
             {
                 "address": "53",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "14",
                 "protocol": "NEC1"
             },
             {
                 "address": "54",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "15",
                 "protocol": "NEC1"
             },
             {
                 "address": "55",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "16",
                 "protocol": "NEC1"
             },
             {
                 "address": "56",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "17",
                 "protocol": "NEC1"
             },
             {
                 "address": "57",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "18",
                 "protocol": "NEC1"
             },
             {
                 "address": "58",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "19",
                 "protocol": "NEC1"
             },
             {
                 "address": "59",
-                "device_address": "1a40",
+                "device_address": "1A40",
                 "name": "20",
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
-                "device_address": "1a40",
+                "address": "5A",
+                "device_address": "1A40",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
-                "device_address": "1a40",
+                "address": "5B",
+                "device_address": "1A40",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
-                "device_address": "1a40",
+                "address": "5C",
+                "device_address": "1A40",
                 "name": "6",
                 "protocol": "NEC1"
             },
             {
-                "address": "5d",
-                "device_address": "1a40",
+                "address": "5D",
+                "device_address": "1A40",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "5e",
-                "device_address": "1a40",
+                "address": "5E",
+                "device_address": "1A40",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
-                "address": "5f",
-                "device_address": "1a40",
+                "address": "5F",
+                "device_address": "1A40",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
-                "device_address": "1a40",
+                "address": "DE",
+                "device_address": "1A40",
                 "name": "ADJUST",
                 "protocol": "NEC1"
             }
@@ -348,6 +348,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo Tuner",
     "target": "Tuner"
 }

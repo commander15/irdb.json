@@ -1,5 +1,5 @@
 {
-    "display_name": "Dish Network Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE UP"
             },
             {
@@ -16,10 +16,10 @@
             }
         ],
         "device_address": "4",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Dish Network",
     "model": "",
-    "name": "",
+    "name": "Dish Network Satellite",
     "target": "Satellite"
 }

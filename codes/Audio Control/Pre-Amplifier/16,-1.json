@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Control Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -43,31 +43,31 @@
                 "name": "SELECT MULTI-CHANNEL"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIRECT ONOFF TGL"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SELECT NET"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STAND BY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE ON"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TREBLE CON. MENU"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "VIDEO OUT SD PROGR"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "VIDEO OUT 720P"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VIDEO OUT 1080I"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VIDEO OUT 1080P"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ROOM EQ ON/OFF"
             },
             {
@@ -123,27 +123,27 @@
                 "name": "FAVORITE UP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "FAVORITE DOWN"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "HOME"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "BASS INCREMENT"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "BASS DECREMENT"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "TREBLE INCREMENT"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "CYCLE OUTPUT RES"
             },
             {
@@ -171,7 +171,7 @@
                 "name": "TRACK BACKWARD"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "DISPLAY BRIGHT"
             },
             {
@@ -191,11 +191,11 @@
                 "name": "USB PLAY/PAUSE"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DISCRETE DIR ON"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DISCRETE DIR OFF"
             },
             {
@@ -223,7 +223,7 @@
                 "name": "SELECT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "ZONE TOGGLE"
             },
             {
@@ -251,23 +251,23 @@
                 "name": "DOLBY PL II/IIX MUS"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "MULTI-CHANNEL AUDIO"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "STEREO"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "PLII MUSIC CENTER +1"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DOLBY PRO LOGIC"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "DTS NEO:6 CINEMA"
             },
             {
@@ -303,15 +303,15 @@
                 "name": "MUTE OFF"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER OFF"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "VIDEO OUT SD INTERLA"
             }
         ],
@@ -320,6 +320,6 @@
     },
     "manufacturer": "Audio Control",
     "model": "",
-    "name": "",
+    "name": "Audio Control Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

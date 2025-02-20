@@ -1,5 +1,5 @@
 {
-    "display_name": "Meridian Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OFF"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "BACK"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "STORE"
             },
             {
@@ -91,27 +91,27 @@
                 "name": "RECORD"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "LD"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "CD"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "RADIO"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "TAPE 1"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "TAPE 2"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "CABLE"
             },
             {
@@ -139,7 +139,7 @@
                 "name": "CDR"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "DISPLAY"
             }
         ],
@@ -148,6 +148,6 @@
     },
     "manufacturer": "Meridian",
     "model": "",
-    "name": "",
+    "name": "Meridian Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

@@ -1,155 +1,155 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "81",
                 "device_address": "0",
                 "name": "VDP POWER",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "81",
                 "device_address": "0",
                 "name": "VDP POWER (DISC SKIP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "83",
                 "device_address": "0",
                 "name": "VDP STOP []",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "84",
                 "device_address": "0",
                 "name": "VDP PLAY >",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "85",
                 "device_address": "0",
                 "name": "VDP PAUSE ",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "86",
                 "device_address": "0",
                 "name": "VDP SKIP >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "86",
                 "device_address": "0",
                 "name": "VDP >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "87",
                 "device_address": "0",
                 "name": "VDP SKIP <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "87",
                 "device_address": "0",
                 "name": "VDP <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "88",
                 "device_address": "0",
                 "name": "VDP SCAN >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "88",
                 "device_address": "0",
                 "name": "",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "88",
                 "device_address": "0",
                 "name": "VDP >>",
-                "protocol": "Denon{2}"
+                "protocol": "DENON{2}"
             },
             {
                 "address": "88",
                 "device_address": "0",
                 "name": "VDP FFWD >>",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "89",
                 "device_address": "0",
                 "name": "VDP SCAN <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "89",
                 "device_address": "0",
                 "name": "VDP <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
                 "address": "89",
                 "device_address": "0",
                 "name": "VDP REW <<",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "device_address": "0",
                 "name": "POWER OFF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "device_address": "0",
                 "name": "MD-STOP",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "device_address": "0",
                 "name": "MD-PLAY",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "device_address": "0",
                 "name": "MD-PAUSE",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "e9",
+                "address": "E9",
                 "device_address": "0",
                 "name": "MD-FF",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ea",
+                "address": "EA",
                 "device_address": "0",
                 "name": "MD-RW",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "device_address": "0",
                 "name": "MD-SEARCH+",
-                "protocol": "Denon"
+                "protocol": "DENON"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "device_address": "0",
                 "name": "MD-SEARCH-",
-                "protocol": "Denon"
+                "protocol": "DENON"
             }
         ]
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

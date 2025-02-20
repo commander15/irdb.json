@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -43,31 +43,31 @@
                 "name": "8"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "9"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "10"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "+10"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PROG/DIRECT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PROGRAM"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "VOLUME+"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "VOLUME-"
             },
             {
@@ -123,31 +123,31 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": ">>"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "SEARCH >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "<<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "SEARCH <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PLAY"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "PAUSE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "STOP"
             },
             {
@@ -155,31 +155,31 @@
                 "name": "DISC SELECT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RANDOM"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "DISC SKIP+"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "DISC SKIP UP"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "DISC +"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DISC SKIP-"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DISC SKIP DN"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DISC -"
             },
             {
@@ -187,55 +187,55 @@
                 "name": "POWER ON"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "ENTER"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "GROUP"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "UP"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "POWER OFF"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "name": "SINGLE"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "MULTI"
             },
             {
-                "address": "fb",
+                "address": "FB",
                 "name": "ZONE 1"
             },
             {
-                "address": "fc",
+                "address": "FC",
                 "name": "ZONE 2"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "LEFT"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "RIGHT"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "name": "TRACK/CAPS"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Jukebox",
     "target": "CD Jukebox"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Cinemateq Video Scaler",
+    "display_name": "Video Scaler",
     "ir": {
         "commands": [
             {
@@ -35,27 +35,27 @@
                 "name": "FBAS/SDI-2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "S-VIDEO-1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "6"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "S-VIDEO-2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "7"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "YUV-1"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ENTER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR UP"
             },
             {
@@ -99,7 +99,7 @@
                 "name": "POWER ON"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "LENSSHIFT UP"
             },
             {
@@ -123,11 +123,11 @@
                 "name": "TV MODE"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "EXIT"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "CURSOR LEFT"
             },
             {
@@ -148,10 +148,10 @@
             }
         ],
         "device_address": "36",
-        "protocol": "CanalSat"
+        "protocol": "CANALSAT"
     },
     "manufacturer": "Cinemateq",
     "model": "",
-    "name": "",
+    "name": "Cinemateq Video Scaler",
     "target": "Video Scaler"
 }

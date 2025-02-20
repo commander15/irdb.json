@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "SELECT"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SPEED"
             },
             {
@@ -36,10 +36,10 @@
             }
         ],
         "device_address": "120",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic VCR",
     "target": "VCR"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Kensington iPod Dock",
+    "display_name": "iPod Dock",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "1 PLAY/PAUSE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TRACK -"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "1 TRACK -"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "1 VOLUME +"
             }
         ],
-        "device_address": "cc00",
+        "device_address": "CC00",
         "protocol": "NEC1"
     },
     "manufacturer": "Kensington",
     "model": "",
-    "name": "",
+    "name": "Kensington iPod Dock",
     "target": "iPod Dock"
 }

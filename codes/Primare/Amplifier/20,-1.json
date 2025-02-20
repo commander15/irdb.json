@@ -1,13 +1,13 @@
 {
-    "display_name": "Primare Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "display"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "Power"
             },
             {
@@ -19,11 +19,11 @@
                 "name": "Volume Down"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "input up"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "input down"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Primare",
     "model": "",
-    "name": "",
+    "name": "Primare Amplifier",
     "target": "Amplifier"
 }

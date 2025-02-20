@@ -1,5 +1,5 @@
 {
-    "display_name": "Hewlett Packard Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT TV"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "INPUT AV1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT AV2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "INPUT AV3"
             },
             {
@@ -55,7 +55,7 @@
                 "name": "MUTE ON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "MUTE OFF"
             }
         ],
@@ -64,6 +64,6 @@
     },
     "manufacturer": "Hewlett Packard",
     "model": "",
-    "name": "",
+    "name": "Hewlett Packard Plasma",
     "target": "Plasma"
 }

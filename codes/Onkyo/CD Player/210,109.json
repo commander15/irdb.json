@@ -1,208 +1,208 @@
 {
-    "display_name": "Onkyo CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TUNER PRESET >",
                 "protocol": "NEC2"
             },
             {
                 "address": "1",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TUNER PRESET <",
                 "protocol": "NEC2"
             },
             {
                 "address": "2",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "VOLUME UP",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "VOLUME DOWN",
                 "protocol": "NEC2"
             },
             {
                 "address": "4",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "POWER",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "AUDIO MUTING",
                 "protocol": "NEC1"
             },
             {
                 "address": "7",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE-2",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE-1",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "CD",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "1a4000",
+                "address": "A",
+                "device_address": "1A4000",
                 "name": "PHONO",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
-                "device_address": "1a4000",
+                "address": "B",
+                "device_address": "1A4000",
                 "name": "TUNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a4000",
+                "address": "D",
+                "device_address": "1A4000",
                 "name": "VCR-2",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a4000",
+                "address": "E",
+                "device_address": "1A4000",
                 "name": "VCR-1/VDP",
                 "protocol": "NEC1"
             },
             {
                 "address": "12",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "CD DIRECT",
                 "protocol": "NEC1"
             },
             {
                 "address": "13",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-B STOP []",
                 "protocol": "NEC1"
             },
             {
                 "address": "15",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-B PLAY >",
                 "protocol": "NEC1"
             },
             {
                 "address": "16",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-B PLAY R. <",
                 "protocol": "NEC1"
             },
             {
                 "address": "18",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-B REC/PAUSE",
                 "protocol": "NEC1"
             },
             {
                 "address": "19",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-B FF >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
-                "device_address": "1a4000",
+                "address": "1A",
+                "device_address": "1A4000",
                 "name": "DECK-B REW <<",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
-                "device_address": "1a4000",
+                "address": "1B",
+                "device_address": "1A4000",
                 "name": "CD PLAY >",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
-                "device_address": "1a4000",
+                "address": "1C",
+                "device_address": "1A4000",
                 "name": "CD STOP []",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
-                "device_address": "1a4000",
+                "address": "1D",
+                "device_address": "1A4000",
                 "name": "CD SKIP >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
-                "device_address": "1a4000",
+                "address": "1E",
+                "device_address": "1A4000",
                 "name": "CD SKIP <<",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
-                "device_address": "1a4000",
+                "address": "1F",
+                "device_address": "1A4000",
                 "name": "CD PAUSE ",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "1a4000",
+                "address": "4D",
+                "device_address": "1A4000",
                 "name": "DECK-A STOP []",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
-                "device_address": "1a4000",
+                "address": "4E",
+                "device_address": "1A4000",
                 "name": "DECK-A PLAY >",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
-                "device_address": "1a4000",
+                "address": "4F",
+                "device_address": "1A4000",
                 "name": "DECK-A PLAY R. <",
                 "protocol": "NEC1"
             },
             {
                 "address": "50",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-A REC/PAUSE",
                 "protocol": "NEC1"
             },
             {
                 "address": "51",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-A FFWD >>",
                 "protocol": "NEC1"
             },
             {
                 "address": "52",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "DECK-A REW <<",
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
-                "device_address": "1a4000",
+                "address": "5C",
+                "device_address": "1A4000",
                 "name": "CD DISC",
                 "protocol": "NEC1"
             },
             {
-                "address": "5d",
-                "device_address": "1a4000",
+                "address": "5D",
+                "device_address": "1A4000",
                 "name": "SLEEP",
                 "protocol": "NEC1"
             },
             {
-                "address": "5f",
-                "device_address": "1a4000",
+                "address": "5F",
+                "device_address": "1A4000",
                 "name": "PHONO PLAY/REJECT",
                 "protocol": "NEC1"
             }
@@ -210,6 +210,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo CD Player",
     "target": "CD Player"
 }

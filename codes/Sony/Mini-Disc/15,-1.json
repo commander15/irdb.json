@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Mini-Disc",
+    "display_name": "Mini-Disc",
     "ir": {
         "commands": [
             {
@@ -83,15 +83,15 @@
                 "name": "10 (O)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": ">10"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": ">25 (/)"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -115,23 +115,23 @@
                 "name": "SCROLL"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "(E)"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "(D)"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CONTINUE (A)"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SHUFFLE (B)"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM (C)"
             },
             {
@@ -179,39 +179,39 @@
                 "name": "PAUSE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "PLAY"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "CD-SYNC START"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "<<REWIND"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SEARCH <<"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "FAST FORWARD >>"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SEARCH >>"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "RECORD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -235,15 +235,15 @@
                 "name": "WRITE NUM"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "WRITE NAME"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": ""
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUSIC SYNC"
             },
             {
@@ -287,23 +287,23 @@
                 "name": "20 (Y)"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "21 (Z)"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "22 (-)"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "23 ( )"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "24 (.)"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "25 ( )"
             },
             {
@@ -312,10 +312,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Mini-Disc",
     "target": "Mini-Disc"
 }

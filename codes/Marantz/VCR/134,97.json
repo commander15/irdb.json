@@ -1,21 +1,21 @@
 {
-    "display_name": "Marantz VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "MEM"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PLAY/PAUSE > "
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "STOP []"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SEARCH FWD >>"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "CLEAR"
             }
         ],
-        "device_address": "10c",
+        "device_address": "10C",
         "protocol": "NEC1"
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz VCR",
     "target": "VCR"
 }

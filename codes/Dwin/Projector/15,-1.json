@@ -1,5 +1,5 @@
 {
-    "display_name": "Dwin Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "0"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "1"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "2"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "3"
             },
             {
@@ -67,35 +67,35 @@
                 "name": "UP"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "LEFT"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "RIGHT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "ENTER"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "DOWN"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "INFO"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "GUIDE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "RCA(Old)"
+        "protocol": "RCA(OLD)"
     },
     "manufacturer": "Dwin",
     "model": "",
-    "name": "",
+    "name": "Dwin Projector",
     "target": "Projector"
 }

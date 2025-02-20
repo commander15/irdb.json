@@ -1,5 +1,5 @@
 {
-    "display_name": "Magnavox TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "STATUS"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ENTER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SMART"
             },
             {
@@ -99,11 +99,11 @@
                 "name": "TV/VCR"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "MENU"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "+10"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Magnavox",
     "model": "",
-    "name": "",
+    "name": "Magnavox TV",
     "target": "TV"
 }

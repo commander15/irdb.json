@@ -1,5 +1,5 @@
 {
-    "display_name": "TiVo PVR",
+    "display_name": "PVR",
     "ir": {
         "commands": [
             {
@@ -55,27 +55,27 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "SELECT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "CURSOR UP"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO"
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "TiVo",
     "model": "",
-    "name": "",
+    "name": "TiVo PVR",
     "target": "PVR"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Kathrein Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER OFF/STANDBY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "I"
             },
             {
@@ -63,11 +63,11 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "PROG +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROG -"
             },
             {
@@ -95,7 +95,7 @@
                 "name": "PAUSE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TEXT"
             },
             {
@@ -115,27 +115,27 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "OK"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "ROT/RED FAV"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "N/GREEN PIP"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "GELB/YELLOW OPT"
             },
             {
@@ -143,15 +143,15 @@
                 "name": "BLAU/BLUE TV/R"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "EPG"
             }
         ],
         "device_address": "220000",
-        "protocol": "Nokia32"
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Kathrein",
     "model": "",
-    "name": "",
+    "name": "Kathrein Satellite",
     "target": "Satellite"
 }

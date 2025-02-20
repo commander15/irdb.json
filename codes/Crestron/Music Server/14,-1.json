@@ -1,5 +1,5 @@
 {
-    "display_name": "Crestron Music Server",
+    "display_name": "Music Server",
     "ir": {
         "commands": [
             {
@@ -43,23 +43,23 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "ALPHABETIC SCROLL KE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "NOW PLAYING"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MENU"
             },
             {
@@ -103,19 +103,19 @@
                 "name": "CANCEL KEY"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "MARK"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SEARCH <<"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DELETE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RETURN"
             },
             {
@@ -155,7 +155,7 @@
                 "name": "PAGE UP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE DN"
             }
         ],
@@ -164,6 +164,6 @@
     },
     "manufacturer": "Crestron",
     "model": "",
-    "name": "",
+    "name": "Crestron Music Server",
     "target": "Music Server"
 }

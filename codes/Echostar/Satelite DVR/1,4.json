@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar Satelite DVR",
+    "display_name": "Satelite DVR",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE UP"
             },
             {
@@ -40,10 +40,10 @@
             }
         ],
         "device_address": "10",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar Satelite DVR",
     "target": "Satelite DVR"
 }

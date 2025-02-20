@@ -1,9 +1,9 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV TV/VIDEO"
             },
             {
@@ -15,27 +15,27 @@
                 "name": "TV POWER"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCR VOLUME +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOLUME +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV CH/SET +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VCR VOLUME -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV CH/SET -"
             }
         ],
@@ -44,6 +44,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

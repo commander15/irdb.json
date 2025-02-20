@@ -1,25 +1,25 @@
 {
-    "display_name": "Sony VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "FRAME >>"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "SCAN >>"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": ""
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "FRAME <<"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SCAN <<"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "VIDEO 4"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "VIDEO 5"
             },
             {
@@ -76,10 +76,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony VCR",
     "target": "VCR"
 }

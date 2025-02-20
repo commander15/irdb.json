@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "FULL MUTE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MEMO"
             },
             {
@@ -31,7 +31,7 @@
                 "name": "PRESET 3"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RESET"
             },
             {
@@ -63,15 +63,15 @@
                 "name": "S.STEREO (SURROUND)"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DOLBY (SURROUND)"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "HALL (SURROUND)"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "STEREO (SURROUND)"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "CD"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TAPE"
             }
         ],
-        "device_address": "1a0",
+        "device_address": "1A0",
         "protocol": "NEC1"
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Receiver",
     "target": "Receiver"
 }

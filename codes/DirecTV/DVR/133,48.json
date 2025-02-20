@@ -1,443 +1,443 @@
 {
-    "display_name": "DirecTV DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "850000",
                 "name": "DIRECTV",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "850000",
                 "name": "DIRECTV",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "11",
                 "device_address": "850000",
                 "name": "LIVE TV",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "11",
                 "device_address": "850000",
                 "name": "LIVE TV",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "13",
                 "device_address": "850000",
                 "name": "INFO",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "13",
                 "device_address": "850000",
                 "name": "INFO",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "14",
                 "device_address": "850000",
                 "name": "CURSOR UP",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "14",
                 "device_address": "850000",
                 "name": "CURSOR UP",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "15",
                 "device_address": "850000",
                 "name": "CURSOR RIGHT",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "15",
                 "device_address": "850000",
                 "name": "CURSOR RIGHT",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "16",
                 "device_address": "850000",
                 "name": "CURSOR DOWN",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "16",
                 "device_address": "850000",
                 "name": "CURSOR DOWN",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "17",
                 "device_address": "850000",
                 "name": "CURSOR LEFT",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "17",
                 "device_address": "850000",
                 "name": "CURSOR LEFT",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "18",
                 "device_address": "850000",
                 "name": "THUMBS DOWN",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "18",
                 "device_address": "850000",
                 "name": "THUMBS DOWN",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "19",
                 "device_address": "850000",
                 "name": "SELECT",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "19",
                 "device_address": "850000",
                 "name": "SELECT",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "850000",
                 "name": "THUMBS UP",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "850000",
                 "name": "THUMBS UP",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "850000",
                 "name": "CHANNEL +",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "850000",
                 "name": "CHANNEL +",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "850000",
                 "name": "CHANNEL -",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "850000",
                 "name": "CHANNEL -",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "20",
                 "device_address": "850000",
                 "name": "RECORD",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "20",
                 "device_address": "850000",
                 "name": "RECORD",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "21",
                 "device_address": "850000",
                 "name": "PLAY",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "21",
                 "device_address": "850000",
                 "name": "PLAY",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "22",
                 "device_address": "850000",
                 "name": "SCAN <<",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "22",
                 "device_address": "850000",
                 "name": "SCAN <<",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "23",
                 "device_address": "850000",
                 "name": "PAUSE",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "23",
                 "device_address": "850000",
                 "name": "PAUSE",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "24",
                 "device_address": "850000",
                 "name": "SCAN >>",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "24",
                 "device_address": "850000",
                 "name": "SCAN >>",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "25",
                 "device_address": "850000",
                 "name": "SLOW",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "25",
                 "device_address": "850000",
                 "name": "SLOW",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "26",
                 "device_address": "850000",
                 "name": "INSTANT REPLAY",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "26",
                 "device_address": "850000",
                 "name": "INSTANT REPLAY",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "27",
                 "device_address": "850000",
                 "name": "JUMP / -",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "27",
                 "device_address": "850000",
                 "name": "JUMP / -",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "28",
                 "device_address": "850000",
                 "name": "1",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "28",
                 "device_address": "850000",
                 "name": "1",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "29",
                 "device_address": "850000",
                 "name": "2",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "29",
                 "device_address": "850000",
                 "name": "2",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "850000",
                 "name": "3",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "850000",
                 "name": "3",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "850000",
                 "name": "4",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "850000",
                 "name": "4",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "850000",
                 "name": "5",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "850000",
                 "name": "5",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "850000",
                 "name": "6",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "850000",
                 "name": "6",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "850000",
                 "name": "7",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "850000",
                 "name": "7",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "850000",
                 "name": "8",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "850000",
                 "name": "8",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "30",
                 "device_address": "850000",
                 "name": "9",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "30",
                 "device_address": "850000",
                 "name": "9",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "31",
                 "device_address": "850000",
                 "name": "0",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "31",
                 "device_address": "850000",
                 "name": "0",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "32",
                 "device_address": "850000",
                 "name": "CLEAR",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "32",
                 "device_address": "850000",
                 "name": "CLEAR",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "33",
                 "device_address": "850000",
                 "name": "ENTER / LAST",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "33",
                 "device_address": "850000",
                 "name": "ENTER / LAST",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "36",
                 "device_address": "850000",
                 "name": "GUIDE",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "36",
                 "device_address": "850000",
                 "name": "GUIDE",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "44",
                 "device_address": "850000",
                 "name": "RATIO",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "44",
                 "device_address": "850000",
                 "name": "RATIO",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "45",
                 "device_address": "850000",
                 "name": "EXIT",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "45",
                 "device_address": "850000",
                 "name": "EXIT",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             },
             {
                 "address": "46",
                 "device_address": "850000",
                 "name": "LIST",
-                "protocol": "Tivo unit=0"
+                "protocol": "TIVO UNIT=0"
             },
             {
                 "address": "46",
                 "device_address": "850000",
                 "name": "LIST",
-                "protocol": "Tivo unit=1"
+                "protocol": "TIVO UNIT=1"
             }
         ]
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV DVR",
     "target": "DVR"
 }

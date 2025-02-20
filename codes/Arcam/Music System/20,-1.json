@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam Music System",
+    "display_name": "Music System",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "CD 9"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CD REPEAT"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "CD PROGRAM"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CD EJECT"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "CD STOP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "CD CLEAR"
             }
         ],
@@ -116,6 +116,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam Music System",
     "target": "Music System"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Kathrein Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "I"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "R"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CURSOR CENTER/OK"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "L"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "EIERUHR (SYMBOL)"
             },
             {
@@ -103,15 +103,15 @@
                 "name": "STEREO (SYMBOL)"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "F"
             }
         ],
         "device_address": "0",
-        "protocol": "Kathrein"
+        "protocol": "KATHREIN"
     },
     "manufacturer": "Kathrein",
     "model": "",
-    "name": "",
+    "name": "Kathrein Satellite",
     "target": "Satellite"
 }

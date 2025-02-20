@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "100"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DISPLAY"
             },
             {
@@ -84,10 +84,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi TV",
     "target": "TV"
 }

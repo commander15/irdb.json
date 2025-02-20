@@ -1,5 +1,5 @@
 {
-    "display_name": "Nakamichi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -59,35 +59,35 @@
                 "name": "INPUT - TUNER"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "AUX"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT - AUX"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR 1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT - VCR 1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VOLUME - MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DTS"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "INPUT - TAPE MONITOR"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DIGITAL INPUT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "INPUT - DIGITAL"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISPLY"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISPLAY"
             },
             {
@@ -211,55 +211,55 @@
                 "name": "SURND - TEST TONE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "CALIBRATION LEVEL +"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SURROUND CAL. +"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SURND - CAL ( + )"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CALIBRATION LEVEL -"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SURROUND CAL. -"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SURND - CAL ( - )"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "SUB"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "SURND - SW"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "RIGHT REAR"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "SURND - REAR ( R )"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR DELAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SURROUND DELAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SURND - DELAY (REAR)"
             },
             {
@@ -343,43 +343,43 @@
                 "name": "TUNER - AM"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TUNER SHIFT"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TUNER - SHIFT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TUNER PRESET ^"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TUNER - PRESET UP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "TUNER PRESET V"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "TUNER - PRESET DOWN"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TUNER SEEK ^"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TUNER - SEEK UP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TUNER SEEK V"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TUNER - SEEK DOWN"
             }
         ],
@@ -388,6 +388,6 @@
     },
     "manufacturer": "Nakamichi",
     "model": "",
-    "name": "",
+    "name": "Nakamichi Receiver",
     "target": "Receiver"
 }

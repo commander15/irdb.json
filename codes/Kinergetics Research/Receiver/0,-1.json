@@ -1,5 +1,5 @@
 {
-    "display_name": "Kinergetics Research Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -83,27 +83,27 @@
                 "name": "SEEK UP -B"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SEEK DOWN -A"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SEEK DOWN -B"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOLUME DOWN -A"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOLUME DOWN -B"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VOLUME UP -A"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VOLUME UP -B"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Kinergetics Research",
     "model": "",
-    "name": "",
+    "name": "Kinergetics Research Receiver",
     "target": "Receiver"
 }

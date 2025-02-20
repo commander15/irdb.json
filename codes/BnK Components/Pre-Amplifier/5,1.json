@@ -1,5 +1,5 @@
 {
-    "display_name": "BnK Components Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "A/V PRESET 6"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "BALANCE >"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "BALANCE <"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "V (MENU)"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "^ (MENU)"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VOLUME ^"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "VOLUME V"
             },
             {
@@ -99,35 +99,35 @@
                 "name": "POWER"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CD"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VLD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "V1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TAPE"
             }
         ],
-        "device_address": "a",
-        "protocol": "Aiwa"
+        "device_address": "A",
+        "protocol": "AIWA"
     },
     "manufacturer": "BnK Components",
     "model": "",
-    "name": "",
+    "name": "BnK Components Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

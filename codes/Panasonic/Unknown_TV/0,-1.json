@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Unknown_TV",
+    "display_name": "Unknown_TV",
     "ir": {
         "commands": [
             {
@@ -7,19 +7,19 @@
                 "name": "KEY_MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "R-Tune"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV/Video"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_AGAIN"
             },
             {
@@ -84,10 +84,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Unknown_TV",
     "target": "Unknown_TV"
 }

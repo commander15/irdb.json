@@ -1,13 +1,13 @@
 {
-    "display_name": "Bose Unknown_Wave",
+    "display_name": "Unknown_Wave",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "Alarm_Wake_To"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "Alarm_Time"
             },
             {
@@ -31,7 +31,7 @@
                 "name": "KEY_PLAYPAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Tune_MP3_Up"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "KEY_PLAY"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "KEY_MUTE"
             },
             {
@@ -108,10 +108,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Bose"
+        "protocol": "BOSE"
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose Unknown_Wave",
     "target": "Unknown_Wave"
 }

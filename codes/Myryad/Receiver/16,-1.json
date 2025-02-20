@@ -1,13 +1,13 @@
 {
-    "display_name": "Myryad Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
@@ -24,6 +24,6 @@
     },
     "manufacturer": "Myryad",
     "model": "",
-    "name": "",
+    "name": "Myryad Receiver",
     "target": "Receiver"
 }

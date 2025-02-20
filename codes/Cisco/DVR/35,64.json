@@ -1,5 +1,5 @@
 {
-    "display_name": "Cisco DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "LAST"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
@@ -88,10 +88,10 @@
             }
         ],
         "device_address": "23",
-        "protocol": "Nokia32"
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Cisco",
     "model": "",
-    "name": "",
+    "name": "Cisco DVR",
     "target": "DVR"
 }

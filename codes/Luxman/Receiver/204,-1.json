@@ -1,5 +1,5 @@
 {
-    "display_name": "Luxman Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -67,7 +67,7 @@
                 "name": "AM"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "AV"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "POWER ON"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MUTE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "VOLUME +"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "POWER OFF"
             }
         ],
@@ -92,6 +92,6 @@
     },
     "manufacturer": "Luxman",
     "model": "",
-    "name": "",
+    "name": "Luxman Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Replay Networks Digital Recorder",
+    "display_name": "Digital Recorder",
     "ir": {
         "commands": [
             {
@@ -43,35 +43,35 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "ENTER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "JUMP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL - PREVIOUS"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "POWER ON"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "POWER OFF"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CHANNEL +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CHANNEL - UP"
             },
             {
@@ -115,39 +115,39 @@
                 "name": "CURSOR - LEFT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "MENU"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SELECT"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CURSOR - ENTER"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "EXIT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DISPLAY"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL GUIDE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "GUIDE - CHANNEL"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECORD"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "Z - RECORD"
             },
             {
@@ -227,15 +227,15 @@
                 "name": "INPUT"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "REPLAY ZONES"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "GUIDE - ZONE"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "EXP"
             },
             {
@@ -244,10 +244,10 @@
             }
         ],
         "device_address": "1",
-        "protocol": "Replay"
+        "protocol": "REPLAY"
     },
     "manufacturer": "Replay Networks",
     "model": "",
-    "name": "",
+    "name": "Replay Networks Digital Recorder",
     "target": "Digital Recorder"
 }

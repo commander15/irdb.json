@@ -1,5 +1,5 @@
 {
-    "display_name": "Adcom Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "protocol": "NEC"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "MEMORY",
                 "protocol": "NEC2"
@@ -69,31 +69,31 @@
                 "protocol": "NEC"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "0",
                 "name": "ROOM 2 POWER",
                 "protocol": "NEC2"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "0",
                 "name": "POWER",
                 "protocol": "NEC"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "0",
                 "name": "SETUP",
                 "protocol": "NEC"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "0",
                 "name": "BYPASS",
                 "protocol": "NEC2"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "0",
                 "name": "BASS",
                 "protocol": "NEC2"
@@ -219,19 +219,19 @@
                 "protocol": "NEC"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "0",
                 "name": "TAPE",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "0",
                 "name": "+10",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "0",
                 "name": "FM/AM/HD",
                 "protocol": "NEC2"
@@ -297,91 +297,91 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "device_address": "0",
                 "name": "EXT. 7.1",
                 "protocol": "NEC2"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "device_address": "0",
                 "name": "SLEEP",
                 "protocol": "NEC2"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "device_address": "0",
                 "name": "CH-TRIM",
                 "protocol": "NEC2"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "device_address": "0",
                 "name": "DIM",
                 "protocol": "NEC2"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "device_address": "0",
                 "name": "ROOM 2",
                 "protocol": "NEC2"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "device_address": "0",
                 "name": "RM 2",
                 "protocol": "NEC"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "device_address": "0",
                 "name": "TREBLE",
                 "protocol": "NEC2"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "0",
                 "name": "SEEK",
                 "protocol": "NEC2"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "0",
                 "name": "VOLUME -",
                 "protocol": "NEC2"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "device_address": "0",
                 "name": "PRE/TUNE",
                 "protocol": "NEC2"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "device_address": "0",
                 "name": "SYNC",
                 "protocol": "NEC2"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "0",
                 "name": "VOLUME +",
                 "protocol": "NEC2"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "device_address": "0",
                 "name": "ST/MONO",
                 "protocol": "NEC2"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "0",
                 "name": "TH-EQ",
                 "protocol": "NEC2"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "device_address": "0",
                 "name": "DYNAMIC RANGE",
                 "protocol": "NEC2"
@@ -390,6 +390,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Receiver",
     "target": "Receiver"
 }

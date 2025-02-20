@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -51,37 +51,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "-80000000",
                 "name": "TIME",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "-80000000",
                 "name": "TIME MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "-80000000",
                 "name": "INDEX",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "-80000000",
                 "name": "PROGRAM",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "DELETE",
                 "protocol": "NEC1"
@@ -147,37 +147,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "-80000000",
                 "name": "+10",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "-80000000",
                 "name": "SHUFFLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "-80000000",
                 "name": "RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "-80000000",
                 "name": "OUTPUT LEVEL -",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "-80000000",
                 "name": "OUTPUT LEVEL +",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "-80000000",
                 "name": "FILE MODE",
                 "protocol": "NEC1"
@@ -189,43 +189,43 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "TEXT MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "TEXT SEARCH",
                 "protocol": "NEC1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "-80000000",
                 "name": "CAPS",
                 "protocol": "NEC1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "INTRO",
                 "protocol": "NEC1"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "-80000000",
                 "name": "ENTER",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "-80000000",
                 "name": "DISC +",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "-80000000",
                 "name": "DISC SKIP +",
                 "protocol": "NEC1"
@@ -267,7 +267,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "-80000000",
                 "name": "ALL",
                 "protocol": "NEC1"
@@ -330,6 +330,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha CD Jukebox",
     "target": "CD Jukebox"
 }

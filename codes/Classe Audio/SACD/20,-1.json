@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio SACD",
+    "display_name": "SACD",
     "ir": {
         "commands": [
             {
@@ -83,19 +83,19 @@
                 "name": "9 T1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": ">10 T0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": ">10 T1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISP ON/OFF T0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISP ON/OFF T1"
             },
             {
@@ -147,27 +147,27 @@
                 "name": "CHECK T1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CONT T0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CONT T1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE T0"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE T1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT T0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT T1"
             },
             {
@@ -211,11 +211,11 @@
                 "name": "PROG T1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SACD/CD T0"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SACD/CD T1"
             },
             {
@@ -275,19 +275,19 @@
                 "name": "STOP T3"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "CLEAR T0"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "CLEAR T1"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "A-B T0"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "A-B T1"
             }
         ],
@@ -296,6 +296,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio SACD",
     "target": "SACD"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -27,31 +27,31 @@
                 "name": "CD SKIP REV <<"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CD SCAN >>"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CD SCAN FFWD >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CD SCAN <<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CD SCAN REV <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CD PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CD PAUSE "
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "CD STOP []"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "DISC 6"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "CD DISC SKIP +"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "CD SKIP"
             },
             {
@@ -92,10 +92,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Amplifier",
     "target": "Amplifier"
 }

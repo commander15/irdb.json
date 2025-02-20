@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR TV/VCR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FF/SRCH >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REW/SRCH <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAUSE/STILL "
             },
             {
@@ -95,15 +95,15 @@
                 "name": "VCR ANT/AUX"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCR 0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VCR RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VCR TIMER"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Monitor",
     "target": "Monitor"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,23 +19,23 @@
                 "name": "DVD"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "AUX"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "TV"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "VCR"
             }
         ],
-        "device_address": "a0",
-        "protocol": "Panasonic"
+        "device_address": "A0",
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Receiver",
     "target": "Receiver"
 }

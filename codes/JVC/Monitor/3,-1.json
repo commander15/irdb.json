@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -23,23 +23,23 @@
                 "name": "RETURN+"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ANT/CABLE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "AV STATUS/RESET"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VIDEO STATUS"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "THEATER/AV STATUS"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CLOSED CAPTION"
             },
             {
@@ -83,23 +83,23 @@
                 "name": "TV CHANNEL +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MUTE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME+"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME-"
             },
             {
@@ -183,7 +183,7 @@
                 "name": "TV 9/WEEKLY"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "RECALL CHOICE"
             },
             {
@@ -191,27 +191,27 @@
                 "name": "HYPER SURROUND"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": ""
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": ""
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FUNCTION +"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "MENU >"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "FUNCTION -"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MENU <"
             },
             {
@@ -219,31 +219,31 @@
                 "name": "100+"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "MENU"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "FUNCTION FORWARD V"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "MENU V"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "FUNCTION V"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "FUNCTION BACK ^"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "MENU ^"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "FUNCTION ^"
             },
             {
@@ -267,31 +267,31 @@
                 "name": "PIP SWAP"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "PIP SOURCE"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "PIP CHANNEL +"
             },
             {
-                "address": "bf",
+                "address": "BF",
                 "name": "PIP CHANNEL -"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "PIP SIZE"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "C1/C2"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "name": "HELP"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "EXIT"
             }
         ],
@@ -300,6 +300,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Monitor",
     "target": "Monitor"
 }

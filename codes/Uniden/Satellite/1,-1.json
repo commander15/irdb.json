@@ -1,5 +1,5 @@
 {
-    "display_name": "Uniden Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -7,27 +7,27 @@
                 "name": "SKEW"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VIDEO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "AUDIO"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MUTE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "3-F"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "2-T"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "1-G"
             },
             {
@@ -67,15 +67,15 @@
                 "name": "HELP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "NEXT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL +"
             },
             {
@@ -103,27 +103,27 @@
                 "name": "FREEZE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "SCAN"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "PIP"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "VIEW"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "9-K"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "8-R"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "7-S"
             },
             {
@@ -164,10 +164,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Uniden",
     "model": "",
-    "name": "",
+    "name": "Uniden Satellite",
     "target": "Satellite"
 }

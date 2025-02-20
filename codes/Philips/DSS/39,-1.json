@@ -1,5 +1,5 @@
 {
-    "display_name": "Philips DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -63,15 +63,15 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "ENTER"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "JUMP"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "GUIDE"
             }
         ],
@@ -88,6 +88,6 @@
     },
     "manufacturer": "Philips",
     "model": "",
-    "name": "",
+    "name": "Philips DSS",
     "target": "DSS"
 }

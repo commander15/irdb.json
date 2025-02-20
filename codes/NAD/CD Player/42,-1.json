@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "+10"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "INTRO"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "RANDOM"
             },
             {
@@ -91,19 +91,19 @@
                 "name": "SCAN REW <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SKIP FF >"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SKIP REV <"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VOLUME UP"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "VOLUME DOWN"
             },
             {
@@ -140,6 +140,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD CD Player",
     "target": "CD Player"
 }

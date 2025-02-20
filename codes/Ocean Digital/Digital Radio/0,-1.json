@@ -1,5 +1,5 @@
 {
-    "display_name": "Ocean Digital Digital Radio",
+    "display_name": "Digital Radio",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "4"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "left"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "mode"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "up"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "mute"
             },
             {
@@ -75,27 +75,27 @@
                 "name": "7"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "down"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "8"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "right arrow"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "5"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "right"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "6"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "vol+"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "local"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "power"
             },
             {
@@ -120,10 +120,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Ocean Digital",
     "model": "",
-    "name": "",
+    "name": "Ocean Digital Digital Radio",
     "target": "Digital Radio"
 }

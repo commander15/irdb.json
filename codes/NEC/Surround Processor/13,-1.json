@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
@@ -35,7 +35,7 @@
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FULL MUTE"
             },
             {
@@ -51,27 +51,27 @@
                 "name": "DELAY TIME L -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DELAY TIME R +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DELAY TIME R -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "OUT1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "OUT 1 V"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "OUT2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "OUT 2 V"
             },
             {
@@ -115,27 +115,27 @@
                 "name": "MATRIX SURROUND"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DOLBY"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CREATION"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "1 PRESET"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "2 PRESET"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "3 PRESET"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "VIDEO1"
             },
             {
@@ -207,19 +207,19 @@
                 "name": "VOLUME V"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "TEST TONE"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "CENTER MODE"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "FULL MUTE"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "DIMMER"
             },
             {
@@ -235,103 +235,103 @@
                 "name": "L - (DELAY TIME)"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "R + (DELAY TIME)"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "R - (DELAY TIME)"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "OUT 1 ^"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "OUT 1 V"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "OUT 2 ^"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "OUT 2 V"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "OUT 1 L ^"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "OUT 1 R ^"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "OUT 2 L ^"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "OUT 2 R ^"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "MEMORY"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "STEREO (SURR SLCT)"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "DOLBY (SURR SLCT)"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "CREATION (SURR SLCT)"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "PRESET 1"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "PRESET 2"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "PRESET 3"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "PRESET 4"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "PRESET 5"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "OUT 1 L V"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "OUT 1 R V"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "OUT 2 L V"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "OUT 2 R V"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "CENTER ^"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "CENTER V"
             }
         ],
@@ -340,6 +340,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Surround Processor",
     "target": "Surround Processor"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Nakamichi DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "Z - FAST FORWARD"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SEARCH"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "Z - FAST REWIND"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "SUBTITLE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SUBTITLE - ON / OFF"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REPEAT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MODE"
             },
             {
@@ -111,19 +111,19 @@
                 "name": "0"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CURSOR - ENTER"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "ENTER"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "RETURN"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "TITLE"
             },
             {
@@ -139,11 +139,11 @@
                 "name": "CURSOR - LEFT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CURSOR - UP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CURSOR - DOWN"
             }
         ],
@@ -152,6 +152,6 @@
     },
     "manufacturer": "Nakamichi",
     "model": "",
-    "name": "",
+    "name": "Nakamichi DVD Player",
     "target": "DVD Player"
 }

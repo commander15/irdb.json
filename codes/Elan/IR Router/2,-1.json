@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan IR Router",
+    "display_name": "IR Router",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "10 0N"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "11 ON"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "12 ON"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "13 ON"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "14 ON"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "15 ON"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "16 ON"
             },
             {
@@ -107,35 +107,35 @@
                 "name": "10 0FF"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "11 OFF"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "12 OFF"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "13 OFF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "14 OFF"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "15 OFF"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "16 OFF"
             }
         ],
         "device_address": "0",
-        "protocol": "Velleman"
+        "protocol": "VELLEMAN"
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan IR Router",
     "target": "IR Router"
 }

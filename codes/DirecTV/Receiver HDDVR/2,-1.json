@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Receiver HDDVR",
+    "display_name": "Receiver HDDVR",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV CHAN"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -151,15 +151,15 @@
                 "name": "SKIP 30 SEC"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "SLOW MOTION"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "SKIP BACK"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SKIP FORWARD"
             },
             {
@@ -191,15 +191,15 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "ea",
+                "address": "EA",
                 "name": "FACTORY TEST"
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Receiver HDDVR",
     "target": "Receiver HDDVR"
 }

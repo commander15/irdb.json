@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "DYNAMICS"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SURROUND"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "SUB"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "DPC LEFT <"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "DPC RIGHT <"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "DPC RIGHT >"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Bose Lifestyle",
+    "display_name": "Lifestyle",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "FM/AM TOGGLE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VCR"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TV"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "AUX"
             },
             {
@@ -39,7 +39,7 @@
                 "name": "TRACK/CH./PRE. UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STOP"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "9"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "POWER ON/OFF"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "MUTE ALL TOGGLE"
             },
             {
@@ -119,7 +119,7 @@
                 "name": "SEEK/SCAN >>"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SHUFFLE"
             },
             {
@@ -147,39 +147,39 @@
                 "name": "RATING +"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "POWER ON ASSERT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "REPEAT"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PLAYLIST"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "STORED"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "VOLUME UP"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "POWER OFF ASSERT"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "LOCAL SOURCE"
             }
         ],
-        "device_address": "5d000",
+        "device_address": "5D000",
         "protocol": "NEC2"
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose Lifestyle",
     "target": "Lifestyle"
 }

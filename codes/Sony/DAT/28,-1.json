@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DAT",
+    "display_name": "DAT",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RMS ENTER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RMS CHECK"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CLEAR"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "DATE PRESENT"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "DATE RECORDED"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -95,19 +95,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PLAY"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "REWIND <<"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "FAST FORWARD >>"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "RECORD"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "AMS NEXT"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "M. SCAN"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DAT",
     "target": "DAT"
 }

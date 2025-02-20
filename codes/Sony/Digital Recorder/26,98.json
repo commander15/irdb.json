@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Digital Recorder",
+    "display_name": "Digital Recorder",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "ZOOM -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TIMER"
             },
             {
@@ -32,10 +32,10 @@
             }
         ],
         "device_address": "68",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Digital Recorder",
     "target": "Digital Recorder"
 }

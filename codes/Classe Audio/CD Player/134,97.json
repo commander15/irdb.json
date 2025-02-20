@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -23,27 +23,27 @@
                 "name": "STOP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DISPLAY"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PROGRAM"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SEARCH >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SEARCH <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "REPEAT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "5"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "CLEAR"
             }
         ],
-        "device_address": "10c",
+        "device_address": "10C",
         "protocol": "NEC1"
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio CD Player",
     "target": "CD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -35,51 +35,51 @@
                 "name": "DECK PLAY REV. <"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DECK FF >>"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DECK1 FF >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "DECK REW <<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "DECK1 REW <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DECK PLAY >"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DECK1 PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DECK PAUSE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DECK1 PAUSE "
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "DECK STOP []"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "DECK1 STOP []"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "DECK REC"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "DECK1 REC"
             },
             {
@@ -87,75 +87,75 @@
                 "name": "DECK POWER"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "DAT SRCH >>"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "DAT1 SRCH >>"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "DAT SRCH <<"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "DAT1 SRCH <<"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "DAT FF >>"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "DAT1 FF >>"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DAT REW <<"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DAT1 REW <<"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "DAT PLAY >"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "DAT1 PLAY >"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "DAT PAUSE "
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "DAT1 PAUSE "
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DAT STOP []"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DAT1 STOP []"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "DAT REC"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "DAT1 REC"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Amplifier",
     "target": "Amplifier"
 }

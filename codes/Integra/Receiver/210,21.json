@@ -1,316 +1,316 @@
 {
-    "display_name": "Integra Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 PRESET UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "0",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "PRESET UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "1",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 PRESET DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "1",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "PRESET DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "2",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "VOLUME +",
                 "protocol": "NEC2"
             },
             {
                 "address": "2",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 VOLUME +",
                 "protocol": "NEC1"
             },
             {
                 "address": "2",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "VOLUME UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "3",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "VOLUME -",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 VOLUME -",
                 "protocol": "NEC1"
             },
             {
                 "address": "3",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "VOLUME DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "4",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "POWER ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "4",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 POWER ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "4",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "ZONE 2 ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "MUTE",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 MUTING (TOGGLE)",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "MUTE TOGGLE",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 TAPE1(TAPE)",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "INPUT: TAPE",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "TAPE 1",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "CD",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 CD",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "INPUT: CD",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "1a400000",
+                "address": "A",
+                "device_address": "1A400000",
                 "name": "PHONO",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "1a400000",
+                "address": "A",
+                "device_address": "1A400000",
                 "name": "Z3 PHONO",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "1a400000",
+                "address": "A",
+                "device_address": "1A400000",
                 "name": "INPUT: PHONO",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
-                "device_address": "1a400000",
+                "address": "B",
+                "device_address": "1A400000",
                 "name": "TUNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
-                "device_address": "1a400000",
+                "address": "B",
+                "device_address": "1A400000",
                 "name": "Z3 TUNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
-                "device_address": "1a400000",
+                "address": "B",
+                "device_address": "1A400000",
                 "name": "INPUT: TUNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a400000",
+                "address": "D",
+                "device_address": "1A400000",
                 "name": "VIDEO 3 GAME/TV",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a400000",
+                "address": "D",
+                "device_address": "1A400000",
                 "name": "Z3 GAME/TV",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a400000",
+                "address": "D",
+                "device_address": "1A400000",
                 "name": "INPUT: GAME/TV",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "1a400000",
+                "address": "D",
+                "device_address": "1A400000",
                 "name": "VIDEO 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a400000",
+                "address": "E",
+                "device_address": "1A400000",
                 "name": "VIDEO 2 CBL/SAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a400000",
+                "address": "E",
+                "device_address": "1A400000",
                 "name": "Z3 CBL/SAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a400000",
+                "address": "E",
+                "device_address": "1A400000",
                 "name": "INPUT: CBL/SAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "1a400000",
+                "address": "E",
+                "device_address": "1A400000",
                 "name": "VIDEO 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
-                "device_address": "1a400000",
+                "address": "F",
+                "device_address": "1A400000",
                 "name": "VIDEO 1 VCR/DVR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
-                "device_address": "1a400000",
+                "address": "F",
+                "device_address": "1A400000",
                 "name": "Z3 VCR/DVR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
-                "device_address": "1a400000",
+                "address": "F",
+                "device_address": "1A400000",
                 "name": "INPUT: VCR/DVR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
-                "device_address": "1a400000",
+                "address": "F",
+                "device_address": "1A400000",
                 "name": "VIDEO 1",
                 "protocol": "NEC1"
             },
             {
                 "address": "46",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 FM",
                 "protocol": "NEC1"
             },
             {
                 "address": "46",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "FM",
                 "protocol": "NEC1"
             },
             {
                 "address": "47",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "Z3 AM",
                 "protocol": "NEC1"
             },
             {
                 "address": "47",
-                "device_address": "1a400000",
+                "device_address": "1A400000",
                 "name": "AM",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "1a400000",
+                "address": "9D",
+                "device_address": "1A400000",
                 "name": "VIDEO 6 PC",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "1a400000",
+                "address": "9D",
+                "device_address": "1A400000",
                 "name": "Z3 AUX2",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "1a400000",
+                "address": "9D",
+                "device_address": "1A400000",
                 "name": "INPUT: AUX 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "1a400000",
+                "address": "9D",
+                "device_address": "1A400000",
                 "name": "VIDEO 5",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a400000",
+                "address": "9F",
+                "device_address": "1A400000",
                 "name": "VIDEO 4 AUX1",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a400000",
+                "address": "9F",
+                "device_address": "1A400000",
                 "name": "Z3 AUX1(AUX)",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a400000",
+                "address": "9F",
+                "device_address": "1A400000",
                 "name": "INPUT: AUX 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a400000",
+                "address": "9F",
+                "device_address": "1A400000",
                 "name": "VIDEO 4",
                 "protocol": "NEC1"
             }
@@ -318,6 +318,6 @@
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Receiver",
     "target": "Receiver"
 }

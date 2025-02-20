@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -27,7 +27,7 @@
                 "name": "4"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DISPLAY"
             },
             {
@@ -55,7 +55,7 @@
                 "name": "POWER ON"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "POWER OFF"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "ESC"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TEST"
             },
             {
@@ -71,7 +71,7 @@
                 "name": ">"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "<"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "^"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "V"
             },
             {
@@ -91,55 +91,55 @@
                 "name": "PIC MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "MEM LIST"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "NORMAL"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "CRT R"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "INPUT A"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "CRT G"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "INPUT B"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "CRT B"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "FUNC"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "ENTER"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "INPUT VIDEO"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "INPUT Y/C"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Video Projector",
     "target": "Video Projector"
 }

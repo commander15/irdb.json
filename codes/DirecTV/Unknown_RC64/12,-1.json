@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Unknown_RC64",
+    "display_name": "Unknown_RC64",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "KEY_9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "KEY_CHANNELUP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_CHANNELDOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_PREVIOUS"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "KEY_ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "KEY_LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "KEY_INFO"
             },
             {
@@ -176,10 +176,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Unknown_RC64",
     "target": "Unknown_RC64"
 }

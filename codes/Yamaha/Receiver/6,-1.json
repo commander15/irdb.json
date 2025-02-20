@@ -1,21 +1,21 @@
 {
-    "display_name": "Yamaha Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "CHANNEL +"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "CHANNEL -"
             }
         ],
         "device_address": "0",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Insignia Blu-Ray",
+    "display_name": "Blu-Ray",
     "ir": {
         "commands": [
             {
@@ -11,23 +11,23 @@
                 "name": "AUDIO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SUBTITLE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISC MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POP UP MENU"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SETUP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CURSOR LEFT"
             },
             {
@@ -51,27 +51,27 @@
                 "name": "STOP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SEARCH <<"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SEARCH >>"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SCAN <<"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "SCAN >>"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "0"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "2"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "3"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "8"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "ZOOM"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "REPEAT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "A-B"
             },
             {
@@ -151,11 +151,11 @@
                 "name": "RETURN"
             }
         ],
-        "device_address": "10a000",
+        "device_address": "10A000",
         "protocol": "NEC1"
     },
     "manufacturer": "Insignia",
     "model": "",
-    "name": "",
+    "name": "Insignia Blu-Ray",
     "target": "Blu-Ray"
 }

@@ -1,89 +1,89 @@
 {
-    "display_name": "Denon DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "POWER OFF"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "OFF"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "DVD OFF"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "SUPER AUDIO CD SETUP"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "CD/STEREO/MULTI"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "SUPER AUDIO CD SET"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "HDMI/DVI FORMAT"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "HDMI FORMAT"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "PURE DIRECT SELECT"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "HDMI/DVI SELECT"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "HDMI/ DVI SELECT"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "HDMI SELECT"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "DISC EXCHANGE"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "PAGE -"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "PAGE-"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "PAGE --"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "PAGE +"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "PAGE+"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "name": "GROUP"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DVD Player",
     "target": "DVD Player"
 }

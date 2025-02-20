@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "SCROLL DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": ""
             }
         ],
         "device_address": "4000",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

@@ -1,21 +1,21 @@
 {
-    "display_name": "Echostar Satelite DVR",
+    "display_name": "Satelite DVR",
     "ir": {
         "commands": [
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "CHANNEL +"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "CHANNEL -"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar Satelite DVR",
     "target": "Satelite DVR"
 }

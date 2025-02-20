@@ -1,5 +1,5 @@
 {
-    "display_name": "DVDO Video Processor",
+    "display_name": "Video Processor",
     "ir": {
         "commands": [
             {
@@ -45,25 +45,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "84",
                 "name": "INPUT: VIDEO 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "84",
                 "name": "NAV: ENTER",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "84",
                 "name": "REM: ZOOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "84",
                 "name": "REM: OUTPUT SETUP",
                 "protocol": "NEC1"
@@ -99,13 +99,13 @@
                 "protocol": "NEC"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "84",
                 "name": "REM: PIC CONTROL",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "84",
                 "name": "TEST: PREVIOUS",
                 "protocol": "NEC1"
@@ -141,25 +141,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "84",
                 "name": "INPUT: VIDEO 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "84",
                 "name": "INPUT: AUTO",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "84",
                 "name": "INPUT: S-VIDEO 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "84",
                 "name": "INPUT: COMPONENT 1",
                 "protocol": "NEC1"
@@ -231,7 +231,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "84",
                 "name": "INPUT: RGBHV",
                 "protocol": "NEC1"
@@ -240,6 +240,6 @@
     },
     "manufacturer": "DVDO",
     "model": "",
-    "name": "",
+    "name": "DVDO Video Processor",
     "target": "Video Processor"
 }

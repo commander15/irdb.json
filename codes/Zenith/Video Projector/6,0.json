@@ -1,5 +1,5 @@
 {
-    "display_name": "Zenith Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "SET-UP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "LIN T-B / L-R"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SIZE"
             },
             {
@@ -31,7 +31,7 @@
                 "name": "+ VERTICAL"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "POWER"
             },
             {
@@ -39,15 +39,15 @@
                 "name": "SKEW"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "PIN"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "S-ING / W-M"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "T/L KEY"
             },
             {
@@ -60,10 +60,10 @@
             }
         ],
         "device_address": "6",
-        "protocol": "Zenith"
+        "protocol": "ZENITH"
     },
     "manufacturer": "Zenith",
     "model": "",
-    "name": "",
+    "name": "Zenith Video Projector",
     "target": "Video Projector"
 }

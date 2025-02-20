@@ -1,21 +1,21 @@
 {
-    "display_name": "Telemann PC HDTV Tuner Card",
+    "display_name": "PC HDTV Tuner Card",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL -"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VOLUME +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VOLUME -"
             },
             {
@@ -27,7 +27,7 @@
                 "name": "TV"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "MUTE"
             }
         ],
@@ -36,6 +36,6 @@
     },
     "manufacturer": "Telemann",
     "model": "",
-    "name": "",
+    "name": "Telemann PC HDTV Tuner Card",
     "target": "PC HDTV Tuner Card"
 }

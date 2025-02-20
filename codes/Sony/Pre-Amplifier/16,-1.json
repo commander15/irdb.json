@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "DOLBY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "ENTER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "MEMORY"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO 2"
             },
             {
@@ -115,7 +115,7 @@
                 "name": "FRONT R+"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "MIX"
             },
             {
@@ -139,27 +139,27 @@
                 "name": "SOURCE DIRECT"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "DIPLAY MODE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "DIMMER"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SUBWOOFER +"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SUBWOOFER -"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

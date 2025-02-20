@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Digital Recorder",
+    "display_name": "Digital Recorder",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER/JUMP"
             },
             {
@@ -63,19 +63,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACK"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FORWARD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
@@ -83,19 +83,19 @@
                 "name": "SLOW"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "LIST"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPLAY"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "SELECT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "ARROW-UP"
             },
             {
@@ -115,7 +115,7 @@
                 "name": "CLEAR"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO"
             },
             {
@@ -136,10 +136,10 @@
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Digital Recorder",
     "target": "Digital Recorder"
 }

@@ -1,29 +1,29 @@
 {
-    "display_name": "Nakamichi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE1 FF >>"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE FF >>"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE1 FFWD >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TAPE1 REW <<"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TAPE REW <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TAPE1 CUE"
             },
             {
@@ -63,15 +63,15 @@
                 "name": "TAPE STOP []"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "TAPE2 FFWD >>"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TAPE2 REW <<"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "TAPE2 CUE"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "TAPE2 STOP []"
             }
         ],
-        "device_address": "b8",
+        "device_address": "B8",
         "protocol": "NEC1"
     },
     "manufacturer": "Nakamichi",
     "model": "",
-    "name": "",
+    "name": "Nakamichi Receiver",
     "target": "Receiver"
 }

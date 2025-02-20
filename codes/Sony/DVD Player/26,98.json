@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,31 +43,31 @@
                 "name": "SUBTITLE / EDIT"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC -"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC SKIP --"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC SKIP -"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC +"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC SKIP"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC SKIP +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "FLIP"
             },
             {
@@ -156,10 +156,10 @@
             }
         ],
         "device_address": "68",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DVD Player",
     "target": "DVD Player"
 }

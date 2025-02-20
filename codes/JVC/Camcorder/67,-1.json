@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Camcorder",
+    "display_name": "Camcorder",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "SHIFT REW <<"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SHIFT PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SHIFT PAUSE"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "EDIT - RECORD PAUSE"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Camcorder",
     "target": "Camcorder"
 }

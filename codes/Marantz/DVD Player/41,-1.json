@@ -1,17 +1,17 @@
 {
-    "display_name": "Marantz DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "POWER OFF -DISCRETE1"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "POWER ON -DISCRETE2"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "POWER OFF -DISCRETE2"
             }
         ],
@@ -20,6 +20,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz DVD Player",
     "target": "DVD Player"
 }

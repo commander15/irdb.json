@@ -1,5 +1,5 @@
 {
-    "display_name": "Loewe DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "STOPP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "INFO"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "1"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "2"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "3"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "4"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "5"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "CURSOR NER"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TITLE / CHAPTER"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "DISC MENU"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "CAMERA"
             },
             {
@@ -127,7 +127,7 @@
                 "name": "NSTER"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "GER"
             },
             {
@@ -143,31 +143,31 @@
                 "name": "KNAPP/CARD"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "NGAR"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "REC MENU"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "GUL KNAPP/TITLE"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "D KNAPP/C-SET"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "name": "N KNAPP/SHOWVIEW"
             }
         ],
-        "device_address": "5a000",
+        "device_address": "5A000",
         "protocol": "NEC1"
     },
     "manufacturer": "Loewe",
     "model": "",
-    "name": "",
+    "name": "Loewe DVD Player",
     "target": "DVD Player"
 }

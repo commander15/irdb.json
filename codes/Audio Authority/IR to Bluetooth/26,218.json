@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Authority IR to Bluetooth",
+    "display_name": "IR to Bluetooth",
     "ir": {
         "commands": [
             {
@@ -35,47 +35,47 @@
                 "name": "R2"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "L1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "R1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TRIANGLE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CIRCLE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "X"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SQUARE"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "POWER OFF"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "MACRO 1"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "MACRO 2"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "MACRO 3"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "MACRO 4"
             },
             {
@@ -100,10 +100,10 @@
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Audio Authority",
     "model": "",
-    "name": "",
+    "name": "Audio Authority IR to Bluetooth",
     "target": "IR to Bluetooth"
 }

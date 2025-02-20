@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Camcorder",
+    "display_name": "Camcorder",
     "ir": {
         "commands": [
             {
@@ -23,11 +23,11 @@
                 "name": "SLOW >"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAUSE"
             },
             {
@@ -35,7 +35,7 @@
                 "name": "AUDIO MONITOR"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "DISPLAY"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "EFFECT ON / OFF"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "EFFECT"
             }
         ],
@@ -96,6 +96,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Camcorder",
     "target": "Camcorder"
 }

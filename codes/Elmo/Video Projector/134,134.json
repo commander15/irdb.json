@@ -1,5 +1,5 @@
 {
-    "display_name": "Elmo Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -7,27 +7,27 @@
                 "name": "A REV"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "A ZOOM WIDE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "A ZOOM TELE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "A FWD"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "A IRIS CLOSE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "A ZERO RESET FWD"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "A ZERO RESET REV"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "A LAMP OFF"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "A IRIS OPEN"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "Elmo",
     "model": "",
-    "name": "",
+    "name": "Elmo Video Projector",
     "target": "Video Projector"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Control Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "SELECT MULTI-CHANNEL"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIRECT ONOFF TGL - R"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SELECT NET"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STAND BY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE ON"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TREBLE CON. MENU - R"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "FOLLOW ZONE 1 - R"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STORE PRE X (TUN - R"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ROOM EQ ON/OFF - R"
             },
             {
@@ -99,27 +99,27 @@
                 "name": "FAVORITE UP - R"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "FAVORITE DOWN - R"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "HOME - R"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "BASS INCREMENT - R"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "BASS DECREMENT - R"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "TREBLE INCREMENT - R"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "CYCLE OUTPUT RES - R"
             },
             {
@@ -163,7 +163,7 @@
                 "name": "TRACK BACKWARD - R"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "DISPLAY BRIGHT - R"
             },
             {
@@ -175,11 +175,11 @@
                 "name": "SELECT SIRIUS"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DISCRETE DIR ON - R"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DISCRETE DIR OFF - R"
             },
             {
@@ -207,7 +207,7 @@
                 "name": "SELECT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "ZONE TOGGLE - R"
             },
             {
@@ -235,11 +235,11 @@
                 "name": "MUTE OFF"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER OFF"
             }
         ],
@@ -248,6 +248,6 @@
     },
     "manufacturer": "Audio Control",
     "model": "",
-    "name": "",
+    "name": "Audio Control Receiver",
     "target": "Receiver"
 }

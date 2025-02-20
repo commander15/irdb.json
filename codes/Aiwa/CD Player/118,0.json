@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "+10"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REMAIN/ENTER"
             },
             {
@@ -67,15 +67,15 @@
                 "name": "SKIP/SEARCH <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STOP []"
             }
         ],
         "device_address": "76",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa CD Player",
     "target": "CD Player"
 }

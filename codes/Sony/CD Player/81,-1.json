@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -75,15 +75,15 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHECK"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -99,19 +99,19 @@
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CONTINUE PLAY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CONTINUE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM PLAY"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM"
             },
             {
@@ -135,7 +135,7 @@
                 "name": "TIME/TEXT"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "REPEAT"
             },
             {
@@ -191,51 +191,51 @@
                 "name": "PAUSE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "MUSIC SCAN"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISK SKIP -"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC -"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISK SKIP +"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "HIGH-LIGHT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "EXTRA"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DISC/CAPS"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DISC"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "TRACK"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "GROUP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "FADER/DEL"
             },
             {
@@ -243,15 +243,15 @@
                 "name": "MEMO INPUT"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "MEMO SCAN"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "MEGA NO DELAY"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "MEGA CONTROL"
             },
             {
@@ -263,27 +263,27 @@
                 "name": "CURSOR UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "CURSOR ENTER"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony CD Player",
     "target": "CD Player"
 }

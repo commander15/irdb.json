@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Unknown_RC-6AS07",
+    "display_name": "Unknown_RC-6AS07",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "tuner_band"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "geq"
             },
             {
@@ -27,7 +27,7 @@
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "tuner_mode"
             },
             {
@@ -35,11 +35,11 @@
                 "name": "set"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "timer"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "random"
             },
             {
@@ -79,35 +79,35 @@
                 "name": "KEY_9"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "KEY_0"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "KEY_10CHANNELSUP"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "KEY_PLAY"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "KEY_STOP"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "KEY_FORWARD"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "KEY_BACK"
             }
         ],
         "device_address": "70",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Unknown_RC-6AS07",
     "target": "Unknown_RC-6AS07"
 }

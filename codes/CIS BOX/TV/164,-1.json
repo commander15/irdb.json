@@ -1,13 +1,13 @@
 {
-    "display_name": "CIS BOX TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "JUMP"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "WIDE MODE"
             },
             {
@@ -16,10 +16,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX TV",
     "target": "TV"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Receiver SDDVR",
+    "display_name": "Receiver SDDVR",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREVIOUS"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV CH"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -188,10 +188,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Receiver SDDVR",
     "target": "Receiver SDDVR"
 }

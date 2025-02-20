@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "SEARCH <<"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REPEAT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PROGRAM"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TIME"
             },
             {
@@ -80,10 +80,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon CD Player",
     "target": "CD Player"
 }

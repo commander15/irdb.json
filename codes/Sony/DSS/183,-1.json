@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -51,15 +51,15 @@
                 "name": "ALTERNATE AUDIO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER/JUMP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -87,31 +87,31 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACK"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RR"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FORWARD"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REC ON/OFF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REC"
             },
             {
@@ -143,27 +143,27 @@
                 "name": "SEARCH"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "INFO"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "MY SHOWS"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "HELP"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "PWR ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -191,23 +191,23 @@
                 "name": "MENU"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "CC"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "CLOSED CAPTION"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "WIDE MODE"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "INDEX"
             },
             {
@@ -251,27 +251,27 @@
                 "name": "PIP-OFF"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DOT"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "\".\""
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "*"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "."
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "RECENT"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "BACK"
             },
             {
@@ -283,15 +283,15 @@
                 "name": "SCROLL<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPLAY"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "FREEZE"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TV/WEB"
             },
             {
@@ -331,39 +331,39 @@
                 "name": "TV/SAT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV/DSS - SELECT DSS"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "SAT"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "TV/DSS - SELECT TV"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "TV"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "JUMP"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GUIDE"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DISPLAY"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "FAVORITE"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "FAVORITES"
             },
             {
@@ -436,10 +436,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSS",
     "target": "DSS"
 }

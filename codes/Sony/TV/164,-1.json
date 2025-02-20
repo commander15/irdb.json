@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "COMP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STEADY SOUND ON/OFF"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "EFFECT2"
             },
             {
@@ -55,27 +55,27 @@
                 "name": "HD COMPONENT INPUT"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "SCREEN: NORMAL/FULL"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "FULL - NORMAL"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": ""
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "WIDE MODE"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "ASPECT"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "WIDE"
             },
             {
@@ -111,19 +111,19 @@
                 "name": "INPUT-YUV"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VM"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "TRINITRON"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "NEXTVIEW"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "PROGRAM GUIDE"
             },
             {
@@ -151,11 +151,11 @@
                 "name": "DISPLAY SHOW"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "FULL RESET"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "PIP OFF"
             },
             {
@@ -215,39 +215,39 @@
                 "name": "MODE"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "AUDIO"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "PIP AUDIO"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "AUDIO SWAP"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "PIP AUDIO MONITOR"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "PIP SOUND"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "ZOOM"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DEGAUSS"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TV",
     "target": "TV"
 }

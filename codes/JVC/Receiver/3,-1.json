@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "RETURN"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ANT/CABLE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "AV STATUS/RESET"
             },
             {
@@ -103,47 +103,47 @@
                 "name": "CHANNEL +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MUTE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV VOL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV VOL + (+ >)"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TV VOL+"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV VOL -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV VOL - (< <<)"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV VOLUME -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TV VOL-"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -311,7 +311,7 @@
                 "name": "TV 9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "CATEGORY PREVIEW"
             },
             {
@@ -323,11 +323,11 @@
                 "name": "VNR"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FUNCTION +"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "FUNCTION -"
             },
             {
@@ -343,15 +343,15 @@
                 "name": "100+"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "MENU"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "FUNCTION FORWARD V"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "FUNCTION BACK ^"
             }
         ],
@@ -360,6 +360,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Receiver",
     "target": "Receiver"
 }

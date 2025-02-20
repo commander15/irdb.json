@@ -1,5 +1,5 @@
 {
-    "display_name": "BnK Components Matrix Switcher",
+    "display_name": "Matrix Switcher",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "IN 2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "IN 7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "IN 4"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "IN 5"
             },
             {
@@ -67,23 +67,23 @@
                 "name": "STATION +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TUNE DN"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TUNE -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TUNE UP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TUNE +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR LEFT"
             },
             {
@@ -111,15 +111,15 @@
                 "name": "+10"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "CURSOR UP"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "MENU"
             },
             {
@@ -159,19 +159,19 @@
                 "name": "7"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "8"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "9"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "0"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "ZONE"
             },
             {
@@ -179,15 +179,15 @@
                 "name": "SAVE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "IN 6"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "PSET UP"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "D IN"
             },
             {
@@ -199,7 +199,7 @@
                 "name": "SOURCE UP"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "IN 9"
             },
             {
@@ -211,51 +211,51 @@
                 "name": "TREB DN"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "EXIT"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "FM"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "POWER"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "SOURCE DN"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "PSET DN"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "LOUD"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "BASS UP"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "M [STM]"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "name": "TREB UP"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "VIDEO +"
             }
         ],
-        "device_address": "36c",
+        "device_address": "36C",
         "protocol": "NEC2"
     },
     "manufacturer": "BnK Components",
     "model": "",
-    "name": "",
+    "name": "BnK Components Matrix Switcher",
     "target": "Matrix Switcher"
 }

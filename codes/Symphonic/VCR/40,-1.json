@@ -1,5 +1,5 @@
 {
-    "display_name": "Symphonic VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,27 +19,27 @@
                 "name": "INDEX"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PAUSE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "REWIND <<"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SLOW"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TIME"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "ADD/DELETE"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "MENU"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "RECORD"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STOP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "1"
             },
             {
@@ -111,15 +111,15 @@
                 "name": "BLANK"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "EJECT"
             }
         ],
         "device_address": "0",
-        "protocol": "Emerson"
+        "protocol": "EMERSON"
     },
     "manufacturer": "Symphonic",
     "model": "",
-    "name": "",
+    "name": "Symphonic VCR",
     "target": "VCR"
 }

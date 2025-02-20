@@ -1,5 +1,5 @@
 {
-    "display_name": "Motorola Remote",
+    "display_name": "Remote",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "MUSIC"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CHANNEL -"
             },
             {
@@ -91,27 +91,27 @@
                 "name": "MENU"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOD"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STOP"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "FAST FOWARD"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "REWIND"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PAUSE"
             },
             {
@@ -191,23 +191,23 @@
                 "name": "DAY +"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE +"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PAGE -"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "REPLAY"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DVR LIST"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "LIVE TV"
             },
             {
@@ -216,10 +216,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Motorola",
     "model": "",
-    "name": "",
+    "name": "Motorola Remote",
     "target": "Remote"
 }

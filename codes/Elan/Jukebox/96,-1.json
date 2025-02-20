@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Jukebox",
+    "display_name": "Jukebox",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "6 SKIP-"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "8 PAUSE"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "10 SKIP+"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "5 X HIDE/BACK"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "7 DISPLAY/X REMOVE"
             },
             {
@@ -56,6 +56,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Jukebox",
     "target": "Jukebox"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Proscan DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "GUIDE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FORWARD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REVERSE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DVD"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POWER"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
@@ -143,11 +143,11 @@
                 "name": "REPEAT"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "AUDIO MODE"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "SELECT"
             }
         ],
@@ -156,6 +156,6 @@
     },
     "manufacturer": "Proscan",
     "model": "",
-    "name": "",
+    "name": "Proscan DVD Player",
     "target": "DVD Player"
 }

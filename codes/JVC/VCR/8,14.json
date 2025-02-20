@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "AUTOTRACK"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SKIP RIGHT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "REW/BROWSE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FF/BROWSE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "FORWARD"
             },
             {
@@ -47,11 +47,11 @@
                 "name": "SELECT"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "COUNTER RESET"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECORD"
             },
             {
@@ -64,10 +64,10 @@
             }
         ],
         "device_address": "20000",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

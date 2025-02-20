@@ -1,66 +1,66 @@
 {
-    "display_name": "Elan HD",
+    "display_name": "HD",
     "ir": {
         "commands": [
             {
                 "address": "0",
                 "device_address": "-80000000",
                 "name": "*  0",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "1",
                 "device_address": "-80000000",
                 "name": "*  1",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "2",
                 "device_address": "-80000000",
                 "name": "*  2",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "3",
                 "device_address": "-80000000",
                 "name": "*  3",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "4",
                 "device_address": "-80000000",
                 "name": "*  4",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "5",
                 "device_address": "-80000000",
                 "name": "*  5",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "6",
                 "device_address": "-80000000",
                 "name": "*  6",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "7",
                 "device_address": "-80000000",
                 "name": "*  7",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "8",
                 "device_address": "-80000000",
                 "name": "*  8",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "9",
                 "device_address": "-80000000",
                 "name": "*  9",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "20",
@@ -78,7 +78,7 @@
                 "address": "20",
                 "device_address": "-80000000",
                 "name": "SRC 1 (TUNER)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "21",
@@ -96,7 +96,7 @@
                 "address": "21",
                 "device_address": "-80000000",
                 "name": "SRC 2 (CD)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "22",
@@ -114,7 +114,7 @@
                 "address": "22",
                 "device_address": "-80000000",
                 "name": "SRC 3 (TAPE 1)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "23",
@@ -132,7 +132,7 @@
                 "address": "23",
                 "device_address": "-80000000",
                 "name": "SRC 4 (VCR 1)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "24",
@@ -144,19 +144,19 @@
                 "address": "24",
                 "device_address": "-80000000",
                 "name": "SRC 5 (LASER DISC)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "26",
                 "device_address": "-80000000",
                 "name": "CABLE",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "27",
                 "device_address": "-80000000",
                 "name": "TV",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "28",
@@ -174,7 +174,7 @@
                 "address": "28",
                 "device_address": "-80000000",
                 "name": "SRC 6 (AUX 1)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
                 "address": "29",
@@ -186,60 +186,60 @@
                 "address": "29",
                 "device_address": "-80000000",
                 "name": "SRC 7 (AUX 2)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "-80000000",
                 "name": "AUX 3-INPUT8",
                 "protocol": "RECS80"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "-80000000",
                 "name": "SRC 8 (AUX 3)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "AUX4-INPUT9",
                 "protocol": "RECS80"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "",
                 "protocol": "RECS80"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "SRC 9 (AUX 4)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "AUX5-INPUT10",
                 "protocol": "RECS80"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "SRC 10 (AUX 5)",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "DBS",
-                "protocol": "Velleman"
+                "protocol": "VELLEMAN"
             }
         ]
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan HD",
     "target": "HD"
 }

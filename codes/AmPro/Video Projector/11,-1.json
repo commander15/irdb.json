@@ -1,5 +1,5 @@
 {
-    "display_name": "AmPro Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "POWER"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "STANDBY"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "AmPro",
     "model": "",
-    "name": "",
+    "name": "AmPro Video Projector",
     "target": "Video Projector"
 }

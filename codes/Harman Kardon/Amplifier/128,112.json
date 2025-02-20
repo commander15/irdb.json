@@ -1,45 +1,45 @@
 {
-    "display_name": "Harman Kardon Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "AVR"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "MUTE"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "CD"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "VOLUME +"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "VOLUME -"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "VID1"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "VID2"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "TAPE"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "VID3"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "DVD"
             }
         ],
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Amplifier",
     "target": "Amplifier"
 }

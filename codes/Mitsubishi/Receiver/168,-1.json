@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -67,11 +67,11 @@
                 "name": "AUX PAUSE "
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "AUX POWER"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "AUX INTRO"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "AUX CANCEL"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "AUX REPEAT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "AUX A"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUX B"
             },
             {
@@ -120,6 +120,6 @@
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Receiver",
     "target": "Receiver"
 }

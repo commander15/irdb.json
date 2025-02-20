@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha DSP",
+    "display_name": "DSP",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "CHANNEL +"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "6"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "<<"
             },
             {
@@ -60,10 +60,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DSP",
     "target": "DSP"
 }

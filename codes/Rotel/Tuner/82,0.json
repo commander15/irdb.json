@@ -1,5 +1,5 @@
 {
-    "display_name": "Rotel Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "BAND"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "1"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "10"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNING -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNE-"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TUNING +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TUNE+"
             }
         ],
         "device_address": "52",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Rotel",
     "model": "",
-    "name": "",
+    "name": "Rotel Tuner",
     "target": "Tuner"
 }

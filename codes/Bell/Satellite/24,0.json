@@ -1,5 +1,5 @@
 {
-    "display_name": "Bell Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -11,23 +11,23 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "VOLUME -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "MUTE"
             }
         ],
         "device_address": "18",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Bell",
     "model": "",
-    "name": "",
+    "name": "Bell Satellite",
     "target": "Satellite"
 }

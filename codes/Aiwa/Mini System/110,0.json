@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Mini System",
+    "display_name": "Mini System",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "0"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "FUNCTION"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "PAUSE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VOLUME +"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "VOLUME -"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "DISC 3"
             }
         ],
-        "device_address": "6e",
-        "protocol": "Aiwa"
+        "device_address": "6E",
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Mini System",
     "target": "Mini System"
 }

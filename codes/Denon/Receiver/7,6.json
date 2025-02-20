@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -67,23 +67,23 @@
                 "name": "0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR ENTER"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "INPUT CD-R"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "INPUT IPOD"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "IPOD"
             },
             {
@@ -187,19 +187,19 @@
                 "name": "BAND"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TUNER XM RADIO"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "XM RADIO"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TUNER BAND"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TUNER MODE"
             },
             {
@@ -251,15 +251,15 @@
                 "name": "STATUS"
             },
             {
-                "address": "1a0",
+                "address": "1A0",
                 "name": "DIMMER"
             }
         ],
-        "device_address": "1c0",
-        "protocol": "Denon-K"
+        "device_address": "1C0",
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

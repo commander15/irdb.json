@@ -1,5 +1,5 @@
 {
-    "display_name": "Parasound Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "CD - STOP"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CD - FF"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CD - RW"
             }
         ],
-        "device_address": "10c",
+        "device_address": "10C",
         "protocol": "NEC1"
     },
     "manufacturer": "Parasound",
     "model": "",
-    "name": "",
+    "name": "Parasound Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood CD Changer",
+    "display_name": "CD Changer",
     "ir": {
         "commands": [
             {
@@ -15,23 +15,23 @@
                 "name": "DISC SKIP"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "STOP"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "PAUSE"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "PLAY"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "REW"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "FFWD"
             }
         ],
@@ -40,6 +40,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood CD Changer",
     "target": "CD Changer"
 }

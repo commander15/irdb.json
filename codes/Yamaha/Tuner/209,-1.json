@@ -1,17 +1,17 @@
 {
-    "display_name": "Yamaha Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "GROUP 1-8/9-16/17-24"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "1/9/17"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "2/10/18"
             },
             {
@@ -44,6 +44,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Tuner",
     "target": "Tuner"
 }

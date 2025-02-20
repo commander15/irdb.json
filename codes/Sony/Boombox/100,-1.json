@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Boombox",
+    "display_name": "Boombox",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "0/10"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": ">10"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DISPLAY"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "PAUSE"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "BAND"
             },
             {
@@ -88,10 +88,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Boombox",
     "target": "Boombox"
 }

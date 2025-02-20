@@ -1,5 +1,5 @@
 {
-    "display_name": "Calypso Control System",
+    "display_name": "Control System",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "CT 026"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CT 029"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CT 011"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "CT 001"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CT 004"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CT 033"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CT 010"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "CT 038"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CT 028"
             },
             {
@@ -123,15 +123,15 @@
                 "name": "CT 007"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "CT 042"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "CT 041"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "CT 040"
             },
             {
@@ -155,23 +155,23 @@
                 "name": "CT 047"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "CT 035"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CT 031"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "CT 030"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "CT 039"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "CT 036"
             },
             {
@@ -179,27 +179,27 @@
                 "name": "CT 014"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CT 015"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CT 012"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CT 013"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "CT 016"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Calypso",
     "model": "",
-    "name": "",
+    "name": "Calypso Control System",
     "target": "Control System"
 }

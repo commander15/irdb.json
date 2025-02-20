@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Basic Satellite",
+    "display_name": "Basic Satellite",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "MENU"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "GUIDE"
             },
             {
@@ -19,15 +19,15 @@
                 "name": "GO BACK"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CHANNEL +"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
@@ -99,7 +99,7 @@
                 "name": "FETCH"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "ARROW OK"
             }
         ],
@@ -108,6 +108,6 @@
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Basic Satellite",
     "target": "Basic Satellite"
 }

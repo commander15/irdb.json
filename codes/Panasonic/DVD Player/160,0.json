@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -19,39 +19,39 @@
                 "name": "DVD/CD"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "AUX"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "TV"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "VCR"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "PROLOGIC"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "CH SELECT"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "name": "SUBWOOFER LEVEL"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "name": "TEST"
             }
         ],
-        "device_address": "a0",
-        "protocol": "Panasonic"
+        "device_address": "A0",
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic DVD Player",
     "target": "DVD Player"
 }

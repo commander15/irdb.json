@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "VTR REW <<"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VTR PLAY >"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VTR PAUSE/STILL "
             },
             {
@@ -32,10 +32,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Receiver",
     "target": "Receiver"
 }

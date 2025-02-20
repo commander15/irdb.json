@@ -1,5 +1,5 @@
 {
-    "display_name": "NET TV TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TIMER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CURSOR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CANCEL"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV/AV(VGA)"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "POWER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MTS"
             },
             {
@@ -115,15 +115,15 @@
                 "name": "FUNCTION LEVEL ^"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FUNCTION LEVEL V"
             }
         ],
         "device_address": "0",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "NET TV",
     "model": "",
-    "name": "",
+    "name": "NET TV TV",
     "target": "TV"
 }

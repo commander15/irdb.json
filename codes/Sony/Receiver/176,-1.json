@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "MUSIC"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST TONE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "BASS BOOST"
             },
             {
@@ -48,10 +48,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

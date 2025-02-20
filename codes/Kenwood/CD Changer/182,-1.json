@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood CD Changer",
+    "display_name": "CD Changer",
     "ir": {
         "commands": [
             {
@@ -71,11 +71,11 @@
                 "name": "REPEAT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CLEAR"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "RANDOM"
             },
             {
@@ -83,11 +83,11 @@
                 "name": "POWER ON/OFF"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "DISC SELECTOR"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "BEST SELECTION"
             }
         ],
@@ -96,6 +96,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood CD Changer",
     "target": "CD Changer"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz CD Changer",
+    "display_name": "CD Changer",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TIME"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SCROLL/RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "RANDOM"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN/CLOSE"
             },
             {
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz CD Changer",
     "target": "CD Changer"
 }

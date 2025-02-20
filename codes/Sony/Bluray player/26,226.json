@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Bluray player",
+    "display_name": "Bluray player",
     "ir": {
         "commands": [
             {
@@ -59,15 +59,15 @@
                 "name": "Pause"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Play"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "Rewind"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "Fast Forward"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "Popup Menu"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "Top Menu"
             },
             {
@@ -83,23 +83,23 @@
                 "name": "Up arrow"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "Down Arrow"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "Left Arrow"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "Right Arrow"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "Enter"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "Options"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "Return"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "Netflix"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "SEN"
             },
             {
@@ -156,10 +156,10 @@
             }
         ],
         "device_address": "68",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Bluray player",
     "target": "Bluray player"
 }

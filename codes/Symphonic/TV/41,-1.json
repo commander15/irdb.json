@@ -1,5 +1,5 @@
 {
-    "display_name": "Symphonic TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SLEEP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
@@ -27,7 +27,7 @@
                 "name": "CHANNEL +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "1"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "0"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "SELECT"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "MENU"
             },
             {
@@ -92,10 +92,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Emerson"
+        "protocol": "EMERSON"
     },
     "manufacturer": "Symphonic",
     "model": "",
-    "name": "",
+    "name": "Symphonic TV",
     "target": "TV"
 }

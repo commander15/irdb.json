@@ -1,57 +1,57 @@
 {
-    "display_name": "Mitsubishi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "4"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": ""
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "7"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "COUNTER ZERO STOP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VIDEO / TV"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "-"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "+"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": ""
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "CANCEL"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "CURSOR UP"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi VCR",
     "target": "VCR"
 }

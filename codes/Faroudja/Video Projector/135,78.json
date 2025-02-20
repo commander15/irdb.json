@@ -1,5 +1,5 @@
 {
-    "display_name": "Faroudja Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "COMPOSITE 3"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "HELP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "STANDBY"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FREEZE"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "POWER"
             }
         ],
-        "device_address": "21c000",
+        "device_address": "21C000",
         "protocol": "NEC1"
     },
     "manufacturer": "Faroudja",
     "model": "",
-    "name": "",
+    "name": "Faroudja Video Projector",
     "target": "Video Projector"
 }

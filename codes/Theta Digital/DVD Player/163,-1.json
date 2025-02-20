@@ -1,5 +1,5 @@
 {
-    "display_name": "Theta Digital DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -103,35 +103,35 @@
                 "name": "SUBTITLE"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "FRAME >>"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "FRAME <<"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "NEXT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "PREV."
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PAUSE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Theta Digital",
     "model": "",
-    "name": "",
+    "name": "Theta Digital DVD Player",
     "target": "DVD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Monitor Mobile camera",
+    "display_name": "camera",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "Power"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Mode Select"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "Video select"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Monitor Mobile",
     "model": "",
-    "name": "",
+    "name": "Monitor Mobile camera",
     "target": "camera"
 }

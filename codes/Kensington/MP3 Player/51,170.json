@@ -1,5 +1,5 @@
 {
-    "display_name": "Kensington MP3 Player",
+    "display_name": "MP3 Player",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SKIP <<"
             },
             {
@@ -23,11 +23,11 @@
                 "name": "VOLUME +"
             }
         ],
-        "device_address": "cc00",
+        "device_address": "CC00",
         "protocol": "NEC1"
     },
     "manufacturer": "Kensington",
     "model": "",
-    "name": "",
+    "name": "Kensington MP3 Player",
     "target": "MP3 Player"
 }

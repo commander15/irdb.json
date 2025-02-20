@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "VCR REW<<"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCR PLAY>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VCR PAUSE"
             },
             {
@@ -59,11 +59,11 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "SELECT"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "ENTER/OSD"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "SKIP SEARCH"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "RE-VIEW"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "VCR RECORD(REC&PLAY)"
             }
         ],
@@ -88,6 +88,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Monitor",
     "target": "Monitor"
 }

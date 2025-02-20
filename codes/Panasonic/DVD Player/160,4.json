@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -11,15 +11,15 @@
                 "name": "CH -"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "TUNER/BAND"
             }
         ],
-        "device_address": "a00",
-        "protocol": "Panasonic"
+        "device_address": "A00",
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic DVD Player",
     "target": "DVD Player"
 }

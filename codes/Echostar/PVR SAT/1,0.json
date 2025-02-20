@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar PVR SAT",
+    "display_name": "PVR SAT",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "PAGE -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE +"
             },
             {
@@ -40,10 +40,10 @@
             }
         ],
         "device_address": "1",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar PVR SAT",
     "target": "PVR SAT"
 }

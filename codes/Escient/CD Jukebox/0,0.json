@@ -1,239 +1,239 @@
 {
-    "display_name": "Escient CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
                 "address": "4",
                 "device_address": "0",
                 "name": "RIGHT",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "4",
                 "device_address": "0",
                 "name": "RIGHT",
-                "protocol": "Sejin-1-38"
+                "protocol": "SEJIN-1-38"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "ENTER",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "ENTER",
-                "protocol": "Sejin-1-38"
+                "protocol": "SEJIN-1-38"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "LEFT",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "LEFT",
-                "protocol": "Sejin-1-38"
+                "protocol": "SEJIN-1-38"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "NEXT PAGE",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "0",
                 "name": "BOTTOM",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "41",
                 "device_address": "0",
                 "name": "ADVANCED",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "42",
                 "device_address": "0",
                 "name": "PAUSE",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "43",
                 "device_address": "0",
                 "name": "BACK",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "44",
                 "device_address": "0",
                 "name": "TRACK +",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "45",
                 "device_address": "0",
                 "name": "5",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "46",
                 "device_address": "0",
                 "name": "6",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "48",
                 "device_address": "0",
                 "name": "SONG -",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "49",
                 "device_address": "0",
                 "name": "DONE",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "0",
                 "name": "TOP",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "52",
                 "device_address": "0",
                 "name": "STOP",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "53",
                 "device_address": "0",
                 "name": "PLAY",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "54",
                 "device_address": "0",
                 "name": "TRACK -",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "58",
                 "device_address": "0",
                 "name": "SONG +",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "59",
                 "device_address": "0",
                 "name": "CLEAR",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "0",
                 "name": "UP",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "0",
                 "name": "UP",
-                "protocol": "Sejin-1-38"
+                "protocol": "SEJIN-1-38"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "0",
                 "name": "PREV PAGE",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "62",
                 "device_address": "0",
                 "name": "1",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "63",
                 "device_address": "0",
                 "name": "2",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "64",
                 "device_address": "0",
                 "name": "3",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "65",
                 "device_address": "0",
                 "name": "4",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "66",
                 "device_address": "0",
                 "name": "7",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "68",
                 "device_address": "0",
                 "name": "8",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "69",
                 "device_address": "0",
                 "name": "9",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "device_address": "0",
                 "name": "0",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "device_address": "0",
                 "name": "DOWN",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "device_address": "0",
                 "name": "DOWN",
-                "protocol": "Sejin-1-38"
+                "protocol": "SEJIN-1-38"
             },
             {
                 "address": "78",
                 "device_address": "0",
                 "name": "SETUP",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
                 "address": "79",
                 "device_address": "0",
                 "name": "ABC'S",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "device_address": "0",
                 "name": "POWER",
-                "protocol": "Sejin-1-56"
+                "protocol": "SEJIN-1-56"
             }
         ]
     },
     "manufacturer": "Escient",
     "model": "",
-    "name": "",
+    "name": "Escient CD Jukebox",
     "target": "CD Jukebox"
 }

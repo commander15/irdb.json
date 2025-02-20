@@ -1,17 +1,17 @@
 {
-    "display_name": "Denon CD Receiver",
+    "display_name": "CD Receiver",
     "ir": {
         "commands": [
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "MUTE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VOLUME UP"
             },
             {
@@ -23,11 +23,11 @@
                 "name": "SOURCE TUNER"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "SOURCE CD"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SOURCE LINE"
             },
             {
@@ -39,39 +39,39 @@
                 "name": "SLEEP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "POWER OFF"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "TIME/DISPLAY"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "ENTER/MEMO"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "DAB/RDS"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "CLOCK"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "PTY"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "DIMMER"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Receiver",
     "target": "CD Receiver"
 }

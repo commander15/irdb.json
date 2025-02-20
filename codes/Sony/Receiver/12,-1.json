@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,19 +15,19 @@
                 "name": "BASS BOOST"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SF: ON/OFF"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SOUND FIELD ON/OFF"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SOUND FIELD TOGGLE"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SURROUND ON/OFF"
             },
             {
@@ -75,43 +75,43 @@
                 "name": "ARROW DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR LF"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "BASS (-)"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR RT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "BASS (+)"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

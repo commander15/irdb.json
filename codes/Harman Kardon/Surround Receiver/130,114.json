@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Surround Receiver",
+    "display_name": "Surround Receiver",
     "ir": {
         "commands": [
             {
@@ -27,13 +27,13 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "2080000",
                 "name": "OSD",
                 "protocol": "NEC2"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "2080000",
                 "name": "CH. SELECT",
                 "protocol": "NEC2"
@@ -69,19 +69,19 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "2080000",
                 "name": "DELAY",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "2080000",
                 "name": "SPEAKER +",
                 "protocol": "NEC2"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "2080000",
                 "name": "SPEAKER -",
                 "protocol": "NEC2"
@@ -111,37 +111,37 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "2080000",
                 "name": "STEREO/BYPASS",
                 "protocol": "NEC2"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "device_address": "2080000",
                 "name": "3 CHAN. STEREO",
                 "protocol": "NEC2"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "device_address": "2080000",
                 "name": "PRO-LOGIC",
                 "protocol": "NEC2"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "2080000",
                 "name": "TUNER PRESET +",
                 "protocol": "NEC1"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "2080000",
                 "name": "TUNER PRESET -",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "device_address": "2080000",
                 "name": "MULTI",
                 "protocol": "NEC1"
@@ -150,6 +150,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Surround Receiver",
     "target": "Surround Receiver"
 }

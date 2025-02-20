@@ -1,5 +1,5 @@
 {
-    "display_name": "LG Sound Bar",
+    "display_name": "Sound Bar",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "CURSOR RIGHT/NEXT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FOLDER +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "FOLDER -"
             },
             {
@@ -31,15 +31,15 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "POWER"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MUTE"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SOUND EFFECT"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "9"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "0"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "CURSOR UP/REPEAT"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "CURSOR DOWN/PLAY"
             },
             {
@@ -103,31 +103,31 @@
                 "name": "BLUETOOTH"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "INPUT"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "INFO"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "OPTICAL"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "SLEEP"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "AV SYNC"
             }
         ],
-        "device_address": "2c000",
+        "device_address": "2C000",
         "protocol": "NEC1"
     },
     "manufacturer": "LG",
     "model": "",
-    "name": "",
+    "name": "LG Sound Bar",
     "target": "Sound Bar"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Hughes DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -39,23 +39,23 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAGE UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "OFF"
             },
             {
@@ -136,10 +136,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "Hughes",
     "model": "",
-    "name": "",
+    "name": "Hughes DSS",
     "target": "DSS"
 }

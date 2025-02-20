@@ -1,13 +1,13 @@
 {
-    "display_name": "Generic LED_Curtain",
+    "display_name": "LED_Curtain",
     "ir": {
         "commands": [
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PLAY PAUSE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "OFF"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "SHAMROCK"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "FLAG"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "COSTUME"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CRESCENT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "PEOPLE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TEXT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PAWPRINT"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "FIREWORK"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "HOUSE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "COLOUR CYCLE"
             },
             {
@@ -115,19 +115,19 @@
                 "name": "SOUND +"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "M -"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SPEED -"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "BRIGHT -"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SOUND -"
             },
             {
@@ -147,19 +147,19 @@
                 "name": "NOTE 4"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "1H"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "2H"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "4H"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "8H"
             }
         ],
@@ -168,6 +168,6 @@
     },
     "manufacturer": "Generic",
     "model": "",
-    "name": "",
+    "name": "Generic LED_Curtain",
     "target": "LED_Curtain"
 }

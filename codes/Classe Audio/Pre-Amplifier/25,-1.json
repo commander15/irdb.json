@@ -1,29 +1,29 @@
 {
-    "display_name": "Classe Audio Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": ""
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": ""
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": ""
             },
             {
@@ -175,19 +175,19 @@
                 "name": ""
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "AUTO"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": ""
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "COMPR"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": ""
             }
         ],
@@ -196,6 +196,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

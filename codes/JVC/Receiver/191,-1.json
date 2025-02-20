@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -7,11 +7,11 @@
                 "name": "VDP STOP []"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VDP PLAY >"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VDP PAUSE "
             },
             {
@@ -63,11 +63,11 @@
                 "name": "VDP 9"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "VDP 10 CONTINUE"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "VDP +10"
             },
             {
@@ -84,6 +84,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Receiver",
     "target": "Receiver"
 }

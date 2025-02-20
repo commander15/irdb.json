@@ -1,5 +1,5 @@
 {
-    "display_name": "Dell Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "KEYSTONE UP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PICTURE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOL -"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "HIDE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "KEYSTONE DOWN"
             },
             {
@@ -75,19 +75,19 @@
                 "name": "INPUT S-VIDEO 2"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "INPUT COMPOSITE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "INPUTBNC"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "INPUT DVI/SAT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "INPUT RCA"
             },
             {
@@ -119,11 +119,11 @@
                 "name": "COLOR"
             }
         ],
-        "device_address": "4f0000",
+        "device_address": "4F0000",
         "protocol": "NEC2"
     },
     "manufacturer": "Dell",
     "model": "",
-    "name": "",
+    "name": "Dell Video Projector",
     "target": "Video Projector"
 }

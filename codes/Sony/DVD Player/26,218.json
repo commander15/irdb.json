@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,35 +43,35 @@
                 "name": "R2"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "L1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "R1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TRIANGLE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CIRCLE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "CROSS"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SQUARE"
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DVD Player",
     "target": "DVD Player"
 }

@@ -1,106 +1,106 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "10",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "CD-R INPUT",
                 "protocol": "NEC"
             },
             {
                 "address": "10",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "CD-R",
                 "protocol": "NEC"
             },
             {
                 "address": "11",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE B CDR",
                 "protocol": "NEC"
             },
             {
                 "address": "12",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE B DVD",
                 "protocol": "NEC"
             },
             {
-                "address": "1f",
-                "device_address": "2e00",
+                "address": "1F",
+                "device_address": "2E00",
                 "name": "",
                 "protocol": "NEC"
             },
             {
                 "address": "41",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ENTER",
                 "protocol": "NEC"
             },
             {
                 "address": "50",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "FULL AUTO",
                 "protocol": "NEC"
             },
             {
                 "address": "50",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "FULL AUTO",
                 "protocol": "NEC1"
             },
             {
                 "address": "52",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "DIGITAL MANUAL",
                 "protocol": "NEC1"
             },
             {
                 "address": "53",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ANALOG 6 CH.",
                 "protocol": "NEC"
             },
             {
                 "address": "80",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE A POWER OFF",
                 "protocol": "NEC"
             },
             {
                 "address": "81",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE A POWER ON",
                 "protocol": "NEC"
             },
             {
                 "address": "82",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE B OFF",
                 "protocol": "NEC1"
             },
             {
                 "address": "83",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "ZONE B ON",
                 "protocol": "NEC2"
             },
             {
                 "address": "88",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "RELAY OFF",
                 "protocol": "NEC"
             },
             {
                 "address": "89",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "RELAY ON",
                 "protocol": "NEC"
             },
             {
                 "address": "89",
-                "device_address": "2e00",
+                "device_address": "2E00",
                 "name": "RELAY ON",
                 "protocol": "NEC2"
             }
@@ -108,6 +108,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO 2"
             },
             {
@@ -48,10 +48,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Receiver",
     "target": "Receiver"
 }

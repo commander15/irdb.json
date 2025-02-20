@@ -1,5 +1,5 @@
 {
-    "display_name": "Bose 3-2-1",
+    "display_name": "3-2-1",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "INPUT FM-AM"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT TV"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "INPUT AUX"
             },
             {
@@ -39,7 +39,7 @@
                 "name": "CH/PRESET +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STOP"
             },
             {
@@ -91,7 +91,7 @@
                 "name": "9"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "POWER ON/OFF"
             },
             {
@@ -115,7 +115,7 @@
                 "name": "SEEK >>"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SHUFFLE"
             },
             {
@@ -139,31 +139,31 @@
                 "name": "DVD MENU"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "REPEAT"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "NSTER/SEARC"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "CURSOR UPP/TUNE"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "GUIDE"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "CURSOR ENTER"
             }
         ],
-        "device_address": "5d000",
+        "device_address": "5D000",
         "protocol": "NEC2"
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose 3-2-1",
     "target": "3-2-1"
 }

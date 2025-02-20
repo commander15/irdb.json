@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -23,27 +23,27 @@
                 "name": "FFWD >>"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REW <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REC MUTE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MUSIC SEARCH >>"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "RESET"
             }
         ],
-        "device_address": "1a4000",
+        "device_address": "1A4000",
         "protocol": "NEC1"
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo Cassette Tape",
     "target": "Cassette Tape"
 }

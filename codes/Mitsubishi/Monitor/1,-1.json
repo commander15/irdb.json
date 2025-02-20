@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "100"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DISPLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PREVIEW"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "MENU"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "QV"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Monitor",
     "target": "Monitor"
 }

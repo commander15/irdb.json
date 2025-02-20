@@ -1,5 +1,5 @@
 {
-    "display_name": "Electrocompaniet CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TIME"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STAND BY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SCAN"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "DISC"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "FAST"
             },
             {
@@ -103,7 +103,7 @@
                 "name": "STOP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "A/B"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Electrocompaniet",
     "model": "",
-    "name": "",
+    "name": "Electrocompaniet CD Player",
     "target": "CD Player"
 }

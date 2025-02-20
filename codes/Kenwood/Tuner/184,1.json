@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "PRESENCE LEVEL ^"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DOLBY 3 STEREO"
             },
             {
@@ -23,23 +23,23 @@
                 "name": "DSP LOGIC"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "VISUAL FIX"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "CHANNEL LEVEL V"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "CHANNEL LEVEL ^"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "THX CINEMA"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "MONO"
             }
         ],
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Tuner",
     "target": "Tuner"
 }

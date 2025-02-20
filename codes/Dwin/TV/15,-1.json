@@ -1,5 +1,5 @@
 {
-    "display_name": "Dwin TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "POWER ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "0 - DVI2"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "1 - COMPOSITE 1"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "2 - COMPOSITE 2"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "3 - SVIDEO 1"
             },
             {
@@ -75,27 +75,27 @@
                 "name": "ENTER"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "SELECT"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "ARROW DN"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "INFO"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "GUIDE"
             },
             {
@@ -104,10 +104,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "RCA(Old)"
+        "protocol": "RCA(OLD)"
     },
     "manufacturer": "Dwin",
     "model": "",
-    "name": "",
+    "name": "Dwin TV",
     "target": "TV"
 }

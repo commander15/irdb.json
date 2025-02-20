@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "VCRA 0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCRA CH ^ (SCAN ^)"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCRA CANCEL"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCRA REC"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VCRA FS/+"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "VCRA 4"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCRA INPUT V"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VCRA PAUSE "
             },
             {
@@ -95,15 +95,15 @@
                 "name": "VCRA 6"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "VCRA REW <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "VCRA R.PLAY <"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VCRA OTR"
             },
             {
@@ -127,11 +127,11 @@
                 "name": "VCRA A"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "VCRA INPUT ^"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "VCRA INTRO"
             },
             {
@@ -187,19 +187,19 @@
                 "name": "VCRB 0"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "VCRB CH ^ (SCAN ^)"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "VCRB CANCEL"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "VCRB REC"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "VCRB FS/+"
             },
             {
@@ -227,111 +227,111 @@
                 "name": "VCRB 4"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VCRB INPUT V"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "VCRB PAUSE "
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "VCRB 5"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "VCRB FF >>"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "VCRB QV"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "VCRB DISPLAY"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "VCRB 6"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "VCRB REW <<"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "VCRB R.PLAY <"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "VCRB PLAY R. <"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "name": "VCRB OTR"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "VCRB 7"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "VCRB SLOW"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "VCRB ENTER"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "VCRB 8"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "VCRB A"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "VCRB INPUT ^"
             },
             {
-                "address": "bd",
+                "address": "BD",
                 "name": "VCRB INTRO"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "VCRB VIDEO ^"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "VCRB ADJUST ^"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "VCRB VIDEO V"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "VCRB ADJUST V"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "VCRB AUDIO ^"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "VCRB MENU"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "VCRB AUDIO V"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Receiver",
     "target": "Receiver"
 }

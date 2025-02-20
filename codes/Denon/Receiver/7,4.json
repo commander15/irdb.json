@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MEMO"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "TUNER UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNER DOWN"
             },
             {
@@ -124,10 +124,10 @@
             }
         ],
         "device_address": "70",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

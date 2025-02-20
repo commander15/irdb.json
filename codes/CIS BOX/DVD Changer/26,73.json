@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX DVD Changer",
+    "display_name": "DVD Changer",
     "ir": {
         "commands": [
             {
@@ -43,23 +43,23 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CURSER ENTER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RETURN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DVD MENU"
             },
             {
@@ -115,23 +115,23 @@
                 "name": "CURSER UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSER DOWN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSER LEFT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CURSER RIGHT"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX DVD Changer",
     "target": "DVD Changer"
 }

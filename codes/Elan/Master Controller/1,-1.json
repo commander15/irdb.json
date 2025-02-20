@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Master Controller",
+    "display_name": "Master Controller",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "RELAY 6 ON"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "LOOP ON/OFF"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "FLAT"
             },
             {
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Master Controller",
     "target": "Master Controller"
 }

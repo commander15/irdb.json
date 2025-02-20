@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Tapedeck",
+    "display_name": "Tapedeck",
     "ir": {
         "commands": [
             {
@@ -31,15 +31,15 @@
                 "name": "Deck 1 Pause"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "Deck 1 Stop"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "Deck 1 Counter Reset"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "Deck 2 Counter Reset"
             },
             {
@@ -75,27 +75,27 @@
                 "name": "Deck 2 Pause"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Deck 2 Stop"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "Syncro"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "Dubbing"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "Dual Record"
             }
         ],
         "device_address": "73",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Tapedeck",
     "target": "Tapedeck"
 }

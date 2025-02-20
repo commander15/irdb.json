@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon CD Receiver",
+    "display_name": "CD Receiver",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "TAPE REVERSE"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TAPE FORWARD"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Receiver",
     "target": "CD Receiver"
 }

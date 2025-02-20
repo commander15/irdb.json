@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": ""
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "D2 CASS PITCH+/-"
             },
             {
@@ -31,99 +31,99 @@
                 "name": "PLAY(REV)"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "D1 CASS FWD >> (>>)"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "F.F >>"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DECK FF >>"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FF >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "D1 CASS REW << (<<)"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REW <<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "DECK REW <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "D1 CASS PLAY >"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PLAY >"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DECK PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "REC PAUSE/MUTE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DECK PAUSE "
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "PAUSE "
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "D1 CASS STOP[] "
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "STOP []"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "DECK STOP []"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "RECORD"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "DECK REC"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "D2 CASS FWD >> (>>)"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "D2 CASS REW << (<<)"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "D2 CASS PLAY >"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "D2 CASS STOP[] "
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Cassette Tape",
     "target": "Cassette Tape"
 }

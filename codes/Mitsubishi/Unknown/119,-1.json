@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Unknown",
+    "display_name": "Unknown",
     "ir": {
         "commands": [
             {
@@ -35,11 +35,11 @@
                 "name": "0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SCAN ^ (CH ^)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "REC"
             },
             {
@@ -63,15 +63,15 @@
                 "name": "4 W"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "INPUT V"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DISP (DISPLAY)"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAUSE "
             },
             {
@@ -91,15 +91,15 @@
                 "name": "6 F"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME V"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "REW/RS <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "REVERSE"
             },
             {
@@ -119,7 +119,7 @@
                 "name": "8 M-F"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "INPUT ^"
             },
             {
@@ -144,10 +144,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Unknown",
     "target": "Unknown"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -43,43 +43,43 @@
                 "name": "VOL- T1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STANDBY T0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STANDBY T1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STDBY T0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STDBY T1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "ENTER T0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "ENTER T1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "MENU T0"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "MENU T1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "UP T0"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "UP T1"
             },
             {
@@ -171,35 +171,35 @@
                 "name": "REG3 T1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "LINE2 T0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "LINE2 T1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REG2 T0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REG2 T1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "LINE1 T0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "LINE1 T1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REG1 T0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REG1 T1"
             },
             {
@@ -251,19 +251,19 @@
                 "name": "PHASE T1"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BAL3 T0"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BAL3 T1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "OUTPUT T0"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "OUTPUT T1"
             }
         ],
@@ -272,6 +272,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

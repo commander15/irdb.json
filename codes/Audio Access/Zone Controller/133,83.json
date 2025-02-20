@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Access Zone Controller",
+    "display_name": "Zone Controller",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "VIDEO"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "VOLUME V"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "VOLUME ^"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "MUTE"
             },
             {
@@ -55,19 +55,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "REW <<"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "STOP []"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY >"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "FF >>"
             }
         ],
@@ -76,6 +76,6 @@
     },
     "manufacturer": "Audio Access",
     "model": "",
-    "name": "",
+    "name": "Audio Access Zone Controller",
     "target": "Zone Controller"
 }

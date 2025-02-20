@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -67,15 +67,15 @@
                 "name": "SLOW <"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY >"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW >"
             },
             {
@@ -127,15 +127,15 @@
                 "name": "AUDIO"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "POWER ON"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER OFF"
             },
             {
@@ -163,19 +163,19 @@
                 "name": "SKIP/SEARCH <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP >>"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "FRAME >>"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP/SEARCH >>"
             },
             {
@@ -267,19 +267,19 @@
                 "name": ">10"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "REPEAT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "REPEAT MODE"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "PLAY MODE"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "MARKER"
             },
             {
@@ -307,27 +307,27 @@
                 "name": "SET UP"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TOP MENU"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TITLE"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "V.S.S"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "V.S.S."
             }
         ],
-        "device_address": "b0",
-        "protocol": "Panasonic"
+        "device_address": "B0",
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DVD Player",
     "target": "DVD Player"
 }

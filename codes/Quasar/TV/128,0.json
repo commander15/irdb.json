@@ -1,9 +1,9 @@
 {
-    "display_name": "Quasar TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLEEP"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "RECALL"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -84,10 +84,10 @@
             }
         ],
         "device_address": "80",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Quasar",
     "model": "",
-    "name": "",
+    "name": "Quasar TV",
     "target": "TV"
 }

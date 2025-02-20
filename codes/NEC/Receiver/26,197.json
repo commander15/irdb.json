@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,7 +31,7 @@
                 "name": "SURROUND SELECTOR"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "PRESET VOLUME"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "TUNER"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "AUX"
             }
         ],
@@ -52,6 +52,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Receiver",
     "target": "Receiver"
 }

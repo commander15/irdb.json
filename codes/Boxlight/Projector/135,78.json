@@ -1,5 +1,5 @@
 {
-    "display_name": "Boxlight Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "MENU"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "POWER"
             },
             {
@@ -15,15 +15,15 @@
                 "name": "COMPUTER"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VIDEO"
             }
         ],
-        "device_address": "21c000",
+        "device_address": "21C000",
         "protocol": "NEC1"
     },
     "manufacturer": "Boxlight",
     "model": "",
-    "name": "",
+    "name": "Boxlight Projector",
     "target": "Projector"
 }

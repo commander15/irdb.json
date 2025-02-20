@@ -1,5 +1,5 @@
 {
-    "display_name": "Microsoft DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -15,19 +15,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TITLE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FFW"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REW"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "BACK"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "DISPLAY"
             },
             {
@@ -87,7 +87,7 @@
                 "name": ""
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "UP"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": ""
             }
         ],
@@ -116,6 +116,6 @@
     },
     "manufacturer": "Microsoft",
     "model": "",
-    "name": "",
+    "name": "Microsoft DVD Player",
     "target": "DVD Player"
 }

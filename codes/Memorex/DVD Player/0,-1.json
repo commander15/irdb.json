@@ -1,5 +1,5 @@
 {
-    "display_name": "Memorex DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -23,15 +23,15 @@
                 "name": "SCAN <<"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "0"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "7"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "8"
             },
             {
@@ -55,67 +55,67 @@
                 "name": "SELECT"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "6"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "3"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "ANGLE"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "AUDIO MODE"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "POWER"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "MENU"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "SCAN >>"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "STOP"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "CLEAR"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "9"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "CURSOR UP"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "SKIP >>"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "SETUP"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "PAUSE"
             }
         ],
@@ -124,6 +124,6 @@
     },
     "manufacturer": "Memorex",
     "model": "",
-    "name": "",
+    "name": "Memorex DVD Player",
     "target": "DVD Player"
 }

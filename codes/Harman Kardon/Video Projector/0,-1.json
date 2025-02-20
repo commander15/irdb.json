@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "TEST"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "STEREO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "HY-SON"
             },
             {
@@ -55,27 +55,27 @@
                 "name": "TINT -"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BRIGHTNESS +"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "BRIGHTNESS -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "COLOR +"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "COLOR -"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOL +"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOL -"
             },
             {
@@ -88,10 +88,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Barco"
+        "protocol": "BARCO"
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Video Projector",
     "target": "Video Projector"
 }

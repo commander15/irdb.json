@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Authority IR to Bluetooth",
+    "display_name": "IR to Bluetooth",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RETURN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TOP MENU"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MENU"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "GREEN"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "TIME/TEXT"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "YELLOW"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "BLUE"
             },
             {
@@ -139,23 +139,23 @@
                 "name": "DIRECTION UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "DIRECTION DOWN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "DIRECTION LEFT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "DIRECTION RIGHT"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Audio Authority",
     "model": "",
-    "name": "",
+    "name": "Audio Authority IR to Bluetooth",
     "target": "IR to Bluetooth"
 }

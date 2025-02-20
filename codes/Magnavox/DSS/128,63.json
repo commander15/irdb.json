@@ -1,17 +1,17 @@
 {
-    "display_name": "Magnavox DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "3"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "1"
             },
             {
@@ -43,15 +43,15 @@
                 "name": "PAGE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "JUMP"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "EXIT"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "9"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "8"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "7"
             },
             {
@@ -120,6 +120,6 @@
     },
     "manufacturer": "Magnavox",
     "model": "",
-    "name": "",
+    "name": "Magnavox DSS",
     "target": "DSS"
 }

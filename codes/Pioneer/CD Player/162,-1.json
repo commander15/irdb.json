@@ -1,29 +1,29 @@
 {
-    "display_name": "Pioneer CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "PROGRAM"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PGM"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SCAN >>"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "FF"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SCAN <<"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "REW"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISC 1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DISC 2"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "CHECK"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "RANDOM"
             },
             {
@@ -95,23 +95,23 @@
                 "name": "DISC 5"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "DISC 6"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DELETE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "HI-LITE SCAN"
             }
         ],
         "device_address": "0",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer CD Player",
     "target": "CD Player"
 }

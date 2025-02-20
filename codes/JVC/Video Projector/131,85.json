@@ -1,9 +1,9 @@
 {
-    "display_name": "JVC Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "HIDE"
             },
             {
@@ -27,27 +27,27 @@
                 "name": "VOL -"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "MENU"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SPECIAL"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "VIDEO"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "COMPUTER"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "AUTO"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "RESIZE"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Video Projector",
     "target": "Video Projector"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Emerson VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "100"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "INPUT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "STOP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PLAY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "FAST FORWARD >>"
             },
             {
@@ -99,19 +99,19 @@
                 "name": "CH -"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SPEED"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CLEAR"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "EJECT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DISPLAY"
             },
             {
@@ -120,10 +120,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Emerson",
     "model": "",
-    "name": "",
+    "name": "Emerson VCR",
     "target": "VCR"
 }

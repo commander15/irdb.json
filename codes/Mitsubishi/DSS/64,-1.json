@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -7,11 +7,11 @@
                 "name": "MUTE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME -"
             }
         ],
@@ -20,6 +20,6 @@
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi DSS",
     "target": "DSS"
 }

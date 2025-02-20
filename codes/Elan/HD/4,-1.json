@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan HD",
+    "display_name": "HD",
     "ir": {
         "commands": [
             {
@@ -31,23 +31,23 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RECORD"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TV/VCR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PAUSE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REWIND"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "FAST FWD"
             },
             {
@@ -95,27 +95,27 @@
                 "name": "H"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "I"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "J"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "3"
             },
             {
@@ -159,19 +159,19 @@
                 "name": "*  PLAY"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "*  STOP"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "*  CHAN +"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "*  CHAN -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "*  RECALL"
             },
             {
@@ -183,15 +183,15 @@
                 "name": "*  TV"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "*  ELAN"
             }
         ],
         "device_address": "0",
-        "protocol": "Velleman"
+        "protocol": "VELLEMAN"
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan HD",
     "target": "HD"
 }

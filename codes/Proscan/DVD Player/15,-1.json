@@ -1,13 +1,13 @@
 {
-    "display_name": "Proscan DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "INPUT"
             }
         ],
@@ -16,6 +16,6 @@
     },
     "manufacturer": "Proscan",
     "model": "",
-    "name": "",
+    "name": "Proscan DVD Player",
     "target": "DVD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Hitachi Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "RGB 1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RGB2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RGB 2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "AV1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "AV2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "AV3"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "AV4"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "SIZE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "RETURN"
             }
         ],
-        "device_address": "a0000",
+        "device_address": "A0000",
         "protocol": "NEC1"
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi Plasma",
     "target": "Plasma"
 }

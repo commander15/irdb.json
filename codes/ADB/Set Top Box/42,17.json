@@ -1,5 +1,5 @@
 {
-    "display_name": "ADB Set Top Box",
+    "display_name": "Set Top Box",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "1"
             },
             {
@@ -160,6 +160,6 @@
     },
     "manufacturer": "ADB",
     "model": "",
-    "name": "",
+    "name": "ADB Set Top Box",
     "target": "Set Top Box"
 }

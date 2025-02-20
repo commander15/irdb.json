@@ -1,133 +1,133 @@
 {
-    "display_name": "Integra Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "SETUP HOME"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "AUDIO BALANCE"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "AUDIO COAX/OPT AUTO"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "RESOLUTION 1080P/24F"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "MODE THX MUSIC"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "MODE THX GAMES"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "MODE NEURAL CINEMA"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "MODE NEURAL MUSIC"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "RESOLUTION SOURCE"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "RESOLUTION THRU"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "RESOLUTION AUTO"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "RESOLUTION 480P"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "RESOLUTION 720P"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "RESOLUTION 1080I"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "RESOLUTION 1080P"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "AUDIO AUTO"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "AUDIO ANALOG"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "AUDIO MULTI CHANNEL"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "AUDIO HDMI"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "MODE PLLX THX MUSIC"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "MODE PLLX THX GAMES"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "MODE NEO THX GAMES"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "MODE NEURAL THX GAME"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "MODE PLLX THX CINEMA"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "MODE THX CINEMA"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "MODE THX SURR EX"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "MODE THX ULTRA2"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "MODE THX MUSIC MODE2"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "MODE THX GAMES MODE2"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "MODE NEURAL THX SURR"
             }
         ],
-        "device_address": "-5c000000",
+        "device_address": "-5C000000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

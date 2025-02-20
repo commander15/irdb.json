@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -75,11 +75,11 @@
                 "name": "INFO"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "ENTER"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "OPENGLOBE"
             },
             {
@@ -111,19 +111,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DAY -/STOP"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "BACKSPACE/PG DN <<<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SPACE/PAGE UP >>>"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "REC"
             },
             {
@@ -135,35 +135,35 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "MUSIC"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "RADIO"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "MOVIES"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "PASS THOUGH / FAV"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "E-MAIL"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "WEB/LAST CH."
             }
         ],
-        "device_address": "-4a000000",
+        "device_address": "-4A000000",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood DVD Player",
     "target": "DVD Player"
 }

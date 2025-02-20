@@ -1,5 +1,5 @@
 {
-    "display_name": "Channel Master Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "VIEW"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SETUP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "HELP"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SAT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "9 K"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "8 M"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "7 A"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "MUTE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "AUDIO"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VOLUME V"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CHAN"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "TUNE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "PROGRAM"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STORE"
             }
         ],
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Channel Master",
     "model": "",
-    "name": "",
+    "name": "Channel Master Satellite",
     "target": "Satellite"
 }

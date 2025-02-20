@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony TiVo",
+    "display_name": "TiVo",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER/JUMP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "JUMP"
             },
             {
@@ -87,55 +87,55 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACK"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "FRAME <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SCAN <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BACK <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FORWARD"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SCAN >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FAST FWD >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD ON/OFF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REC ON/OFF"
             },
             {
@@ -151,35 +151,35 @@
                 "name": "SLOW MOTION -"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "LIST"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPLAY"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "MENU SELECT"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "SE3ECT"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "SELECT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "MENU UP ARROW"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "UP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "CURSOR UP"
             },
             {
@@ -223,19 +223,19 @@
                 "name": "CLEAR"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO CENTRAL"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO MAN"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "TIVO BUTTON"
             },
             {
@@ -276,10 +276,10 @@
             }
         ],
         "device_address": "68000000",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TiVo",
     "target": "TiVo"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Acoustic Solutions DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "stop"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "left"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "clear"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "5"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "7"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "eject"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "program"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "power"
             },
             {
@@ -119,11 +119,11 @@
                 "name": "select / play"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "up"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "down"
             },
             {
@@ -139,35 +139,35 @@
                 "name": "8"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "9"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "6"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "1"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "tv sys"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "3"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "setup"
             }
         ],
         "device_address": "20000",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Acoustic Solutions",
     "model": "",
-    "name": "",
+    "name": "Acoustic Solutions DVD Player",
     "target": "DVD Player"
 }

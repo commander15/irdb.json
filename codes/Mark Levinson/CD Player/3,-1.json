@@ -1,5 +1,5 @@
 {
-    "display_name": "Mark Levinson CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -35,19 +35,19 @@
                 "name": "STOP/DWR"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REPEAT DISC/TRACK"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "2"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "5"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "9"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TIME"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POLARITY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DISPLAY MODE"
             },
             {
@@ -99,15 +99,15 @@
                 "name": "INTENSITY / STANDBY"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "VOLUME +"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "VOLUME -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "INPUT SELECT"
             }
         ],
@@ -116,6 +116,6 @@
     },
     "manufacturer": "Mark Levinson",
     "model": "",
-    "name": "",
+    "name": "Mark Levinson CD Player",
     "target": "CD Player"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra iPod",
+    "display_name": "iPod",
     "ir": {
         "commands": [
             {
@@ -15,23 +15,23 @@
                 "name": "PLAY MODE (SHUFFLE)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STOP (PAUSE)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TRACK +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TRACK -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAUSE"
             },
             {
@@ -59,11 +59,11 @@
                 "name": "REPEAT"
             }
         ],
-        "device_address": "d2000",
+        "device_address": "D2000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra iPod",
     "target": "iPod"
 }

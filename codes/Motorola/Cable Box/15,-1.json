@@ -1,17 +1,17 @@
 {
-    "display_name": "Motorola Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOLUME -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             }
         ],
@@ -20,6 +20,6 @@
     },
     "manufacturer": "Motorola",
     "model": "",
-    "name": "",
+    "name": "Motorola Cable Box",
     "target": "Cable Box"
 }

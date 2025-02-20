@@ -1,25 +1,25 @@
 {
-    "display_name": "Yamaha DVD Pre-amp",
+    "display_name": "DVD Pre-amp",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "POWER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PRESET +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PRESET -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -31,15 +31,15 @@
                 "name": "INPUT: VCR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "INPUT: DVD"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "INPUT: TUNER"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SLEEP"
             },
             {
@@ -47,11 +47,11 @@
                 "name": "AMP: STEREO"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "AMP: TEST"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "AMP: BASS BOOST"
             },
             {
@@ -95,27 +95,27 @@
                 "name": "AMP: DOLBY/DTS"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "AMP: SELECT"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "AMP: SET MENU"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "INPUT: CD-R/MD"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "INPUT: VIDEO 2"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "INPUT: VIDEO 1"
             }
         ],
@@ -124,6 +124,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DVD Pre-amp",
     "target": "DVD Pre-amp"
 }

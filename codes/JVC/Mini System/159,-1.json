@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Mini System",
+    "display_name": "Mini System",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "VOL -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TUNER INPUT"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "9"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "0"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "10"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "+10"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "SLEEP"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "CD SKIP +"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "CD SKIP -"
             },
             {
@@ -92,6 +92,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Mini System",
     "target": "Mini System"
 }

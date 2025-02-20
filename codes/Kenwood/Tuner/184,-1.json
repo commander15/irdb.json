@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,27 +15,27 @@
                 "name": "CD DISC"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TUNER/CD +10"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "+10"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "EQ.EFFECT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MENU"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "DELAY TIME V"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "DELAY TIME ^"
             },
             {
@@ -135,15 +135,15 @@
                 "name": "9"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "VIDEO 3"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "TUNER P.CALL V"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "TUNER BAND"
             },
             {
@@ -183,131 +183,131 @@
                 "name": "TUNER P.CALL"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VOL CONTROL V"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VOLUME CONTROL V"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "VOL CONTROL ^"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "VOLUME CONTROL ^"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "POWER"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "TUNER DIRECT"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "EQ.M.CALL"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "CD STOP []"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CD PLAY/PAUSE >/"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "CD SKIP <<"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "CD SKIP >>"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "TAPEA REV PLAY <"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "TAPEA R.PLAY <"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "TAPEA PLAY >"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TAPEA REW <<"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "TAPEA FF >>"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "TAPEA FFWD >>"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "TAPEA PAUSE "
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "TAPEA STOP []"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "TAPEA REC"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "BYPASS"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "SURROUND"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "TAPEB REV PLAY <"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "TAPEB R.PLAY <"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "TAPEB PLAY >"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "TAPEB REW <<"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "TAPEB FF >>"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "TAPEB FFWD >>"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "TAPEB PAUSE "
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "TAPEB STOP []"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "TAPEB REC"
             }
         ],
@@ -316,6 +316,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Tuner",
     "target": "Tuner"
 }

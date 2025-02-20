@@ -1,25 +1,25 @@
 {
-    "display_name": "Sony Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "KEYSTONE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "MS SLIDE"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "STANDARD"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SIDE SHOT -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SIDE SHOT +"
             },
             {
@@ -199,7 +199,7 @@
                 "name": "VIDEO MEMORY 9"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "VIDEO MEMORY 10"
             },
             {
@@ -223,23 +223,23 @@
                 "name": "FUNTION 2"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "PLUS"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "ZOOM +"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "MINUS"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "ZOOM -"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "WIDE MODE"
             },
             {
@@ -248,10 +248,10 @@
             }
         ],
         "device_address": "6800",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Video Projector",
     "target": "Video Projector"
 }

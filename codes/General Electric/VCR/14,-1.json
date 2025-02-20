@@ -1,5 +1,5 @@
 {
-    "display_name": "General Electric VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "MENU"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TRACKING-"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TRACKING+"
             },
             {
@@ -27,15 +27,15 @@
                 "name": "PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FFW"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": ""
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "GO BACK"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": ""
             },
             {
@@ -91,7 +91,7 @@
                 "name": "9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
@@ -112,6 +112,6 @@
     },
     "manufacturer": "General Electric",
     "model": "",
-    "name": "",
+    "name": "General Electric VCR",
     "target": "VCR"
 }

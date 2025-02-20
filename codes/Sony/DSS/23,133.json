@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
@@ -75,19 +75,19 @@
                 "name": "MENU"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SCREEN MODE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DOT"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "."
             },
             {
@@ -103,15 +103,15 @@
                 "name": "TV/SAT"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "JUMP"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GUIDE"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "FAVORITE"
             },
             {
@@ -139,11 +139,11 @@
                 "name": "CUSOR SELECT"
             }
         ],
-        "device_address": "2e0",
-        "protocol": "Sony20"
+        "device_address": "2E0",
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSS",
     "target": "DSS"
 }

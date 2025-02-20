@@ -1,13 +1,13 @@
 {
-    "display_name": "Denon Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VOLUME -"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VOLUME +"
             },
             {
@@ -23,15 +23,15 @@
                 "name": "TAPE-1/1>2"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TAPE-2/2>1"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Cassette Tape",
     "target": "Cassette Tape"
 }

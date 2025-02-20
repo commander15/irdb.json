@@ -1,17 +1,17 @@
 {
-    "display_name": "Marantz Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER ON/OFF"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE ATT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
@@ -23,7 +23,7 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SPEAKER A/B"
             },
             {
@@ -64,6 +64,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz Amplifier",
     "target": "Amplifier"
 }

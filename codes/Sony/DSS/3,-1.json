@@ -1,13 +1,13 @@
 {
-    "display_name": "Sony DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CHANNEL -"
             }
         ],
@@ -16,6 +16,6 @@
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSS",
     "target": "DSS"
 }

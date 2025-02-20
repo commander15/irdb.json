@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Boombox",
+    "display_name": "Boombox",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "SOUND"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MEGA BASS"
             },
             {
@@ -40,10 +40,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Boombox",
     "target": "Boombox"
 }

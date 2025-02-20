@@ -1,5 +1,5 @@
 {
-    "display_name": "Escient DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -23,11 +23,11 @@
                 "name": "8"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CH/PAGE +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "POWER"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VIEW TOGGLE"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "MOVIES"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "IRADIO"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "DISC +"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "ADD TO FAVORITES"
             },
             {
@@ -131,19 +131,19 @@
                 "name": "VIEW BY ARTIST"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "VIEW BY TITLE"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "VIEW BY SONG"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VIEW BY COVER"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PLAYER"
             }
         ],
@@ -152,6 +152,6 @@
     },
     "manufacturer": "Escient",
     "model": "",
-    "name": "",
+    "name": "Escient DVD Player",
     "target": "DVD Player"
 }

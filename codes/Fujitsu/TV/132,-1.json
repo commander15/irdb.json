@@ -1,5 +1,5 @@
 {
-    "display_name": "Fujitsu TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "VOLUME - DOWN"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "CURSOR - LEFT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "CURSOR - RIGHT"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "CURSOR - DOWN"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR - ENTER"
             },
             {
@@ -56,10 +56,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "Fujitsu",
     "model": "",
-    "name": "",
+    "name": "Fujitsu TV",
     "target": "TV"
 }

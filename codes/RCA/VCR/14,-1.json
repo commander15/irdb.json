@@ -1,5 +1,5 @@
 {
-    "display_name": "RCA VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "MENU"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TRACKING -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TRACKING +"
             },
             {
@@ -35,15 +35,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FAST FORWARD >>"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REWIND <<"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "POWER ON"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POWER OFF"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
@@ -120,6 +120,6 @@
     },
     "manufacturer": "RCA",
     "model": "",
-    "name": "",
+    "name": "RCA VCR",
     "target": "VCR"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "RCA Unknown_RCA-F20507CP",
+    "display_name": "Unknown_RCA-F20507CP",
     "ir": {
         "commands": [
             {
@@ -15,19 +15,19 @@
                 "name": "KEY_PC"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "KEY_CHANNELDOWN"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "KEY_CHANNELUP"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "KEY_VOLUMEDOWN"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "KEY_VOLUMEUP"
             },
             {
@@ -71,19 +71,19 @@
                 "name": "KEY_9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "KEY_POWER"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "off"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "display"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "KEY_MUTE"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "setup+"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "vid-"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "RCA-38(Old)"
+        "protocol": "RCA-38(OLD)"
     },
     "manufacturer": "RCA",
     "model": "",
-    "name": "",
+    "name": "Unknown_RCA-F20507CP",
     "target": "Unknown_RCA-F20507CP"
 }

@@ -1,598 +1,598 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "MUTE",
                 "protocol": "NEC1"
             },
             {
                 "address": "1",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "COMPUTER",
                 "protocol": "NEC1"
             },
             {
                 "address": "2",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "MENU",
                 "protocol": "NEC1"
             },
             {
                 "address": "2",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "MENU",
                 "protocol": "NEC"
             },
             {
                 "address": "3",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRIGHTNESS +",
                 "protocol": "NEC1"
             },
             {
                 "address": "3",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRIGHTNESS >",
                 "protocol": "NEC1"
             },
             {
                 "address": "3",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRITE+",
                 "protocol": "NEC1"
             },
             {
                 "address": "4",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "VOLUME <",
                 "protocol": "NEC1"
             },
             {
                 "address": "5",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "VIDEO",
                 "protocol": "NEC1"
             },
             {
                 "address": "6",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SCRIBBLE",
                 "protocol": "NEC1"
             },
             {
                 "address": "7",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRIGHTNESS -",
                 "protocol": "NEC1"
             },
             {
                 "address": "7",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRIGHTNESS <",
                 "protocol": "NEC1"
             },
             {
                 "address": "7",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BRITE-",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "FOCUS NEAR",
                 "protocol": "NEC1"
             },
             {
                 "address": "8",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "VOLUME >",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "FOCUS FAR",
                 "protocol": "NEC1"
             },
             {
                 "address": "9",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "LITESHOW",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "21c000",
+                "address": "A",
+                "device_address": "21C000",
                 "name": "ZOOM IN",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
-                "device_address": "21c000",
+                "address": "A",
+                "device_address": "21C000",
                 "name": "HELP",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
-                "device_address": "21c000",
+                "address": "B",
+                "device_address": "21C000",
                 "name": "ZOOM OUT",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
-                "device_address": "21c000",
+                "address": "D",
+                "device_address": "21C000",
                 "name": "STANDBY",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
-                "device_address": "21c000",
+                "address": "E",
+                "device_address": "21C000",
                 "name": "FREEZE",
                 "protocol": "NEC1"
             },
             {
                 "address": "10",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SOURCE SELECT",
                 "protocol": "NEC1"
             },
             {
                 "address": "10",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SOURCE",
                 "protocol": "NEC1"
             },
             {
                 "address": "13",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CURSOR +",
                 "protocol": "NEC1"
             },
             {
                 "address": "13",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "13",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CURSOR UP",
                 "protocol": "NEC1"
             },
             {
                 "address": "14",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CURSOR -",
                 "protocol": "NEC1"
             },
             {
                 "address": "14",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "14",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CURSOR DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "14",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "DN",
                 "protocol": "NEC1"
             },
             {
                 "address": "17",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "POWER",
                 "protocol": "NEC1"
             },
             {
                 "address": "17",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "POWER TOGGLE",
                 "protocol": "NEC"
             },
             {
-                "address": "1b",
-                "device_address": "21c000",
+                "address": "1B",
+                "device_address": "21C000",
                 "name": "HORIZ OFFSET LEFT",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
-                "device_address": "21c000",
+                "address": "1C",
+                "device_address": "21C000",
                 "name": "HORIZ OFFSET RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
-                "device_address": "21c000",
+                "address": "1D",
+                "device_address": "21C000",
                 "name": "VERT OFFSET UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
-                "device_address": "21c000",
+                "address": "1E",
+                "device_address": "21C000",
                 "name": "VERT OFFSET DOWN",
                 "protocol": "NEC1"
             },
             {
                 "address": "20",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "KEYSTONE +",
                 "protocol": "NEC1"
             },
             {
                 "address": "21",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "KEYSTONE -",
                 "protocol": "NEC1"
             },
             {
-                "address": "2b",
-                "device_address": "21c000",
+                "address": "2B",
+                "device_address": "21C000",
                 "name": "CUSTOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
-                "device_address": "21c000",
+                "address": "2C",
+                "device_address": "21C000",
                 "name": "PRESET",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
-                "device_address": "21c000",
+                "address": "2C",
+                "device_address": "21C000",
                 "name": "PRESETS",
                 "protocol": "NEC1"
             },
             {
-                "address": "2d",
-                "device_address": "21c000",
+                "address": "2D",
+                "device_address": "21C000",
                 "name": "SOURCE 1",
                 "protocol": "NEC1"
             },
             {
-                "address": "2e",
-                "device_address": "21c000",
+                "address": "2E",
+                "device_address": "21C000",
                 "name": "SOURCE 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "2e",
-                "device_address": "21c000",
+                "address": "2E",
+                "device_address": "21C000",
                 "name": "SOURCE2",
                 "protocol": "NEC1"
             },
             {
-                "address": "2f",
-                "device_address": "21c000",
+                "address": "2F",
+                "device_address": "21C000",
                 "name": "SOURCE 3",
                 "protocol": "NEC1"
             },
             {
-                "address": "2f",
-                "device_address": "21c000",
+                "address": "2F",
+                "device_address": "21C000",
                 "name": "SOURCE3",
                 "protocol": "NEC1"
             },
             {
                 "address": "30",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SOURCE 4",
                 "protocol": "NEC1"
             },
             {
                 "address": "30",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SOURCE4",
                 "protocol": "NEC1"
             },
             {
                 "address": "31",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "BLANK",
                 "protocol": "NEC1"
             },
             {
                 "address": "32",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "SELECT",
                 "protocol": "NEC1"
             },
             {
                 "address": "33",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "AUTO IMAGE",
                 "protocol": "NEC1"
             },
             {
                 "address": "34",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "RESIZE",
                 "protocol": "NEC1"
             },
             {
                 "address": "35",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "OVERSCAN",
                 "protocol": "NEC1"
             },
             {
                 "address": "36",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CONTRAST +",
                 "protocol": "NEC1"
             },
             {
                 "address": "36",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CONTRAST+",
                 "protocol": "NEC1"
             },
             {
                 "address": "37",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CONTRAST -",
                 "protocol": "NEC1"
             },
             {
                 "address": "39",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "POWER OFF",
                 "protocol": "NEC1"
             },
             {
                 "address": "39",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "POWER OFF",
                 "protocol": "NEC"
             },
             {
-                "address": "3a",
-                "device_address": "21c000",
+                "address": "3A",
+                "device_address": "21C000",
                 "name": "POWER ON",
                 "protocol": "NEC1"
             },
             {
-                "address": "3a",
-                "device_address": "21c000",
+                "address": "3A",
+                "device_address": "21C000",
                 "name": "POWER ON",
                 "protocol": "NEC"
             },
             {
-                "address": "3b",
-                "device_address": "21c000",
+                "address": "3B",
+                "device_address": "21C000",
                 "name": "NATIVE RESIZE",
                 "protocol": "NEC1"
             },
             {
-                "address": "3c",
-                "device_address": "21c000",
+                "address": "3C",
+                "device_address": "21C000",
                 "name": "16:9",
                 "protocol": "NEC1"
             },
             {
-                "address": "3c",
-                "device_address": "21c000",
+                "address": "3C",
+                "device_address": "21C000",
                 "name": "16:9 RESIZE",
                 "protocol": "NEC1"
             },
             {
-                "address": "3d",
-                "device_address": "21c000",
+                "address": "3D",
+                "device_address": "21C000",
                 "name": "4:3",
                 "protocol": "NEC1"
             },
             {
-                "address": "3d",
-                "device_address": "21c000",
+                "address": "3D",
+                "device_address": "21C000",
                 "name": "4:3 RESIZE",
                 "protocol": "NEC1"
             },
             {
-                "address": "3e",
-                "device_address": "21c000",
+                "address": "3E",
+                "device_address": "21C000",
                 "name": "LETTERBOX",
                 "protocol": "NEC1"
             },
             {
-                "address": "3e",
-                "device_address": "21c000",
+                "address": "3E",
+                "device_address": "21C000",
                 "name": "LETTERBOX RESIZE",
                 "protocol": "NEC1"
             },
             {
-                "address": "3f",
-                "device_address": "21c000",
+                "address": "3F",
+                "device_address": "21C000",
                 "name": "NATURAL WIDE RESIZE",
                 "protocol": "NEC1"
             },
             {
-                "address": "3f",
-                "device_address": "21c000",
+                "address": "3F",
+                "device_address": "21C000",
                 "name": "NATURAL WIDE RESIZE",
                 "protocol": "NEC"
             },
             {
                 "address": "40",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "USER PRESET 1",
                 "protocol": "NEC1"
             },
             {
                 "address": "41",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "USER PRESET 2",
                 "protocol": "NEC1"
             },
             {
                 "address": "42",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "USER PRESET 3",
                 "protocol": "NEC1"
             },
             {
                 "address": "80",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "LEVEL ^",
                 "protocol": "NEC1"
             },
             {
                 "address": "81",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CONT ^",
                 "protocol": "NEC1"
             },
             {
                 "address": "82",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "WINDOW ^",
                 "protocol": "NEC1"
             },
             {
                 "address": "83",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "NEXT",
                 "protocol": "NEC1"
             },
             {
                 "address": "84",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "LEVEL V",
                 "protocol": "NEC1"
             },
             {
                 "address": "85",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "CONT V",
                 "protocol": "NEC1"
             },
             {
                 "address": "86",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "WINDOW V",
                 "protocol": "NEC1"
             },
             {
                 "address": "87",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "PREVIOUS",
                 "protocol": "NEC1"
             },
             {
                 "address": "88",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "REVERSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "8b",
-                "device_address": "21c000",
+                "address": "8B",
+                "device_address": "21C000",
                 "name": "PAUSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
-                "device_address": "21c000",
+                "address": "8F",
+                "device_address": "21C000",
                 "name": "GRAB",
                 "protocol": "NEC1"
             },
             {
                 "address": "90",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "PRESENT",
                 "protocol": "NEC1"
             },
             {
                 "address": "91",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "EDIT",
                 "protocol": "NEC1"
             },
             {
                 "address": "92",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "TOOLS",
                 "protocol": "NEC1"
             },
             {
                 "address": "93",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "LIVE",
                 "protocol": "NEC1"
             },
             {
                 "address": "94",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "UP LEFT CORNER",
                 "protocol": "NEC1"
             },
             {
                 "address": "95",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "UP (^)",
                 "protocol": "NEC1"
             },
             {
                 "address": "96",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "UP RIGHT CORNER",
                 "protocol": "NEC1"
             },
             {
                 "address": "97",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "ESC",
                 "protocol": "NEC1"
             },
             {
                 "address": "98",
-                "device_address": "21c000",
+                "device_address": "21C000",
                 "name": "LEFT (<)",
                 "protocol": "NEC1"
             },
             {
-                "address": "9a",
-                "device_address": "21c000",
+                "address": "9A",
+                "device_address": "21C000",
                 "name": "RIGHT (>)",
                 "protocol": "NEC1"
             },
             {
-                "address": "9b",
-                "device_address": "21c000",
+                "address": "9B",
+                "device_address": "21C000",
                 "name": "GROUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "9c",
-                "device_address": "21c000",
+                "address": "9C",
+                "device_address": "21C000",
                 "name": "REAR LEFT CORNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "21c000",
+                "address": "9D",
+                "device_address": "21C000",
                 "name": "DOWN (V)",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "21c000",
+                "address": "9E",
+                "device_address": "21C000",
                 "name": "REAR RIGHT CORNER",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "21c000",
+                "address": "9F",
+                "device_address": "21C000",
                 "name": "ENTER",
                 "protocol": "NEC1"
             }
@@ -600,6 +600,6 @@
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

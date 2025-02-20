@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -75,27 +75,27 @@
                 "name": "POWER TOGGLE AMP9 T1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY TOGGLE T0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY TOGGLE T1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE T0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE T1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY STEP TOG T0"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY STEP TOG T1"
             },
             {
@@ -115,35 +115,35 @@
                 "name": "POWER TOG AMP11 T1"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "POWER TOG AMP12 T0"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "POWER TOG AMP12 T1"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER TOG AMP13 T0"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER TOG AMP13 T1"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER TOG AMP14 T0"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER TOG AMP14 T1"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "POWER TOG AMP15 T0"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "POWER TOG AMP15 T1"
             },
             {
@@ -184,6 +184,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Amplifier",
     "target": "Amplifier"
 }

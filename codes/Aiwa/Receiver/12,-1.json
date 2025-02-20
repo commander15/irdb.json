@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "DSL"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SURROUND ON/OFF"
             },
             {
@@ -27,19 +27,19 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR RIGHT"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Receiver",
     "target": "Receiver"
 }

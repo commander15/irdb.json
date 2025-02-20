@@ -1,5 +1,5 @@
 {
-    "display_name": "Chinese Surround sound decoder",
+    "display_name": "Surround sound decoder",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "channel down"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "hdmi 1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "2.1 5.1"
             },
             {
@@ -39,7 +39,7 @@
                 "name": "vol down"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "coax"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "display"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "usb"
             },
             {
@@ -83,11 +83,11 @@
                 "name": "bluetooth"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "opt"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "hdmi 3"
             },
             {
@@ -107,35 +107,35 @@
                 "name": "front-"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "ok"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "up arrow"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "left arrow"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "name": "right arrow"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "down arrow"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "learn"
             }
         ],
         "device_address": "0",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Chinese",
     "model": "",
-    "name": "",
+    "name": "Chinese Surround sound decoder",
     "target": "Surround sound decoder"
 }

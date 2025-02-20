@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CH"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV/VCR"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "PAUSE/STILL "
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STOP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STOP []"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "100"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "T-REC"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CLEAR"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CANCEL"
             },
             {
@@ -163,15 +163,15 @@
                 "name": "EJECT"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "RESET"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "COUNTER RESET"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "INDEX SEARCH"
             },
             {
@@ -191,7 +191,7 @@
                 "name": "COUNTER CLOCK"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "A-TR"
             },
             {
@@ -239,19 +239,19 @@
                 "name": "INDEX ERASE"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "CURSOR UP"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "CURSOR ^"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "CURSOR V"
             },
             {
@@ -259,19 +259,19 @@
                 "name": "SUMMER TIME"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "OK"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "FREEZE"
             }
         ],
-        "device_address": "7f",
-        "protocol": "Aiwa"
+        "device_address": "7F",
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa VCR",
     "target": "VCR"
 }

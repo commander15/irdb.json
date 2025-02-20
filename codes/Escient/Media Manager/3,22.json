@@ -1,5 +1,5 @@
 {
-    "display_name": "Escient Media Manager",
+    "display_name": "Media Manager",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CH/PAGE +"
             },
             {
@@ -83,15 +83,15 @@
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SELECT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR OK"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "INFO"
             },
             {
@@ -127,27 +127,27 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "MENU - RHAPSODY"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "DISC +"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "MENU - MUSIC"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "JUKEBOX ADD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "PLAY FAVORITES"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "RANDOM"
             },
             {
@@ -199,31 +199,31 @@
                 "name": "VIEW BY ARTIST"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "VIEW BY TITLE"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "VIEW BY SONG"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VIEW BY COVER"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PLAYER"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "GUIDE"
             }
         ],
-        "device_address": "c00000",
+        "device_address": "C00000",
         "protocol": "MCE"
     },
     "manufacturer": "Escient",
     "model": "",
-    "name": "",
+    "name": "Escient Media Manager",
     "target": "Media Manager"
 }

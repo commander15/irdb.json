@@ -1,9 +1,9 @@
 {
-    "display_name": "Sony Unknown_RM-X47",
+    "display_name": "Unknown_RM-X47",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "off"
             },
             {
@@ -23,11 +23,11 @@
                 "name": "att"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "seek-"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "seek+"
             },
             {
@@ -52,10 +52,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Unknown_RM-X47",
     "target": "Unknown_RM-X47"
 }

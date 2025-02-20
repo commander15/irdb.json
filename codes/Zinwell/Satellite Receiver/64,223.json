@@ -1,5 +1,5 @@
 {
-    "display_name": "Zinwell Satellite Receiver",
+    "display_name": "Satellite Receiver",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "EXIT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MENU"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SELECT"
             },
             {
@@ -75,31 +75,31 @@
                 "name": "GUIDE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAGE -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR LEFT"
             },
             {
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Zinwell",
     "model": "",
-    "name": "",
+    "name": "Zinwell Satellite Receiver",
     "target": "Satellite Receiver"
 }

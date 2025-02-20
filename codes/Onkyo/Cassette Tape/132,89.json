@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -19,19 +19,19 @@
                 "name": "DECKA SRCH REV <<"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DECKA REC/MUTE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "DECKA STOP []"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DECKA PLAY >"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DECKA REVERSE PLAY <"
             },
             {
@@ -91,27 +91,27 @@
                 "name": "DECKB FWD >>"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REW <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DECKB REW <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REC/MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DECKB REC/MUTE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SEARCH FWD >>"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SEARCH REV <<"
             },
             {
@@ -123,11 +123,11 @@
                 "name": "MONITOR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DECKA RESET"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "DECKA TAPE SIZE"
             },
             {
@@ -151,31 +151,31 @@
                 "name": "DECKB SRCH FWD >>"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "RESET"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DECKB RESET"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "ELAPSE REMAIN"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "ELAPSED/REMAIN"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "T-SIZE"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TAPE SIZE"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "DECKB TAPE SIZE"
             }
         ],
@@ -184,6 +184,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo Cassette Tape",
     "target": "Cassette Tape"
 }

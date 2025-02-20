@@ -1,17 +1,17 @@
 {
-    "display_name": "Sony DSP",
+    "display_name": "DSP",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT RIGHT"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT LEFT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SELECT"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "OFF"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DOLBY SURR"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "MODE"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "EFFECT -"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "DISPLAY"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "FRONT BAL L"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "FRONT BAL R"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR +"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR -"
             },
             {
@@ -107,19 +107,19 @@
                 "name": "MENU SELECT -"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "MENU SELECT UP"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "MENU SELECT DWN"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSP",
     "target": "DSP"
 }

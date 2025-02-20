@@ -1,5 +1,5 @@
 {
-    "display_name": "Fujitsu Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "RGB2: D-SUB15"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RGB3: 5 BNC"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "S-VIDEO"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "COMPONENT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RGB1: DVI-D"
             },
             {
@@ -75,19 +75,19 @@
                 "name": "SHIFT 3"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "ADJ LEFT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "ADJ RIGHT"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "ADJ DOWN"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "ENTER"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "SET"
             },
             {
@@ -155,19 +155,19 @@
                 "name": "ASPECT ZOOM2"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "LOCK (HIDDEN)"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "MODE (HIDDEN)"
             }
         ],
         "device_address": "0",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "Fujitsu",
     "model": "",
-    "name": "",
+    "name": "Fujitsu Monitor",
     "target": "Monitor"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,35 +31,35 @@
                 "name": "AUTO FORMAT DECODE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST TONE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "EQ/TONE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "EQ"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "BASS BOOST"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR LEVEL +"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR +"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR LEVEL -"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR -"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "CENTER -"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "MODE"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "SOUND FIELD MODE"
             },
             {
@@ -119,19 +119,19 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR RIGHT"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

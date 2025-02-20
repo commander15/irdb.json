@@ -1,5 +1,5 @@
 {
-    "display_name": "Comcast HD Cable with DVR",
+    "display_name": "HD Cable with DVR",
     "ir": {
         "commands": [
             {
@@ -63,11 +63,11 @@
                 "name": ""
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CH UP"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CH DN"
             },
             {
@@ -103,23 +103,23 @@
                 "name": "MENU"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STOP"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "FF"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RW"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PAUSE"
             },
             {
@@ -163,23 +163,23 @@
                 "name": "STOP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE UP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PAGE DN"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SKIP 30 SECONDS"
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Comcast",
     "model": "",
-    "name": "",
+    "name": "Comcast HD Cable with DVR",
     "target": "HD Cable with DVR"
 }

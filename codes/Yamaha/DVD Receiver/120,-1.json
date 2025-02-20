@@ -1,25 +1,25 @@
 {
-    "display_name": "Yamaha DVD Receiver",
+    "display_name": "DVD Receiver",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "POWER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PRESET +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PRESET -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -27,19 +27,19 @@
                 "name": "INPUT: VCR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "INPUT: DVD/CD"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "INPUT: TUNER"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "6"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "0"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "4"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "YPAO - TEST"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "A-B"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "5"
             },
             {
@@ -83,47 +83,47 @@
                 "name": "1"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "2"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "AUDIO"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "9"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "YPAO - START"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "YPAO - ON/OFF"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "DSP - MOVIE"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "DSP - MUSIC"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DSP - SPORTS"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "DSP - GAME"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "INPUT: VIDEO"
             }
         ],
@@ -132,6 +132,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DVD Receiver",
     "target": "DVD Receiver"
 }

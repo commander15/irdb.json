@@ -1,5 +1,5 @@
 {
-    "display_name": "Grundig Video Recorder",
+    "display_name": "Video Recorder",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "PAUSE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "EJECT"
             },
             {
@@ -43,23 +43,23 @@
                 "name": "5"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "6"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "7"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "8"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "9"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "STOP"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "DOWN"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "RIGHT"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "LEFT"
             },
             {
@@ -96,10 +96,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Grundig16-30"
+        "protocol": "GRUNDIG16-30"
     },
     "manufacturer": "Grundig",
     "model": "",
-    "name": "",
+    "name": "Grundig Video Recorder",
     "target": "Video Recorder"
 }

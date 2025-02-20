@@ -1,5 +1,5 @@
 {
-    "display_name": "Dish Network Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "PAGE-"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE UP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": ""
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE+"
             },
             {
@@ -179,35 +179,35 @@
                 "name": "DVR / DISH ON DEA"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP ON/SIZE"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POSITION"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PIP POSITION"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SWAP"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "PIP SWAP"
             }
         ],
         "device_address": "1",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Dish Network",
     "model": "",
-    "name": "",
+    "name": "Dish Network Satellite",
     "target": "Satellite"
 }

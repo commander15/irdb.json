@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha CD Changer",
+    "display_name": "CD Changer",
     "ir": {
         "commands": [
             {
@@ -27,37 +27,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "SKIP >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "TRACK UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "SKIP <<",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "TRACK DOWN",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "SEARCH >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "SEARCH <<",
                 "protocol": "NEC1"
@@ -75,7 +75,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "0",
                 "name": "DISC SKIP",
                 "protocol": "NEC"
@@ -84,6 +84,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha CD Changer",
     "target": "CD Changer"
 }

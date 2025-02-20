@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -23,15 +23,15 @@
                 "name": "RECORD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STILL ADVANCE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "POWER"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "SLOW +"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SLOW -"
             }
         ],
         "device_address": "0",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic VCR",
     "target": "VCR"
 }

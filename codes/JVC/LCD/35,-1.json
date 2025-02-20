@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC LCD",
+    "display_name": "LCD",
     "ir": {
         "commands": [
             {
@@ -7,19 +7,19 @@
                 "name": "TEXT"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "D"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "3D SOUND / GREEN"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "PIP SOUND / YELLOW"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "PIP / BLUE"
             }
         ],
@@ -28,6 +28,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC LCD",
     "target": "LCD"
 }

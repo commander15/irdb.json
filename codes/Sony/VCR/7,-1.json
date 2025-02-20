@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
@@ -95,47 +95,47 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RR"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REWIND <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REV <<"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "<< REWIND"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FAST FORWARD >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": ""
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RECORD STANDBY"
             },
             {
@@ -175,31 +175,31 @@
                 "name": ">> SEARCH"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TV/VTR"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TV/VIDEO"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TV/VCR"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "OFF"
             },
             {
@@ -219,11 +219,11 @@
                 "name": ">> FRAME"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SLOW MOTION +"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "SLOW MOTION -"
             },
             {
@@ -259,11 +259,11 @@
                 "name": "INDEX ERASE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "MENU"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "INPUT SELECT"
             },
             {
@@ -295,15 +295,15 @@
                 "name": "SP/EP"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DISPLAY"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SKIP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SMART QUE"
             },
             {
@@ -343,23 +343,23 @@
                 "name": "INSERT VIDEO"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "HIGH SPEED RR"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "HIGH SPEED REWIND"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "HI-SPEED REWIND"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony VCR",
     "target": "VCR"
 }

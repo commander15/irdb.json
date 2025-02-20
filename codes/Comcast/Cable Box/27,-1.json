@@ -1,5 +1,5 @@
 {
-    "display_name": "Comcast Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -23,15 +23,15 @@
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "ENTER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SELECT"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "A"
             },
             {
@@ -100,10 +100,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Comcast",
     "model": "",
-    "name": "",
+    "name": "Comcast Cable Box",
     "target": "Cable Box"
 }

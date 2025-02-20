@@ -1,13 +1,13 @@
 {
-    "display_name": "Dymond RGB LED Strip",
+    "display_name": "RGB LED Strip",
     "ir": {
         "commands": [
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "Brighter"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "Darker"
             },
             {
@@ -59,27 +59,27 @@
                 "name": "Middle blue"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "Violet"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "Light pink 2"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "Tangerine"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "Picton blue"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "Rose Quartz"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "Light blue 1"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "Cyan"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Pink"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "Light blue 2"
             },
             {
@@ -131,19 +131,19 @@
                 "name": "Slow"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "DIY1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DIY2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DIY3"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "AUTO"
             },
             {
@@ -155,11 +155,11 @@
                 "name": "DIY5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIY6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "Flash"
             },
             {
@@ -184,6 +184,6 @@
     },
     "manufacturer": "Dymond",
     "model": "",
-    "name": "",
+    "name": "Dymond RGB LED Strip",
     "target": "RGB LED Strip"
 }

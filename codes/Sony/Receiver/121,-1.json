@@ -1,13 +1,13 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "INPUT: VIDEO 2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "2 VID 2"
             },
             {
@@ -59,43 +59,43 @@
                 "name": "2 MD"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "INPUT: TV/SAT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "2 TV"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "SOURCE"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "INPUT: SOURCE"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "2 SOURCE"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "2ND ROOM"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "INPUT: DVD/LD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "2 DVD"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

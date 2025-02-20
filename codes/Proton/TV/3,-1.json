@@ -1,5 +1,5 @@
 {
-    "display_name": "Proton TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "RGB1/2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOLUME +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SLEEP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MUTE"
             },
             {
@@ -83,31 +83,31 @@
                 "name": "5"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "6"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "7"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "8"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "9"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "0"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Proton",
     "model": "",
-    "name": "",
+    "name": "Proton TV",
     "target": "TV"
 }

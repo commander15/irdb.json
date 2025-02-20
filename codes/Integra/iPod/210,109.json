@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra iPod",
+    "display_name": "iPod",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "FF (TRACK +)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "REW (TRACK -)"
             },
             {
@@ -35,11 +35,11 @@
                 "name": "TRACK +"
             }
         ],
-        "device_address": "1a4000",
+        "device_address": "1A4000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra iPod",
     "target": "iPod"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Barco Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -47,27 +47,27 @@
                 "name": "ADJUST"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "ENTER"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "OK"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TEXT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "POWER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "STANDBY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAUSE"
             },
             {
@@ -139,27 +139,27 @@
                 "name": "CONTRAST -"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BRIGHTNESS +"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "BRIGHTNESS -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "COLOR +"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "COLOR -"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "TINT +"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "TINT -"
             },
             {
@@ -172,10 +172,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Barco"
+        "protocol": "BARCO"
     },
     "manufacturer": "Barco",
     "model": "",
-    "name": "",
+    "name": "Barco Video Projector",
     "target": "Video Projector"
 }

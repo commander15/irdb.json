@@ -1,5 +1,5 @@
 {
-    "display_name": "Rega Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "AM"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "PRESET -"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "PRESET +"
             }
         ],
@@ -24,6 +24,6 @@
     },
     "manufacturer": "Rega",
     "model": "",
-    "name": "",
+    "name": "Rega Receiver",
     "target": "Receiver"
 }

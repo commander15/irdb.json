@@ -1,5 +1,5 @@
 {
-    "display_name": "Proton TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -27,23 +27,23 @@
                 "name": "MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV/VIDEO"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DISPLAY"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "SELECT"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Proton",
     "model": "",
-    "name": "",
+    "name": "Proton TV",
     "target": "TV"
 }

@@ -1,13 +1,13 @@
 {
-    "display_name": "Digital Music Expres DMX",
+    "display_name": "DMX",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL - PREVIOUS"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PRESET"
             },
             {
@@ -51,23 +51,23 @@
                 "name": "0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STORE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CHANNEL - UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL - DOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "SCAN"
             },
             {
@@ -92,10 +92,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "ScAtl-6"
+        "protocol": "SCATL-6"
     },
     "manufacturer": "Digital Music Expres",
     "model": "",
-    "name": "",
+    "name": "Digital Music Expres DMX",
     "target": "DMX"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sherwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -23,35 +23,35 @@
                 "name": "OPTICAL 1"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "ANALOG"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "SURR MODE: TRUE SURR"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "name": "DIGITAL INPUT"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "name": "VIDEO 1"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "VIDEO 2"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "VIDEO 3"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "VIDEO 4"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "name": "VIDEO 5"
             }
         ],
@@ -60,6 +60,6 @@
     },
     "manufacturer": "Sherwood",
     "model": "",
-    "name": "",
+    "name": "Sherwood Receiver",
     "target": "Receiver"
 }

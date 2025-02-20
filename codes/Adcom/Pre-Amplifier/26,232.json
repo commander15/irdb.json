@@ -1,196 +1,196 @@
 {
-    "display_name": "Adcom Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
                 "address": "14",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "FM MONO MODE",
                 "protocol": "NEC1"
             },
             {
                 "address": "15",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "FM STEREO MODE",
                 "protocol": "NEC1"
             },
             {
                 "address": "16",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "BYPASS ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "17",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "BYPASS OFF",
                 "protocol": "NEC1"
             },
             {
                 "address": "54",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "54",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER ON",
                 "protocol": "NEC2"
             },
             {
                 "address": "55",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER OFF",
                 "protocol": "NEC1"
             },
             {
                 "address": "55",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER OFF",
                 "protocol": "NEC2"
             },
             {
                 "address": "56",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "MUTE ON",
                 "protocol": "NEC1"
             },
             {
                 "address": "57",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "MUTE OFF",
                 "protocol": "NEC1"
             },
             {
                 "address": "80",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
                 "address": "81",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "1",
                 "protocol": "NEC1"
             },
             {
                 "address": "82",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
                 "address": "83",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "3",
                 "protocol": "NEC1"
             },
             {
                 "address": "84",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
                 "address": "85",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
                 "address": "87",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "BASS +",
                 "protocol": "NEC1"
             },
             {
                 "address": "88",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "ROOM 1",
                 "protocol": "NEC1"
             },
             {
                 "address": "89",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "REMOTE INDIV",
                 "protocol": "NEC1"
             },
             {
-                "address": "8a",
-                "device_address": "1a00",
+                "address": "8A",
+                "device_address": "1A00",
                 "name": "REMOTE ALL",
                 "protocol": "NEC1"
             },
             {
-                "address": "8b",
-                "device_address": "1a00",
+                "address": "8B",
+                "device_address": "1A00",
                 "name": "TUNE MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "c0",
-                "device_address": "1a00",
+                "address": "C0",
+                "device_address": "1A00",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "c1",
-                "device_address": "1a00",
+                "address": "C1",
+                "device_address": "1A00",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
-                "address": "c2",
-                "device_address": "1a00",
+                "address": "C2",
+                "device_address": "1A00",
                 "name": "6",
                 "protocol": "NEC1"
             },
             {
-                "address": "c3",
-                "device_address": "1a00",
+                "address": "C3",
+                "device_address": "1A00",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "c4",
-                "device_address": "1a00",
+                "address": "C4",
+                "device_address": "1A00",
                 "name": "BASE -",
                 "protocol": "NEC1"
             },
             {
-                "address": "c5",
-                "device_address": "1a00",
+                "address": "C5",
+                "device_address": "1A00",
                 "name": "TREBLE +",
                 "protocol": "NEC1"
             },
             {
-                "address": "c6",
-                "device_address": "1a00",
+                "address": "C6",
+                "device_address": "1A00",
                 "name": "TREBLE -",
                 "protocol": "NEC1"
             },
             {
-                "address": "c7",
-                "device_address": "1a00",
+                "address": "C7",
+                "device_address": "1A00",
                 "name": "RESET",
                 "protocol": "NEC1"
             },
             {
-                "address": "c8",
-                "device_address": "1a00",
+                "address": "C8",
+                "device_address": "1A00",
                 "name": "PRESET MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "c9",
-                "device_address": "1a00",
+                "address": "C9",
+                "device_address": "1A00",
                 "name": "AM",
                 "protocol": "NEC1"
             },
             {
-                "address": "ca",
-                "device_address": "1a00",
+                "address": "CA",
+                "device_address": "1A00",
                 "name": "FM",
                 "protocol": "NEC1"
             }
@@ -198,6 +198,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

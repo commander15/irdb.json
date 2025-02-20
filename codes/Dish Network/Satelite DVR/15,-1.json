@@ -1,17 +1,17 @@
 {
-    "display_name": "Dish Network Satelite DVR",
+    "display_name": "Satelite DVR",
     "ir": {
         "commands": [
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOLUME -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             }
         ],
@@ -20,6 +20,6 @@
     },
     "manufacturer": "Dish Network",
     "model": "",
-    "name": "",
+    "name": "Dish Network Satelite DVR",
     "target": "Satelite DVR"
 }

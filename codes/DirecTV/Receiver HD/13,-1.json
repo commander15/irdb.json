@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Receiver HD",
+    "display_name": "Receiver HD",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -176,10 +176,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Receiver HD",
     "target": "Receiver HD"
 }

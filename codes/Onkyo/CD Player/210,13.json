@@ -1,358 +1,358 @@
 {
-    "display_name": "Onkyo CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
                 "address": "80",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE FAST FWD >>",
                 "protocol": "NEC2"
             },
             {
                 "address": "80",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE FF >>",
                 "protocol": "NEC2"
             },
             {
                 "address": "80",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE FFWD >>",
                 "protocol": "NEC2"
             },
             {
                 "address": "81",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE FAST REW <<",
                 "protocol": "NEC2"
             },
             {
                 "address": "81",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE REW <<",
                 "protocol": "NEC2"
             },
             {
                 "address": "81",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE REV <<",
                 "protocol": "NEC2"
             },
             {
                 "address": "82",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE VOL +",
                 "protocol": "NEC2"
             },
             {
                 "address": "82",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE VOLUME ^",
                 "protocol": "NEC2"
             },
             {
                 "address": "83",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE VOL -",
                 "protocol": "NEC2"
             },
             {
                 "address": "83",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE VOLUME V",
                 "protocol": "NEC2"
             },
             {
                 "address": "86",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE REPEAT",
                 "protocol": "NEC1"
             },
             {
                 "address": "87",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE A-B",
                 "protocol": "NEC1"
             },
             {
                 "address": "88",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE CLEAR",
                 "protocol": "NEC1"
             },
             {
                 "address": "89",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE MEMORY",
                 "protocol": "NEC1"
             },
             {
-                "address": "8a",
-                "device_address": "1a4000",
+                "address": "8A",
+                "device_address": "1A4000",
                 "name": "TAPE DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "8a",
-                "device_address": "1a4000",
+                "address": "8A",
+                "device_address": "1A4000",
                 "name": "TAPE LAP/REM",
                 "protocol": "NEC1"
             },
             {
-                "address": "8b",
-                "device_address": "1a4000",
+                "address": "8B",
+                "device_address": "1A4000",
                 "name": "TAPE OPEN/CLOSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "8b",
-                "device_address": "1a4000",
+                "address": "8B",
+                "device_address": "1A4000",
                 "name": "TAPE EJECT",
                 "protocol": "NEC1"
             },
             {
-                "address": "8c",
-                "device_address": "1a4000",
+                "address": "8C",
+                "device_address": "1A4000",
                 "name": "TAPE 8",
                 "protocol": "NEC1"
             },
             {
-                "address": "8d",
-                "device_address": "1a4000",
+                "address": "8D",
+                "device_address": "1A4000",
                 "name": "TAPE 9",
                 "protocol": "NEC1"
             },
             {
-                "address": "8e",
-                "device_address": "1a4000",
+                "address": "8E",
+                "device_address": "1A4000",
                 "name": "TAPE 0",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
-                "device_address": "1a4000",
+                "address": "8F",
+                "device_address": "1A4000",
                 "name": "TAPE +10",
                 "protocol": "NEC1"
             },
             {
-                "address": "8f",
-                "device_address": "1a4000",
+                "address": "8F",
+                "device_address": "1A4000",
                 "name": "TAPE 10 +",
                 "protocol": "NEC1"
             },
             {
                 "address": "90",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 1",
                 "protocol": "NEC1"
             },
             {
                 "address": "91",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 2",
                 "protocol": "NEC1"
             },
             {
                 "address": "92",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 3",
                 "protocol": "NEC1"
             },
             {
                 "address": "93",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 4",
                 "protocol": "NEC1"
             },
             {
                 "address": "98",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 5",
                 "protocol": "NEC1"
             },
             {
                 "address": "99",
-                "device_address": "1a4000",
+                "device_address": "1A4000",
                 "name": "TAPE 6",
                 "protocol": "NEC1"
             },
             {
-                "address": "9a",
-                "device_address": "1a4000",
+                "address": "9A",
+                "device_address": "1A4000",
                 "name": "TAPE 7",
                 "protocol": "NEC1"
             },
             {
-                "address": "9c",
-                "device_address": "1a4000",
+                "address": "9C",
+                "device_address": "1A4000",
                 "name": "TAPE STOP []",
                 "protocol": "NEC1"
             },
             {
-                "address": "9d",
-                "device_address": "1a4000",
+                "address": "9D",
+                "device_address": "1A4000",
                 "name": "TAPE PLAY >",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "1a4000",
+                "address": "9E",
+                "device_address": "1A4000",
                 "name": "TAPE REV PLAY <",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "1a4000",
+                "address": "9E",
+                "device_address": "1A4000",
                 "name": "TAPE PLAY R. <",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "1a4000",
+                "address": "9E",
+                "device_address": "1A4000",
                 "name": "TAPE PLAY REV. <",
                 "protocol": "NEC1"
             },
             {
-                "address": "9e",
-                "device_address": "1a4000",
+                "address": "9E",
+                "device_address": "1A4000",
                 "name": "TAPE PLAY REV <",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a4000",
+                "address": "9F",
+                "device_address": "1A4000",
                 "name": "TAPE REC/PAUSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "9f",
-                "device_address": "1a4000",
+                "address": "9F",
+                "device_address": "1A4000",
                 "name": "TAPE REC/PAUSE O/",
                 "protocol": "NEC1"
             },
             {
-                "address": "c2",
-                "device_address": "1a4000",
+                "address": "C2",
+                "device_address": "1A4000",
                 "name": "TAPE EDIT >",
                 "protocol": "NEC2"
             },
             {
-                "address": "c3",
-                "device_address": "1a4000",
+                "address": "C3",
+                "device_address": "1A4000",
                 "name": "TAPE EDIT <",
                 "protocol": "NEC2"
             },
             {
-                "address": "c4",
-                "device_address": "1a4000",
+                "address": "C4",
+                "device_address": "1A4000",
                 "name": "TAPE INDEX",
                 "protocol": "NEC1"
             },
             {
-                "address": "c5",
-                "device_address": "1a4000",
+                "address": "C5",
+                "device_address": "1A4000",
                 "name": "TAPE INTRO",
                 "protocol": "NEC1"
             },
             {
-                "address": "c6",
-                "device_address": "1a4000",
+                "address": "C6",
+                "device_address": "1A4000",
                 "name": "TAPE SHUFFLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "c6",
-                "device_address": "1a4000",
+                "address": "C6",
+                "device_address": "1A4000",
                 "name": "TAPE RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "cc",
-                "device_address": "1a4000",
+                "address": "CC",
+                "device_address": "1A4000",
                 "name": "TAPE AUTO SPACE",
                 "protocol": "NEC1"
             },
             {
-                "address": "cd",
-                "device_address": "1a4000",
+                "address": "CD",
+                "device_address": "1A4000",
                 "name": "TAPE TIME EDIT",
                 "protocol": "NEC1"
             },
             {
-                "address": "ce",
-                "device_address": "1a4000",
+                "address": "CE",
+                "device_address": "1A4000",
                 "name": "TAPE MEMORY SHIFT",
                 "protocol": "NEC1"
             },
             {
-                "address": "cf",
-                "device_address": "1a4000",
+                "address": "CF",
+                "device_address": "1A4000",
                 "name": "TAPE 10",
                 "protocol": "NEC1"
             },
             {
-                "address": "d0",
-                "device_address": "1a4000",
+                "address": "D0",
+                "device_address": "1A4000",
                 "name": "TAPE 11",
                 "protocol": "NEC1"
             },
             {
-                "address": "d1",
-                "device_address": "1a4000",
+                "address": "D1",
+                "device_address": "1A4000",
                 "name": "TAPE 12",
                 "protocol": "NEC1"
             },
             {
-                "address": "d2",
-                "device_address": "1a4000",
+                "address": "D2",
+                "device_address": "1A4000",
                 "name": "TAPE 13",
                 "protocol": "NEC1"
             },
             {
-                "address": "d3",
-                "device_address": "1a4000",
+                "address": "D3",
+                "device_address": "1A4000",
                 "name": "TAPE 14",
                 "protocol": "NEC1"
             },
             {
-                "address": "d4",
-                "device_address": "1a4000",
+                "address": "D4",
+                "device_address": "1A4000",
                 "name": "TAPE 15",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
-                "device_address": "1a4000",
+                "address": "D5",
+                "device_address": "1A4000",
                 "name": "TAPE 16",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
-                "device_address": "1a4000",
+                "address": "D6",
+                "device_address": "1A4000",
                 "name": "TAPE 17",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
-                "device_address": "1a4000",
+                "address": "D7",
+                "device_address": "1A4000",
                 "name": "TAPE 18",
                 "protocol": "NEC1"
             },
             {
-                "address": "d8",
-                "device_address": "1a4000",
+                "address": "D8",
+                "device_address": "1A4000",
                 "name": "TAPE 19",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
-                "device_address": "1a4000",
+                "address": "DA",
+                "device_address": "1A4000",
                 "name": "TAPE DISC",
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
-                "device_address": "1a4000",
+                "address": "DB",
+                "device_address": "1A4000",
                 "name": "TAPE TRACK",
                 "protocol": "NEC1"
             }
@@ -360,6 +360,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo CD Player",
     "target": "CD Player"
 }

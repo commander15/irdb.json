@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC D-VHS",
+    "display_name": "D-VHS",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "REWIND"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "RECORD"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAUSE"
             },
             {
@@ -139,15 +139,15 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "OK"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "ENTER"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "OSD"
             },
             {
@@ -159,19 +159,19 @@
                 "name": "SKIP SEARCH"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "PROGRAM"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "REVIEW"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "RECORD"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "NAVI"
             }
         ],
@@ -180,6 +180,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC D-VHS",
     "target": "D-VHS"
 }

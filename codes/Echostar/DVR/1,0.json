@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "PAGE --"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE +"
             },
             {
@@ -39,23 +39,23 @@
                 "name": "DVR"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POSITION"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SWAP"
             }
         ],
         "device_address": "1",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar DVR",
     "target": "DVR"
 }

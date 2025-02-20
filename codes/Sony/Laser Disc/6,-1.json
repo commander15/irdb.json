@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SEARCH/NEXT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FRAME/TIME"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "REVERSE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "FORWARD"
             },
             {
@@ -127,27 +127,27 @@
                 "name": "REPEAT"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "STILL/STEP>"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "STILL/STEP >"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "STILL/STEP<"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "STILL/STEP <"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -183,7 +183,7 @@
                 "name": "+10"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
@@ -212,10 +212,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Laser Disc",
     "target": "Laser Disc"
 }

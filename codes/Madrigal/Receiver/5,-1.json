@@ -1,5 +1,5 @@
 {
-    "display_name": "Madrigal Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,27 +39,27 @@
                 "name": "CD 2 (6)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TUNER (0)"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TV/AUX (4)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "DELAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "BAL"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SUB"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MODE"
             },
             {
@@ -91,19 +91,19 @@
                 "name": "TAPE 2 (8)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCR 2 (2)"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MUTE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "MENU"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "ENTER"
             },
             {
@@ -147,19 +147,19 @@
                 "name": "REMOTE (FROM PAV)"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BOTH (FROM PAV)"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "RECORD (FROM PAV)"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "OPERATE (FROM PAV)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "STANDBY (FROM PAV)"
             },
             {
@@ -180,6 +180,6 @@
     },
     "manufacturer": "Madrigal",
     "model": "",
-    "name": "",
+    "name": "Madrigal Receiver",
     "target": "Receiver"
 }

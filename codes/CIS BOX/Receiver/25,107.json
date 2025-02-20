@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VID 2"
             },
             {
@@ -31,11 +31,11 @@
                 "name": "CD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "OFF"
             },
             {
@@ -47,19 +47,19 @@
                 "name": "MD"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV SAT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD"
             }
         ],
-        "device_address": "c800",
-        "protocol": "Sony20"
+        "device_address": "C800",
+        "protocol": "SONY20"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX Receiver",
     "target": "Receiver"
 }

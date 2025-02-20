@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo Unknown_Onkyo",
+    "display_name": "Unknown_Onkyo",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "KEY_STOP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_PLAYPAUSE"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "Skip/Search_Back"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "Skip/Search_Forward"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "KEY_0"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "Memory"
             }
         ],
         "device_address": "28000",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Unknown_Onkyo",
     "target": "Unknown_Onkyo"
 }

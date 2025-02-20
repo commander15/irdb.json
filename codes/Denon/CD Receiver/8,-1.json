@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon CD Receiver",
+    "display_name": "CD Receiver",
     "ir": {
         "commands": [
             {
@@ -35,19 +35,19 @@
                 "name": "8"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "9"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "10"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "+10"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PROGRAM/DIRECT"
             },
             {
@@ -79,51 +79,51 @@
                 "name": "SKIP BACK"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FAST FORWARD"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TUNER DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TUNER UP"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "FAST REWIND"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TUNER UP"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TUNER DOWN"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CD PLAY/PAUSE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "BAND"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "CD STOP"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RANDOM"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "FOLDER +"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "FOLDER -"
             },
             {
@@ -131,7 +131,7 @@
                 "name": "EDIT"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "FOLDER MODE"
             },
             {
@@ -139,15 +139,15 @@
                 "name": "MENU/SET"
             },
             {
-                "address": "ea",
+                "address": "EA",
                 "name": "SDB/TONE"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Receiver",
     "target": "CD Receiver"
 }

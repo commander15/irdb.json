@@ -1,5 +1,5 @@
 {
-    "display_name": "Apple MP3 Player",
+    "display_name": "MP3 Player",
     "ir": {
         "commands": [
             {
@@ -27,37 +27,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "40000000",
                 "name": "<< PREV TRACK",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "40000000",
                 "name": "PREVIOUS TRACK",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "40000000",
                 "name": "NEXT CHAPTER",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "40000000",
                 "name": "PREV CHAPTER",
                 "protocol": "NEC2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "40000000",
                 "name": "STOP",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "40000000",
                 "name": "PLAY/RESUME",
                 "protocol": "NEC2"
@@ -105,31 +105,31 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "40000000",
                 "name": "POWER OFF",
                 "protocol": "NEC2"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "40000000",
                 "name": "POWER ON",
                 "protocol": "NEC2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "40000000",
                 "name": ">II PLAY/PAUSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "40000000",
                 "name": "PLAY/PAUSE",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "40000000",
                 "name": "",
                 "protocol": "NEC1"
@@ -138,6 +138,6 @@
     },
     "manufacturer": "Apple",
     "model": "",
-    "name": "",
+    "name": "Apple MP3 Player",
     "target": "MP3 Player"
 }

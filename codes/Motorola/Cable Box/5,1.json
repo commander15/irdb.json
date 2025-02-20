@@ -1,5 +1,5 @@
 {
-    "display_name": "Motorola Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -7,19 +7,19 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MUTE"
             }
         ],
-        "device_address": "a",
-        "protocol": "Zenith"
+        "device_address": "A",
+        "protocol": "ZENITH"
     },
     "manufacturer": "Motorola",
     "model": "",
-    "name": "",
+    "name": "Motorola Cable Box",
     "target": "Cable Box"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,59 +15,59 @@
                 "name": "ABCDE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "POWER"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "BANK A"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "name": "BANK B"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "BANK C"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "name": "BANK D"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "BANK E"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "PRESET 1"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "PRESET 2"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "name": "PRESET 3"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "name": "PRESET 4"
             },
             {
-                "address": "e9",
+                "address": "E9",
                 "name": "PRESET 5"
             },
             {
-                "address": "ea",
+                "address": "EA",
                 "name": "PRESET 6"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "PRESET 7"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "PRESET 8"
             }
         ],
@@ -76,6 +76,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Tuner",
     "target": "Tuner"
 }

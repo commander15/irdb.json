@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "BASS"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SF: EQ"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "EQ"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "EQ/TONE ON/OFF"
             },
             {
@@ -63,43 +63,43 @@
                 "name": "SF MODE <"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SF: TEST TONE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST TONE"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR LEVEL (+)"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR LEVEL +"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "SPEAKER REAR +"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR DN"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR LEVEL (-)"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR LEVEL -"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SPEAKER REAR -"
             },
             {
@@ -135,23 +135,23 @@
                 "name": "SPEAKER CENTER -"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "SOUNDFIELD GENRE"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "GENRE"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "SF: USER/PRE"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

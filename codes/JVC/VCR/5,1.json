@@ -1,17 +1,17 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "TV CMEMORY/ADD"
             }
         ],
-        "device_address": "a",
-        "protocol": "Zenith"
+        "device_address": "A",
+        "protocol": "ZENITH"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

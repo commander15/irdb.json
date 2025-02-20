@@ -1,13 +1,13 @@
 {
-    "display_name": "Classe Audio CRCD",
+    "display_name": "CRCD",
     "ir": {
         "commands": [
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MONO T0"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MONO T1"
             },
             {
@@ -27,11 +27,11 @@
                 "name": "+ (SCAN/TUNE) T1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "BAND T0"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "BAND T1"
             },
             {
@@ -59,19 +59,19 @@
                 "name": "SIGNAL T1"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TUNE T0"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TUNE T1"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "SCAN T0"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "SCAN T1"
             }
         ],
@@ -80,6 +80,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio CRCD",
     "target": "CRCD"
 }

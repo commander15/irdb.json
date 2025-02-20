@@ -1,9 +1,9 @@
 {
-    "display_name": "Sony Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": ""
             },
             {
@@ -31,11 +31,11 @@
                 "name": "OFF"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DOLBY SURROUND"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "MODE"
             },
             {
@@ -47,23 +47,23 @@
                 "name": "EFFECT -"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "DISPLAY"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "FRONT BAL L"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "FRONT BAL R"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR +"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR -"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "SUBWOOFER -"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "MENU DWN"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Surround Processor",
     "target": "Surround Processor"
 }

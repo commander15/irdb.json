@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -35,27 +35,27 @@
                 "name": "TIME"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REPEAT"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MEMORY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "3"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "4"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "PAUSE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "+10"
             },
             {
@@ -128,6 +128,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD CD Player",
     "target": "CD Player"
 }

@@ -1,13 +1,13 @@
 {
-    "display_name": "Sony Unknown_RM-X30",
+    "display_name": "Unknown_RM-X30",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "OFF"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "FM_MW_SW"
             },
             {
@@ -27,11 +27,11 @@
                 "name": "KEY_MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SEEK_AMS-"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SEEK_AMS+"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "KEY_CD"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "AF_TA"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Unknown_RM-X30",
     "target": "Unknown_RM-X30"
 }

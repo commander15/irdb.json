@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -47,7 +47,7 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "STOP"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER OFF"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam CD Player",
     "target": "CD Player"
 }

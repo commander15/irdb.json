@@ -1,5 +1,5 @@
 {
-    "display_name": "Pioneer Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -75,43 +75,43 @@
                 "name": "SIDE A/B"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "SCAN >>"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SCAN <<"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "SEARCH >>"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "SKIP >>"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SEARCH <<"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SKIP <<"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PAUSE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer Laser Disc",
     "target": "Laser Disc"
 }

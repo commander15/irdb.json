@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "TAPE <<"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE PLAY >"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TAPE PAUSE "
             }
         ],
@@ -28,6 +28,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

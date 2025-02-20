@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Volume Control",
+    "display_name": "Volume Control",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "POWER ON"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "VOLUME -"
             }
         ],
@@ -28,6 +28,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Volume Control",
     "target": "Volume Control"
 }

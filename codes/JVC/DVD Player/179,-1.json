@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "PLAY"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PAUSE"
             },
             {
@@ -27,7 +27,7 @@
                 "name": "SKIP >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPEAT"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "9"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "0"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "10+"
             },
             {
@@ -88,6 +88,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC DVD Player",
     "target": "DVD Player"
 }

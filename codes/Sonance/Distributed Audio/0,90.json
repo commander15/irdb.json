@@ -1,5 +1,5 @@
 {
-    "display_name": "Sonance Distributed Audio",
+    "display_name": "Distributed Audio",
     "ir": {
         "commands": [
             {
@@ -45,37 +45,37 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "8",
                 "protocol": "NEC"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "0",
                 "protocol": "NEC2"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "3",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "6",
                 "protocol": "NEC"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "9",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "ENTER",
                 "protocol": "NEC2"
@@ -141,19 +141,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "SCAN >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "TAPE",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "0",
                 "name": "AUX",
                 "protocol": "NEC1"
@@ -162,6 +162,6 @@
     },
     "manufacturer": "Sonance",
     "model": "",
-    "name": "",
+    "name": "Sonance Distributed Audio",
     "target": "Distributed Audio"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Processor",
+    "display_name": "Processor",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "NIGHT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "ROOM EQ"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "EQUALIZER"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Processor",
     "target": "Processor"
 }

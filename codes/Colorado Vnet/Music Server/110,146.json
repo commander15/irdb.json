@@ -1,5 +1,5 @@
 {
-    "display_name": "Colorado Vnet Music Server",
+    "display_name": "Music Server",
     "ir": {
         "commands": [
             {
@@ -11,23 +11,23 @@
                 "name": "BACK"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PAGE CHAPTER +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MENU"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "LIST COVERS <>"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAGE CHAPTER -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "STOP"
             },
             {
@@ -51,7 +51,7 @@
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR RIGHT"
             },
             {
@@ -63,11 +63,11 @@
                 "name": "OK"
             }
         ],
-        "device_address": "1b80000",
+        "device_address": "1B80000",
         "protocol": "NEC2"
     },
     "manufacturer": "Colorado Vnet",
     "model": "",
-    "name": "",
+    "name": "Colorado Vnet Music Server",
     "target": "Music Server"
 }

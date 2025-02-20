@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "8"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "9"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "FF"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PLAY"
             },
             {
@@ -95,23 +95,23 @@
                 "name": "POWER OFF"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "ENTER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SET UP"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "MENU"
             }
         ],
         "device_address": "4",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DVD Player",
     "target": "DVD Player"
 }

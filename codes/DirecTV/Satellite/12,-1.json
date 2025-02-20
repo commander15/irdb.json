@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -39,35 +39,35 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CH/PAGE UP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CH/PAGE DOWN"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV CH"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREVIOUS CHAN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREVIOUS CHANNEL"
             },
             {
@@ -187,11 +187,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -315,35 +315,35 @@
                 "name": "MUTE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MUTE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TV INPUT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TV POWER OFF"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TV POWER ON"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "VOLUME -"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "VOLUME +"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "POWER OFF"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "POWER ON"
             },
             {
@@ -360,10 +360,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Satellite",
     "target": "Satellite"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "L+S Unknown_LS",
+    "display_name": "Unknown_LS",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "scan_up"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "tune_up"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "random"
             },
             {
@@ -39,11 +39,11 @@
                 "name": "KEY_POWER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "KEY_STOP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "mem_up"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "KEY_VOLUMEDOWN"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "KEY_MUTE"
             }
         ],
-        "device_address": "a40",
+        "device_address": "A40",
         "protocol": "NEC1"
     },
     "manufacturer": "L+S",
     "model": "",
-    "name": "",
+    "name": "L+S Unknown_LS",
     "target": "Unknown_LS"
 }

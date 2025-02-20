@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC DVD Recorder",
+    "display_name": "DVD Recorder",
     "ir": {
         "commands": [
             {
@@ -15,23 +15,23 @@
                 "name": "SLOW MOTION -"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAUSE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "JUMP -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "JUMP +"
             },
             {
@@ -127,15 +127,15 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": ""
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "ON SCREEN"
             },
             {
@@ -167,11 +167,11 @@
                 "name": "OPEN / CLOSE"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "PROGRESSIVE SCAN"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "TOP MENU"
             },
             {
@@ -183,47 +183,47 @@
                 "name": "CHAPTER +"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "ANGLE / LIVE CHECK"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "PROGRAMME"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "SUBTITLE"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "RECORD"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "RECORD MODE"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "RETURN"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "CHAPTER -"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "EDIT"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "NAVIGATION"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "name": "HELP"
             },
             {
-                "address": "e9",
+                "address": "E9",
                 "name": "LIVE"
             }
         ],
@@ -232,6 +232,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC DVD Recorder",
     "target": "DVD Recorder"
 }

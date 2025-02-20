@@ -1,13 +1,13 @@
 {
-    "display_name": "Classe Audio DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE T0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE T1"
             },
             {
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio DVD Player",
     "target": "DVD Player"
 }

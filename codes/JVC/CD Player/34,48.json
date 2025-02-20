@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -47,7 +47,7 @@
                 "name": "TRACK +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REPEAT"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "9"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "PLAY"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CLEAR"
             },
             {
@@ -220,6 +220,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC CD Player",
     "target": "CD Player"
 }

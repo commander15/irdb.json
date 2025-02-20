@@ -1,5 +1,5 @@
 {
-    "display_name": "PS Audio CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -59,7 +59,7 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN/CLOSE"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "STOP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "A>B"
             }
         ],
@@ -92,6 +92,6 @@
     },
     "manufacturer": "PS Audio",
     "model": "",
-    "name": "",
+    "name": "PS Audio CD Player",
     "target": "CD Player"
 }

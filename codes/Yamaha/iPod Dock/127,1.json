@@ -1,13 +1,13 @@
 {
-    "display_name": "Yamaha iPod Dock",
+    "display_name": "iPod Dock",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "CURSOR UP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MENU"
             },
             {
@@ -31,31 +31,31 @@
                 "name": "FF"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PAUSE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SKIP <<"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SKIP >>"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "STOP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "PLAY"
             }
         ],
-        "device_address": "fe",
+        "device_address": "FE",
         "protocol": "NEC1"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha iPod Dock",
     "target": "iPod Dock"
 }

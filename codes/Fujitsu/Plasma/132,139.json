@@ -1,5 +1,5 @@
 {
-    "display_name": "Fujitsu Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "POWER TOGGLE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TV"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT TV"
             },
             {
@@ -199,39 +199,39 @@
                 "name": "RGB2: D-SUB15"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RGB3/VIDEO4"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RGB 3/ VIDEO 4"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "VIDEO 4"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RGB3/VIDEO 4"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RGB 3/VID 4"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "INPUT4 - #2"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "RGB 3/VIDEO 4"
             }
         ],
         "device_address": "42000",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "Fujitsu",
     "model": "",
-    "name": "",
+    "name": "Fujitsu Plasma",
     "target": "Plasma"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHECK"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CONTINUE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM"
             },
             {
@@ -67,23 +67,23 @@
                 "name": "0"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "REPEAT"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON (CD-2)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF (CD-2)"
             },
             {
@@ -135,31 +135,31 @@
                 "name": "PAUSE"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC -"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC +"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DISC"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "TRACK"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "BLOCK"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony CD Jukebox",
     "target": "CD Jukebox"
 }

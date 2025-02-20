@@ -1,13 +1,13 @@
 {
-    "display_name": "Kenwood Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TIMER"
             },
             {
@@ -19,15 +19,15 @@
                 "name": "FOLDER PREV"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "INPUT SELECTOR"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "RANDOM"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "TONE TURN OVER"
             }
         ],
@@ -36,6 +36,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Amplifier",
     "target": "Amplifier"
 }

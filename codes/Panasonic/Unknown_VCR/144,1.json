@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Unknown_VCR",
+    "display_name": "Unknown_VCR",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "KEY_RECORD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_PLAY"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SP/LP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_SLOW"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "AV_LINK"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "KEY_102ND"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "KEY_POWER"
             },
             {
@@ -123,7 +123,7 @@
                 "name": "INDEX-"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "INDEX+"
             },
             {
@@ -143,19 +143,19 @@
                 "name": "KEY_EXIT"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "TIMER_REC"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "INPUT_SEL"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Unknown_VCR",
     "target": "Unknown_VCR"
 }

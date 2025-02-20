@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "D/A.CX"
             },
             {
@@ -71,19 +71,19 @@
                 "name": "PAUSE "
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "EDIT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "AUDIO MONITOR"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "+10"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "JOG REVERSE -"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SHUT.FWD(FULL SP)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SHUT.REV(FULL SP)"
             },
             {
@@ -131,15 +131,15 @@
                 "name": "REPEAT A"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "PROGRAM"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "DISC SIDE A"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DISC SIDE B"
             },
             {
@@ -167,23 +167,23 @@
                 "name": "MULTI SPEED >"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "HILITE/INTRO"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "STROBE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "ONE SHOT MEMORY"
             }
         ],
         "device_address": "0",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Laser Disc",
     "target": "Laser Disc"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Emerson VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,19 +19,19 @@
                 "name": "CHANNEL-"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PAUSE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "REWIND <<"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "EXIT"
             },
             {
@@ -43,15 +43,15 @@
                 "name": "MENU"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "RECORD"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STOP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "1"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "0"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "EJECT"
             }
         ],
         "device_address": "0",
-        "protocol": "Emerson"
+        "protocol": "EMERSON"
     },
     "manufacturer": "Emerson",
     "model": "",
-    "name": "",
+    "name": "Emerson VCR",
     "target": "VCR"
 }

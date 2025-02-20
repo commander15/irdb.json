@@ -1,70 +1,70 @@
 {
-    "display_name": "Celadon IR to RS232",
+    "display_name": "IR to RS232",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "VIDEO 1",
                 "protocol": "NEC"
             },
             {
                 "address": "1",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "VIDEO 2",
                 "protocol": "NEC"
             },
             {
                 "address": "2",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "VIDEO 3",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "HD",
                 "protocol": "NEC"
             },
             {
                 "address": "4",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "HD2",
                 "protocol": "NEC"
             },
             {
                 "address": "5",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "RGB 1",
                 "protocol": "NEC2"
             },
             {
                 "address": "6",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "RGB 3",
                 "protocol": "NEC"
             },
             {
                 "address": "7",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "RGB 2",
                 "protocol": "NEC"
             },
             {
                 "address": "9",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "ZOOM",
                 "protocol": "NEC"
             },
             {
-                "address": "a",
-                "device_address": "1ec",
+                "address": "A",
+                "device_address": "1EC",
                 "name": "NORMAL",
                 "protocol": "NEC2"
             },
             {
-                "address": "b",
-                "device_address": "1ec",
+                "address": "B",
+                "device_address": "1EC",
                 "name": "FULL",
                 "protocol": "NEC"
             }
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Celadon",
     "model": "",
-    "name": "",
+    "name": "Celadon IR to RS232",
     "target": "IR to RS232"
 }

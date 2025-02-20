@@ -1,21 +1,21 @@
 {
-    "display_name": "Denon CD Receiver",
+    "display_name": "CD Receiver",
     "ir": {
         "commands": [
             {
-                "address": "e1",
+                "address": "E1",
                 "name": "MINI-DISC STOP"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "MINI-DISC PLAY/PAUSE"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Receiver",
     "target": "CD Receiver"
 }

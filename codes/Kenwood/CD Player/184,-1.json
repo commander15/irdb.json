@@ -1,25 +1,25 @@
 {
-    "display_name": "Kenwood CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "STOP"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "PAUSE"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "PLAY"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "SKIP <<"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "SKIP >>"
             }
         ],
@@ -28,6 +28,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood CD Player",
     "target": "CD Player"
 }

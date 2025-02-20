@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,27 +19,27 @@
                 "name": "STOP []"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY >"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "FF/SRCH >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "REW/SRCH <<"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "PAUSE /><"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "REC"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TRACKING -"
             }
         ],
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa VCR",
     "target": "VCR"
 }

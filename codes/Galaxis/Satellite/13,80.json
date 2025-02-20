@@ -1,5 +1,5 @@
 {
-    "display_name": "Galaxis Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "RECALL"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "I"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TEXT"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TV"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "SETUP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "SOUND"
             },
             {
@@ -83,15 +83,15 @@
                 "name": "DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "ENTER"
             },
             {
@@ -99,15 +99,15 @@
                 "name": "ALT"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "ROT"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GRUN"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "GELB"
             },
             {
@@ -119,19 +119,19 @@
                 "name": "NAVIGATOR"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "EPG"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "name": "TV/VCR"
             }
         ],
-        "device_address": "d0000",
-        "protocol": "Nokia32"
+        "device_address": "D0000",
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Galaxis",
     "model": "",
-    "name": "",
+    "name": "Galaxis Satellite",
     "target": "Satellite"
 }

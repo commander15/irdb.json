@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha DVD",
+    "display_name": "DVD",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "SLOW MOTION -"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW MOTION +"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "AUDIO MODE"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SEARCH >>"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP >>"
             },
             {
@@ -123,7 +123,7 @@
                 "name": "MENU RIGHT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "REPEAT"
             },
             {
@@ -143,15 +143,15 @@
                 "name": "SET UP"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "TITLE"
             }
         ],
-        "device_address": "b0",
-        "protocol": "Panasonic"
+        "device_address": "B0",
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DVD",
     "target": "DVD"
 }

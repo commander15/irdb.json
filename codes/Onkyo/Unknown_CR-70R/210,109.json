@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo Unknown_CR-70R",
+    "display_name": "Unknown_CR-70R",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "INPUT_SELECTOR_CD"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT_SELECTOR_FM"
             },
             {
@@ -67,43 +67,43 @@
                 "name": "DECK-B_FAST_FORWARD"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DECK-B_FAST_REWIND"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CD_PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CD_STOP"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CD_NEXT_TRACK"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CD_PREVIOUS_TRACK"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CD_PAUSE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TUNER_GROUP"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "DECK-A_STOP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DECK-A_FORWARD_PLAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DECK-A_REVERSE_PLAY"
             },
             {
@@ -115,15 +115,15 @@
                 "name": "DECK-A_FAST_REWIND"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "KEY_SLEEP"
             }
         ],
-        "device_address": "1a4000",
+        "device_address": "1A4000",
         "protocol": "NEC"
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo Unknown_CR-70R",
     "target": "Unknown_CR-70R"
 }

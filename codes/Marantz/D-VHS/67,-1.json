@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz D-VHS",
+    "display_name": "D-VHS",
     "ir": {
         "commands": [
             {
@@ -21,25 +21,25 @@
                 "protocol": "JVC"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "-80000000",
                 "name": "PLAY",
                 "protocol": "JVC"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "-80000000",
                 "name": "PREV.",
                 "protocol": "JVC"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "-80000000",
                 "name": "REWIND",
                 "protocol": "JVC"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "PAUSE",
                 "protocol": "JVC"
@@ -87,13 +87,13 @@
                 "protocol": "JVC"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "-80000000",
                 "name": "",
                 "protocol": "JVC{2}"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "-80000000",
                 "name": "ON",
                 "protocol": "JVC"
@@ -213,25 +213,25 @@
                 "protocol": "JVC{2}"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "device_address": "-80000000",
                 "name": "CURSOR ENTER",
                 "protocol": "JVC"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "device_address": "-80000000",
                 "name": "OK",
                 "protocol": "JVC"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "device_address": "-80000000",
                 "name": "ENTER",
                 "protocol": "JVC"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "device_address": "-80000000",
                 "name": "OSD",
                 "protocol": "JVC{2}"
@@ -261,13 +261,13 @@
                 "protocol": "JVC"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "device_address": "-80000000",
                 "name": "RECORD",
                 "protocol": "JVC"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "device_address": "-80000000",
                 "name": "NAVI",
                 "protocol": "JVC"
@@ -276,6 +276,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz D-VHS",
     "target": "D-VHS"
 }

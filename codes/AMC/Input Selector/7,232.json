@@ -1,5 +1,5 @@
 {
-    "display_name": "AMC Input Selector",
+    "display_name": "Input Selector",
     "ir": {
         "commands": [
             {
@@ -7,47 +7,47 @@
                 "name": "MUTE"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "2"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "1"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "3"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "4"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "5"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "6"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "7"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "8"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "VOLUME +"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "VOLUME -"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "POWER"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "AMC",
     "model": "",
-    "name": "",
+    "name": "AMC Input Selector",
     "target": "Input Selector"
 }

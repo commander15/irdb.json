@@ -1,17 +1,17 @@
 {
-    "display_name": "Sony DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV/VIDEO"
             }
         ],
-        "device_address": "a",
-        "protocol": "Zenith"
+        "device_address": "A",
+        "protocol": "ZENITH"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSS",
     "target": "DSS"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Motorola IP box",
+    "display_name": "IP box",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TV/EXIT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CURSOR OK"
             },
             {
@@ -27,19 +27,19 @@
                 "name": "VIDEO"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "4"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "0"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "COLOR 4 BLUE / SWAP"
             },
             {
@@ -47,23 +47,23 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "SCAN <<"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "MENY"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "5"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "E"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "REC"
             },
             {
@@ -71,19 +71,19 @@
                 "name": "CURSOR UP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "SCAN >>"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "6"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "VOLUME -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "COLOR 2 GREEN / INFO"
             },
             {
@@ -95,19 +95,19 @@
                 "name": "INFO"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "STOP"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "COLOR 1 RED"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "7"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "VOLUME +"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "BACK"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "8"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "?"
             },
             {
@@ -139,11 +139,11 @@
                 "name": "2"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "VOLUME MUTE"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "9"
             },
             {
@@ -155,19 +155,19 @@
                 "name": "3"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "TEXT"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "CHANNEL +"
             }
         ],
         "device_address": "10",
-        "protocol": "Zaptor-56"
+        "protocol": "ZAPTOR-56"
     },
     "manufacturer": "Motorola",
     "model": "",
-    "name": "",
+    "name": "Motorola IP box",
     "target": "IP box"
 }

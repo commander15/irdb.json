@@ -1,5 +1,5 @@
 {
-    "display_name": "Bell Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -31,23 +31,23 @@
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9"
             },
             {
@@ -95,55 +95,55 @@
                 "name": "MENU RT."
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CH+"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "MENU UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURS UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECAL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MENU LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CH-"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "MENU DWN."
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECRD"
             },
             {
@@ -164,10 +164,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Bell",
     "model": "",
-    "name": "",
+    "name": "Bell Satellite",
     "target": "Satellite"
 }

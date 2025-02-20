@@ -1,13 +1,13 @@
 {
-    "display_name": "Philips Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "OSD"
             },
             {
@@ -19,7 +19,7 @@
                 "name": "VOLUME-"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SPEAKERS"
             },
             {
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Philips",
     "model": "",
-    "name": "",
+    "name": "Philips Receiver",
     "target": "Receiver"
 }

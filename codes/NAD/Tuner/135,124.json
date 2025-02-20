@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -31,7 +31,7 @@
                 "name": "TUNER BANK"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "CD PAUSE "
             },
             {
@@ -75,11 +75,11 @@
                 "name": "PHONO"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "MASTER VOLUME -"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TAPE1"
             },
             {
@@ -91,75 +91,75 @@
                 "name": "MUTE"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "DECKB REC/PAUSE"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "DECKB PLAY >"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "DECKB FF >>"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "DECKB REW <<"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "DECKB STOP []"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "VIDEO2"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "VIDEO1"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "SURROUND MODE"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "TEST"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "SRND CENTER VOL ^"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "TUNER PRESET -"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TUNER PRESET +"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "SRND CENTER VOL V"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "SRND REAR VOL ^"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "SRND REAR VOL V"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "DELAY"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "TUNER"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DECKB REV PLAY <"
             }
         ],
@@ -168,6 +168,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Tuner",
     "target": "Tuner"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Motorola DVR",
+    "display_name": "DVR",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": ""
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CHANNEL -"
             },
             {
@@ -83,19 +83,19 @@
                 "name": "A"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ON DEMAND"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "FFW"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "REW"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PAUSE"
             },
             {
@@ -159,27 +159,27 @@
                 "name": "STOP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE +"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PAGE -"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "QUICK REWIND"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DVR LIST"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "LIST"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "LIVE"
             },
             {
@@ -188,10 +188,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Motorola",
     "model": "",
-    "name": "",
+    "name": "Motorola DVR",
     "target": "DVR"
 }

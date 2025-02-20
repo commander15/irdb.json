@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -27,7 +27,7 @@
                 "name": "IPOD STOP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "IPOD PAUSE"
             },
             {
@@ -55,23 +55,23 @@
                 "name": "IPOD ENTER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "IPOD CURSOR/ARROW UP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "IPOD CURSOR/ARROW DOWN"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "IPOD CURSOR/ARROW LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "IPOD CURSOR/ARROW RIGHT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "IPOD STATUS REQUEST"
             },
             {
@@ -83,15 +83,15 @@
                 "name": "IPOD RETURN"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "IPOD MODE TOGGLE BROWSE/REMOTE"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "IPOD MODE BROWSE"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "IPOD MODE REMOTE"
             },
             {
@@ -131,19 +131,19 @@
                 "name": "PAGE UP"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "PAGE DOWN"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "INTERNET RADIO DIRECT"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "IPOD DIRECT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "MUTE TOGGLE"
             },
             {
@@ -160,10 +160,10 @@
             }
         ],
         "device_address": "10",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "LD FF >>"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "LD PLAY >"
             }
         ],
-        "device_address": "5b000",
+        "device_address": "5B000",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -83,15 +83,15 @@
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "AUX"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO 2"
             },
             {
@@ -131,11 +131,11 @@
                 "name": "BALANCE R"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
@@ -167,7 +167,7 @@
                 "name": "MD TAPE"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV/SAT"
             },
             {
@@ -175,19 +175,19 @@
                 "name": "MULTI CH"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD/LD"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

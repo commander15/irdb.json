@@ -1,9 +1,9 @@
 {
-    "display_name": "Harman Kardon Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "2080000",
                 "name": "# (P-SCAN)",
                 "protocol": "NEC2"
@@ -33,13 +33,13 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "2080000",
                 "name": "OSD",
                 "protocol": "NEC2"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "device_address": "2080000",
                 "name": "CH SELECT",
                 "protocol": "NEC2"
@@ -75,25 +75,25 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "2080000",
                 "name": "DELAY",
                 "protocol": "NEC2"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "device_address": "2080000",
                 "name": "TEST TONE",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "2080000",
                 "name": "SPEAKER ^",
                 "protocol": "NEC2"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "device_address": "2080000",
                 "name": "SPEAKER V",
                 "protocol": "NEC2"
@@ -123,91 +123,91 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "device_address": "2080000",
                 "name": "STEREO",
                 "protocol": "NEC2"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "device_address": "2080000",
                 "name": "3 ST",
                 "protocol": "NEC2"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "device_address": "2080000",
                 "name": "P/L",
                 "protocol": "NEC2"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "2080000",
                 "name": "AM/FM PRESET DISC +",
                 "protocol": "NEC1"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "2080000",
                 "name": "PRESET+",
                 "protocol": "NEC1"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "2080000",
                 "name": "AM/FM PRESET DISC -",
                 "protocol": "NEC1"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "2080000",
                 "name": "PRESET-",
                 "protocol": "NEC1"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "device_address": "2080000",
                 "name": "AM/FM SKIP >>",
                 "protocol": "NEC1"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "device_address": "2080000",
                 "name": "AM/FM SKIP <<",
                 "protocol": "NEC1"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "device_address": "2080000",
                 "name": "AM/FM PTY (REC/)",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "2080000",
                 "name": "AM/FM AF (>)",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "device_address": "2080000",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "device_address": "2080000",
                 "name": "AM/FM RDS DISP (STOP",
                 "protocol": "NEC1"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "device_address": "2080000",
                 "name": "INFO/RDS",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "device_address": "2080000",
                 "name": "MULTI",
                 "protocol": "NEC1"
@@ -216,6 +216,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Tuner",
     "target": "Tuner"
 }

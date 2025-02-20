@@ -1,9 +1,9 @@
 {
-    "display_name": "Kenwood VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "N.B."
             },
             {
@@ -19,7 +19,7 @@
                 "name": "LEVEL MODE"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "INPUT"
             }
         ],
@@ -28,6 +28,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood VCR",
     "target": "VCR"
 }

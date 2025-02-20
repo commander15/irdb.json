@@ -1,65 +1,65 @@
 {
-    "display_name": "Comcast Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "VOLUME -",
-                "protocol": "RCA-38(Old)"
+                "protocol": "RCA-38(OLD)"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "VOLUME -",
                 "protocol": "RCA-38"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "VOLUME -",
-                "protocol": "RCA(Old)"
+                "protocol": "RCA(OLD)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "-80000000",
                 "name": "VOLUME +",
-                "protocol": "RCA-38(Old)"
+                "protocol": "RCA-38(OLD)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "-80000000",
                 "name": "VOLUME +",
                 "protocol": "RCA-38"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "-80000000",
                 "name": "VOLUME+",
-                "protocol": "RCA(Old)"
+                "protocol": "RCA(OLD)"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "-80000000",
                 "name": "MUTE",
-                "protocol": "RCA-38(Old)"
+                "protocol": "RCA-38(OLD)"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "-80000000",
                 "name": "MUTE",
                 "protocol": "RCA-38"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "-80000000",
                 "name": "MUTE",
-                "protocol": "RCA(Old)"
+                "protocol": "RCA(OLD)"
             }
         ]
     },
     "manufacturer": "Comcast",
     "model": "",
-    "name": "",
+    "name": "Comcast Cable Box",
     "target": "Cable Box"
 }

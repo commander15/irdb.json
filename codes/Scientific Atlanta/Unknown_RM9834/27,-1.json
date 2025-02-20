@@ -1,5 +1,5 @@
 {
-    "display_name": "Scientific Atlanta Unknown_RM9834",
+    "display_name": "Unknown_RM9834",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_MENU"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "KEY_DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "KEY_OK"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_LAST"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "KEY_0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "KEY_CHANNELUP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "KEY_CHANNELDOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "KEY_FAVORITES"
             },
             {
@@ -112,10 +112,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Scientific Atlanta",
     "model": "",
-    "name": "",
+    "name": "Scientific Atlanta Unknown_RM9834",
     "target": "Unknown_RM9834"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sharp VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "REC STANDBY"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "POWER"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CALL"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "PROGRAM"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "SP/LP/EP"
             },
             {
@@ -103,7 +103,7 @@
                 "name": "RECORD"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SLOW MOTION +"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "CANCEL"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "DISPLAY"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "ON SCREEN"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Sharp",
     "model": "",
-    "name": "",
+    "name": "Sharp VCR",
     "target": "VCR"
 }

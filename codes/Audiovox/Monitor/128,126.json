@@ -1,5 +1,5 @@
 {
-    "display_name": "Audiovox Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -21,19 +21,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "DN",
                 "protocol": "NEC"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "SAVE",
                 "protocol": "NEC1"
@@ -48,6 +48,6 @@
     },
     "manufacturer": "Audiovox",
     "model": "",
-    "name": "",
+    "name": "Audiovox Monitor",
     "target": "Monitor"
 }

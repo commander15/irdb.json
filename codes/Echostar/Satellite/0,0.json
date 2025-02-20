@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -27,23 +27,23 @@
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9"
             },
             {
@@ -115,67 +115,67 @@
                 "name": "> (BROWSE)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ARROW UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "UP"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "^"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "LEFT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "< (THEME)"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "V"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECORD"
             },
             {
@@ -196,10 +196,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar Satellite",
     "target": "Satellite"
 }

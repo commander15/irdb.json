@@ -1,5 +1,5 @@
 {
-    "display_name": "Coby DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "SELECT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
@@ -23,7 +23,7 @@
                 "name": "FWW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "REW"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "MENU"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "LEFT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TITLE"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "PLAY"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "STOP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "PAUSE"
             }
         ],
@@ -68,6 +68,6 @@
     },
     "manufacturer": "Coby",
     "model": "",
-    "name": "",
+    "name": "Coby DVD Player",
     "target": "DVD Player"
 }

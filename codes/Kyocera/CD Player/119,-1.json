@@ -1,5 +1,5 @@
 {
-    "display_name": "Kyocera CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -11,43 +11,43 @@
                 "name": "PLAY >"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PAUSE "
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REPEAT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SKIP <"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SKIP >"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "FFWD >>"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "REW <<"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "C/AC"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "REMAIN"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "MEMORY"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "Kyocera",
     "model": "",
-    "name": "",
+    "name": "Kyocera CD Player",
     "target": "CD Player"
 }

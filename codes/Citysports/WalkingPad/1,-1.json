@@ -1,5 +1,5 @@
 {
-    "display_name": "Citysports WalkingPad",
+    "display_name": "WalkingPad",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "POWER_ON"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "POWER_OFF"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PLUS"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MINUS"
             },
             {
@@ -28,6 +28,6 @@
     },
     "manufacturer": "Citysports",
     "model": "",
-    "name": "",
+    "name": "Citysports WalkingPad",
     "target": "WalkingPad"
 }

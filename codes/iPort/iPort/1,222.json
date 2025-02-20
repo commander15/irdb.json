@@ -1,5 +1,5 @@
 {
-    "display_name": "iPort iPort",
+    "display_name": "iPort",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PREV SONG"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "NEXT ALBUM"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PREV ALBUM"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "STOP"
             },
             {
@@ -51,19 +51,19 @@
                 "name": "REPEAT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PLAY"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PLAY/PAUSE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "POWER OFF"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "POWER ON"
             },
             {
@@ -112,6 +112,6 @@
     },
     "manufacturer": "iPort",
     "model": "",
-    "name": "",
+    "name": "iPort",
     "target": "iPort"
 }

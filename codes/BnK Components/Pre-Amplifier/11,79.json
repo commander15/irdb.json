@@ -1,5 +1,5 @@
 {
-    "display_name": "BnK Components Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -75,43 +75,43 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "58000",
                 "name": "TAPE",
                 "protocol": "NEC2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "58000",
                 "name": "IN 7 TAPE",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "58000",
                 "name": "DVD",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "58000",
                 "name": "IN 4 DVD",
                 "protocol": "NEC2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "58000",
                 "name": "TUNER",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "58000",
                 "name": "CD",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "58000",
                 "name": "IN 5 CD",
                 "protocol": "NEC2"
@@ -153,55 +153,55 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "58000",
                 "name": "REAR +",
                 "protocol": "NEC2"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "58000",
                 "name": "TUNE-",
                 "protocol": "NEC2"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "58000",
                 "name": "TUNE DN",
                 "protocol": "NEC2"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "58000",
                 "name": "TUNE+",
                 "protocol": "NEC2"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "58000",
                 "name": "TUNE UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "58000",
                 "name": "SUB -",
                 "protocol": "NEC2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "58000",
                 "name": "SUB +",
                 "protocol": "NEC2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "58000",
                 "name": "CR LEFT",
                 "protocol": "NEC2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "58000",
                 "name": "CURSOR LEFT",
                 "protocol": "NEC2"
@@ -243,43 +243,43 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "58000",
                 "name": "EQ",
                 "protocol": "NEC2"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "58000",
                 "name": "DVD-A",
                 "protocol": "NEC2"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "58000",
                 "name": "CR DOWN",
                 "protocol": "NEC2"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "58000",
                 "name": "CURSOR DOWN",
                 "protocol": "NEC2"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "58000",
                 "name": "CR UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "58000",
                 "name": "CURSOR UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "58000",
                 "name": "MENU",
                 "protocol": "NEC2"
@@ -351,25 +351,25 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "device_address": "58000",
                 "name": "8",
                 "protocol": "NEC2"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "device_address": "58000",
                 "name": "9",
                 "protocol": "NEC2"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "device_address": "58000",
                 "name": "0",
                 "protocol": "NEC2"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "device_address": "58000",
                 "name": "Z",
                 "protocol": "NEC2"
@@ -381,31 +381,31 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "58000",
                 "name": "SAT",
                 "protocol": "NEC2"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "58000",
                 "name": "IN 6 SAT",
                 "protocol": "NEC2"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "58000",
                 "name": "PRESET +",
                 "protocol": "NEC2"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "58000",
                 "name": "CHANNEL +",
                 "protocol": "NEC2"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "58000",
                 "name": "D IN",
                 "protocol": "NEC2"
@@ -423,7 +423,7 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "device_address": "58000",
                 "name": "IN 9",
                 "protocol": "NEC2"
@@ -453,115 +453,115 @@
                 "protocol": "NEC2"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "device_address": "58000",
                 "name": "EXIT",
                 "protocol": "NEC2"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "device_address": "58000",
                 "name": "THX",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "58000",
                 "name": "FM",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "58000",
                 "name": "FM MODE",
                 "protocol": "NEC2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "device_address": "58000",
                 "name": "TUNER",
                 "protocol": "NEC2"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "device_address": "58000",
                 "name": "MONO",
                 "protocol": "NEC2"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "58000",
                 "name": "POWER TOGGLE",
                 "protocol": "NEC2"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "device_address": "58000",
                 "name": "PRESET -",
                 "protocol": "NEC2"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "device_address": "58000",
                 "name": "CHANNEL -",
                 "protocol": "NEC2"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "device_address": "58000",
                 "name": "SURR",
                 "protocol": "NEC2"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "device_address": "58000",
                 "name": "A KEY",
                 "protocol": "NEC2"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "device_address": "58000",
                 "name": "LOUDNESS",
                 "protocol": "NEC2"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "device_address": "58000",
                 "name": "LOUD",
                 "protocol": "NEC2"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "device_address": "58000",
                 "name": "STEREO",
                 "protocol": "NEC2"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "device_address": "58000",
                 "name": "BASS+",
                 "protocol": "NEC2"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "device_address": "58000",
                 "name": "BASS UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "device_address": "58000",
                 "name": "ST/MONO",
                 "protocol": "NEC2"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "device_address": "58000",
                 "name": "TREBLE+",
                 "protocol": "NEC2"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "device_address": "58000",
                 "name": "TREB UP",
                 "protocol": "NEC2"
@@ -570,6 +570,6 @@
     },
     "manufacturer": "BnK Components",
     "model": "",
-    "name": "",
+    "name": "BnK Components Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

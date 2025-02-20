@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "DAT REW"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DAT PLAY"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DAT PAUSE"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "DAT 9"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DAT 10"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "DAT +10"
             }
         ],
@@ -84,6 +84,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Tuner",
     "target": "Tuner"
 }

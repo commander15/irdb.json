@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -35,15 +35,15 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CLEAR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MEMORY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "T/C"
             },
             {
@@ -67,23 +67,23 @@
                 "name": "4"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DISPLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAUSE "
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAUSE/STEP />"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "+10"
             },
             {
@@ -119,27 +119,27 @@
                 "name": "6"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "3D-DNR"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SKIP <<"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "SKIP <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "SCAN <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "SEARCH <<"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "REV <<"
             },
             {
@@ -179,19 +179,19 @@
                 "name": "8"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SIDE A/B"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "A-B REPEAT"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "A-B RPT"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "RANDOM"
             },
             {
@@ -287,31 +287,31 @@
                 "name": "SUBTITLE ON OFF"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "FRAME >>"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "RIGHT"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "CURSOR >"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "RETURN"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi DVD Player",
     "target": "DVD Player"
 }

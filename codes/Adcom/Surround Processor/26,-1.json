@@ -1,9 +1,9 @@
 {
-    "display_name": "Adcom Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR/CTR RESET"
             },
             {
@@ -47,23 +47,23 @@
                 "name": "SUBWOOFER + (LVL ADJ"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CENTER + (LEVEL ADJ)"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REAR + (LEVEL ADJ)"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DELAY"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "POWER"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "MUTING"
             }
         ],
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Surround Processor",
     "target": "Surround Processor"
 }

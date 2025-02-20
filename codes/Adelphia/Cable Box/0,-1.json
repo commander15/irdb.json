@@ -1,5 +1,5 @@
 {
-    "display_name": "Adelphia Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CH+"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CH-"
             },
             {
@@ -111,19 +111,19 @@
                 "name": "DAY-"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PAGE-"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PAGE+"
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Adelphia",
     "model": "",
-    "name": "",
+    "name": "Adelphia Cable Box",
     "target": "Cable Box"
 }

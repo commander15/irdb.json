@@ -1,5 +1,5 @@
 {
-    "display_name": "Carver Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "PAUSE/STOP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SKIP +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SKIP -"
             },
             {
@@ -75,27 +75,27 @@
                 "name": "AM"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "1/11"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "2/12"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "3/13"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "4/14"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "5/15"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "6/16"
             },
             {
@@ -131,23 +131,23 @@
                 "name": "10/20"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "MUTE"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "AUX"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "VIDEO2/AUX"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "VIDEO2"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "ACCD"
             }
         ],
@@ -156,6 +156,6 @@
     },
     "manufacturer": "Carver",
     "model": "",
-    "name": "",
+    "name": "Carver Receiver",
     "target": "Receiver"
 }

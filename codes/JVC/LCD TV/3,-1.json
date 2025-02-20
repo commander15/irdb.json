@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC LCD TV",
+    "display_name": "LCD TV",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "OK/SELECT"
             },
             {
@@ -35,19 +35,19 @@
                 "name": "ARROW UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VIDEO4"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "MENU"
             },
             {
@@ -60,6 +60,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC LCD TV",
     "target": "LCD TV"
 }

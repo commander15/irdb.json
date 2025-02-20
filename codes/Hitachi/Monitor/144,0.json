@@ -1,5 +1,5 @@
 {
-    "display_name": "Hitachi Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "VCR REC"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR PLAY >"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "TV/VCR"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "VCR POWER"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi Monitor",
     "target": "Monitor"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "VCR REW"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCR PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VCR PAUSE"
             },
             {
@@ -31,11 +31,11 @@
                 "name": "TV (CONTROL)"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "VCR REC/PLAY"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "VCR REC/PAUSE"
             }
         ],
@@ -44,6 +44,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Tuner",
     "target": "Tuner"
 }

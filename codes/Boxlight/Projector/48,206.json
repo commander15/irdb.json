@@ -1,17 +1,17 @@
 {
-    "display_name": "Boxlight Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
-                "address": "ff",
+                "address": "FF",
                 "name": ""
             }
         ],
-        "device_address": "c0000",
+        "device_address": "C0000",
         "protocol": "NEC2"
     },
     "manufacturer": "Boxlight",
     "model": "",
-    "name": "",
+    "name": "Boxlight Projector",
     "target": "Projector"
 }

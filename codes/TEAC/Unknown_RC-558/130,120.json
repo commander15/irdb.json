@@ -1,13 +1,13 @@
 {
-    "display_name": "TEAC Unknown_RC-558",
+    "display_name": "Unknown_RC-558",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "counter_clear"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "auto_monitor"
             },
             {
@@ -39,7 +39,7 @@
                 "name": "KEY_RECORD"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "display"
             },
             {
@@ -51,19 +51,19 @@
                 "name": "CD_sync_left"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CPS_forward"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CPS_back"
             }
         ],
-        "device_address": "-7e000000",
+        "device_address": "-7E000000",
         "protocol": "NEC"
     },
     "manufacturer": "TEAC",
     "model": "",
-    "name": "",
+    "name": "TEAC Unknown_RC-558",
     "target": "Unknown_RC-558"
 }

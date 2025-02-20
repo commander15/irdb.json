@@ -1,5 +1,5 @@
 {
-    "display_name": "Midiland Digital Decoder",
+    "display_name": "Digital Decoder",
     "ir": {
         "commands": [
             {
@@ -27,23 +27,23 @@
                 "name": "REAR"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "FL VOL"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OK"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CENTRE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RL VOL"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SW VOL"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "POWER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VOLUME SETUP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MUTE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "INPUT"
             }
         ],
@@ -92,6 +92,6 @@
     },
     "manufacturer": "Midiland",
     "model": "",
-    "name": "",
+    "name": "Midiland Digital Decoder",
     "target": "Digital Decoder"
 }

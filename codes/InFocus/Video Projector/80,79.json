@@ -1,5 +1,5 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME -"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FREEZE"
             },
             {
@@ -47,19 +47,19 @@
                 "name": "ENTER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SOURCE-LOCK"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VIDEO 1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "VIDEO 2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "COMPUTER"
             },
             {
@@ -72,6 +72,6 @@
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

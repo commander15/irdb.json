@@ -1,9 +1,9 @@
 {
-    "display_name": "Copland CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "AUX2"
             },
             {
@@ -27,11 +27,11 @@
                 "name": "TAPE"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "VOLUME UP"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VOLUME DOWN"
             }
         ],
@@ -40,6 +40,6 @@
     },
     "manufacturer": "Copland",
     "model": "",
-    "name": "",
+    "name": "Copland CD Player",
     "target": "CD Player"
 }

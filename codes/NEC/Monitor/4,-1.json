@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -27,11 +27,11 @@
                 "name": "TV/VIDEO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV MUTE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TV ANT/AUX"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "TV 9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TV TIMER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV RECALL"
             }
         ],
@@ -88,6 +88,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Monitor",
     "target": "Monitor"
 }

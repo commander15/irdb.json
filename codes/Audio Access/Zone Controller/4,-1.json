@@ -1,21 +1,21 @@
 {
-    "display_name": "Audio Access Zone Controller",
+    "display_name": "Zone Controller",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "RECALL"
             }
         ],
         "device_address": "0",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Audio Access",
     "model": "",
-    "name": "",
+    "name": "Audio Access Zone Controller",
     "target": "Zone Controller"
 }

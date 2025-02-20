@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Switcher",
+    "display_name": "Switcher",
     "ir": {
         "commands": [
             {
@@ -39,55 +39,55 @@
                 "name": "MONITOR 7"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "MONITOR OUT Y/C"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "SOURCE 1"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "SOURCE 2"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "SOURCE 3"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "SOURCE 4"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "SOURCE 5"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "SOURCE 6"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "SOURCE 7"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "DUAL OPERATION"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "KEY LOCK"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "PROCESSOR VIDEO"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "PROCESSOR AUDIO"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "AUX"
             }
         ],
@@ -96,6 +96,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Switcher",
     "target": "Switcher"
 }

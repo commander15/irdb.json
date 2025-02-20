@@ -1,17 +1,17 @@
 {
-    "display_name": "KEY DIGITAL Matrix Switcher",
+    "display_name": "Matrix Switcher",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "ENTER"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "KEY DIGITAL",
     "model": "",
-    "name": "",
+    "name": "KEY DIGITAL Matrix Switcher",
     "target": "Matrix Switcher"
 }

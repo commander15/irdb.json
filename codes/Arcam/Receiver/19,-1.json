@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "DVD-A"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE-TOGGLE"
             },
             {
@@ -51,7 +51,7 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "ZONE 2 ON"
             },
             {
@@ -64,6 +64,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam Receiver",
     "target": "Receiver"
 }

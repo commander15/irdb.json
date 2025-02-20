@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Unknown_DVD",
+    "display_name": "Unknown_DVD",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "NUMBER_0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "KEY_ENTER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_ENTER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_CLEAR"
             },
             {
@@ -63,15 +63,15 @@
                 "name": "KEY_OPEN"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "KEY_TITLE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "KEY_MENU"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM"
             },
             {
@@ -95,7 +95,7 @@
                 "name": "TIME_TEXT"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "KEY_AGAIN"
             },
             {
@@ -151,23 +151,23 @@
                 "name": "ARROW_UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "ARROW_DOWN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "ARROW_LEFT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "ARROW_RIGHT"
             }
         ],
         "device_address": "3400",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Unknown_DVD",
     "target": "Unknown_DVD"
 }

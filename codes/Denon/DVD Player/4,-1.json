@@ -1,53 +1,53 @@
 {
-    "display_name": "Denon DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "SEARCH MODE"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": ""
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "ZOOM"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "PICTURE ADJUST"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "PICT. ADJUST"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "PICADJ"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "PIC ADJ"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "DIMMER"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "PURE DIRECT MEMORY"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "P.D. MEMORY"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DVD Player",
     "target": "DVD Player"
 }

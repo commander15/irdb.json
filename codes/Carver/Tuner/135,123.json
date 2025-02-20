@@ -1,5 +1,5 @@
 {
-    "display_name": "Carver Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "PAUSE/STOP"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SKIP +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SKIP -"
             },
             {
@@ -47,51 +47,51 @@
                 "name": "AM"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "1/11"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "2/12"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "2"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "3/13"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "3"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "4/14"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "4"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "5/15"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "5"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "6/16"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "6"
             },
             {
@@ -127,7 +127,7 @@
                 "name": "10"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "ACCD"
             }
         ],
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Carver",
     "model": "",
-    "name": "",
+    "name": "Carver Tuner",
     "target": "Tuner"
 }

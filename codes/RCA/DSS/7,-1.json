@@ -1,5 +1,5 @@
 {
-    "display_name": "RCA DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -31,7 +31,7 @@
                 "name": "SERVICE MENU"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "RESET"
             },
             {
@@ -39,7 +39,7 @@
                 "name": "RECORD PROGRAM"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "GUIDE"
             },
             {
@@ -47,19 +47,19 @@
                 "name": "GO BACK"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "ON/OFF"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CHANNEL +"
             },
             {
@@ -103,23 +103,23 @@
                 "name": "9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "POWER ON"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "SAT"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POWER OFF"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TOGGLE MUTE"
             },
             {
@@ -163,7 +163,7 @@
                 "name": "HD OFF"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "HD ON"
             },
             {
@@ -175,51 +175,51 @@
                 "name": "S-OUTPUT 4:3 FULL"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "INPUT"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "ALTERNATE AUDIO"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "DISPLAY: 4:3 FILL"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "S-OUT 4:3/16:9 TOGLE"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "DISPLAY: 4:3 FULL"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "DISPLAY: 4:3 NORMAL"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "ANTENNA B"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "ANTENNA A"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "SATILITE"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "LAST SELECTED ANT."
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "OK / I"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "OK"
             }
         ],
@@ -228,6 +228,6 @@
     },
     "manufacturer": "RCA",
     "model": "",
-    "name": "",
+    "name": "RCA DSS",
     "target": "DSS"
 }

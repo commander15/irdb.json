@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -15,7 +15,7 @@
                 "name": "VCRA TV/VCR"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV PIP VCR CH ^"
             },
             {
@@ -23,7 +23,7 @@
                 "name": "TV PIP VCR CH V"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCRA INPUT V"
             },
             {
@@ -31,11 +31,11 @@
                 "name": "QUICK PROGRAM"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "VCRA INPUT ^"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "INPUT"
             },
             {
@@ -43,19 +43,19 @@
                 "name": "VCRB TV/VCR"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VCRB INPUT V"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "VCRB INPUT ^"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi TV",
     "target": "TV"
 }

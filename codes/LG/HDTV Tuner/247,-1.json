@@ -1,65 +1,65 @@
 {
-    "display_name": "LG HDTV Tuner",
+    "display_name": "HDTV Tuner",
     "ir": {
         "commands": [
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "POWER ON"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "POWER OFF"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "SYSTEM OFF"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "NATIVE"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "VARIABLE 1"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "VARIABLE 2"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "VARIABLE 3"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "1080I"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "720P"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "480P"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "480I"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DVI"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "RGB"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "YPBPR COMPONENT"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "VIDEO"
             }
         ],
@@ -68,6 +68,6 @@
     },
     "manufacturer": "LG",
     "model": "",
-    "name": "",
+    "name": "LG HDTV Tuner",
     "target": "HDTV Tuner"
 }

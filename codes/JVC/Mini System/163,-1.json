@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Mini System",
+    "display_name": "Mini System",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "WAKE UP/SLEEP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "INPUT: FM/AM"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TUNER"
             },
             {
@@ -23,23 +23,23 @@
                 "name": "POWER"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FADE MUTING"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOL+"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOL-"
             },
             {
@@ -59,15 +59,15 @@
                 "name": "SEA MODE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PHONO"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "INPUT: MD/AUX"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "AUX"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "LIVE-S MODE"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "FM MODE"
             },
             {
@@ -96,6 +96,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Mini System",
     "target": "Mini System"
 }

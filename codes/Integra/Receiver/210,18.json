@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,11 +31,11 @@
                 "name": "ZONE 2 OFF"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "Z2 SOURCE"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SOURCE"
             },
             {
@@ -55,31 +55,31 @@
                 "name": "Z2 MUTING OFF"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "DVD"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "Z2 DVD"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "INPUT: DVD"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "Z2 INPUT DVD"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "POWER"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "Z2 STANDBY/ON (TGLE)"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "POWER TOGGLE"
             }
         ],
@@ -88,6 +88,6 @@
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Receiver",
     "target": "Receiver"
 }

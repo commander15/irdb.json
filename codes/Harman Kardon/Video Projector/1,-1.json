@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -39,11 +39,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "SOURCE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MENU"
             },
             {
@@ -87,7 +87,7 @@
                 "name": "SELECT ^"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "ADJ >"
             },
             {
@@ -96,10 +96,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Video Projector",
     "target": "Video Projector"
 }

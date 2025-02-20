@@ -1,5 +1,5 @@
 {
-    "display_name": "Xantech Relay Module",
+    "display_name": "Relay Module",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "PAIR ON"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TGL"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MMT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PAIR OFF"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAIR ON"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TGL"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MMT"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "PAIR ON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TGL"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MMT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PAIR OFF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "PAIR ON"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TGL"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MMT"
             }
         ],
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Xantech",
     "model": "",
-    "name": "",
+    "name": "Xantech Relay Module",
     "target": "Relay Module"
 }

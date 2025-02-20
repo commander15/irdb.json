@@ -1,5 +1,5 @@
 {
-    "display_name": "TELEFUNKEN AUDIO_IR3000",
+    "display_name": "AUDIO_IR3000",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "TUNER_DOWN"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "CD_STOP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TAPE2_REW"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CD_FWD_SKIP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CD_BKWD_SKIP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_VOLUMEUP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_VOLUMEDOWN"
             },
             {
@@ -107,35 +107,35 @@
                 "name": "KEY_POWER"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TUNER_PRESET_DOWN"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "KEY_TUNER"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "KEY_CD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "AUX2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "KEY_TAPE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "AUX1"
             }
         ],
         "device_address": "0",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "TELEFUNKEN",
     "model": "",
-    "name": "",
+    "name": "TELEFUNKEN AUDIO_IR3000",
     "target": "AUDIO_IR3000"
 }

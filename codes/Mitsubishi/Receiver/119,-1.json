@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "AUDIO SCAN ^"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCRA CH ^ (SCAN ^)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PRESET SCAN (INTRO)"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "AUDIO CANCEL"
             },
             {
@@ -83,11 +83,11 @@
                 "name": "4 (VCR)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "AUDIO INPUT V"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCRA INPUT V"
             },
             {
@@ -119,19 +119,19 @@
                 "name": "6 (TAPE2)"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME V"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOL V"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "AUDIO SLOW"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SUR (PAUSE)"
             },
             {
@@ -171,27 +171,27 @@
                 "name": "8 (AUX)"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "AUDIO INPUT ^"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "VCRA INPUT ^"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "AUDIO VOL V"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "AUDIO RS/-"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "REAR - (STOP)"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "AUDIO B"
             },
             {
@@ -243,31 +243,31 @@
                 "name": "CH V"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "PHONO"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "PHONO INPUT"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "FM/AM"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TAPE1/2"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TAPE 1/2 INPUT"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUX"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUX INPUT"
             },
             {
@@ -287,7 +287,7 @@
                 "name": "AUDIO AUDIO V"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CENTER"
             },
             {
@@ -295,11 +295,11 @@
                 "name": "CENTER + (FF)"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "DELAY (REC)"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "CENTER - (REW)"
             },
             {
@@ -347,27 +347,27 @@
                 "name": "TAPE1 0"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "TAPE1 ENTER"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "TAPE1 REC"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "TAPE1 VOL V"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "TAPE1 RS/-"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "TAPE2 VOL V"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "TAPE2 RS/-"
             },
             {
@@ -395,207 +395,207 @@
                 "name": "TAPE1 4"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "TAPE1 PAUSE "
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "TAPE2 PAUSE "
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "TAPE1 5"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "TAPE1 AUDIO ^"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "TAPE1 FF >>"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "TAPE2 FF >>"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "name": "TAPE1 DISPLAY"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "TAPE1 6"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "TAPE1 AUDIO V"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "TAPE1 REW <<"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "TAPE2 REW <<"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "TAPE1 INTRO"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "name": "TAPE2 INTRO"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "TAPE1 7"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "TAPE1 ADJUST ^"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "TAPE1 R.PLAY <"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "TAPE1 PLAY R. <"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "TAPE2 R.PLAY <"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "TAPE2 PLAY R. <"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "TAPE1 8"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "TAPE1 ADJUST V"
             },
             {
-                "address": "bf",
+                "address": "BF",
                 "name": "TAPE1 B"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "CD 1"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CD 9"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "CD PLAY >"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "CD A"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "CD 2"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "CD 0"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "CD FF >>"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CD CANCEL"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "CD 3"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "CD REW <<"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "CD STOP []"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "CD REPEAT"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "CD 4"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "CD DISPLAY"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "CD PAUSE "
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "CD 5"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "CD FS/+"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "CD B"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "name": "CD 6"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "CD RS/-"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "name": "CD INTRO"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "CD 7"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "CD ADJUST ^"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "CD ENTER"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "CD 8"
             },
             {
-                "address": "fc",
+                "address": "FC",
                 "name": "CD ADJUST V"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "CD MENU"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Receiver",
     "target": "Receiver"
 }

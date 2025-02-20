@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "LD 9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "LD +10"
             },
             {
@@ -79,19 +79,19 @@
                 "name": "LD ENTER"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "LD PLAY"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "LD POWER"
             }
         ],
-        "device_address": "5b000",
+        "device_address": "5B000",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

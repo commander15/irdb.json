@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon CD Changer",
+    "display_name": "CD Changer",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "SEARCH>>"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REPEAT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "INTRO SCAN"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PROGRAM"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "9"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TIME"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "0"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "RANDOM"
             },
             {
@@ -119,7 +119,7 @@
                 "name": "OFF"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "SKIP DN"
             }
         ],
@@ -128,6 +128,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon CD Changer",
     "target": "CD Changer"
 }

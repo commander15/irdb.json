@@ -1,25 +1,25 @@
 {
-    "display_name": "Comcast Digital Cable",
+    "display_name": "Digital Cable",
     "ir": {
         "commands": [
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOLUME -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME+"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "RCA(Old)"
+        "protocol": "RCA(OLD)"
     },
     "manufacturer": "Comcast",
     "model": "",
-    "name": "",
+    "name": "Comcast Digital Cable",
     "target": "Digital Cable"
 }

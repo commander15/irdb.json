@@ -1,13 +1,13 @@
 {
-    "display_name": "Audio Refinement Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "AMP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "POWER"
             },
             {
@@ -35,15 +35,15 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MUTE"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "TUNER"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CD"
             },
             {
@@ -55,27 +55,27 @@
                 "name": "STOP"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "LISTEN -"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PRESET -"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TRACK -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "LISTEN +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "PRESET +"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TRACK +"
             }
         ],
@@ -84,6 +84,6 @@
     },
     "manufacturer": "Audio Refinement",
     "model": "",
-    "name": "",
+    "name": "Audio Refinement Amplifier",
     "target": "Amplifier"
 }

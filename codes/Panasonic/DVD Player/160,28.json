@@ -1,9 +1,9 @@
 {
-    "display_name": "Panasonic DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "0"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -59,11 +59,11 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP >>"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP >>"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "FL DISPLAY"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "A/V EFFECT"
             }
         ],
         "device_address": "0",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic DVD Player",
     "target": "DVD Player"
 }

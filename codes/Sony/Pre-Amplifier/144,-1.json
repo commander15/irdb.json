@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -15,19 +15,19 @@
                 "name": "AUTODECODE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TEST TONE"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "EQ"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "REAR +"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "REAR -"
             },
             {
@@ -51,15 +51,15 @@
                 "name": "INPUT +"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "INPUT -"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "MODE +"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "MODE -"
             },
             {
@@ -79,19 +79,19 @@
                 "name": "DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "LEFT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "RIGHT"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

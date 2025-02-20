@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "INPUT DVD-A"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIRECT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "RESTORE (FAV)"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "VCR VIDEO"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MODES"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "INFO"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "DISPLAY"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "EFFECT OFF"
             },
             {
@@ -151,23 +151,23 @@
                 "name": "PRESET 2"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "PRESET 3"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "PRESET 4"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "PRESET 5"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DIRECT ON"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "DIRECT OFF"
             },
             {
@@ -195,27 +195,27 @@
                 "name": "OK"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "MONO MODE"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "STEREO MODE"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "DOLBY PL2 MOVIE"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "DOLBY PL2 MUSIC"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "DOLBY PRO EMULATION"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "DTS NEO:6 CINEMA"
             },
             {
@@ -251,15 +251,15 @@
                 "name": "MUTE OFF"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "STANDBY"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "VIDEO TYPE"
             }
         ],
@@ -268,6 +268,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

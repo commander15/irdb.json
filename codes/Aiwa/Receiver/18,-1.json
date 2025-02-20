@@ -1,9 +1,9 @@
 {
-    "display_name": "Aiwa Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "GEQ ON/OFF"
             },
             {
@@ -12,10 +12,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Receiver",
     "target": "Receiver"
 }

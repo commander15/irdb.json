@@ -1,33 +1,33 @@
 {
-    "display_name": "Marantz Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "MUTE"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "DECK A"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "TAPE 1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "DECK B"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "TAPE 2"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "REVERSE PLAY"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "RECALL"
             },
             {
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz Cassette Tape",
     "target": "Cassette Tape"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -27,27 +27,27 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "MUTE"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "INPUT SELECT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "PICTURE RESET"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "FOCUS PATTERN"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "FOCUS V"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "FOCUS ^"
             },
             {
@@ -68,6 +68,6 @@
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

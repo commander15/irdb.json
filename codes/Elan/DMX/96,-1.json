@@ -1,231 +1,231 @@
 {
-    "display_name": "Elan DMX",
+    "display_name": "DMX",
     "ir": {
         "commands": [
             {
-                "address": "cd",
+                "address": "CD",
                 "device_address": "0",
                 "name": "1",
                 "protocol": "NEC1"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "device_address": "0",
                 "name": "2",
                 "protocol": "NEC1"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "device_address": "0",
                 "name": "3",
                 "protocol": "NEC1"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "device_address": "0",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "device_address": "0",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "device_address": "0",
                 "name": "6",
                 "protocol": "NEC1"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "device_address": "0",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "device_address": "0",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "device_address": "0",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "device_address": "0",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "device_address": "0",
                 "name": "MENU",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "device_address": "0",
                 "name": "UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "device_address": "0",
                 "name": "LEFT",
                 "protocol": "NEC1"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "device_address": "0",
                 "name": "RIGHT",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "device_address": "0",
                 "name": "DOWN",
                 "protocol": "NEC1"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "device_address": "0",
                 "name": "DOWN",
                 "protocol": "NEC2"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "device_address": "0",
                 "name": "STOP",
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "0",
                 "name": "PLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "device_address": "0",
                 "name": "ALBUM",
                 "protocol": "NEC1"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "device_address": "0",
                 "name": "ARTIST",
                 "protocol": "NEC1"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "device_address": "0",
                 "name": "GENRE",
                 "protocol": "NEC1"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "device_address": "0",
                 "name": "PLAYLIST",
                 "protocol": "NEC1"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "device_address": "0",
                 "name": "REPEAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "e9",
+                "address": "E9",
                 "device_address": "0",
                 "name": "RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "device_address": "0",
                 "name": "POWER",
                 "protocol": "NEC1"
             },
             {
-                "address": "ed",
+                "address": "ED",
                 "device_address": "0",
                 "name": "VOLUME +",
                 "protocol": "NEC1"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "device_address": "0",
                 "name": "VOLUME -",
                 "protocol": "NEC1"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "device_address": "0",
                 "name": "MUTE",
                 "protocol": "NEC1"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "device_address": "0",
                 "name": "OUTPUT",
                 "protocol": "NEC1"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "device_address": "0",
                 "name": "DISC +",
                 "protocol": "NEC1"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "device_address": "0",
                 "name": "DISC -",
                 "protocol": "NEC1"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "device_address": "0",
                 "name": "RECORD",
                 "protocol": "NEC1"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "device_address": "0",
                 "name": "",
                 "protocol": "NEC1"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "device_address": "0",
                 "name": "DELETE",
                 "protocol": "NEC1"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "0",
                 "name": "INFO",
                 "protocol": "NEC1"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "device_address": "0",
                 "name": "SELECT",
                 "protocol": "NEC1"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "device_address": "0",
                 "name": "TRACK -",
                 "protocol": "NEC1"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "device_address": "0",
                 "name": "TRACK +",
                 "protocol": "NEC1"
@@ -234,6 +234,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan DMX",
     "target": "DMX"
 }

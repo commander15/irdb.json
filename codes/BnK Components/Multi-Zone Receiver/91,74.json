@@ -1,5 +1,5 @@
 {
-    "display_name": "BnK Components Multi-Zone Receiver",
+    "display_name": "Multi-Zone Receiver",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "BK011 INPUT 2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "BK011 INPUT 7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "BK011 INPUT 4"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "BK011 TUNER 1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "BK011 INPUT 5"
             },
             {
@@ -55,15 +55,15 @@
                 "name": "BK011 STATION+"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BK011 TUNE-"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "BK011 TUNE+"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "BK011 LEFT"
             },
             {
@@ -83,19 +83,19 @@
                 "name": "BK011 NUMBER +10"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "BK011 EQ"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "BK011 DOWN"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "BK011 UP"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "BK011 MENU"
             },
             {
@@ -131,15 +131,15 @@
                 "name": "BK011 NUMBER 7"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "BK011 NUMBER 8"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "BK011 NUMBER 9"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "BK011 NUMBER 0"
             },
             {
@@ -151,15 +151,15 @@
                 "name": "BK011 TUNER 3"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "BK011 INPUT 6"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "BK011 PRESET+"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "BK011 D-IN"
             },
             {
@@ -171,7 +171,7 @@
                 "name": "BK011 SOURCE+"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "BK011 INPUT 9"
             },
             {
@@ -183,11 +183,11 @@
                 "name": "BK011 TREBLE-"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "BK011 VIDEO-"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "BK011 EXIT"
             },
             {
@@ -195,47 +195,47 @@
                 "name": "BK011 TUNER 2"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "BK011 FM"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "BK011 SOURCE-"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "BK011 SLEEP"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "BK011 PRESET-"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "BK011 LOUDNESS"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "BK011 AUTO LEVEL"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "BK011 BASS+"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "name": "BK011 TREBLE+"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "BK011 VIDEO+"
             }
         ],
-        "device_address": "16c00",
+        "device_address": "16C00",
         "protocol": "NEC2"
     },
     "manufacturer": "BnK Components",
     "model": "",
-    "name": "",
+    "name": "BnK Components Multi-Zone Receiver",
     "target": "Multi-Zone Receiver"
 }

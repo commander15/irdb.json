@@ -1,13 +1,13 @@
 {
-    "display_name": "Classe Audio Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE T0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE T1"
             },
             {
@@ -80,6 +80,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

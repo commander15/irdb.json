@@ -1,13 +1,13 @@
 {
-    "display_name": "Krell Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "GAIN"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE TOGGLE"
             },
             {
@@ -19,11 +19,11 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BALANCE LEFT"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": ""
             },
             {
@@ -84,6 +84,6 @@
     },
     "manufacturer": "Krell",
     "model": "",
-    "name": "",
+    "name": "Krell Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

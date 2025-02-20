@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Mini System",
+    "display_name": "Mini System",
     "ir": {
         "commands": [
             {
@@ -23,39 +23,39 @@
                 "name": "SET/ENTER"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "DOOR SLIDE"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "CURSOR UP"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "SCAN >>"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "TUNER PRESET +"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "SCAN <<"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "TUNER PRESET -"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "CURSOR LEFT"
             }
         ],
@@ -64,6 +64,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Mini System",
     "target": "Mini System"
 }

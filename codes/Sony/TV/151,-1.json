@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REVERSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FORWARD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DIGIT SEPARATOR"
             },
             {
@@ -51,23 +51,23 @@
                 "name": "MEDIA"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PREVIOUS"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "NEXT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "PIP ZOOM LEFT"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "PIP ZOOM RIGHT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "STORE MODE"
             },
             {
@@ -80,10 +80,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TV",
     "target": "TV"
 }

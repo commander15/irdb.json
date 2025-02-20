@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "VCR 0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR CHANNEL ^"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR CANCEL"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCR RECORD"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VCR JOG/ADJ+(IND SRC"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "VCR 4"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "VCR PAUSE"
             },
             {
@@ -87,7 +87,7 @@
                 "name": "VCR 6"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "VCR REW<<"
             },
             {
@@ -107,7 +107,7 @@
                 "name": "VCR 8"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "VCR INPUT"
             },
             {
@@ -120,10 +120,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi DVD Player",
     "target": "DVD Player"
 }

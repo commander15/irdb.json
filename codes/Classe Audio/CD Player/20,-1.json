@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -83,27 +83,27 @@
                 "name": "9 T1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY T0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY T1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE T0"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SHUFFLE T1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT T0"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT T1"
             },
             {
@@ -131,11 +131,11 @@
                 "name": "STORE T1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SCAN T0"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SCAN T1"
             },
             {
@@ -184,6 +184,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio CD Player",
     "target": "CD Player"
 }

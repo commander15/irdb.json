@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Video Switcher",
+    "display_name": "Video Switcher",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "O9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "O10"
             },
             {
@@ -39,27 +39,27 @@
                 "name": "O13"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "O5"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "O6"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "O7"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "O8"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "O14"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "O11"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "O12"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "O15"
             },
             {
@@ -99,35 +99,35 @@
                 "name": "OFF"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "AUTO"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "I5"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "I6"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "I7"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "I8"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "O16"
             }
         ],
         "device_address": "0",
-        "protocol": "Velleman"
+        "protocol": "VELLEMAN"
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Video Switcher",
     "target": "Video Switcher"
 }

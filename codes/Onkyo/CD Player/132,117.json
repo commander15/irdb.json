@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,23 +43,23 @@
                 "name": "0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DISC"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TRACK"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MEMORY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REPEAT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
@@ -87,11 +87,11 @@
                 "name": "PAUSE "
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY MEMORY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PLAY NORM >"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo CD Player",
     "target": "CD Player"
 }

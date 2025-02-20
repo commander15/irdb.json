@@ -1,5 +1,5 @@
 {
-    "display_name": "Elan Camera Switcher",
+    "display_name": "Camera Switcher",
     "ir": {
         "commands": [
             {
@@ -39,25 +39,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "VIDEO 2",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "CURSOR LEFT",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "ZOOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "VIDEO 3",
                 "protocol": "NEC1"
@@ -90,6 +90,6 @@
     },
     "manufacturer": "Elan",
     "model": "",
-    "name": "",
+    "name": "Elan Camera Switcher",
     "target": "Camera Switcher"
 }

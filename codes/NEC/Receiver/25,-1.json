@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "VCR POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VCR FF >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VCR REW <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VCR PAUSE "
             }
         ],
@@ -36,6 +36,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Receiver",
     "target": "Receiver"
 }

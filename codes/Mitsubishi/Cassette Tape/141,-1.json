@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PAUSE "
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "10+"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "AUTO SPACE"
             },
             {
@@ -83,27 +83,27 @@
                 "name": "FR <<"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DISPLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REPEAT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "PLAY >"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "FS >>"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RS <<"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "STOP []"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Cassette Tape",
     "target": "Cassette Tape"
 }

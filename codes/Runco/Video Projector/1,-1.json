@@ -1,5 +1,5 @@
 {
-    "display_name": "Runco Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -71,11 +71,11 @@
                 "name": "LETTERBOX"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER ON"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "POWER OFF"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "MENU"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "ENTER"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Runco",
     "model": "",
-    "name": "",
+    "name": "Runco Video Projector",
     "target": "Video Projector"
 }

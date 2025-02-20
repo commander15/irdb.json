@@ -1,5 +1,5 @@
 {
-    "display_name": "General Electric TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -15,39 +15,39 @@
                 "name": "PREV CH"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CURSOR V"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CURSOR ^"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "CURSOR -"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": ""
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "CURSOR +"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME +"
             },
             {
@@ -91,19 +91,19 @@
                 "name": "9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "POWER ON"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POWER OFF"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "DISPLAY"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             },
             {
@@ -111,7 +111,7 @@
                 "name": "SKIP:30"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "INPUT"
             }
         ],
@@ -120,6 +120,6 @@
     },
     "manufacturer": "General Electric",
     "model": "",
-    "name": "",
+    "name": "General Electric TV",
     "target": "TV"
 }

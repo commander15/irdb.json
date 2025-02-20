@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -35,15 +35,15 @@
                 "name": "SOUND SELECT"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "P-NR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "NORMALIZE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLEEP"
             },
             {
@@ -87,27 +87,27 @@
                 "name": "DIGIT 0/10"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DIGIT 11"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "DIGIT 12"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DIGIT 13"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DIGIT 14"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DIGIT 15"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DIGIT 16"
             },
             {
@@ -147,15 +147,15 @@
                 "name": "INFO / RECALL"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER TOGGLE"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "POWER ON"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER OFF"
             },
             {
@@ -179,19 +179,19 @@
                 "name": "CURSOR ENTER/SELECT"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "CURSOR UP"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "CURSOR RIGHT"
             },
             {
@@ -231,27 +231,27 @@
                 "name": "PIP POSITION LEFT"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "PIP POSITION RIGHT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "PIP SIZE"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PIP FREEZE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "PIP TOGGLE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "PIP SWAP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "PIP FRAME ADVANCE"
             },
             {
@@ -283,7 +283,7 @@
                 "name": "PIP REPLAY"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "TUNING"
             },
             {
@@ -303,79 +303,79 @@
                 "name": "COLOR BUTTON BLUE"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "INPUT PC/VGA"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "BBE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "CLOSED CAPTION"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "CHANNEL SKIP"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "LANGUAGE"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "AUTO SEARCH"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "HELP"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "GAME / ZOOM"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "PROG / DASH"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "EXIT"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "RETURN"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "STORE"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "PIP RECORD"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "PIP"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "PIP MULTI WINDOW"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "name": "PIP MOVE/ZOOM"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "name": "VIERA TOOLS"
             }
         ],
         "device_address": "80",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic TV",
     "target": "TV"
 }

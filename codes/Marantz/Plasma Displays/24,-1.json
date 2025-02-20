@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz Plasma Displays",
+    "display_name": "Plasma Displays",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "VIDEO",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "AUTO ADJUST",
                 "protocol": "NEC1"
@@ -69,31 +69,31 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "0",
                 "name": "BRIGHTNESS+",
                 "protocol": "NEC2"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "device_address": "0",
                 "name": "TINT +",
                 "protocol": "NEC2"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "0",
                 "name": "TINT -",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "0",
                 "name": "SHARPNESS +",
                 "protocol": "NEC2"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "0",
                 "name": "SHARPNESS -",
                 "protocol": "NEC2"
@@ -126,6 +126,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz Plasma Displays",
     "target": "Plasma Displays"
 }

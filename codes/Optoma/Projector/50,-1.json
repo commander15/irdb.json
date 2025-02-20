@@ -1,5 +1,5 @@
 {
-    "display_name": "Optoma Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "Mode"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "Menu"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "Enter"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "HDMI 1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VGA 1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VGA 2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "Video RCA"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "Power Off"
             },
             {
@@ -96,10 +96,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "Optoma",
     "model": "",
-    "name": "",
+    "name": "Optoma Projector",
     "target": "Projector"
 }

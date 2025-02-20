@@ -1,5 +1,5 @@
 {
-    "display_name": "Russound Music Server",
+    "display_name": "Music Server",
     "ir": {
         "commands": [
             {
@@ -43,67 +43,67 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "CURSOR ENTER"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "SKIP <<"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "PLAY"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "SKIP >>"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "THEME"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "POWER"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "STREAM 1"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "STREAM 2"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "STREAM 3"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "F1"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "F2"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "F3"
             }
         ],
         "device_address": "0",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "Russound",
     "model": "",
-    "name": "",
+    "name": "Russound Music Server",
     "target": "Music Server"
 }

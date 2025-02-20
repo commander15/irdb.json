@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -67,15 +67,15 @@
                 "name": "POWER"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "AUX"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VIDEO 2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "INPUT: VIDEO 2"
             },
             {
@@ -191,19 +191,19 @@
                 "name": "INPUT:CD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": ""
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SYSTEM OFF"
             },
             {
@@ -275,43 +275,43 @@
                 "name": "INPUT: MD/DAT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "SAT INPUT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV/SAT"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "TV"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "INPUT DBS"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "INPUT:TV/SAT"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "ENTER"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "LASER DISC"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "LD"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "DVD/LD"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "DVD"
             },
             {
@@ -339,35 +339,35 @@
                 "name": "INPUT: 5.1"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": ""
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "INPUT: DVD/LD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD INPUT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "INPUT DVD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD/LD"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "DVD"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Unknown_RU-1220S",
+    "display_name": "Unknown_RU-1220S",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "END/CONV_CONTROL"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TEST_PATTERN_TEST"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TEST_PATTERN_COARSE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TEST_PATTERN_FINE"
             },
             {
@@ -47,15 +47,15 @@
                 "name": "KEY_VIDEO"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "KEY_VIDEO"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "KEY_VIDEO"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "KEY_VIDEO"
             },
             {
@@ -91,51 +91,51 @@
                 "name": "COLOR_DOWN"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "BRIGHT_UP"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "BRIGHT_DOWN"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "TINT_UP"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "TINT_DOWN"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "SHARPNESS_UP"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SHARPNESS_DOWN"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "KEY_UP"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "KEY_DOWN"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "KEY_RIGHT"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "KEY_LEFT"
             }
         ],
-        "device_address": "c000000",
+        "device_address": "C000000",
         "protocol": "NEC"
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Unknown_RU-1220S",
     "target": "Unknown_RU-1220S"
 }

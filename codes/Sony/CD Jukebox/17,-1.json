@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -79,19 +79,19 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHECK (-)"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHECK"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "FILE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "BANK"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SORT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CONTINUE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PROGRAM"
             },
             {
@@ -199,15 +199,15 @@
                 "name": "TRACK 20 (Y)"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "REPEAT"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "POWER ON (CD-1)"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "POWER OFF (CD-1)"
             },
             {
@@ -339,43 +339,43 @@
                 "name": "Z - PAUSE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "MUSIC SCAN"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC -"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISC SKIP -"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "Z - DISC SKIP ( - )"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC SKIP"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC +"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISC SKIP+"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "Z - DISC SKIP ( + )"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "EXTRA"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "HIGH LIGHT"
             },
             {
@@ -419,31 +419,31 @@
                 "name": "DISC 10 (E)"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DISC"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DISC -"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "TRACK"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "BLOCK"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "GROUP"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "HIT LIST"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "FADER"
             },
             {
@@ -455,27 +455,27 @@
                 "name": "MEMO INPUT"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "MEMO SCAN"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "NAME SCAN"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "CHAIN MODE"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "NO DELAY"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "MEGA - NO DELAY"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "PLAYER SELECT"
             },
             {
@@ -495,63 +495,63 @@
                 "name": "CURSOR - UP"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR - DOWN"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "CURSOR DN"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR - LEFT"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "CURSOR LF"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CURSOR - RIGHT"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "CURSOR RT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "CURSOR SELECT"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "CURSOR - ENTER"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "SELECT"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "SCROLL"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony CD Jukebox",
     "target": "CD Jukebox"
 }

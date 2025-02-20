@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "DAT REW <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DAT PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DAT PAUSE/STILL "
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DAT PAUSE "
             },
             {
@@ -131,31 +131,31 @@
                 "name": "DAT 9"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DAT 10KEY 10"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DAT 10 CONTINUE"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "DAT 10"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "DAT 10KEY +10"
             },
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "DAT +10"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "DAT REC/PLAY"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "DAT REC/PAUSE/STILL"
             }
         ],
@@ -164,6 +164,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Receiver",
     "target": "Receiver"
 }

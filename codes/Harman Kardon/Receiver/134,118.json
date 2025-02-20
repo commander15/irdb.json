@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,31 +31,31 @@
                 "name": "SOURCE TV"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SOURCE GAME"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SOURCE MEDIA SERVR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "SOURCE AUX"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "LAST"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "BACK/EXIT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MENU"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CURSOR LEFT"
             },
             {
@@ -83,27 +83,27 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME MUTE"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "VOLUME +"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "VOLUME -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "TR SKIP <<"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "TR PAUSE"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "TR SKIP >>"
             },
             {
@@ -140,6 +140,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Receiver",
     "target": "Receiver"
 }

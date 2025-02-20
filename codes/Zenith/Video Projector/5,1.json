@@ -1,5 +1,5 @@
 {
-    "display_name": "Zenith Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "R-MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "+ HORIZONTAL"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "BLUE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DIG ANALOG"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "ARROW RIGHT"
             },
             {
@@ -55,35 +55,35 @@
                 "name": "KEY"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "G-MUTE"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "GREEN"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "ADJ TOGGLE"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "ARROW DOWN"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "ARROW UP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "LIN C / LI - LIN"
             }
         ],
-        "device_address": "a",
-        "protocol": "Zenith"
+        "device_address": "A",
+        "protocol": "ZENITH"
     },
     "manufacturer": "Zenith",
     "model": "",
-    "name": "",
+    "name": "Zenith Video Projector",
     "target": "Video Projector"
 }

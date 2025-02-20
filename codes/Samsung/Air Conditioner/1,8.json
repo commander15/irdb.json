@@ -1,5 +1,5 @@
 {
-    "display_name": "Samsung Air Conditioner",
+    "display_name": "Air Conditioner",
     "ir": {
         "commands": [
             {
@@ -27,27 +27,27 @@
                 "name": "FAN"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "COOL"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER LONG"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER SUSTAIN"
             }
         ],
         "device_address": "100",
-        "protocol": "Samsung20"
+        "protocol": "SAMSUNG20"
     },
     "manufacturer": "Samsung",
     "model": "",
-    "name": "",
+    "name": "Samsung Air Conditioner",
     "target": "Air Conditioner"
 }

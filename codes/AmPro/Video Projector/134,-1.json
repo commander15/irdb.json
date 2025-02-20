@@ -1,5 +1,5 @@
 {
-    "display_name": "AmPro Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "RGB1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "O.S.D."
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SVIDEO 1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SVIDEO 2"
             },
             {
@@ -99,15 +99,15 @@
                 "name": "VOLUME ^"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "SET"
             }
         ],
         "device_address": "0",
-        "protocol": "Fujitsu"
+        "protocol": "FUJITSU"
     },
     "manufacturer": "AmPro",
     "model": "",
-    "name": "",
+    "name": "AmPro Video Projector",
     "target": "Video Projector"
 }

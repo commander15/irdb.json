@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha Stereo Receiver",
+    "display_name": "Stereo Receiver",
     "ir": {
         "commands": [
             {
@@ -31,55 +31,55 @@
                 "name": "DC1 TRG Z1 OFF"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "Z2 MUTE ON"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "Z2 MUTE OFF"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "MUTE ON"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "MUTE OFF"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "SP RELAY A ON"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "SP RELAY A OFF"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "SP RELAY B ON"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "SP RELAY B OFF"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "SLEEP OFF"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "SLEEP 120"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "SLEEP 90"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "SLEEP 60"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "SLEEP 30"
             }
         ],
@@ -88,6 +88,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Stereo Receiver",
     "target": "Stereo Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD Tape Deck",
+    "display_name": "Tape Deck",
     "ir": {
         "commands": [
             {
@@ -7,31 +7,31 @@
                 "name": "pause"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "Record"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "play"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "ffwd"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "rwd"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "stop"
             }
         ],
         "device_address": "70000000",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Tape Deck",
     "target": "Tape Deck"
 }

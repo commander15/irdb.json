@@ -1,5 +1,5 @@
 {
-    "display_name": "Hughes Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -39,23 +39,23 @@
                 "name": "5"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "7"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "8"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "9"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "CLEAR"
             },
             {
@@ -99,11 +99,11 @@
                 "name": "MENU"
             }
         ],
-        "device_address": "f00000",
+        "device_address": "F00000",
         "protocol": "NEC1"
     },
     "manufacturer": "Hughes",
     "model": "",
-    "name": "",
+    "name": "Hughes Satellite",
     "target": "Satellite"
 }

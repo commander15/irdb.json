@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -39,7 +39,7 @@
                 "name": "LD 9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "LD 0"
             },
             {
@@ -67,11 +67,11 @@
                 "name": "LD STOP (BAND)"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LD SEARCH >> (ANY ^)"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "LD SEARCH << (ANY V)"
             },
             {
@@ -84,10 +84,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sharp"
+        "protocol": "SHARP"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

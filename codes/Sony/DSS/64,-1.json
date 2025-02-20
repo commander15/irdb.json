@@ -1,9 +1,9 @@
 {
-    "display_name": "Sony DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "TV/VIDEO"
             },
             {
@@ -11,11 +11,11 @@
                 "name": "MUTE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VOLUME +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME -"
             }
         ],
@@ -24,6 +24,6 @@
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DSS",
     "target": "DSS"
 }

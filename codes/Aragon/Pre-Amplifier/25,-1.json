@@ -1,5 +1,5 @@
 {
-    "display_name": "Aragon Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -35,23 +35,23 @@
                 "name": "DD: COMPR: LOW"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "DD: COMPR: MEDIUM"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DD: COMPR: OFF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DD: COMPR: NIGHT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISPLAY ON"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DISPLAY OFF"
             },
             {
@@ -96,6 +96,6 @@
     },
     "manufacturer": "Aragon",
     "model": "",
-    "name": "",
+    "name": "Aragon Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Adcom Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -35,27 +35,27 @@
                 "name": "TUNER"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "TAPE 1"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "TAPE 2"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "TUNING >"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TUNING <"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "+10"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "FM/AM"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "9"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "0"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "MASTER VOL V"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "MASTER VOL ^"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Tuner",
     "target": "Tuner"
 }

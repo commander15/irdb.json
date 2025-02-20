@@ -1,9 +1,9 @@
 {
-    "display_name": "Hughes HD Satellite HD Tivo",
+    "display_name": "HD Satellite HD Tivo",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "TIVO"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "SELECT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "THUMB UP"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": ""
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "CHANNEL -"
             },
             {
@@ -95,27 +95,27 @@
                 "name": "2"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "3"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "4"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "5"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "6"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "7"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "8"
             },
             {
@@ -148,10 +148,10 @@
             }
         ],
         "device_address": "850000",
-        "protocol": "Tivo unit=0"
+        "protocol": "TIVO UNIT=0"
     },
     "manufacturer": "Hughes",
     "model": "",
-    "name": "",
+    "name": "Hughes HD Satellite HD Tivo",
     "target": "HD Satellite HD Tivo"
 }

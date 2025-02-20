@@ -1,5 +1,5 @@
 {
-    "display_name": "Pioneer Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -15,27 +15,27 @@
                 "name": ""
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOLUME -"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SAT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VCR2"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "VCR1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "TUNER"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "CD"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "TAPE 1"
             },
             {
@@ -67,19 +67,19 @@
                 "name": "CH SELECT"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "ATT"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": ""
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "DOLBY"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "MUTE"
             },
             {
@@ -99,35 +99,35 @@
                 "name": "DVD"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SETUP"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "STEREO"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "THX"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": ""
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": ""
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": ""
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer Amplifier",
     "target": "Amplifier"
 }

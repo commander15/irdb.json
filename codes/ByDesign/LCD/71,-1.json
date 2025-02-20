@@ -1,5 +1,5 @@
 {
-    "display_name": "ByDesign LCD",
+    "display_name": "LCD",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "ENTER"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "UP"
             },
             {
@@ -23,11 +23,11 @@
                 "name": "RIGHT"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LEFT"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "INPUT"
             }
         ],
@@ -36,6 +36,6 @@
     },
     "manufacturer": "ByDesign",
     "model": "",
-    "name": "",
+    "name": "ByDesign LCD",
     "target": "LCD"
 }

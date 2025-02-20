@@ -1,5 +1,5 @@
 {
-    "display_name": "Daewoo DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "100"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SETUP"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OUTPUT"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "STOP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAUSE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PLAY"
             },
             {
@@ -111,23 +111,23 @@
                 "name": "CURSER RIGHT"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSER LEFT"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "ANGLE/DIGEST SPEED"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SEARCH"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "DISPLAY"
             },
             {
@@ -159,7 +159,7 @@
                 "name": "REPEAT"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PROGRAM"
             },
             {
@@ -167,19 +167,19 @@
                 "name": "AUDIO MODE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "A-B"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "SIDE A/B"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Daewoo",
     "model": "",
-    "name": "",
+    "name": "Daewoo DVD Player",
     "target": "DVD Player"
 }

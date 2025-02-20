@@ -1,5 +1,5 @@
 {
-    "display_name": "Barix CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -51,15 +51,15 @@
                 "name": "8"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PLIST -"
             },
             {
@@ -83,19 +83,19 @@
                 "name": "SONG -"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "REPEAT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SHUFFLE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "PLAY"
             }
         ],
@@ -104,6 +104,6 @@
     },
     "manufacturer": "Barix",
     "model": "",
-    "name": "",
+    "name": "Barix CD Jukebox",
     "target": "CD Jukebox"
 }

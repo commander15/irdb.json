@@ -1,5 +1,5 @@
 {
-    "display_name": "Go Video VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "CLEAR"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "REC"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "LCV (CHANGE)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OSD"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE (SELECT)"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CLK/CTR"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "INDEX"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "9 (SLOW +)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "100"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "VIEW"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "COPY"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DECK SELECT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SKIP (ZERO RTN)"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MENU"
             }
         ],
@@ -136,6 +136,6 @@
     },
     "manufacturer": "Go Video",
     "model": "",
-    "name": "",
+    "name": "Go Video VCR",
     "target": "VCR"
 }

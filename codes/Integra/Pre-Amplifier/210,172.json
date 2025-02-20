@@ -1,5 +1,5 @@
 {
-    "display_name": "Integra Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -19,47 +19,47 @@
                 "name": "SETUP VIDEO"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "INPUT UNIVERSAL PORT"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "INPUT USB (FRONT)"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "INPUT USB REAR"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "MODE LISTEN MODEMOVI"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "MODE LISTEN MODEGAME"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "HDMI OUT NO ANALOG"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "HDMI OUT MAIN"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "HDMI OUT SUB"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "INPUT SIRIUS"
             }
         ],
-        "device_address": "d2000",
+        "device_address": "D2000",
         "protocol": "NEC1"
     },
     "manufacturer": "Integra",
     "model": "",
-    "name": "",
+    "name": "Integra Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

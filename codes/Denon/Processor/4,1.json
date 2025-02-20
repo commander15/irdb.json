@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Processor",
+    "display_name": "Processor",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "SURR DIRECT MAIN"
             },
             {
-                "address": "2c7",
+                "address": "2C7",
                 "name": "AUX MAIN"
             }
         ],
         "device_address": "8",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Processor",
     "target": "Processor"
 }

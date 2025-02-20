@@ -1,5 +1,5 @@
 {
-    "display_name": "KEY DIGITAL Matrix Switcher",
+    "display_name": "Matrix Switcher",
     "ir": {
         "commands": [
             {
@@ -63,37 +63,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "4100000",
                 "name": "POWER",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "4100000",
                 "name": "ANS",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "4100000",
                 "name": "OFF",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "4100000",
                 "name": "EXT 12V CONTROL ON",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "4100000",
                 "name": "INPUT SELECT <",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "4100000",
                 "name": "INPUT SELECT >",
                 "protocol": "NEC1"
@@ -159,31 +159,31 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "4100000",
                 "name": "R8",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "4100000",
                 "name": "R1",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "4100000",
                 "name": "R2",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "4100000",
                 "name": "R3",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "4100000",
                 "name": "R4",
                 "protocol": "NEC1"
@@ -327,19 +327,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "device_address": "4100000",
                 "name": "9",
                 "protocol": "NEC1"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "device_address": "4100000",
                 "name": "U4",
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "4100000",
                 "name": "0",
                 "protocol": "NEC1"
@@ -435,7 +435,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "device_address": "4100000",
                 "name": "OUT 4",
                 "protocol": "NEC1"
@@ -459,181 +459,181 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "device_address": "4100000",
                 "name": "POWER ON",
                 "protocol": "NEC1"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "device_address": "4100000",
                 "name": "POWER OFF",
                 "protocol": "NEC2"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "device_address": "4100000",
                 "name": "VIDEO MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "device_address": "4100000",
                 "name": "AUDIO MODE",
                 "protocol": "NEC1"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "device_address": "4100000",
                 "name": "ARROW UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "a7",
+                "address": "A7",
                 "device_address": "4100000",
                 "name": "ARROW DOWN",
                 "protocol": "NEC1"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "device_address": "4100000",
                 "name": "MUTE",
                 "protocol": "NEC1"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "device_address": "4100000",
                 "name": "RESTORE",
                 "protocol": "NEC1"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "device_address": "4100000",
                 "name": "ALL MUTE",
                 "protocol": "NEC1"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "device_address": "4100000",
                 "name": "ALL RESTORE",
                 "protocol": "NEC1"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "device_address": "4100000",
                 "name": "VOLUME",
                 "protocol": "NEC1"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "device_address": "4100000",
                 "name": "BALANCE",
                 "protocol": "NEC1"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "device_address": "4100000",
                 "name": "BASS",
                 "protocol": "NEC2"
             },
             {
-                "address": "af",
+                "address": "AF",
                 "device_address": "4100000",
                 "name": "MIDDLE",
                 "protocol": "NEC2"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "device_address": "4100000",
                 "name": "TREBLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "device_address": "4100000",
                 "name": "LIPSYNC",
                 "protocol": "NEC1"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "device_address": "4100000",
                 "name": "R1",
                 "protocol": "NEC1"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "device_address": "4100000",
                 "name": "R2",
                 "protocol": "NEC2"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "device_address": "4100000",
                 "name": "R3",
                 "protocol": "NEC1"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "device_address": "4100000",
                 "name": "R4",
                 "protocol": "NEC1"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "device_address": "4100000",
                 "name": "0",
                 "protocol": "NEC2"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "device_address": "4100000",
                 "name": "1",
                 "protocol": "NEC2"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "device_address": "4100000",
                 "name": "2",
                 "protocol": "NEC2"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "device_address": "4100000",
                 "name": "3",
                 "protocol": "NEC2"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "4100000",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "device_address": "4100000",
                 "name": "5",
                 "protocol": "NEC1"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "device_address": "4100000",
                 "name": "6",
                 "protocol": "NEC2"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "device_address": "4100000",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "device_address": "4100000",
                 "name": "8",
                 "protocol": "NEC1"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "device_address": "4100000",
                 "name": "9",
                 "protocol": "NEC1"
@@ -642,6 +642,6 @@
     },
     "manufacturer": "KEY DIGITAL",
     "model": "",
-    "name": "",
+    "name": "KEY DIGITAL Matrix Switcher",
     "target": "Matrix Switcher"
 }

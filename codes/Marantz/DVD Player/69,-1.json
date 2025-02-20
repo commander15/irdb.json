@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -63,13 +63,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "-80000000",
                 "name": "0",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "SLOW >",
                 "protocol": "NEC1"
@@ -177,43 +177,43 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "-80000000",
                 "name": "MEMORY",
                 "protocol": "NEC1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "device_address": "-80000000",
                 "name": "REPEAT",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "A-B RPT",
                 "protocol": "NEC1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "-80000000",
                 "name": "LAST PLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "-80000000",
                 "name": "RANDOM",
                 "protocol": "NEC1"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "-80000000",
                 "name": "SUBTITLE ON OFF",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "-80000000",
                 "name": "CURSOR >",
                 "protocol": "NEC1"
@@ -243,19 +243,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "device_address": "-80000000",
                 "name": "TITLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "device_address": "-80000000",
                 "name": "CLEAR",
                 "protocol": "NEC1"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "-80000000",
                 "name": "OPEN/CLOSE",
                 "protocol": "NEC1"
@@ -264,6 +264,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz DVD Player",
     "target": "DVD Player"
 }

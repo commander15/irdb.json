@@ -1,9 +1,9 @@
 {
-    "display_name": "Adcom Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "MAIN POWER ON D"
             },
             {
@@ -15,7 +15,7 @@
                 "name": "MAIN POWER OFF C"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "MAIN POWER OFF D"
             }
         ],
@@ -24,6 +24,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

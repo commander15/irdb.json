@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz DVD",
+    "display_name": "DVD",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SLOW >"
             },
             {
@@ -115,31 +115,31 @@
                 "name": "ANGLE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "MEMORY"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "REPEAT"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "A-B RPT"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "LAST PLAY"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "RANDOM"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "SUBTITLE ON OFF"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "CURSOR >"
             },
             {
@@ -159,15 +159,15 @@
                 "name": "MENU"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "TITLE"
             },
             {
-                "address": "ef",
+                "address": "EF",
                 "name": "CLEAR"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "OPEN/CLOSE"
             }
         ],
@@ -176,6 +176,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz DVD",
     "target": "DVD"
 }

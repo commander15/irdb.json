@@ -1,5 +1,5 @@
 {
-    "display_name": "Pioneer Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -75,11 +75,11 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RETURN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "ALL REWIND"
             },
             {
@@ -104,10 +104,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Pioneer",
     "model": "",
-    "name": "",
+    "name": "Pioneer Cassette Tape",
     "target": "Cassette Tape"
 }

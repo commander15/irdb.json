@@ -1,5 +1,5 @@
 {
-    "display_name": "Grundig Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -7,11 +7,11 @@
                 "name": "MODE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "0"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "DISPLAY"
             },
             {
@@ -39,19 +39,19 @@
                 "name": ""
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "POWER"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": ""
             }
         ],
         "device_address": "0",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Grundig",
     "model": "",
-    "name": "",
+    "name": "Grundig Satellite",
     "target": "Satellite"
 }

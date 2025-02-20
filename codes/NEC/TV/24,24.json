@@ -1,49 +1,49 @@
 {
-    "display_name": "NEC TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DVD/HD"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "WIDE"
             },
             {
-                "address": "b0",
+                "address": "B0",
                 "name": "CUR UP"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "CUR DN"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "CUR LF"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "CUR RT"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "POWER OFF"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "PROCEED"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "POINTER"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "ZOOM +"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "ZOOM -"
             }
         ],
@@ -52,6 +52,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC TV",
     "target": "TV"
 }

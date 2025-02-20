@@ -1,21 +1,21 @@
 {
-    "display_name": "Classe Audio CRCD",
+    "display_name": "CRCD",
     "ir": {
         "commands": [
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER T0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER T1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE T0"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE T1"
             },
             {
@@ -75,19 +75,19 @@
                 "name": "AUX T1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "BAL R T0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "BAL R T1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BAL L T0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BAL L T1"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "ALARM T1"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TIME T0"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TIME T1"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "TIME+ T0"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "TIME+ T1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "TIME- T0"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "TIME- T1"
             },
             {
@@ -147,35 +147,35 @@
                 "name": "LISTEN T1"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "BASS+ T0"
             },
             {
-                "address": "6b",
+                "address": "6B",
                 "name": "BASS+ T1"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "BASS- T0"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "BASS- T1"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "TREB+ T0"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "TREB+ T1"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "TREB- T0"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "TREB- T1"
             }
         ],
@@ -184,6 +184,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio CRCD",
     "target": "CRCD"
 }

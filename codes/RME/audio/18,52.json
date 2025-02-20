@@ -1,5 +1,5 @@
 {
-    "display_name": "RME audio",
+    "display_name": "audio",
     "ir": {
         "commands": [
             {
@@ -47,23 +47,23 @@
                 "name": "4"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "b/t"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "eq"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "ld"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "mute"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "bass +"
             },
             {
@@ -92,10 +92,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "nec1"
+        "protocol": "NEC1"
     },
     "manufacturer": "RME",
     "model": "",
-    "name": "",
+    "name": "RME audio",
     "target": "audio"
 }

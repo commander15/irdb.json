@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "VIDEO POWER"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR/TV (LEVEL AUDIO)"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "VIDEO1 >> (TUNING)"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VIDEO1 << (TUNING)"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VIDEO1 PAUSE (AUTO)"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "VIDEO1 9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VIDEO1 0"
             }
         ],
@@ -92,6 +92,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Receiver",
     "target": "Receiver"
 }

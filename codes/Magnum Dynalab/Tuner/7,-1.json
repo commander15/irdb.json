@@ -1,5 +1,5 @@
 {
-    "display_name": "Magnum Dynalab Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "BACK <"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "<PRESET>"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "AM/FM"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SEEK"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "<MANUAL>"
             },
             {
@@ -51,27 +51,27 @@
                 "name": "6"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "7"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "8"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "9"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "0"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "ENTER FREQUENCY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "RDS"
             },
             {
@@ -83,11 +83,11 @@
                 "name": "MEMORY"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "POWER OFF"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "POWER ON"
             }
         ],
@@ -96,6 +96,6 @@
     },
     "manufacturer": "Magnum Dynalab",
     "model": "",
-    "name": "",
+    "name": "Magnum Dynalab Tuner",
     "target": "Tuner"
 }

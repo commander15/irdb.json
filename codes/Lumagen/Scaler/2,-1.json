@@ -1,5 +1,5 @@
 {
-    "display_name": "Lumagen Scaler",
+    "display_name": "Scaler",
     "ir": {
         "commands": [
             {
@@ -19,27 +19,27 @@
                 "name": "LBOX"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "16:9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "STBY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "2"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "3"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "4"
             },
             {
@@ -75,11 +75,11 @@
                 "name": "MEMB"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "ARROWUP"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MENU"
             },
             {
@@ -104,10 +104,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Lumagen"
+        "protocol": "LUMAGEN"
     },
     "manufacturer": "Lumagen",
     "model": "",
-    "name": "",
+    "name": "Lumagen Scaler",
     "target": "Scaler"
 }

@@ -1,21 +1,21 @@
 {
-    "display_name": "JVC Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "UP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TV"
             }
         ],
         "device_address": "10",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Satellite",
     "target": "Satellite"
 }

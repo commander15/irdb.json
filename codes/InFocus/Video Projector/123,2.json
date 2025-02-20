@@ -1,136 +1,136 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
                 "address": "0",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "NATIVE",
                 "protocol": "NEC"
             },
             {
                 "address": "1",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "STANDARD",
                 "protocol": "NEC"
             },
             {
                 "address": "2",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "WIDESCREEN",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "WIDE ENHANCED",
                 "protocol": "NEC"
             },
             {
                 "address": "11",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "EXIT",
                 "protocol": "NEC2"
             },
             {
                 "address": "12",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "MENU",
                 "protocol": "NEC"
             },
             {
                 "address": "13",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "CURSOR UP",
                 "protocol": "NEC2"
             },
             {
                 "address": "14",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "CURSOR DOWN",
                 "protocol": "NEC"
             },
             {
                 "address": "15",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "CURSOR LEFT",
                 "protocol": "NEC"
             },
             {
                 "address": "16",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "CURSOR RIGHT",
                 "protocol": "NEC"
             },
             {
                 "address": "17",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "OK",
                 "protocol": "NEC"
             },
             {
                 "address": "18",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "POWER OFF",
                 "protocol": "NEC"
             },
             {
                 "address": "19",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "POWER ON",
                 "protocol": "NEC2"
             },
             {
                 "address": "19",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "",
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
-                "device_address": "1ec",
+                "address": "1A",
+                "device_address": "1EC",
                 "name": "PC1 ANALOG",
                 "protocol": "NEC2"
             },
             {
-                "address": "1b",
-                "device_address": "1ec",
+                "address": "1B",
+                "device_address": "1EC",
                 "name": "PC1 DIGITAL",
                 "protocol": "NEC"
             },
             {
-                "address": "1c",
-                "device_address": "1ec",
+                "address": "1C",
+                "device_address": "1EC",
                 "name": "COMP HDTV",
                 "protocol": "NEC2"
             },
             {
-                "address": "1d",
-                "device_address": "1ec",
+                "address": "1D",
+                "device_address": "1EC",
                 "name": "COMP INT.",
                 "protocol": "NEC2"
             },
             {
-                "address": "1e",
-                "device_address": "1ec",
+                "address": "1E",
+                "device_address": "1EC",
                 "name": "S-VIDEO",
                 "protocol": "NEC2"
             },
             {
-                "address": "1f",
-                "device_address": "1ec",
+                "address": "1F",
+                "device_address": "1EC",
                 "name": "VIDEO",
                 "protocol": "NEC2"
             },
             {
                 "address": "40",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "PC HDTV",
                 "protocol": "NEC2"
             },
             {
                 "address": "41",
-                "device_address": "1ec",
+                "device_address": "1EC",
                 "name": "PC VGA",
                 "protocol": "NEC2"
             }
@@ -138,6 +138,6 @@
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

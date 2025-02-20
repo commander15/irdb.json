@@ -1,5 +1,5 @@
 {
-    "display_name": "Audio Control Pre-Amplifier",
+    "display_name": "Pre-Amplifier",
     "ir": {
         "commands": [
             {
@@ -39,19 +39,19 @@
                 "name": "ZONE 2 AV"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "ZONE 2 TAPE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ZONE 2 VCR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "ZONE 2 DVR"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "ZONE 2 AUX"
             },
             {
@@ -83,15 +83,15 @@
                 "name": "ZONE 3 POWER ON"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "ZONE 3 POWER OFF"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "ZONE 2 PWR ON"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "ZONE 2 PWR OFF"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Audio Control",
     "model": "",
-    "name": "",
+    "name": "Audio Control Pre-Amplifier",
     "target": "Pre-Amplifier"
 }

@@ -1,17 +1,17 @@
 {
-    "display_name": "Yamaha DSP",
+    "display_name": "DSP",
     "ir": {
         "commands": [
             {
-                "address": "f",
+                "address": "F",
                 "name": "STANDBY/ON"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -23,11 +23,11 @@
                 "name": "VCR"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "DVD"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "SLEEP"
             },
             {
@@ -35,19 +35,19 @@
                 "name": "STEREO MODE"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TEST"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "NIGHT"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "ARROW UP"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": ""
             },
             {
@@ -55,55 +55,55 @@
                 "name": "SURROUND"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "ARROW DOWN"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SET MENU"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "ARROW RIGHT"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "ARROW LEFT"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "RETURN"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "SELECT"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "5 BEAM MODE"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "ST+3 BEAM MODE"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "3 BEAM MODE"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "AUX"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "CODE SET"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "TV"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha DSP",
     "target": "DSP"
 }

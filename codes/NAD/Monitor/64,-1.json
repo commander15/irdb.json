@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD Monitor",
+    "display_name": "Monitor",
     "ir": {
         "commands": [
             {
@@ -63,31 +63,31 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "RESET",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "AUDIO-RESET",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "AUDIO",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "PICT",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "0",
                 "name": "TV/VID",
                 "protocol": "NEC1"
@@ -135,37 +135,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "VOL ^",
                 "protocol": "NEC1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "0",
                 "name": "CHANNEL ^",
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "RECALL",
                 "protocol": "NEC1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "device_address": "0",
                 "name": "V",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "0",
                 "name": "VOL V",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "CHANNEL V",
                 "protocol": "NEC1"
@@ -174,6 +174,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Monitor",
     "target": "Monitor"
 }

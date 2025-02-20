@@ -1,586 +1,586 @@
 {
-    "display_name": "Bose Lifestyle",
+    "display_name": "Lifestyle",
     "ir": {
         "commands": [
             {
                 "address": "1",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "MUTE TOGGLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "1",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "MUTE TOGGLE",
                 "protocol": "NEC2"
             },
             {
                 "address": "2",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "VOLUME -",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "2",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "VOLUME -",
                 "protocol": "NEC2"
             },
             {
                 "address": "3",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "VOLUME +",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "3",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "VOLUME +",
                 "protocol": "NEC2"
             },
             {
                 "address": "6",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "FM/AM TOGGLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "6",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "FM/AM TOGGLE",
                 "protocol": "NEC2"
             },
             {
-                "address": "d",
-                "device_address": "2e80000",
+                "address": "D",
+                "device_address": "2E80000",
                 "name": "VCR 1",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "d",
-                "device_address": "2e80000",
+                "address": "D",
+                "device_address": "2E80000",
                 "name": "VCR",
                 "protocol": "NEC2"
             },
             {
-                "address": "e",
-                "device_address": "2e80000",
+                "address": "E",
+                "device_address": "2E80000",
                 "name": "TV",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "e",
-                "device_address": "2e80000",
+                "address": "E",
+                "device_address": "2E80000",
                 "name": "TV",
                 "protocol": "NEC2"
             },
             {
-                "address": "f",
-                "device_address": "2e80000",
+                "address": "F",
+                "device_address": "2E80000",
                 "name": "AUX",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "f",
-                "device_address": "2e80000",
+                "address": "F",
+                "device_address": "2E80000",
                 "name": "AUX",
                 "protocol": "NEC2"
             },
             {
                 "address": "15",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CBL/SAT",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "15",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CBL/SAT",
                 "protocol": "NEC2"
             },
             {
                 "address": "18",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "TCPC DOWN",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "18",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "TRACK/CH./PRE. DOWN",
                 "protocol": "NEC2"
             },
             {
                 "address": "19",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "TCPC UP",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "19",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "TRACK/CH./PRE. UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "1a",
-                "device_address": "2e80000",
+                "address": "1A",
+                "device_address": "2E80000",
                 "name": "STOP",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "1a",
-                "device_address": "2e80000",
+                "address": "1A",
+                "device_address": "2E80000",
                 "name": "STOP",
                 "protocol": "NEC2"
             },
             {
                 "address": "20",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "ARROW DOWN",
                 "protocol": "NEC2"
             },
             {
                 "address": "25",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "FM ASSERT",
                 "protocol": "NEC2"
             },
             {
                 "address": "28",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "AM ASSERT",
                 "protocol": "NEC2"
             },
             {
                 "address": "30",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "EXIT",
                 "protocol": "NEC2"
             },
             {
                 "address": "36",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "PAUSE ASSERT",
                 "protocol": "NEC2"
             },
             {
                 "address": "40",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "0",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "40",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "0",
                 "protocol": "NEC2"
             },
             {
                 "address": "41",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "1",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "41",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "1",
                 "protocol": "NEC2"
             },
             {
                 "address": "42",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "2",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "42",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "2",
                 "protocol": "NEC2"
             },
             {
                 "address": "43",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "3",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "43",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "3",
                 "protocol": "NEC2"
             },
             {
                 "address": "44",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "4",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "44",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "4",
                 "protocol": "NEC2"
             },
             {
                 "address": "45",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "5",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "45",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "5",
                 "protocol": "NEC2"
             },
             {
                 "address": "46",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "6",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "46",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "7",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "46",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "6",
                 "protocol": "NEC2"
             },
             {
                 "address": "47",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "7",
                 "protocol": "NEC2"
             },
             {
                 "address": "48",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "8",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "48",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "8",
                 "protocol": "NEC2"
             },
             {
                 "address": "49",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "9",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "49",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "9",
                 "protocol": "NEC2"
             },
             {
-                "address": "4c",
-                "device_address": "2e80000",
+                "address": "4C",
+                "device_address": "2E80000",
                 "name": "POWER TOGGLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "4c",
-                "device_address": "2e80000",
+                "address": "4C",
+                "device_address": "2E80000",
                 "name": "POWER ON/OFF",
                 "protocol": "NEC2"
             },
             {
-                "address": "4d",
-                "device_address": "2e80000",
+                "address": "4D",
+                "device_address": "2E80000",
                 "name": "MUTE ALL TOGGLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "4d",
-                "device_address": "2e80000",
+                "address": "4D",
+                "device_address": "2E80000",
                 "name": "MUTE ALL TOGGLE",
                 "protocol": "NEC2"
             },
             {
                 "address": "53",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CD/DVD",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "53",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CD/DVD",
                 "protocol": "NEC2"
             },
             {
                 "address": "55",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "PLAY",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "55",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "PLAY",
                 "protocol": "NEC2"
             },
             {
                 "address": "56",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "PAUSE TOGGLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "56",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "PAUSE TOGGLE",
                 "protocol": "NEC2"
             },
             {
                 "address": "57",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SCAN <<",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "57",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SEEK/SCAN <<",
                 "protocol": "NEC2"
             },
             {
                 "address": "58",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SCAN >>",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "58",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SEEK/SCAN >>",
                 "protocol": "NEC2"
             },
             {
-                "address": "5c",
-                "device_address": "2e80000",
+                "address": "5C",
+                "device_address": "2E80000",
                 "name": "SHUFFLE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "5c",
-                "device_address": "2e80000",
+                "address": "5C",
+                "device_address": "2E80000",
                 "name": "SHUFFLE",
                 "protocol": "NEC2"
             },
             {
                 "address": "60",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "ARROW RIGHT",
                 "protocol": "NEC2"
             },
             {
                 "address": "63",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CD #",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "63",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "CD #",
                 "protocol": "NEC2"
             },
             {
                 "address": "64",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "INFO",
                 "protocol": "NEC2"
             },
             {
                 "address": "65",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "ENCORE",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "65",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SIMILAR (ENCORE)",
                 "protocol": "NEC2"
             },
             {
                 "address": "66",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "UMUSIC",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "66",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "UMUSIC",
                 "protocol": "NEC2"
             },
             {
                 "address": "67",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "WHOLE CD",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "67",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "WHOLE CD",
                 "protocol": "NEC2"
             },
             {
                 "address": "68",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "RATING -",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "68",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "RATING -",
                 "protocol": "NEC2"
             },
             {
                 "address": "69",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "RATING +",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
                 "address": "69",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "RATING +",
                 "protocol": "NEC2"
             },
             {
                 "address": "70",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SYSTEM",
                 "protocol": "NEC2"
             },
             {
                 "address": "80",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "SETTINGS",
                 "protocol": "NEC2"
             },
             {
-                "address": "8c",
-                "device_address": "2e80000",
+                "address": "8C",
+                "device_address": "2E80000",
                 "name": "POWER ON ASSERT",
                 "protocol": "NEC2"
             },
             {
                 "address": "90",
-                "device_address": "2e80000",
+                "device_address": "2E80000",
                 "name": "DVD MENU",
                 "protocol": "NEC2"
             },
             {
-                "address": "9d",
-                "device_address": "2e80000",
+                "address": "9D",
+                "device_address": "2E80000",
                 "name": "REPEAT",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "9d",
-                "device_address": "2e80000",
+                "address": "9D",
+                "device_address": "2E80000",
                 "name": "REPEAT",
                 "protocol": "NEC2"
             },
             {
-                "address": "9f",
-                "device_address": "2e80000",
+                "address": "9F",
+                "device_address": "2E80000",
                 "name": "PLAYLIST",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "9f",
-                "device_address": "2e80000",
+                "address": "9F",
+                "device_address": "2E80000",
                 "name": "PLAYLIST",
                 "protocol": "NEC2"
             },
             {
-                "address": "a0",
-                "device_address": "2e80000",
+                "address": "A0",
+                "device_address": "2E80000",
                 "name": "ARROW LEFT",
                 "protocol": "NEC2"
             },
             {
-                "address": "b0",
-                "device_address": "2e80000",
+                "address": "B0",
+                "device_address": "2E80000",
                 "name": "LIBRARY",
                 "protocol": "NEC2"
             },
             {
-                "address": "b3",
-                "device_address": "2e80000",
+                "address": "B3",
+                "device_address": "2E80000",
                 "name": "STORED",
-                "protocol": "Pioneer"
+                "protocol": "PIONEER"
             },
             {
-                "address": "b3",
-                "device_address": "2e80000",
+                "address": "B3",
+                "device_address": "2E80000",
                 "name": "STORED",
                 "protocol": "NEC2"
             },
             {
-                "address": "c0",
-                "device_address": "2e80000",
+                "address": "C0",
+                "device_address": "2E80000",
                 "name": "ARROW UP",
                 "protocol": "NEC2"
             },
             {
-                "address": "cc",
-                "device_address": "2e80000",
+                "address": "CC",
+                "device_address": "2E80000",
                 "name": "POWER OFF ASSERT",
                 "protocol": "NEC2"
             },
             {
-                "address": "cd",
-                "device_address": "2e80000",
+                "address": "CD",
+                "device_address": "2E80000",
                 "name": "MUTE ALL ASSERT",
                 "protocol": "NEC2"
             },
             {
-                "address": "d0",
-                "device_address": "2e80000",
+                "address": "D0",
+                "device_address": "2E80000",
                 "name": "GUIDE",
                 "protocol": "NEC2"
             },
             {
-                "address": "e0",
-                "device_address": "2e80000",
+                "address": "E0",
+                "device_address": "2E80000",
                 "name": "ENTER",
                 "protocol": "NEC2"
             },
             {
-                "address": "f4",
-                "device_address": "2e80000",
+                "address": "F4",
+                "device_address": "2E80000",
                 "name": "LOCAL SOURCE 2",
                 "protocol": "NEC2"
             },
             {
-                "address": "f4",
-                "device_address": "2e80000",
+                "address": "F4",
+                "device_address": "2E80000",
                 "name": "LOCAL SOURCE",
                 "protocol": "NEC2"
             },
             {
-                "address": "fe",
-                "device_address": "2e80000",
+                "address": "FE",
+                "device_address": "2E80000",
                 "name": "MUTE ASSERT",
                 "protocol": "NEC2"
             }
@@ -588,6 +588,6 @@
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose Lifestyle",
     "target": "Lifestyle"
 }

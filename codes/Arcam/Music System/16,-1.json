@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam Music System",
+    "display_name": "Music System",
     "ir": {
         "commands": [
             {
@@ -59,15 +59,15 @@
                 "name": "SELECT FRONT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "TREBLE -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "BALANCE +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "BALANCE -"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "INFO 1"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "DISP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "DISPLAY"
             },
             {
@@ -159,19 +159,19 @@
                 "name": "VOL ZONE 2 -"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "ZONE 2 MUTE TOGGLE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "MUTE ZONE 2 TOGGL"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "MUTE ZONE 2 ON"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "MUTE ZONE 2 OFF"
             },
             {
@@ -275,19 +275,19 @@
                 "name": "MUTE OFF"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "STANDBY OFF"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER OFF"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "STANDBY ON"
             }
         ],
@@ -296,6 +296,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam Music System",
     "target": "Music System"
 }

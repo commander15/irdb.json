@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz DVD",
+    "display_name": "DVD",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "DISPLAY"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "DIMMER"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "RANDOM"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "REWIND"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PLAY"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "STOP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "CLEAR"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "A-B"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SUBTITLE"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUDIO"
             },
             {
@@ -131,15 +131,15 @@
                 "name": "DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "ENTER"
             },
             {
@@ -167,27 +167,27 @@
                 "name": "VIDEO ADJUST"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "SEARCH"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "PAGE"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "CONDITION"
             },
             {
-                "address": "ee",
+                "address": "EE",
                 "name": "MARKER"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "name": "ZOOM"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "name": "VIDEO ON/OFF"
             }
         ],
@@ -196,6 +196,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz DVD",
     "target": "DVD"
 }

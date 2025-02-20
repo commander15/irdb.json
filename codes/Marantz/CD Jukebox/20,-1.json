@@ -1,5 +1,5 @@
 {
-    "display_name": "Marantz CD Jukebox",
+    "display_name": "CD Jukebox",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TIME"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "RANDOM"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISC"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "AMS"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "OPEN/EJECT"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "STOP"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CATEGORY"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "TITLE"
             }
         ],
@@ -124,6 +124,6 @@
     },
     "manufacturer": "Marantz",
     "model": "",
-    "name": "",
+    "name": "Marantz CD Jukebox",
     "target": "CD Jukebox"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Onkyo DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -27,19 +27,19 @@
                 "name": "RETURN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FWD >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REV <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "2"
             },
             {
@@ -79,23 +79,23 @@
                 "name": "+10"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "PLAY"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "STOP"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SKIP >>"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SKIP <<"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PAUSE/STEP"
             },
             {
@@ -115,27 +115,27 @@
                 "name": "ZOOM"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "MEMORY"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "CLEAR"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "SETUP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "T"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "TITLE"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "MENU"
             },
             {
@@ -167,7 +167,7 @@
                 "name": "SUBTITLE ON/OFF"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "SLOW"
             }
         ],
@@ -176,6 +176,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo DVD Player",
     "target": "DVD Player"
 }

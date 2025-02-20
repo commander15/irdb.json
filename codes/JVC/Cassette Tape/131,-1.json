@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -27,15 +27,15 @@
                 "name": "DUBBING/HIGH"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DECK2 DIRECTION <>"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "DECK2 PLAY >"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DECK2 PAUSE "
             },
             {
@@ -47,11 +47,11 @@
                 "name": "DECK2 MUSIC S. >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "DECK2 MUTE"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "DECK 2"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "DECK1 REW <<"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "DECK1 DIRECTION <>"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "DECK1 PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DECK1 PAUSE "
             },
             {
@@ -91,11 +91,11 @@
                 "name": "DECK1 MUSIC S. >>"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "DECK1 MUTE"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "DECK 1"
             }
         ],
@@ -104,6 +104,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Cassette Tape",
     "target": "Cassette Tape"
 }

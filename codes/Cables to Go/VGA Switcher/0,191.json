@@ -1,29 +1,29 @@
 {
-    "display_name": "Cables to Go VGA Switcher",
+    "display_name": "VGA Switcher",
     "ir": {
         "commands": [
             {
-                "address": "a",
+                "address": "A",
                 "name": "IN 1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "INPUT 1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "INPUT 3"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "INPUT 4"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "IN 2"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "INPUT 2"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Cables to Go",
     "model": "",
-    "name": "",
+    "name": "Cables to Go VGA Switcher",
     "target": "VGA Switcher"
 }

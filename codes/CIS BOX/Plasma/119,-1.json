@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX Plasma",
+    "display_name": "Plasma",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "V SIZE"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "SET"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX Plasma",
     "target": "Plasma"
 }

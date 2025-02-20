@@ -1,5 +1,5 @@
 {
-    "display_name": "Digital Projection Video Scaler",
+    "display_name": "Video Scaler",
     "ir": {
         "commands": [
             {
@@ -75,27 +75,27 @@
                 "name": "BRIGHTNESS -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CONTRAST +"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CONTRAST -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER ON"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "POWER OFF"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "RED BUTTON"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MENU"
             },
             {
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Digital Projection",
     "model": "",
-    "name": "",
+    "name": "Digital Projection Video Scaler",
     "target": "Video Scaler"
 }

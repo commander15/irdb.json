@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "CD SKIP REV <<"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "CD PLAY >"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "CD PAUSE "
             },
             {
@@ -28,10 +28,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Cassette Tape",
     "target": "Cassette Tape"
 }

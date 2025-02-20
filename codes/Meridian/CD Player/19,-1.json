@@ -1,5 +1,5 @@
 {
-    "display_name": "Meridian CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "*"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "DISPLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "OFF"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STANDBY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PRESET"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "REPEAT"
             },
             {
@@ -123,19 +123,19 @@
                 "name": "STORE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VIDEO"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "LP"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "STORE"
             },
             {
@@ -179,7 +179,7 @@
                 "name": "STOP"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PHASE"
             },
             {
@@ -211,7 +211,7 @@
                 "name": "ENTER"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "DSP"
             },
             {
@@ -219,7 +219,7 @@
                 "name": "TOP MENU"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "DISPLAY"
             }
         ],
@@ -228,6 +228,6 @@
     },
     "manufacturer": "Meridian",
     "model": "",
-    "name": "",
+    "name": "Meridian CD Player",
     "target": "CD Player"
 }

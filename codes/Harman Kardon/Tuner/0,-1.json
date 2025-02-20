@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -35,23 +35,23 @@
                 "name": "3/11"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "4/12"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "5/13"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "6/14"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "7/15"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "8/16"
             },
             {
@@ -76,10 +76,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Tuner",
     "target": "Tuner"
 }

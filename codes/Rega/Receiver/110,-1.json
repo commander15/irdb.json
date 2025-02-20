@@ -1,5 +1,5 @@
 {
-    "display_name": "Rega Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SEARCH <<"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "4"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SKIP <<"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "STOP"
             },
             {
@@ -75,23 +75,23 @@
                 "name": "5"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "SKIP >>"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "6"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "2"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SEARCH >>"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "3"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Rega",
     "model": "",
-    "name": "",
+    "name": "Rega Receiver",
     "target": "Receiver"
 }

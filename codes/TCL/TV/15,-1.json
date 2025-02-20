@@ -1,5 +1,5 @@
 {
-    "display_name": "TCL TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "MENU"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "GUIDE"
             },
             {
@@ -27,23 +27,23 @@
                 "name": "GO BACK"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "VOLUME -"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "VOLUME +"
             },
             {
@@ -87,15 +87,15 @@
                 "name": "9"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TV"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "INFO"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "MUTE"
             },
             {
@@ -127,27 +127,27 @@
                 "name": "PERIOD"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "INPUT"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "SEEK FORWARD"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "STOP"
             },
             {
-                "address": "e8",
+                "address": "E8",
                 "name": "PLAY PAUSE"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "PIC"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "OK"
             }
         ],
@@ -156,6 +156,6 @@
     },
     "manufacturer": "TCL",
     "model": "",
-    "name": "",
+    "name": "TCL TV",
     "target": "TV"
 }

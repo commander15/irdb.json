@@ -1,5 +1,5 @@
 {
-    "display_name": "Parasound Surround Processor",
+    "display_name": "Surround Processor",
     "ir": {
         "commands": [
             {
@@ -63,47 +63,47 @@
                 "name": "THX"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MONO"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "ON"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "MUTE"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "VOLUME +"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "VOLUME -"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "OFF"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "2CH"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "SURROUND"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "DIALOGNORMALIZATION"
             },
             {
-                "address": "d3",
+                "address": "D3",
                 "name": "DYNAMIC RANGE"
             },
             {
-                "address": "d7",
+                "address": "D7",
                 "name": "RE-EQ"
             }
         ],
@@ -112,6 +112,6 @@
     },
     "manufacturer": "Parasound",
     "model": "",
-    "name": "",
+    "name": "Parasound Surround Processor",
     "target": "Surround Processor"
 }

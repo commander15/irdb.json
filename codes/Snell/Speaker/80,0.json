@@ -1,5 +1,5 @@
 {
-    "display_name": "Snell Speaker",
+    "display_name": "Speaker",
     "ir": {
         "commands": [
             {
@@ -27,7 +27,7 @@
                 "name": "BASS LEVEL -6"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "BASS LEVEL +2"
             },
             {
@@ -39,19 +39,19 @@
                 "name": "BASS LEVEL 0"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TREBLE - CUT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TREBLE - BOOST"
             }
         ],
         "device_address": "50",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Snell",
     "model": "",
-    "name": "",
+    "name": "Snell Speaker",
     "target": "Speaker"
 }

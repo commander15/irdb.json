@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -19,23 +19,23 @@
                 "name": "FAVS"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "ON (ID MODE)"
             },
             {
-                "address": "7d",
+                "address": "7D",
                 "name": "OFF (ID MODE)"
             },
             {
-                "address": "7e",
+                "address": "7E",
                 "name": "SET (ID MODE)"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony TV",
     "target": "TV"
 }

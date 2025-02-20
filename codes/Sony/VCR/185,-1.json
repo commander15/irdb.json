@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,7 +19,7 @@
                 "name": "VIDEO 4"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "VIDEO 5"
             },
             {
@@ -52,10 +52,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony VCR",
     "target": "VCR"
 }

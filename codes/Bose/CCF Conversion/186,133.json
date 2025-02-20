@@ -1,5 +1,5 @@
 {
-    "display_name": "Bose CCF Conversion",
+    "display_name": "CCF Conversion",
     "ir": {
         "commands": [
             {
@@ -15,19 +15,19 @@
                 "name": "4 VOL + C0 A1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7 AM 30 A1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "12 VIDEO 2 B0 A1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "11 VIDEO 1 70 A1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "13 AUX F0 A1"
             },
             {
@@ -43,23 +43,23 @@
                 "name": "24 SKIP FWD 98 A1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "25 STOP 58 A1"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "26 AM/FM PRESET + B8"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "27 AM/FM PRESET - F8"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "29 RANDOM DISK 52 A1"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "14 OFF 32 A1"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "21 FAST FWD 1A A1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "22 RANDOM 3A A1"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "17 NEXT DISK BA A1"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "30 MUTE ALL FB A1"
             }
         ],
@@ -108,6 +108,6 @@
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose CCF Conversion",
     "target": "CCF Conversion"
 }

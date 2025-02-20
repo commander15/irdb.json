@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -75,19 +75,19 @@
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "AUDIO D/A"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "+10"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "SCAN REVERSE (F.S.)"
             },
             {
@@ -107,15 +107,15 @@
                 "name": "REPEAT A/B"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "PGM"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "DISC SIDE A"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "DISC SIDE B"
             },
             {
@@ -143,19 +143,19 @@
                 "name": "MULTI-SPEED >"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "HILITE/INTRO"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "RANDOM"
             }
         ],
         "device_address": "0",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Player",
     "target": "CD Player"
 }

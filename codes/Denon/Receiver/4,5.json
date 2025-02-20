@@ -1,25 +1,25 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "ENTER"
             },
             {
@@ -83,107 +83,107 @@
                 "name": "STATUS REQUEST"
             },
             {
-                "address": "2c7",
+                "address": "2C7",
                 "name": "AUX ZONE 3"
             },
             {
-                "address": "2c7",
+                "address": "2C7",
                 "name": "Z3 INP AUX"
             },
             {
-                "address": "2c7",
+                "address": "2C7",
                 "name": "TOGGLE NET/USB"
             },
             {
-                "address": "2ca",
+                "address": "2CA",
                 "name": "INPUT XM"
             },
             {
-                "address": "2cb",
+                "address": "2CB",
                 "name": "INPUT HD RADIO"
             },
             {
-                "address": "2cc",
+                "address": "2CC",
                 "name": "INPUT NET"
             },
             {
-                "address": "2cd",
+                "address": "2CD",
                 "name": "INPUT IPOD"
             },
             {
-                "address": "2ce",
+                "address": "2CE",
                 "name": "INPUT USB"
             },
             {
-                "address": "2dc",
+                "address": "2DC",
                 "name": "TOGGLE DVD/HDP"
             },
             {
-                "address": "2dd",
+                "address": "2DD",
                 "name": "Z3 INP VCR 1/2"
             },
             {
-                "address": "2de",
+                "address": "2DE",
                 "name": "Z3 INP VCR 3/4"
             },
             {
-                "address": "2df",
+                "address": "2DF",
                 "name": "TOGGLE VCR/DVR"
             },
             {
-                "address": "3bc",
+                "address": "3BC",
                 "name": "Z3 REPEAT"
             },
             {
-                "address": "3bd",
+                "address": "3BD",
                 "name": "Z3 RANDOM"
             },
             {
-                "address": "3be",
+                "address": "3BE",
                 "name": "Z3 USB DIR. PLAY"
             },
             {
-                "address": "3bf",
+                "address": "3BF",
                 "name": "Z3 FAVORITE DIR.PLAY"
             },
             {
-                "address": "3cc",
+                "address": "3CC",
                 "name": "Z3 PRESET CH+"
             },
             {
-                "address": "3cd",
+                "address": "3CD",
                 "name": "Z3 PRESET CH-"
             },
             {
-                "address": "3ce",
+                "address": "3CE",
                 "name": "Z3 PRESET SHIFT"
             },
             {
-                "address": "3d7",
+                "address": "3D7",
                 "name": "Z3 SEARCH (RDS)"
             },
             {
-                "address": "3e0",
+                "address": "3E0",
                 "name": "Z3 PLAY/PAUSE"
             },
             {
-                "address": "3e1",
+                "address": "3E1",
                 "name": "Z3 STOP"
             },
             {
-                "address": "3e3",
+                "address": "3E3",
                 "name": "Z3 SKIP/TUNE-"
             },
             {
-                "address": "3e4",
+                "address": "3E4",
                 "name": "Z3 SKIP/TUNE+"
             }
         ],
         "device_address": "80",
-        "protocol": "Denon-K"
+        "protocol": "DENON-K"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

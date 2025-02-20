@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "VOLUME -"
             },
             {
-                "address": "2b",
+                "address": "2B",
                 "name": "VCR"
             }
         ],
         "device_address": "8",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Satellite",
     "target": "Satellite"
 }

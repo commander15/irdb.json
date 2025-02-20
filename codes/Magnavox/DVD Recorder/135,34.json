@@ -1,5 +1,5 @@
 {
-    "display_name": "Magnavox DVD Recorder",
+    "display_name": "DVD Recorder",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "CHANNEL -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "RECORD"
             },
             {
@@ -23,23 +23,23 @@
                 "name": "5"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "6"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "7"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "8"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "9"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "0"
             },
             {
@@ -51,19 +51,19 @@
                 "name": "SCAN >>"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "PAUSE"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SKIP <<"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "PLAY"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SKIP >>"
             },
             {
@@ -103,11 +103,11 @@
                 "name": "CURSOR DOWN"
             }
         ],
-        "device_address": "21c",
+        "device_address": "21C",
         "protocol": "NEC1"
     },
     "manufacturer": "Magnavox",
     "model": "",
-    "name": "",
+    "name": "Magnavox DVD Recorder",
     "target": "DVD Recorder"
 }

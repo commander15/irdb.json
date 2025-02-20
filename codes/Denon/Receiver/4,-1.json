@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -11,27 +11,27 @@
                 "name": "TAPE DECK PLAY REVERSE"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TAPE DECK FAST FORWARD"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "TAPE DECK REWIND"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "TAPE DECK PLAY"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "TAPE DECK PAUSE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "TAPE DECK STOP"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "TAPE DECK RECORD"
             },
             {
@@ -71,27 +71,27 @@
                 "name": "SURROUND MODE DSP VIRTUAL"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "SURROUND MODE THX ULTRA2 CINEMA"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "SURROUND MODE THX MUSIC"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "SURROUND MODE THX EX"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "SURROUND MODE DTS NEO:6 CINEMA"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "SURROUND MODE DTS NEO:6 MUSIC"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "SURROUND MODE DOLBY PL II CINEMA"
             },
             {
@@ -127,87 +127,87 @@
                 "name": "MODE NIGHT"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "ROOM EQ / MULTEQ TOGGLE MODE"
             },
             {
-                "address": "b3",
+                "address": "B3",
                 "name": "INPUT MODE / HDMI MONITOR AUTO"
             },
             {
-                "address": "b4",
+                "address": "B4",
                 "name": "INPUT MODE PCM"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "INPUT MODE DTS"
             },
             {
-                "address": "b6",
+                "address": "B6",
                 "name": "INPUT MODE RF"
             },
             {
-                "address": "b7",
+                "address": "B7",
                 "name": "INPUT MODE EXT. IN"
             },
             {
-                "address": "b8",
+                "address": "B8",
                 "name": "INPUT MODE EXT. IN 2"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "MAIN ZONE ON"
             },
             {
-                "address": "ba",
+                "address": "BA",
                 "name": "MAIN ZONE OFF"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "MULTI ZONE 2 ON"
             },
             {
-                "address": "bc",
+                "address": "BC",
                 "name": "MULTI ZONE 2 OFF"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "DAT DECK SEARCH FORWARD"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "DAT DECK SEARCH BACKWARD"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "DAT DECK FAST FORWARD"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "DAT DECK REWIND"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "DAT DECK PLAY"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "DAT DECK PAUSE"
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "DAT DECK STOP"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "DAT DECK RECORD"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

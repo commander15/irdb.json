@@ -1,13 +1,13 @@
 {
-    "display_name": "InFocus Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
-                "address": "e",
+                "address": "E",
                 "name": "VOLUME +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "VOLUME -"
             },
             {
@@ -35,27 +35,27 @@
                 "name": "MENU EDIT"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "MIC >"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "MUTE <"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SELECT ENTER"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "PREV V"
             }
         ],
         "device_address": "4",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "InFocus",
     "model": "",
-    "name": "",
+    "name": "InFocus Video Projector",
     "target": "Video Projector"
 }

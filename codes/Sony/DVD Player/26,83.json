@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
@@ -71,23 +71,23 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "SCAN/SLOW <<"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "SCAN/SLOW >>"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "SURROUND"
             },
             {
@@ -103,7 +103,7 @@
                 "name": "RETURN"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TV/VIDEO"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "CURSOR DN"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "VCR +"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "SET UP"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "INPUT SELECT"
             },
             {
@@ -143,15 +143,15 @@
                 "name": "SP/EP"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "DISPLAY"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "REPEAT/REPLAY"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "SKIP >"
             },
             {
@@ -179,7 +179,7 @@
                 "name": "VIDEO"
             },
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "DVD"
             },
             {
@@ -187,11 +187,11 @@
                 "name": "MUTE/ZOOM"
             }
         ],
-        "device_address": "d00000",
-        "protocol": "Sony20"
+        "device_address": "D00000",
+        "protocol": "SONY20"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DVD Player",
     "target": "DVD Player"
 }

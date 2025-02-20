@@ -1,5 +1,5 @@
 {
-    "display_name": "Zenith VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "<< REWIND"
             },
             {
@@ -27,7 +27,7 @@
                 "name": "RECORD MUTE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "AUDIO OUT"
             },
             {
@@ -43,7 +43,7 @@
                 "name": "VOLUME UP"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "TV/TAPE"
             },
             {
@@ -71,7 +71,7 @@
                 "name": "2"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "3"
             },
             {
@@ -87,7 +87,7 @@
                 "name": "6"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "7"
             },
             {
@@ -99,7 +99,7 @@
                 "name": "9"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "PAUSE"
             },
             {
@@ -119,15 +119,15 @@
                 "name": "RECORD"
             },
             {
-                "address": "7a",
+                "address": "7A",
                 "name": "POWER OFF"
             }
         ],
         "device_address": "7",
-        "protocol": "Zenith"
+        "protocol": "ZENITH"
     },
     "manufacturer": "Zenith",
     "model": "",
-    "name": "",
+    "name": "Zenith VCR",
     "target": "VCR"
 }

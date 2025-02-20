@@ -1,5 +1,5 @@
 {
-    "display_name": "NAD Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -27,7 +27,7 @@
                 "name": "CD SCAN >>"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CD CDR"
             },
             {
@@ -67,27 +67,27 @@
                 "name": "PHONO"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "TUNER 1"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "TUNER 5"
             },
             {
-                "address": "8c",
+                "address": "8C",
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "TAPE 1"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "TUNER 2"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "TUNER 6"
             },
             {
@@ -119,23 +119,23 @@
                 "name": "TAPE PAUSE "
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "TAPE REC"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "TAPE PLAY >"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "TAPE SCAN >>"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "TAPE SCAN <<"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "TAPE STOP []"
             }
         ],
@@ -144,6 +144,6 @@
     },
     "manufacturer": "NAD",
     "model": "",
-    "name": "",
+    "name": "NAD Amplifier",
     "target": "Amplifier"
 }

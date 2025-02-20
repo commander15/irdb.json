@@ -1,5 +1,5 @@
 {
-    "display_name": "Austar Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -75,23 +75,23 @@
                 "name": "DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SELECT"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "RED"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GREEN"
             },
             {
@@ -103,19 +103,19 @@
                 "name": "BACK"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "TV GUIDE"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "I-MODE"
             }
         ],
         "device_address": "20",
-        "protocol": "Nokia32"
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Austar",
     "model": "",
-    "name": "",
+    "name": "Austar Cable Box",
     "target": "Cable Box"
 }

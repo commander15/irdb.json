@@ -1,5 +1,5 @@
 {
-    "display_name": "Fedders Air Conditioner",
+    "display_name": "Air Conditioner",
     "ir": {
         "commands": [
             {
@@ -11,7 +11,7 @@
                 "name": "MODE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TEMP/TIME +"
             },
             {
@@ -23,7 +23,7 @@
                 "name": "TIMER"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "FAN SPEED"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Fedders",
     "model": "",
-    "name": "",
+    "name": "Fedders Air Conditioner",
     "target": "Air Conditioner"
 }

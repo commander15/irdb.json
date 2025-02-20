@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX DSS",
+    "display_name": "DSS",
     "ir": {
         "commands": [
             {
@@ -43,7 +43,7 @@
                 "name": "0"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "ENTER"
             },
             {
@@ -55,11 +55,11 @@
                 "name": "CH DOWN"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "PWR ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "PWR OFF"
             },
             {
@@ -67,7 +67,7 @@
                 "name": "MENU"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "DISPLAY"
             },
             {
@@ -79,15 +79,15 @@
                 "name": "TV/ DSS"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "name": "JUMP"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GUIDE"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "FAVORITE"
             },
             {
@@ -112,10 +112,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX DSS",
     "target": "DSS"
 }

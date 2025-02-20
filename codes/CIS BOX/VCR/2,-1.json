@@ -1,5 +1,5 @@
 {
-    "display_name": "CIS BOX VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -23,19 +23,19 @@
                 "name": "PAUSE"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "PLAY"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "REWIND <<"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FF"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "RECORD"
             },
             {
@@ -43,15 +43,15 @@
                 "name": "AUTO TRACKING"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "ANT VCR"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "PWR ON"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "PWR OFF"
             },
             {
@@ -59,7 +59,7 @@
                 "name": "FORWARD"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "SLOW MOTION -"
             },
             {
@@ -84,10 +84,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX VCR",
     "target": "VCR"
 }

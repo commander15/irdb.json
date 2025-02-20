@@ -1,70 +1,70 @@
 {
-    "display_name": "Adcom Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "10",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "VIDEO 4 (2)",
                 "protocol": "NEC"
             },
             {
                 "address": "13",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "CD (2)",
                 "protocol": "NEC"
             },
             {
                 "address": "50",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "TUNER (2)",
                 "protocol": "NEC"
             },
             {
                 "address": "54",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER ON",
                 "protocol": "NEC2"
             },
             {
                 "address": "55",
-                "device_address": "1a00",
+                "device_address": "1A00",
                 "name": "POWER OFF",
                 "protocol": "NEC2"
             },
             {
-                "address": "5c",
-                "device_address": "1a00",
+                "address": "5C",
+                "device_address": "1A00",
                 "name": "DSP: PL2 MOVIE",
                 "protocol": "NEC"
             },
             {
-                "address": "5d",
-                "device_address": "1a00",
+                "address": "5D",
+                "device_address": "1A00",
                 "name": "DSP: PL2 MUSIC",
                 "protocol": "NEC"
             },
             {
-                "address": "8d",
-                "device_address": "1a00",
+                "address": "8D",
+                "device_address": "1A00",
                 "name": "VIDEO 2 (2)",
                 "protocol": "NEC"
             },
             {
-                "address": "8e",
-                "device_address": "1a00",
+                "address": "8E",
+                "device_address": "1A00",
                 "name": "VIDEO 3 (2)",
                 "protocol": "NEC"
             },
             {
-                "address": "ce",
-                "device_address": "1a00",
+                "address": "CE",
+                "device_address": "1A00",
                 "name": "POWER ON",
                 "protocol": "NEC"
             },
             {
-                "address": "cf",
-                "device_address": "1a00",
+                "address": "CF",
+                "device_address": "1A00",
                 "name": "POWER OFF",
                 "protocol": "NEC"
             }
@@ -72,6 +72,6 @@
     },
     "manufacturer": "Adcom",
     "model": "",
-    "name": "",
+    "name": "Adcom Receiver",
     "target": "Receiver"
 }

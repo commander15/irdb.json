@@ -1,5 +1,5 @@
 {
-    "display_name": "McIntosh Control System",
+    "display_name": "Control System",
     "ir": {
         "commands": [
             {
@@ -11,11 +11,11 @@
                 "name": "SERVER"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "MM"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "MC"
             },
             {
@@ -31,23 +31,23 @@
                 "name": "AUX"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "VOLUME UP"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "MUTE"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "POWER ON"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "POWER OFF"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "McIntosh",
     "model": "",
-    "name": "",
+    "name": "McIntosh Control System",
     "target": "Control System"
 }

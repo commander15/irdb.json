@@ -1,5 +1,5 @@
 {
-    "display_name": "TEAC DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -123,35 +123,35 @@
                 "name": "TITLE"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "SCAN >>"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "SCAN <<"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "SKIP >>"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SKIP <<"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "PLAY"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "PAUSE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Pioneer"
+        "protocol": "PIONEER"
     },
     "manufacturer": "TEAC",
     "model": "",
-    "name": "",
+    "name": "TEAC DVD Player",
     "target": "DVD Player"
 }

@@ -1,17 +1,17 @@
 {
-    "display_name": "Denon AV Processor",
+    "display_name": "AV Processor",
     "ir": {
         "commands": [
             {
-                "address": "7f",
+                "address": "7F",
                 "name": "LEFT ARROW"
             },
             {
-                "address": "8d",
+                "address": "8D",
                 "name": "ZN2 VOL UP"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "ZONE 2 VOL DOWN"
             },
             {
@@ -31,51 +31,51 @@
                 "name": "ZONE2 MUSICSERVER"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "SURR STEREO"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "SURR DIRECT"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "SYSTEM SETUP"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "SURR PARAMETER"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "UP ARROW"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "DOWN ARROW"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "SURR 5CH/7CH STEREO"
             },
             {
-                "address": "b2",
+                "address": "B2",
                 "name": "VIDEO OFF"
             },
             {
-                "address": "be",
+                "address": "BE",
                 "name": "ZONE 2 DVD"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "MODE"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon AV Processor",
     "target": "AV Processor"
 }

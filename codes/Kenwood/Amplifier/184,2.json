@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -31,23 +31,23 @@
                 "name": "PLAY/PAUSE / CD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "DIMMER"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "DISPLAY"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "+100"
             }
         ],
-        "device_address": "2e0",
+        "device_address": "2E0",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Amplifier",
     "target": "Amplifier"
 }

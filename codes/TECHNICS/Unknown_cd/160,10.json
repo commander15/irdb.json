@@ -1,5 +1,5 @@
 {
-    "display_name": "TECHNICS Unknown_cd",
+    "display_name": "Unknown_cd",
     "ir": {
         "commands": [
             {
@@ -23,7 +23,7 @@
                 "name": "KEY_PAUSE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_PLAY"
             },
             {
@@ -75,7 +75,7 @@
                 "name": "KEY_VOLUMEDOWN"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "KEY_POWER"
             },
             {
@@ -91,11 +91,11 @@
                 "name": "PrevTrack"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "KEY_NEXT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "Random"
             },
             {
@@ -115,15 +115,15 @@
                 "name": ">10"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "Program"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "Auto_Cue"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "Peak_Search"
             },
             {
@@ -131,19 +131,19 @@
                 "name": "Time_Fade"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "Tape_Length"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "Side_A/B"
             }
         ],
         "device_address": "28000",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "TECHNICS",
     "model": "",
-    "name": "",
+    "name": "TECHNICS Unknown_cd",
     "target": "Unknown_cd"
 }

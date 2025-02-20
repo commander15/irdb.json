@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
@@ -63,19 +63,19 @@
                 "name": "<<"
             },
             {
-                "address": "8a",
+                "address": "8A",
                 "name": "PROGRAM"
             },
             {
-                "address": "8b",
+                "address": "8B",
                 "name": "CALL"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "REPEAT"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "A/B"
             },
             {
@@ -107,79 +107,79 @@
                 "name": "MULTI SPEED <"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "STROBE +"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "STROBE -"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": ">"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "<"
             },
             {
-                "address": "9e",
+                "address": "9E",
                 "name": "RANDOM"
             },
             {
-                "address": "9f",
+                "address": "9F",
                 "name": "AUTO SPACE"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "0"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "1"
             },
             {
-                "address": "a2",
+                "address": "A2",
                 "name": "2"
             },
             {
-                "address": "a3",
+                "address": "A3",
                 "name": "3"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "4"
             },
             {
-                "address": "a5",
+                "address": "A5",
                 "name": "5"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "6"
             },
             {
-                "address": "a8",
+                "address": "A8",
                 "name": "8"
             },
             {
-                "address": "a9",
+                "address": "A9",
                 "name": "9"
             },
             {
-                "address": "b1",
+                "address": "B1",
                 "name": "SINGLE"
             },
             {
-                "address": "b9",
+                "address": "B9",
                 "name": "JOG FWD"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Player",
     "target": "CD Player"
 }

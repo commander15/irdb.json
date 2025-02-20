@@ -1,13 +1,13 @@
 {
-    "display_name": "Myryad Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TUNE +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "TUNE -"
             },
             {
@@ -31,7 +31,7 @@
                 "name": "STORE"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TUNER"
             }
         ],
@@ -40,6 +40,6 @@
     },
     "manufacturer": "Myryad",
     "model": "",
-    "name": "",
+    "name": "Myryad Receiver",
     "target": "Receiver"
 }

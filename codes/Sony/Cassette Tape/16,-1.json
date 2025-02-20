@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Cassette Tape",
+    "display_name": "Cassette Tape",
     "ir": {
         "commands": [
             {
@@ -31,15 +31,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "REC MUTE"
             }
         ],
         "device_address": "0",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Cassette Tape",
     "target": "Cassette Tape"
 }

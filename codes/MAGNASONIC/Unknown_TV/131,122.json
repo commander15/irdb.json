@@ -1,5 +1,5 @@
 {
-    "display_name": "MAGNASONIC Unknown_TV",
+    "display_name": "Unknown_TV",
     "ir": {
         "commands": [
             {
@@ -43,19 +43,19 @@
                 "name": "MUTE/RESET"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "PICTURE"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "KEY_VIDEO"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SAP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_SLEEP"
             },
             {
@@ -99,27 +99,27 @@
                 "name": "KEY_9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "Q.REV"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "KEY_AGAIN"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CLK/TIM"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "SET"
             }
         ],
-        "device_address": "c000000",
+        "device_address": "C000000",
         "protocol": "NEC"
     },
     "manufacturer": "MAGNASONIC",
     "model": "",
-    "name": "",
+    "name": "MAGNASONIC Unknown_TV",
     "target": "Unknown_TV"
 }

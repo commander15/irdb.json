@@ -1,9 +1,9 @@
 {
-    "display_name": "Denon AV Processor",
+    "display_name": "AV Processor",
     "ir": {
         "commands": [
             {
-                "address": "6a",
+                "address": "6A",
                 "name": "SURR PUREDIRECT"
             },
             {
@@ -11,111 +11,111 @@
                 "name": "ZONE 2"
             },
             {
-                "address": "7b",
+                "address": "7B",
                 "name": "POWER ON ZN 2"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "POWER OFF ZN 2"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "PHONO"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "CD"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "IPOD"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "TUNER"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "DBS"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "CABLE TV"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "TV"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "VDP"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "MUSIC SERVER"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "VIDEO AUX"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "VCR 1"
             },
             {
-                "address": "ce",
+                "address": "CE",
                 "name": "VCR 2"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "TAPE 1"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "RIGHT ARROW"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "ON SCREEN"
             },
             {
-                "address": "e0",
+                "address": "E0",
                 "name": "SELECT/ENTER"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "name": "POWER ON MAIN"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "POWER OFF MAIN"
             },
             {
-                "address": "e3",
+                "address": "E3",
                 "name": "DVD"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "SURR STANDARD"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "MUTE"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "VOLUME + MAIN"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "VOLUME - MAIN"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon AV Processor",
     "target": "AV Processor"
 }

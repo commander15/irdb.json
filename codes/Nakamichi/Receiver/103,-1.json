@@ -1,21 +1,21 @@
 {
-    "display_name": "Nakamichi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "CD DISC"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "CD DISC ^"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "CD DISC 1-6"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "DISC"
             },
             {
@@ -31,95 +31,95 @@
                 "name": "DISC SCAN"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "CD SINGLE"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CD SCAN <<"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CD SEARCH <<"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "CD <<"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "CD SKIP <"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "CD TRACK <"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "CD <"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "CD SKIP I<"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "CD STOP []"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "CD STOP"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "CD PLAY >"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "CD PLAY"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "CD SCAN >>"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "CD SEARCH >>"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "CD >>"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "CD SKIP >"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "CD TRACK >"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "CD >"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "CD SKIP >I"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CD PAUSE "
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "CD PAUSE"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "CD RANDOM"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "RANDOM"
             }
         ],
@@ -128,6 +128,6 @@
     },
     "manufacturer": "Nakamichi",
     "model": "",
-    "name": "",
+    "name": "Nakamichi Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sonance System Controller",
+    "display_name": "System Controller",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "CD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DVD"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TUNER"
             },
             {
@@ -43,11 +43,11 @@
                 "name": "POWER ON"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "ALL OFF"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "POWER OFF"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "Sonance",
     "model": "",
-    "name": "",
+    "name": "Sonance System Controller",
     "target": "System Controller"
 }

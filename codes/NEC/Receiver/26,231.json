@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,23 +15,23 @@
                 "name": "TAPE REC/PLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "TAPE FF >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "TAPE REW <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TAPE PAUSE "
             }
         ],
-        "device_address": "d00",
+        "device_address": "D00",
         "protocol": "NEC1"
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC Receiver",
     "target": "Receiver"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Sanyo TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "CHANNEL +"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL -"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "DISPLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "SLEEP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VOLUME +"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "VOLUME -"
             },
             {
@@ -91,7 +91,7 @@
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "RESET"
             }
         ],
@@ -100,6 +100,6 @@
     },
     "manufacturer": "Sanyo",
     "model": "",
-    "name": "",
+    "name": "Sanyo TV",
     "target": "TV"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Proton TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
@@ -23,23 +23,23 @@
                 "name": "ANT2"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV TUNER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "AV2 INPUT"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "AV1 INPUT"
             }
         ],
         "device_address": "0",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Proton",
     "model": "",
-    "name": "",
+    "name": "Proton TV",
     "target": "TV"
 }

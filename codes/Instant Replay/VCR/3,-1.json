@@ -1,25 +1,25 @@
 {
-    "display_name": "Instant Replay VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "ADD/DLT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "ADD/DELETE"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PROG"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Instant Replay",
     "model": "",
-    "name": "",
+    "name": "Instant Replay VCR",
     "target": "VCR"
 }

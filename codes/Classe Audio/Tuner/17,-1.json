@@ -1,5 +1,5 @@
 {
-    "display_name": "Classe Audio Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -83,11 +83,11 @@
                 "name": "9 T1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIRECT T0"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "DIRECT T1"
             },
             {
@@ -99,27 +99,27 @@
                 "name": "ON T1"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STBY T0"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "STBY T1"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RDS T0"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RDS T1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MONO T0"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "MONO T1"
             },
             {
@@ -195,27 +195,27 @@
                 "name": "SIGNAL T1"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TUNE T0"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "TUNE T1"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "AUTO T0"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "AUTO T1"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "SCAN T0"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "SCAN T1"
             }
         ],
@@ -224,6 +224,6 @@
     },
     "manufacturer": "Classe Audio",
     "model": "",
-    "name": "",
+    "name": "Classe Audio Tuner",
     "target": "Tuner"
 }

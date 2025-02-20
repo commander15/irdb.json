@@ -1,5 +1,5 @@
 {
-    "display_name": "JENSEN VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -19,15 +19,15 @@
                 "name": "REWIND <<"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "OFF"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "PLAY"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "PAUSE"
             },
             {
@@ -47,11 +47,11 @@
                 "name": "CH UP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "ENTER"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "0"
             },
             {
@@ -91,15 +91,15 @@
                 "name": "9"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "RECORD"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Akai"
+        "protocol": "AKAI"
     },
     "manufacturer": "JENSEN",
     "model": "",
-    "name": "",
+    "name": "JENSEN VCR",
     "target": "VCR"
 }

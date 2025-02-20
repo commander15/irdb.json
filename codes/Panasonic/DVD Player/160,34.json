@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -79,67 +79,67 @@
                 "name": "CLEAR"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "DISC MANAGER"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "DISC"
             },
             {
-                "address": "ab",
+                "address": "AB",
                 "name": "TITLE"
             },
             {
-                "address": "ac",
+                "address": "AC",
                 "name": "MARKER"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "ANGLE"
             },
             {
-                "address": "ae",
+                "address": "AE",
                 "name": "SUBTITLE"
             },
             {
-                "address": "b5",
+                "address": "B5",
                 "name": "SETUP"
             },
             {
-                "address": "bb",
+                "address": "BB",
                 "name": "PLAY MODE"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "MENU"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "EXIT"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "RETURN"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "ENTER"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "SELECT"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "DISC SKIP"
             }
         ],
         "device_address": "280",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic DVD Player",
     "target": "DVD Player"
 }

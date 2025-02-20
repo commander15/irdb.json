@@ -1,5 +1,5 @@
 {
-    "display_name": "GE VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -15,11 +15,11 @@
                 "name": "program"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "tracking_left"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "tracking_right"
             },
             {
@@ -51,23 +51,23 @@
                 "name": "KEY_PAUSE"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "KEY_FASTFORWARD"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "KEY_REWIND"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "KEY_REWIND"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "KEY_REWIND"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "KEY_STOP"
             },
             {
@@ -75,15 +75,15 @@
                 "name": "add_delete"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "KEY_POWER"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "KEY_CHANNELDOWN"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "KEY_CHANNELUP"
             },
             {
@@ -127,7 +127,7 @@
                 "name": "KEY_9"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "display"
             },
             {
@@ -151,7 +151,7 @@
                 "name": "input"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "KEY_0"
             }
         ],
@@ -160,6 +160,6 @@
     },
     "manufacturer": "GE",
     "model": "",
-    "name": "",
+    "name": "GE VCR",
     "target": "VCR"
 }

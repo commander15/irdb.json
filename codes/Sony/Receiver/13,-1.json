@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -119,15 +119,15 @@
                 "name": "RADIO CH 0"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TUNER MEMORY"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "TUNER AM/FM"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "AM/FM"
             },
             {
@@ -244,10 +244,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Receiver",
     "target": "Receiver"
 }

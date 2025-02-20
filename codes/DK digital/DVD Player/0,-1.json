@@ -1,5 +1,5 @@
 {
-    "display_name": "DK digital DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -31,19 +31,19 @@
                 "name": "DOWN"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "SKIP >>"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "SETUP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "SEARCH >>"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SEARCH <<"
             },
             {
@@ -71,15 +71,15 @@
                 "name": "LEFT"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SUBTITLE"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "TITLE"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "MENU"
             },
             {
@@ -119,23 +119,23 @@
                 "name": "PROGRAM"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "REPEAT"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "A/B REPEAT"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "2"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "5"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "name": "8"
             }
         ],
@@ -144,6 +144,6 @@
     },
     "manufacturer": "DK digital",
     "model": "",
-    "name": "",
+    "name": "DK digital DVD Player",
     "target": "DVD Player"
 }

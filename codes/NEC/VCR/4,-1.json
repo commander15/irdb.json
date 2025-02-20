@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -55,15 +55,15 @@
                 "name": "TV/VIDEO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "TV MUTE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "MUTE"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TV ANT/AUX"
             },
             {
@@ -135,15 +135,15 @@
                 "name": "TV 9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TV TIMER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TV RECALL"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             }
         ],
@@ -152,6 +152,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC VCR",
     "target": "VCR"
 }

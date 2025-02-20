@@ -1,9 +1,9 @@
 {
-    "display_name": "Audio Refinement CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "POWER"
             },
             {
@@ -15,7 +15,7 @@
                 "name": "SEACH -"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "name": "CD"
             },
             {
@@ -31,11 +31,11 @@
                 "name": "STOP"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "TRACK -"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TRACK +"
             }
         ],
@@ -44,6 +44,6 @@
     },
     "manufacturer": "Audio Refinement",
     "model": "",
-    "name": "",
+    "name": "Audio Refinement CD Player",
     "target": "CD Player"
 }

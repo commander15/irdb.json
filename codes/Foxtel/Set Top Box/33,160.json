@@ -1,5 +1,5 @@
 {
-    "display_name": "Foxtel Set Top Box",
+    "display_name": "Set Top Box",
     "ir": {
         "commands": [
             {
@@ -43,15 +43,15 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "MUTE"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "I"
             },
             {
@@ -87,27 +87,27 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "SELECT"
             },
             {
-                "address": "6d",
+                "address": "6D",
                 "name": "RED"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "GREEN"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "YELLOW"
             },
             {
@@ -123,31 +123,31 @@
                 "name": "BACK"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "FOXTEL"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "TV GUIDE"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "BOX OFFICE"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "PLANNER"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "ACTIVE"
             }
         ],
         "device_address": "21",
-        "protocol": "Nokia32"
+        "protocol": "NOKIA32"
     },
     "manufacturer": "Foxtel",
     "model": "",
-    "name": "",
+    "name": "Foxtel Set Top Box",
     "target": "Set Top Box"
 }

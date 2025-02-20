@@ -1,5 +1,5 @@
 {
-    "display_name": "Echostar Satelite DVR",
+    "display_name": "Satelite DVR",
     "ir": {
         "commands": [
             {
@@ -19,11 +19,11 @@
                 "name": "PAGE -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE UP"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PAGE +"
             },
             {
@@ -79,47 +79,47 @@
                 "name": "RECORDED EVENTS"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP ON/OFF"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": ""
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "PIP"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "PIP LOCATION"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": ""
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "POSITION"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "PIP SWAP"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": ""
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SWAP"
             }
         ],
         "device_address": "1",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Echostar",
     "model": "",
-    "name": "",
+    "name": "Echostar Satelite DVR",
     "target": "Satelite DVR"
 }

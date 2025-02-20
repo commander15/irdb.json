@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Laser Disc",
+    "display_name": "Laser Disc",
     "ir": {
         "commands": [
             {
@@ -23,15 +23,15 @@
                 "name": "PAUSE"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STILL/STEP >"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "STILL/STEP <"
             },
             {
@@ -79,7 +79,7 @@
                 "name": "AUDIO SELECT"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
@@ -99,11 +99,11 @@
                 "name": "SKIP <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "SKIP >>"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "name": "RANDOM"
             },
             {
@@ -115,51 +115,51 @@
                 "name": "FP DISPLAY"
             },
             {
-                "address": "a0",
+                "address": "A0",
                 "name": "CLEAR"
             },
             {
-                "address": "a1",
+                "address": "A1",
                 "name": "RECALL"
             },
             {
-                "address": "a4",
+                "address": "A4",
                 "name": "+10"
             },
             {
-                "address": "aa",
+                "address": "AA",
                 "name": "PROGRAM"
             },
             {
-                "address": "ad",
+                "address": "AD",
                 "name": "EDIT"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "MODE"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "SIDE A"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "SIDE B"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "D/A CX"
             },
             {
-                "address": "d2",
+                "address": "D2",
                 "name": "DISPLAY"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Laser Disc",
     "target": "Laser Disc"
 }

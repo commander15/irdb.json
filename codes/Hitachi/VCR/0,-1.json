@@ -1,233 +1,233 @@
 {
-    "display_name": "Hitachi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
                 "address": "0",
                 "device_address": "0",
                 "name": "MUTE",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "1",
                 "device_address": "0",
                 "name": "TV OPERATE",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "1",
                 "device_address": "0",
                 "name": "TV VOLUME ^",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "6",
                 "device_address": "0",
                 "name": "MUTE",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "7",
                 "device_address": "0",
                 "name": "TV CHANNEL ^",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "8",
                 "device_address": "0",
                 "name": "TV MENU",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "LAST CH",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "0",
                 "name": "TV MUTE",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "TV VOLUME V",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "10",
                 "device_address": "0",
                 "name": "TV 1",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "10",
                 "device_address": "0",
                 "name": "TV 1 (Q Z)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "11",
                 "device_address": "0",
                 "name": "TV 2",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "11",
                 "device_address": "0",
                 "name": "TV 2 (A B C)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "12",
                 "device_address": "0",
                 "name": "TV 3",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "12",
                 "device_address": "0",
                 "name": "TV 3 (D E F)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "13",
                 "device_address": "0",
                 "name": "TV 4",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "13",
                 "device_address": "0",
                 "name": "TV 4 (G H I)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "14",
                 "device_address": "0",
                 "name": "TV 5",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "14",
                 "device_address": "0",
                 "name": "TV 5 (J K L)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "15",
                 "device_address": "0",
                 "name": "TV 6 (CL)",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "15",
                 "device_address": "0",
                 "name": "TV 6 (M N O)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "16",
                 "device_address": "0",
                 "name": "TV 7",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "16",
                 "device_address": "0",
                 "name": "TV 7 (P R S)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "17",
                 "device_address": "0",
                 "name": "TV 8",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "17",
                 "device_address": "0",
                 "name": "TV 8 (T U V AM)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "18",
                 "device_address": "0",
                 "name": "TV 9",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "18",
                 "device_address": "0",
                 "name": "TV 9 (W X Y PM)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "19",
                 "device_address": "0",
                 "name": "TV 0",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "19",
                 "device_address": "0",
                 "name": "TV 0 (? !)",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "20",
                 "device_address": "0",
                 "name": "TV OPERATE",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "21",
                 "device_address": "0",
                 "name": "TV CHANNEL V",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
                 "address": "22",
                 "device_address": "0",
                 "name": "TV PROGRAMME ^",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "23",
                 "device_address": "0",
                 "name": "TV PROGRAMME V",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "24",
                 "device_address": "0",
                 "name": "VOL ^",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
                 "address": "25",
                 "device_address": "0",
                 "name": "VOL V",
-                "protocol": "Panasonic_Old"
+                "protocol": "PANASONIC_OLD"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "device_address": "0",
                 "name": "VOLUME ^",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "device_address": "0",
                 "name": "VOLUME V",
-                "protocol": "Barco"
+                "protocol": "BARCO"
             }
         ]
     },
     "manufacturer": "Hitachi",
     "model": "",
-    "name": "",
+    "name": "Hitachi VCR",
     "target": "VCR"
 }

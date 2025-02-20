@@ -1,5 +1,5 @@
 {
-    "display_name": "Harman Kardon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CURSOR UP"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CURSOR LEFT"
             }
         ],
@@ -32,6 +32,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon Receiver",
     "target": "Receiver"
 }

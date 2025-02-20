@@ -1,21 +1,21 @@
 {
-    "display_name": "Mitsubishi TV",
+    "display_name": "TV",
     "ir": {
         "commands": [
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CABLE INPUT V"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "CABLE INPUT ^"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi TV",
     "target": "TV"
 }

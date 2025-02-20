@@ -1,166 +1,166 @@
 {
-    "display_name": "Onkyo Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
                 "address": "4",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "MULTI-CH INPUT",
                 "protocol": "NEC1"
             },
             {
                 "address": "18",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "DSP",
                 "protocol": "NEC1"
             },
             {
                 "address": "18",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "3/DSP>",
                 "protocol": "NEC1"
             },
             {
                 "address": "19",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "6/DSP<",
                 "protocol": "NEC1"
             },
             {
-                "address": "1e",
-                "device_address": "d2000",
+                "address": "1E",
+                "device_address": "D2000",
                 "name": "INPUT SELECTOR >",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
-                "device_address": "d2000",
+                "address": "1F",
+                "device_address": "D2000",
                 "name": "INPUT SELECTOR <",
                 "protocol": "NEC1"
             },
             {
                 "address": "42",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "LEVEL +",
                 "protocol": "NEC2"
             },
             {
                 "address": "42",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "LEVEL UP",
                 "protocol": "NEC2"
             },
             {
                 "address": "42",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "SURR CH SEL +",
                 "protocol": "NEC2"
             },
             {
                 "address": "43",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "LEVEL -",
                 "protocol": "NEC2"
             },
             {
                 "address": "43",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "LEVEL DOWN",
                 "protocol": "NEC2"
             },
             {
                 "address": "43",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "SURR CH SEL -",
                 "protocol": "NEC2"
             },
             {
                 "address": "44",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "CH SEL",
                 "protocol": "NEC1"
             },
             {
                 "address": "44",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "CH SEL/TOP MENU",
                 "protocol": "NEC1"
             },
             {
                 "address": "44",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "SURR CH SEL",
                 "protocol": "NEC1"
             },
             {
                 "address": "45",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "SURR MODE <",
                 "protocol": "NEC1"
             },
             {
                 "address": "47",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "STNBY",
                 "protocol": "NEC1"
             },
             {
                 "address": "47",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "STANDBY",
                 "protocol": "NEC1"
             },
             {
-                "address": "4c",
-                "device_address": "d2000",
+                "address": "4C",
+                "device_address": "D2000",
                 "name": "1/STEREO",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
-                "device_address": "d2000",
+                "address": "4D",
+                "device_address": "D2000",
                 "name": "4/SURR",
                 "protocol": "NEC1"
             },
             {
                 "address": "52",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "5/A.ST",
                 "protocol": "NEC1"
             },
             {
                 "address": "53",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "SETUP",
                 "protocol": "NEC1"
             },
             {
                 "address": "54",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "RETURN",
                 "protocol": "NEC1"
             },
             {
                 "address": "55",
-                "device_address": "d2000",
+                "device_address": "D2000",
                 "name": "+10/DISPLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "8c",
-                "device_address": "d2000",
+                "address": "8C",
+                "device_address": "D2000",
                 "name": "DVD",
                 "protocol": "NEC1"
             },
             {
-                "address": "d6",
-                "device_address": "d2000",
+                "address": "D6",
+                "device_address": "D2000",
                 "name": "9/RE-EQ",
                 "protocol": "NEC1"
             },
             {
-                "address": "d9",
-                "device_address": "d2000",
+                "address": "D9",
+                "device_address": "D2000",
                 "name": "A/AUDIO",
                 "protocol": "NEC1"
             }
@@ -168,6 +168,6 @@
     },
     "manufacturer": "Onkyo",
     "model": "",
-    "name": "",
+    "name": "Onkyo Receiver",
     "target": "Receiver"
 }

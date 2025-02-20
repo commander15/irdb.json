@@ -1,5 +1,5 @@
 {
-    "display_name": "Nakamichi Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -159,7 +159,7 @@
                 "name": "TAPE"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "TAPE 2/VCR"
             },
             {
@@ -199,7 +199,7 @@
                 "name": "TAPE1 AZIMUTH >"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "TAPE1 AZIMUTH <"
             },
             {
@@ -283,79 +283,79 @@
                 "name": "TAPE2 STOP []"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "SPKS A"
             },
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "SPKS B"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "SPKS A+B"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "SPKS OFF"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "PHONO"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "CD"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "TUNER"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "TUNER(TAPE2)"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "VIDEO 1"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "VIDEO 2"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "TAPE 1"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "TAPE 2"
             },
             {
-                "address": "cb",
+                "address": "CB",
                 "name": "TAPE 3/VCR"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "TAPE2 FFWD >>"
             },
             {
-                "address": "d5",
+                "address": "D5",
                 "name": "TAPE2 REW <<"
             },
             {
-                "address": "d6",
+                "address": "D6",
                 "name": "TAPE2 CUE"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "TAPE2 R.PLAY <"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "TAPE2 AZIMUTH >"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "TAPE2 AZIMUTH <"
             }
         ],
@@ -364,6 +364,6 @@
     },
     "manufacturer": "Nakamichi",
     "model": "",
-    "name": "",
+    "name": "Nakamichi Receiver",
     "target": "Receiver"
 }

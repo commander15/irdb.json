@@ -1,5 +1,5 @@
 {
-    "display_name": "Kenwood Sirius",
+    "display_name": "Sirius",
     "ir": {
         "commands": [
             {
@@ -63,25 +63,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "DELETE",
                 "protocol": "NEC"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "SETUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "BANK",
                 "protocol": "NEC"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "CHANNEL -",
                 "protocol": "NEC1"
@@ -147,31 +147,31 @@
                 "protocol": "NEC"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "&()-",
                 "protocol": "NEC"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "device_address": "0",
                 "name": "' ?!",
                 "protocol": "NEC"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "0",
                 "name": "DIMMER",
                 "protocol": "NEC"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "device_address": "0",
                 "name": "SPACE",
                 "protocol": "NEC"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "0",
                 "name": "CHANNEL SCAN",
                 "protocol": "NEC"
@@ -180,6 +180,6 @@
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Sirius",
     "target": "Sirius"
 }

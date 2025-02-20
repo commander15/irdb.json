@@ -1,5 +1,5 @@
 {
-    "display_name": "Dish Network Satellite",
+    "display_name": "Satellite",
     "ir": {
         "commands": [
             {
@@ -51,39 +51,39 @@
                 "name": "5 - JKL"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "6 - MNO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "MENU"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "7 - PQRS"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "8 - TUV"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "9 - WXYZ"
             },
             {
@@ -127,35 +127,35 @@
                 "name": "CURSOR RIGHT(BROWSE)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "CURSOR UP"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "RECALL"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "CURSOR LEFT (THEME)"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "RECORD"
             },
             {
@@ -192,10 +192,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "Dish_Network"
+        "protocol": "DISH_NETWORK"
     },
     "manufacturer": "Dish Network",
     "model": "",
-    "name": "",
+    "name": "Dish Network Satellite",
     "target": "Satellite"
 }

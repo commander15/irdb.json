@@ -1,5 +1,5 @@
 {
-    "display_name": "Adelphia Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -31,15 +31,15 @@
                 "name": "INFO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CURSER DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CURSER SELECT"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "LAST"
             },
             {
@@ -79,19 +79,19 @@
                 "name": "9"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "LIVE TV"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "FAV"
             },
             {
@@ -111,11 +111,11 @@
                 "name": "RWD"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "EXIT"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "A"
             },
             {
@@ -151,27 +151,27 @@
                 "name": "SETTINGS"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "ASPECT"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "0"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "MENU"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "VOD"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Panasonic_Old"
+        "protocol": "PANASONIC_OLD"
     },
     "manufacturer": "Adelphia",
     "model": "",
-    "name": "",
+    "name": "Adelphia Cable Box",
     "target": "Cable Box"
 }

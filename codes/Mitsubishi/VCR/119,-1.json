@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -7,7 +7,7 @@
                 "name": "VOLUME UP"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "VOLUME DOWN"
             },
             {
@@ -20,10 +20,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Mitsubishi"
+        "protocol": "MITSUBISHI"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi VCR",
     "target": "VCR"
 }

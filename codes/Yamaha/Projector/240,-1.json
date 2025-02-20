@@ -1,5 +1,5 @@
 {
-    "display_name": "Yamaha Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -71,35 +71,35 @@
                 "name": "ASPECT SMART ZOOM"
             },
             {
-                "address": "a6",
+                "address": "A6",
                 "name": "HIDE"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "SETTING CONTRAST"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "SETTING BRIGHTNESS"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "SETTING COLOR TEMP"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "ASPECT TOGGLE"
             },
             {
-                "address": "e4",
+                "address": "E4",
                 "name": "MEMORY 1"
             }
         ],
         "device_address": "0",
-        "protocol": "Proton"
+        "protocol": "PROTON"
     },
     "manufacturer": "Yamaha",
     "model": "",
-    "name": "",
+    "name": "Yamaha Projector",
     "target": "Projector"
 }

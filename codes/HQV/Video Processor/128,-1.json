@@ -1,5 +1,5 @@
 {
-    "display_name": "HQV Video Processor",
+    "display_name": "Video Processor",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "FILM"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "ASPECT RATIO"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "TRNR"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CNR"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "DVI"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VIDEO"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "HDMI"
             },
             {
@@ -88,6 +88,6 @@
     },
     "manufacturer": "HQV",
     "model": "",
-    "name": "",
+    "name": "HQV Video Processor",
     "target": "Video Processor"
 }

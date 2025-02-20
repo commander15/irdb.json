@@ -1,359 +1,359 @@
 {
-    "display_name": "JVC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
                 "address": "3",
                 "device_address": "-80000000",
                 "name": "STOP []",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "3",
                 "device_address": "-80000000",
                 "name": "STOP",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "4",
                 "device_address": "-80000000",
                 "name": "EJECT",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "5",
                 "device_address": "-80000000",
                 "name": "ON",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "6",
                 "device_address": "-80000000",
                 "name": "FFWD/SHUT.SRCH >>",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "6",
                 "device_address": "-80000000",
                 "name": "FF/SHUT.SRCH >>",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "6",
                 "device_address": "-80000000",
                 "name": "FF >>/SHUTTLE >>",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "6",
                 "device_address": "-80000000",
                 "name": "FFWD >>",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "7",
                 "device_address": "-80000000",
                 "name": "REW/SHUT.SRCH <<",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "7",
                 "device_address": "-80000000",
                 "name": "REW <</SHUTTLE <<",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "7",
                 "device_address": "-80000000",
                 "name": "REW <<",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "8",
                 "device_address": "-80000000",
                 "name": "SLOW >",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "-80000000",
                 "name": "OFF",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "-80000000",
                 "name": "POWER",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "-80000000",
                 "name": "PLAY >",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "-80000000",
                 "name": "PAUSE/STILL ",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "10",
                 "device_address": "-80000000",
                 "name": "TV CH/SET +",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "11",
                 "device_address": "-80000000",
                 "name": "TV CH/SET -",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "12",
                 "device_address": "-80000000",
                 "name": "VOLUME +",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "13",
                 "device_address": "-80000000",
                 "name": "TV/VIDEO",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "13",
                 "device_address": "-80000000",
                 "name": "VOLUME -",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "13",
                 "device_address": "-80000000",
                 "name": "VIDEO/TV",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "14",
                 "device_address": "-80000000",
                 "name": "SEARCH FWD >>",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "15",
                 "device_address": "-80000000",
                 "name": "TV POWER",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "15",
                 "device_address": "-80000000",
                 "name": "TV MENU (RA EDIT)",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "15",
                 "device_address": "-80000000",
                 "name": "TV MENU",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
                 "address": "15",
                 "device_address": "-80000000",
                 "name": "SEARCH REV <<",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "16",
                 "device_address": "-80000000",
                 "name": "FR ADV",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "18",
                 "device_address": "-80000000",
                 "name": "CHANNEL -",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "19",
                 "device_address": "-80000000",
                 "name": "CHANNEL +",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "19",
                 "device_address": "-80000000",
                 "name": "CHANNEL",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "25",
                 "device_address": "-80000000",
                 "name": "TV TV/VIDEO",
-                "protocol": "Sony12"
+                "protocol": "SONY12"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "-80000000",
                 "name": "AUDIO DUB/PLAY",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "41",
                 "device_address": "-80000000",
                 "name": "SP/EP",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "42",
                 "device_address": "-80000000",
                 "name": "AM/PM",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "46",
                 "device_address": "-80000000",
                 "name": "CANCEL",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "47",
                 "device_address": "-80000000",
                 "name": "PROG",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "-80000000",
                 "name": "ENTER",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "-80000000",
                 "name": "0",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "-80000000",
                 "name": "0/REPEAT",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "50",
                 "device_address": "-80000000",
                 "name": "1",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "51",
                 "device_address": "-80000000",
                 "name": "2",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "52",
                 "device_address": "-80000000",
                 "name": "3",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "52",
                 "device_address": "-80000000",
                 "name": "3/TUE",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "53",
                 "device_address": "-80000000",
                 "name": "4",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "53",
                 "device_address": "-80000000",
                 "name": "4/WED",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "54",
                 "device_address": "-80000000",
                 "name": "5",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "54",
                 "device_address": "-80000000",
                 "name": "5/THU",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "55",
                 "device_address": "-80000000",
                 "name": "6",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "55",
                 "device_address": "-80000000",
                 "name": "6/FRI",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "56",
                 "device_address": "-80000000",
                 "name": "7",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "56",
                 "device_address": "-80000000",
                 "name": "7/SAT",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "57",
                 "device_address": "-80000000",
                 "name": "8",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "57",
                 "device_address": "-80000000",
                 "name": "8/1 ST/2 ND",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "58",
                 "device_address": "-80000000",
                 "name": "9",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
                 "address": "58",
                 "device_address": "-80000000",
                 "name": "9/DAILY",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "device_address": "-80000000",
                 "name": "REC",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             },
             {
-                "address": "6c",
+                "address": "6C",
                 "device_address": "-80000000",
                 "name": "REC/PLAY",
-                "protocol": "Akai"
+                "protocol": "AKAI"
             }
         ]
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC VCR",
     "target": "VCR"
 }

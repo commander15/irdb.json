@@ -1,5 +1,5 @@
 {
-    "display_name": "BenQ Projector",
+    "display_name": "Projector",
     "ir": {
         "commands": [
             {
@@ -39,25 +39,25 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "0",
                 "name": "UP",
                 "protocol": "NEC1"
             },
             {
-                "address": "c",
+                "address": "C",
                 "device_address": "0",
                 "name": "MENU",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "0",
                 "name": "ASPECT",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "0",
                 "name": "FREEZE",
                 "protocol": "NEC1"
@@ -81,7 +81,7 @@
                 "protocol": "NEC"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "device_address": "0",
                 "name": "VOLUME +",
                 "protocol": "NEC1"
@@ -105,19 +105,19 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "device_address": "0",
                 "name": "BLANK",
                 "protocol": "NEC1"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "device_address": "0",
                 "name": "D.ZOOM+",
                 "protocol": "NEC1"
             },
             {
-                "address": "2d",
+                "address": "2D",
                 "device_address": "0",
                 "name": "D.ZOOM-",
                 "protocol": "NEC1"
@@ -132,6 +132,6 @@
     },
     "manufacturer": "BenQ",
     "model": "",
-    "name": "",
+    "name": "BenQ Projector",
     "target": "Projector"
 }

@@ -1,51 +1,51 @@
 {
-    "display_name": "Harman Kardon iPod",
+    "display_name": "iPod",
     "ir": {
         "commands": [
             {
-                "address": "f0",
+                "address": "F0",
                 "device_address": "2080000",
                 "name": "PLAY",
                 "protocol": "NEC1"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "device_address": "2080000",
                 "name": "PAUSE",
                 "protocol": "NEC2"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "device_address": "2080000",
                 "name": "REWIND",
                 "protocol": "NEC1"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "device_address": "2080000",
                 "name": "FAST FOWARD",
                 "protocol": "NEC2"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "device_address": "2080000",
                 "name": "MENU",
                 "protocol": "NEC2"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "device_address": "2080000",
                 "name": "SELECT",
                 "protocol": "NEC2"
             },
             {
-                "address": "f6",
+                "address": "F6",
                 "device_address": "2080000",
                 "name": "SCROLL FOWARD",
                 "protocol": "NEC2"
             },
             {
-                "address": "f7",
+                "address": "F7",
                 "device_address": "2080000",
                 "name": "SCROLL BACK",
                 "protocol": "NEC2"
@@ -54,6 +54,6 @@
     },
     "manufacturer": "Harman Kardon",
     "model": "",
-    "name": "",
+    "name": "Harman Kardon iPod",
     "target": "iPod"
 }

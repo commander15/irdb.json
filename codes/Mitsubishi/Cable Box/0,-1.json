@@ -1,5 +1,5 @@
 {
-    "display_name": "Mitsubishi Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -43,27 +43,27 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "POWER"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "CHANNEL +"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "CHANNEL -"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VOLUME +"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "VOLUME -"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "MUTE"
             },
             {
@@ -144,10 +144,10 @@
             }
         ],
         "device_address": "0",
-        "protocol": "G.I.Cable"
+        "protocol": "G.I.CABLE"
     },
     "manufacturer": "Mitsubishi",
     "model": "",
-    "name": "",
+    "name": "Mitsubishi Cable Box",
     "target": "Cable Box"
 }

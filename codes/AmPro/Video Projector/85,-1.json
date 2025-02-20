@@ -1,5 +1,5 @@
 {
-    "display_name": "AmPro Video Projector",
+    "display_name": "Video Projector",
     "ir": {
         "commands": [
             {
@@ -23,11 +23,11 @@
                 "name": "BLANK"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "<"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "^"
             },
             {
@@ -47,7 +47,7 @@
                 "name": "ADJUST"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": ">"
             }
         ],
@@ -56,6 +56,6 @@
     },
     "manufacturer": "AmPro",
     "model": "",
-    "name": "",
+    "name": "AmPro Video Projector",
     "target": "Video Projector"
 }

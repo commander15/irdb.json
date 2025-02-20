@@ -1,21 +1,21 @@
 {
-    "display_name": "Sony DV Cam",
+    "display_name": "DV Cam",
     "ir": {
         "commands": [
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "TELEPHOTO"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "WIDE ANGLE"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony15"
+        "protocol": "SONY15"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony DV Cam",
     "target": "DV Cam"
 }

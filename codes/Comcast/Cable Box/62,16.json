@@ -1,5 +1,5 @@
 {
-    "display_name": "Comcast Cable Box",
+    "display_name": "Cable Box",
     "ir": {
         "commands": [
             {
@@ -63,35 +63,35 @@
                 "name": "9"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VOLUME UP"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VOLUME DOWN"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "MUTE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHANNEL +"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CHAN UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHANNEL -"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CHAN DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "POWER"
             },
             {
@@ -139,7 +139,7 @@
                 "name": "PAGE DOWN"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "EXIT"
             },
             {
@@ -279,15 +279,15 @@
                 "name": "PIP SWAP"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "PIP MOVE"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PIP CHANNEL -"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "PIP CHAN+ -TEST TWK"
             },
             {
@@ -311,11 +311,11 @@
                 "name": "LANGUAGE"
             }
         ],
-        "device_address": "3e0000",
+        "device_address": "3E0000",
         "protocol": "XMP-1"
     },
     "manufacturer": "Comcast",
     "model": "",
-    "name": "",
+    "name": "Comcast Cable Box",
     "target": "Cable Box"
 }

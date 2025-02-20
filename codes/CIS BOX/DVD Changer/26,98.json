@@ -1,21 +1,21 @@
 {
-    "display_name": "CIS BOX DVD Changer",
+    "display_name": "DVD Changer",
     "ir": {
         "commands": [
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "DISK SKIP DOWN"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "DISK SKIP UP"
             }
         ],
         "device_address": "68",
-        "protocol": "Sony20"
+        "protocol": "SONY20"
     },
     "manufacturer": "CIS BOX",
     "model": "",
-    "name": "",
+    "name": "CIS BOX DVD Changer",
     "target": "DVD Changer"
 }

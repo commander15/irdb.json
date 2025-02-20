@@ -1,5 +1,5 @@
 {
-    "display_name": "JVC Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -47,15 +47,15 @@
                 "name": "TUNER PRESET+ (+ >)"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "FADE MUTING"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "VOLUME +"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "VOLUME -"
             },
             {
@@ -135,19 +135,19 @@
                 "name": "9"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "TUNER 10"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "10"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "TUNER +10"
             },
             {
-                "address": "2f",
+                "address": "2F",
                 "name": "+10"
             },
             {
@@ -155,27 +155,27 @@
                 "name": "SEA SOURCE"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "PHONO SELECT"
             },
             {
-                "address": "3c",
+                "address": "3C",
                 "name": "SOURCE SLCT PHONO"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "CD PLAY (AND SELECT)"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "SOURCE SLCT CD"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "TAPE1 PLAY (SELECT)"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "SOURCE SLCT TAPE1"
             },
             {
@@ -183,11 +183,11 @@
                 "name": "SURROUND MODE"
             },
             {
-                "address": "5e",
+                "address": "5E",
                 "name": "SURROUND VOL+"
             },
             {
-                "address": "5f",
+                "address": "5F",
                 "name": "SURROUND VOL-"
             }
         ],
@@ -196,6 +196,6 @@
     },
     "manufacturer": "JVC",
     "model": "",
-    "name": "",
+    "name": "JVC Tuner",
     "target": "Tuner"
 }

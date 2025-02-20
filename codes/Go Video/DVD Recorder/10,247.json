@@ -1,5 +1,5 @@
 {
-    "display_name": "Go Video DVD Recorder",
+    "display_name": "DVD Recorder",
     "ir": {
         "commands": [
             {
@@ -57,31 +57,31 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "a",
+                "address": "A",
                 "device_address": "5000000",
                 "name": "4",
                 "protocol": "NEC1"
             },
             {
-                "address": "b",
+                "address": "B",
                 "device_address": "5000000",
                 "name": "7",
                 "protocol": "NEC1"
             },
             {
-                "address": "d",
+                "address": "D",
                 "device_address": "5000000",
                 "name": "CHANNEL +",
                 "protocol": "NEC1"
             },
             {
-                "address": "e",
+                "address": "E",
                 "device_address": "5000000",
                 "name": "CHANNEL -",
                 "protocol": "NEC1"
             },
             {
-                "address": "f",
+                "address": "F",
                 "device_address": "5000000",
                 "name": "DISPLAY",
                 "protocol": "NEC1"
@@ -117,13 +117,13 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "device_address": "5000000",
                 "name": "INPUT",
                 "protocol": "NEC1"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "device_address": "5000000",
                 "name": "SCAN >>",
                 "protocol": "NEC1"
@@ -159,37 +159,37 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "device_address": "5000000",
                 "name": "CURSOR ENTER",
                 "protocol": "NEC1"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "device_address": "5000000",
                 "name": "CURSOR DOWN",
                 "protocol": "NEC1"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "device_address": "5000000",
                 "name": "SETUP",
                 "protocol": "NEC1"
             },
             {
-                "address": "4d",
+                "address": "4D",
                 "device_address": "5000000",
                 "name": "TITLE",
                 "protocol": "NEC1"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "device_address": "5000000",
                 "name": "CURSOR LEFT",
                 "protocol": "NEC1"
             },
             {
-                "address": "4f",
+                "address": "4F",
                 "device_address": "5000000",
                 "name": "GUIDER",
                 "protocol": "NEC1"
@@ -213,7 +213,7 @@
                 "protocol": "NEC1"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "device_address": "5000000",
                 "name": "SCAN <<",
                 "protocol": "NEC1"
@@ -222,6 +222,6 @@
     },
     "manufacturer": "Go Video",
     "model": "",
-    "name": "",
+    "name": "Go Video DVD Recorder",
     "target": "DVD Recorder"
 }

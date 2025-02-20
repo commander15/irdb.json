@@ -1,5 +1,5 @@
 {
-    "display_name": "Denon Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -7,11 +7,11 @@
                 "name": "VCR FFWD >> (SURR)"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VCR REW << (2)"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "VCR STOP [] (PARAMTR"
             },
             {
@@ -35,7 +35,7 @@
                 "name": "VCR CHAN ^ (T TONE)"
             },
             {
-                "address": "1a",
+                "address": "1A",
                 "name": "VCR PAUSE (SET +)"
             }
         ],
@@ -44,6 +44,6 @@
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon Receiver",
     "target": "Receiver"
 }

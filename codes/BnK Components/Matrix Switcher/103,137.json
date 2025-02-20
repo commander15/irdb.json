@@ -1,5 +1,5 @@
 {
-    "display_name": "BnK Components Matrix Switcher",
+    "display_name": "Matrix Switcher",
     "ir": {
         "commands": [
             {
@@ -35,15 +35,15 @@
                 "name": "IN 2"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "IN 7"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "IN 4"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "IN 5"
             },
             {
@@ -59,11 +59,11 @@
                 "name": ""
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "TUNE -"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "TUNE +"
             },
             {
@@ -119,43 +119,43 @@
                 "name": ""
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "8"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "9"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "0"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "IN 6"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": ""
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "D-IN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": ""
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "IN 9"
             }
         ],
-        "device_address": "ce00",
+        "device_address": "CE00",
         "protocol": "NEC2"
     },
     "manufacturer": "BnK Components",
     "model": "",
-    "name": "",
+    "name": "BnK Components Matrix Switcher",
     "target": "Matrix Switcher"
 }

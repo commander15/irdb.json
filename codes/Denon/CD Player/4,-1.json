@@ -1,41 +1,41 @@
 {
-    "display_name": "Denon CD Player",
+    "display_name": "CD Player",
     "ir": {
         "commands": [
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "REPEAT OFF"
             },
             {
-                "address": "fa",
+                "address": "FA",
                 "name": "MODE OFF"
             },
             {
-                "address": "fb",
+                "address": "FB",
                 "name": "CROSS FADE"
             },
             {
-                "address": "fc",
+                "address": "FC",
                 "name": "ALL DISCS"
             },
             {
-                "address": "fd",
+                "address": "FD",
                 "name": "1 DISC"
             },
             {
-                "address": "fe",
+                "address": "FE",
                 "name": "REPEAT 1"
             },
             {
-                "address": "ff",
+                "address": "FF",
                 "name": "BEST HIT"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon CD Player",
     "target": "CD Player"
 }

@@ -1,13 +1,13 @@
 {
-    "display_name": "LG DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "POWER ON"
             },
             {
-                "address": "f9",
+                "address": "F9",
                 "name": "POWER OFF"
             }
         ],
@@ -16,6 +16,6 @@
     },
     "manufacturer": "LG",
     "model": "",
-    "name": "",
+    "name": "LG DVD Player",
     "target": "DVD Player"
 }

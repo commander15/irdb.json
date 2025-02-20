@@ -1,13 +1,13 @@
 {
-    "display_name": "Toshiba Unknown_CT-90038",
+    "display_name": "Unknown_CT-90038",
     "ir": {
         "commands": [
             {
-                "address": "b",
+                "address": "B",
                 "name": "KEY_VIDEO"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "rgb"
             },
             {
@@ -23,15 +23,15 @@
                 "name": "KEY_ENTER"
             },
             {
-                "address": "1b",
+                "address": "1B",
                 "name": "KEY_MENU"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "reset"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "key"
             },
             {
@@ -63,11 +63,11 @@
                 "name": "KEY_KPMINUS"
             }
         ],
-        "device_address": "39c00",
+        "device_address": "39C00",
         "protocol": "NEC"
     },
     "manufacturer": "Toshiba",
     "model": "",
-    "name": "",
+    "name": "Toshiba Unknown_CT-90038",
     "target": "Unknown_CT-90038"
 }

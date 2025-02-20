@@ -1,5 +1,5 @@
 {
-    "display_name": "DirecTV Receiver HDDVR",
+    "display_name": "Receiver HDDVR",
     "ir": {
         "commands": [
             {
@@ -39,15 +39,15 @@
                 "name": "9"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "CH/PAGE UP"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "CH/PAGE DOWN"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "PREV"
             },
             {
@@ -107,11 +107,11 @@
                 "name": "ACTIVE"
             },
             {
-                "address": "2a",
+                "address": "2A",
                 "name": "LIST"
             },
             {
-                "address": "2e",
+                "address": "2E",
                 "name": "INFO"
             },
             {
@@ -163,7 +163,7 @@
                 "name": "BLUE"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "OFF"
             },
             {
@@ -172,10 +172,10 @@
             }
         ],
         "device_address": "-80000000",
-        "protocol": "DirecTV"
+        "protocol": "DIRECTV"
     },
     "manufacturer": "DirecTV",
     "model": "",
-    "name": "",
+    "name": "DirecTV Receiver HDDVR",
     "target": "Receiver HDDVR"
 }

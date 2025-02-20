@@ -1,13 +1,13 @@
 {
-    "display_name": "Kenwood Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
-                "address": "d",
+                "address": "D",
                 "name": "+10"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "TIME DISPLAY"
             },
             {
@@ -55,39 +55,39 @@
                 "name": "SLEEP"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "VOLUME -"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "VOLUME +"
             },
             {
-                "address": "9c",
+                "address": "9C",
                 "name": "MUTE"
             },
             {
-                "address": "9d",
+                "address": "9D",
                 "name": "POWER"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "P MODE"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "CLEAR / PTY"
             },
             {
-                "address": "cc",
+                "address": "CC",
                 "name": "REPEAT"
             }
         ],
-        "device_address": "b8",
+        "device_address": "B8",
         "protocol": "NEC1"
     },
     "manufacturer": "Kenwood",
     "model": "",
-    "name": "",
+    "name": "Kenwood Amplifier",
     "target": "Amplifier"
 }

@@ -1,5 +1,5 @@
 {
-    "display_name": "Micromega DVD Player",
+    "display_name": "DVD Player",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "9"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "POWER"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "OSD"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "SLOW MOTION -"
             },
             {
-                "address": "2c",
+                "address": "2C",
                 "name": "PLAY"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "EJECT"
             },
             {
-                "address": "4b",
+                "address": "4B",
                 "name": "SUBTITLE"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "AUDIO MODE"
             },
             {
@@ -95,15 +95,15 @@
                 "name": "CURSOR DOWN"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "CURSOR LEFT"
             },
             {
-                "address": "5b",
+                "address": "5B",
                 "name": "CURSOR RIGHT"
             },
             {
-                "address": "5c",
+                "address": "5C",
                 "name": "OK"
             },
             {
@@ -115,11 +115,11 @@
                 "name": "ANGLE"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "T-C"
             },
             {
-                "address": "d1",
+                "address": "D1",
                 "name": "MENU"
             }
         ],
@@ -128,6 +128,6 @@
     },
     "manufacturer": "Micromega",
     "model": "",
-    "name": "",
+    "name": "Micromega DVD Player",
     "target": "DVD Player"
 }

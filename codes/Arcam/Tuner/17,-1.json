@@ -1,5 +1,5 @@
 {
-    "display_name": "Arcam Tuner",
+    "display_name": "Tuner",
     "ir": {
         "commands": [
             {
@@ -51,11 +51,11 @@
                 "name": "PRESET/TUNE MODE"
             },
             {
-                "address": "6e",
+                "address": "6E",
                 "name": "PRESET 10"
             },
             {
-                "address": "6f",
+                "address": "6F",
                 "name": "PRESET 11"
             },
             {
@@ -84,6 +84,6 @@
     },
     "manufacturer": "Arcam",
     "model": "",
-    "name": "",
+    "name": "Arcam Tuner",
     "target": "Tuner"
 }

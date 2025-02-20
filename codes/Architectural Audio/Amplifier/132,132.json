@@ -1,5 +1,5 @@
 {
-    "display_name": "Architectural Audio Amplifier",
+    "display_name": "Amplifier",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "VOLUME -"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "VOLUME +"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "POWER ON"
             },
             {
-                "address": "1e",
+                "address": "1E",
                 "name": "POWER OFF"
             }
         ],
@@ -24,6 +24,6 @@
     },
     "manufacturer": "Architectural Audio",
     "model": "",
-    "name": "",
+    "name": "Architectural Audio Amplifier",
     "target": "Amplifier"
 }

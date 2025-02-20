@@ -1,141 +1,141 @@
 {
-    "display_name": "Denon DAT",
+    "display_name": "DAT",
     "ir": {
         "commands": [
             {
-                "address": "c1",
+                "address": "C1",
                 "name": "0"
             },
             {
-                "address": "c2",
+                "address": "C2",
                 "name": "1"
             },
             {
-                "address": "c3",
+                "address": "C3",
                 "name": "2"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "3"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "4"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "5"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "6"
             },
             {
-                "address": "c8",
+                "address": "C8",
                 "name": "7"
             },
             {
-                "address": "c9",
+                "address": "C9",
                 "name": "8"
             },
             {
-                "address": "ca",
+                "address": "CA",
                 "name": "9"
             },
             {
-                "address": "d0",
+                "address": "D0",
                 "name": "OPEN/CLOSE"
             },
             {
-                "address": "d4",
+                "address": "D4",
                 "name": "REPEAT"
             },
             {
-                "address": "d8",
+                "address": "D8",
                 "name": "SRCH >>"
             },
             {
-                "address": "d9",
+                "address": "D9",
                 "name": "SRCH <<"
             },
             {
-                "address": "da",
+                "address": "DA",
                 "name": "FF >>"
             },
             {
-                "address": "db",
+                "address": "DB",
                 "name": "REW <<"
             },
             {
-                "address": "dc",
+                "address": "DC",
                 "name": "PLAY >"
             },
             {
-                "address": "dd",
+                "address": "DD",
                 "name": "PAUSE "
             },
             {
-                "address": "de",
+                "address": "DE",
                 "name": "STOP []"
             },
             {
-                "address": "df",
+                "address": "DF",
                 "name": "REC/MUTE"
             },
             {
-                "address": "e1",
+                "address": "E1",
                 "name": "MODE COUNTER"
             },
             {
-                "address": "e2",
+                "address": "E2",
                 "name": "RESET COUNTER"
             },
             {
-                "address": "e7",
+                "address": "E7",
                 "name": "RENUMBER"
             },
             {
-                "address": "ea",
+                "address": "EA",
                 "name": "END"
             },
             {
-                "address": "eb",
+                "address": "EB",
                 "name": "ID MODE"
             },
             {
-                "address": "ec",
+                "address": "EC",
                 "name": "WRITE"
             },
             {
-                "address": "ed",
+                "address": "ED",
                 "name": "ERASE"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "DIGITAL FADE IN"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "DIGITAL FADE OUT"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "name": "FINE CUE <"
             },
             {
-                "address": "f4",
+                "address": "F4",
                 "name": "FINE CUE >"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "DISPLAY"
             }
         ],
         "device_address": "0",
-        "protocol": "Denon"
+        "protocol": "DENON"
     },
     "manufacturer": "Denon",
     "model": "",
-    "name": "",
+    "name": "Denon DAT",
     "target": "DAT"
 }

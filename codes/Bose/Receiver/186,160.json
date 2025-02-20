@@ -1,5 +1,5 @@
 {
-    "display_name": "Bose Receiver",
+    "display_name": "Receiver",
     "ir": {
         "commands": [
             {
@@ -15,15 +15,15 @@
                 "name": "VOLUME +"
             },
             {
-                "address": "4c",
+                "address": "4C",
                 "name": "POWER"
             }
         ],
-        "device_address": "ba",
-        "protocol": "Pioneer"
+        "device_address": "BA",
+        "protocol": "PIONEER"
     },
     "manufacturer": "Bose",
     "model": "",
-    "name": "",
+    "name": "Bose Receiver",
     "target": "Receiver"
 }

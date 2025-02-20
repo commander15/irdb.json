@@ -1,5 +1,5 @@
 {
-    "display_name": "Sony Unknown_RM-687C",
+    "display_name": "Unknown_RM-687C",
     "ir": {
         "commands": [
             {
@@ -43,11 +43,11 @@
                 "name": "KEY_0"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "KEY_1-"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "KEY_2-"
             },
             {
@@ -87,7 +87,7 @@
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "3a",
+                "address": "3A",
                 "name": "display"
             },
             {
@@ -99,15 +99,15 @@
                 "name": "KEY_KPMINUS"
             },
             {
-                "address": "7c",
+                "address": "7C",
                 "name": "KEY_SELECT"
             }
         ],
         "device_address": "-80000000",
-        "protocol": "Sony12"
+        "protocol": "SONY12"
     },
     "manufacturer": "Sony",
     "model": "",
-    "name": "",
+    "name": "Sony Unknown_RM-687C",
     "target": "Unknown_RM-687C"
 }

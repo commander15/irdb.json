@@ -1,5 +1,5 @@
 {
-    "display_name": "NEC VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -35,31 +35,31 @@
                 "name": "POWER"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "VIDEO/TV"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "FF/SRCH >>"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "REW/SRCH <<"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "PAUSE/STILL "
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "EJECT"
             },
             {
-                "address": "1c",
+                "address": "1C",
                 "name": "X2"
             },
             {
-                "address": "1d",
+                "address": "1D",
                 "name": "SLOW"
             }
         ],
@@ -68,6 +68,6 @@
     },
     "manufacturer": "NEC",
     "model": "",
-    "name": "",
+    "name": "NEC VCR",
     "target": "VCR"
 }

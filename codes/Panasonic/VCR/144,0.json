@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic VCR",
+    "display_name": "VCR",
     "ir": {
         "commands": [
             {
@@ -51,27 +51,27 @@
                 "name": "RECORD"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "PLAY/UP ARROW"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "STILL ADV"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SEARCH"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "SLOW MOTION +"
             },
             {
@@ -155,15 +155,15 @@
                 "name": "DISPLAY"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "POWER"
             },
             {
-                "address": "3e",
+                "address": "3E",
                 "name": "POWER ON"
             },
             {
-                "address": "3f",
+                "address": "3F",
                 "name": "POWER OFF"
             },
             {
@@ -179,7 +179,7 @@
                 "name": "INDEX <<"
             },
             {
-                "address": "4a",
+                "address": "4A",
                 "name": "INDEX >>"
             },
             {
@@ -187,43 +187,43 @@
                 "name": "COUNTER RESET"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "FRAME >>"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "FRAME <<"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "INPUT SELECT"
             },
             {
-                "address": "c0",
+                "address": "C0",
                 "name": "INPUT"
             },
             {
-                "address": "e5",
+                "address": "E5",
                 "name": "100"
             },
             {
-                "address": "e6",
+                "address": "E6",
                 "name": "SAP/HI-FI"
             },
             {
-                "address": "f5",
+                "address": "F5",
                 "name": "ZERO/C/A SKIP"
             },
             {
-                "address": "f8",
+                "address": "F8",
                 "name": "C/A SKIP"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic VCR",
     "target": "VCR"
 }

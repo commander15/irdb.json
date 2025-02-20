@@ -1,5 +1,5 @@
 {
-    "display_name": "Panasonic Unknown_NV-F65",
+    "display_name": "Unknown_NV-F65",
     "ir": {
         "commands": [
             {
@@ -11,19 +11,19 @@
                 "name": "pause_still"
             },
             {
-                "address": "a",
+                "address": "A",
                 "name": "KEY_PLAY"
             },
             {
-                "address": "b",
+                "address": "B",
                 "name": "rev.play"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "still_adv"
             },
             {
-                "address": "f",
+                "address": "F",
                 "name": "KEY_SEARCH"
             },
             {
@@ -71,11 +71,11 @@
                 "name": "KEY_AUDIO"
             },
             {
-                "address": "3b",
+                "address": "3B",
                 "name": "+/--"
             },
             {
-                "address": "3d",
+                "address": "3D",
                 "name": "vtr"
             },
             {
@@ -95,11 +95,11 @@
                 "name": "KEY_TIME"
             },
             {
-                "address": "8e",
+                "address": "8E",
                 "name": "KEY_KPPLUS"
             },
             {
-                "address": "8f",
+                "address": "8F",
                 "name": "KEY_KPMINUS"
             },
             {
@@ -107,27 +107,27 @@
                 "name": "monitor"
             },
             {
-                "address": "f0",
+                "address": "F0",
                 "name": "KEY_AGAIN"
             },
             {
-                "address": "f1",
+                "address": "F1",
                 "name": "memory"
             },
             {
-                "address": "f2",
+                "address": "F2",
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "f3",
+                "address": "F3",
                 "name": "KEY_REWIND"
             }
         ],
         "device_address": "90",
-        "protocol": "Panasonic"
+        "protocol": "PANASONIC"
     },
     "manufacturer": "Panasonic",
     "model": "",
-    "name": "",
+    "name": "Panasonic Unknown_NV-F65",
     "target": "Unknown_NV-F65"
 }

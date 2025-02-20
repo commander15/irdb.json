@@ -1,5 +1,5 @@
 {
-    "display_name": "Aiwa Unknown_RC-L01",
+    "display_name": "Unknown_RC-L01",
     "ir": {
         "commands": [
             {
@@ -7,15 +7,15 @@
                 "name": "KEY_POWER"
             },
             {
-                "address": "c",
+                "address": "C",
                 "name": "KEY_TAPE"
             },
             {
-                "address": "d",
+                "address": "D",
                 "name": "KEY_TUNER"
             },
             {
-                "address": "e",
+                "address": "E",
                 "name": "KEY_CD"
             },
             {
@@ -55,7 +55,7 @@
                 "name": "tape_pause"
             },
             {
-                "address": "1f",
+                "address": "1F",
                 "name": "KEY_MODE"
             },
             {
@@ -63,7 +63,7 @@
                 "name": "KEY_SLEEP"
             },
             {
-                "address": "4e",
+                "address": "4E",
                 "name": "tunermode"
             },
             {
@@ -79,11 +79,11 @@
                 "name": "KEY_CANCEL"
             },
             {
-                "address": "5a",
+                "address": "5A",
                 "name": "t-standby"
             },
             {
-                "address": "5d",
+                "address": "5D",
                 "name": "KEY_AUX"
             },
             {
@@ -127,43 +127,43 @@
                 "name": "KEY_9"
             },
             {
-                "address": "9a",
+                "address": "9A",
                 "name": "KEY_0"
             },
             {
-                "address": "9b",
+                "address": "9B",
                 "name": "KEY_10CHANNELSUP"
             },
             {
-                "address": "c4",
+                "address": "C4",
                 "name": "KEY_PLAY"
             },
             {
-                "address": "c5",
+                "address": "C5",
                 "name": "KEY_STOP"
             },
             {
-                "address": "c6",
+                "address": "C6",
                 "name": "KEY_NEXT"
             },
             {
-                "address": "c7",
+                "address": "C7",
                 "name": "KEY_PREVIOUS"
             },
             {
-                "address": "cd",
+                "address": "CD",
                 "name": "dimmer"
             },
             {
-                "address": "cf",
+                "address": "CF",
                 "name": "tray"
             }
         ],
         "device_address": "70",
-        "protocol": "Aiwa"
+        "protocol": "AIWA"
     },
     "manufacturer": "Aiwa",
     "model": "",
-    "name": "",
+    "name": "Aiwa Unknown_RC-L01",
     "target": "Unknown_RC-L01"
 }
